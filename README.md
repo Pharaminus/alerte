@@ -15,6 +15,7 @@ Status: knowledge base and scenarios done; drill engine, agents, SHA-256 ledger 
 pip install -r requirements.txt
 bash scripts/build_kb.sh            # rebuild the knowledge base (PDFs listed in knowledge/manifest.csv)
 python -m alerte.scenario.validate  # check scenarios: 0 errors
+python -m alerte.web                # test interface on http://localhost:8000
 ```
 
 All scenarios are fictional. Source PDFs are not redistributed; links are in the manifest. Licence: MIT.
