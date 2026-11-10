@@ -1,0 +1,5 @@
+.venv/
+__pycache__/
+knowledge/docs/
+knowledge/index/
+knowledge/A_TELECHARGER.html

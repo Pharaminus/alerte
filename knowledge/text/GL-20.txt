@@ -1,0 +1,845 @@
+[[page 1]]
+الهيئة السعودية للمواصفات والمقاييس والجودة 
+Saudi Standards, Metrology and Quality Org. (SASO)
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+المتطلبات ألجهزة االتصاالت وتقنية المعلومات المحددة 
+Requirements for Specific ICT Equipment 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ICS: 33.070.50
+
+[[page 2]]
+1 
+ 
+Requirements for Specific ICT Equipment 
+ 
+FOREWORD 
+ 
+The Saudi Standards, Metrology and Quality Organization (SASO) and 
+Communications, Space and Technology Commission have prepared the Saudi 
+Standard SASO ----:2025 “Requirements for Specific ICT Equipment” based on 
+relevant International and National foreign Standards and references with national 
+modifications applied to suit the conditions in the Kingdom of Saudi Arabia. 
+ 
+This standard after approval will replace and supersede SASO-CITC-GEN002 
+“Requirements for Specific ICT Equipment”.
+
+[[page 3]]
+2 
+ 
+CONTENTS 
+FOREWORD ......................................................................................................................... 1 
+1.0 
+SCOPE AND OBJECT .............................................................................................. 3 
+1.1 
+REQUIREMENTS FOR USE AND TESTING ......................................................... 3 
+2.0 
+NORMATIVE REFERENCES .................................................................................. 4 
+3.0 
+DEFINITIONS ........................................................................................................... 5 
+4.0 
+E-LABEL REQUIREMENTS .................................................................................... 6 
+5.0 
+REQUIREMENTS FOR MOBILE PHONES ............................................................ 7 
+6.0 
+REQUIRMENTS FOR TABLETS AND MOBILE COMPUTERS ......................... 8 
+7.0 
+REQUIREMENTS FOR MOBILE ROUTERS AND CPE ....................................... 9 
+8.0 
+REQUIREMENTS FOR OTHER CELLULAR-ENABLED DEVICES .................. 9 
+9.0 
+REQUIRMENTS FOR ONT/HAG DEVICES ........................................................ 10 
+10.0 REQUIREMENTS FOR WI-FI DISTRIBUTION DEVICES ................................. 11 
+Annex (A) Technical Requirements on Mobile Devices to Enable Cell Broadcast Service 
+(CBS) Alert........................................................................................................ 12
+
+[[page 4]]
+3 
+ 
+Requirements for Specific ICT Equipment 
+ 
+ 
+1.0 SCOPE AND OBJECT 
+ 
+ 
+This document specifies the minimum requirements for the following product 
+categories: 
+1.0.1 
+Mobile Phones 
+1.0.2 
+Tablets and Mobile Computers 
+1.0.3 
+Routers and Customer Premises Equipment (CPE) 
+1.0.4 
+Other Cellular-enabled Devices 
+1.0.5 
+ONT (Optical Network Terminal) and HAG (Home Access Gateway), intended 
+to be used either for carrier-owned or open-access network 
+1.0.6 
+Wi-Fi Distribution devices
+
+[[page 5]]
+4 
+ 
+1.1 REQUIREMENTS FOR USE AND TESTING 
+Device shall be supported with operating system upgrades for at least 5 years 
+after the device placement in the market, to benefit from performance 
+improvements and security fixes. 
+Regular firmware updates shall address vulnerabilities and enhance device 
+functionality. 
+Device shall implement robust security measures and features to protect against 
+cyber threats and unauthorized access, such as adopting unique per-device 
+authentications and credentials. 
+Each interface shall comply with all applicable technical standards that resides 
+within the scope of its functionalities and use. 
+Device shall acquire confirmations for successful testing and requirements 
+fulfillment of the device with the networks of Saudi mobile network operators. 
+Device shall ensure compatibility with Saudi mobile networks; testing shall be 
+performed and declaration shall be provided of major software update and receive 
+acceptance from all Saudi mobile network operators before deploying major 
+software updates on their devices. 
+ 
+2.0 NORMATIVE REFERENCES 
+The following referenced documents are indispensable for the application of this 
+SASO Standard. 
+For dated references, only the edition cited applies. For undated references, the 
+latest edition of the referenced document (including any amendments) applies. 
+2.1 
+EN 301 511 Global system for mobile communications (GSM); Harmonised 
+standard for mobile stations in the GSM 900 and GSM 1800 bands covering 
+essential requirements under Article 3(2) of the R&TTE directive. 
+2.2 
+EN 300 328, Wideband transmission systems; Data transmission equipment 
+operating in the 2,4 GHz band; Harmonised Standard for access to radio 
+spectrum. 
+2.3 
+EN 301 893, 5 GHz RLAN; Harmonised Standard covering the essential 
+requirements of article 3.2 of Directive 2014/53/EU. 
+2.4 
+TR 101 375, Security Algorithms Group of Experts (SAGE); Reports on the 
+specification, evaluation and usage of the GSM GPRS Encryption Algorithm 
+(GEA). 
+2.5 
+EN 301 908-1, Electromagnetic compatibility and Radio spectrum Matters 
+(ERM); Base Stations (BS) and User Equipment (UE) for IMT-2000 ThirdGeneration cellular networks; Part 1: Harmonized EN for IMT-2000, 
+introduction and common requirements, covering essential requirements of 
+article 3.2 of the R&TTE directive. 
+2.6 
+EN 301 908-13, IMT cellular networks; Harmonised EN covering the essential 
+requirements of article 3.2 of the R&TTE Directive; Part 13: Evolved 
+Universal Terrestrial Radio Access (E-UTRA) User Equipment (UE).
+
+[[page 6]]
+5 
+ 
+2.7 
+EN 301 908-25, IMT cellular networks; Harmonised Standard for access to 
+radio spectrum; Part 25: New Radio (NR) User Equipment (UE) 
+2.8 
+RSS-199, Broadband Radio Service (BRS) Equipment Operating in the Band 
+2500–2690 MHz. 
+2.9 
+ITU-T G.9807, 10-Gigabit-capable symmetric passive optical network (XGSPON). 
+2.10 
+EN 300 330, Short Range Devices (SRD); Radio equipment in the frequency 
+range 9 kHz to 25 MHz and inductive loop systems in the frequency range 9 
+kHz to 30 MHz; Harmonised Standard covering the essential requirements of 
+article 3.2 of Directive 2014/53/EU. 
+2.11 
+EN 303 413, Satellite Earth Stations and Systems (SES); Global Navigation 
+Satellite System (GNSS) receivers; Radio equipment operating in the 1 164 
+MHz to 1300 MHz and 1559 MHz to 1610 MHz frequency bands; 
+Harmonised Standard covering the essential requirements of article 3.2 of 
+Directive 2014/53/EU 
+2.12 
+ETSI TR 103 393, Emergency Communications (EMTEL); Advanced Mobile 
+Location for emergency calls. 
+2.13 
+ETSI TS 123 041, Digital cellular telecommunications system (Phase 2+) 
+(GSM); Universal Mobile Telecommunications System (UMTS); LTE; 5G; 
+Technical realization of Cell Broadcast Service (CBS). 
+ 
+ 
+3.0 DEFINITIONS: 
+ Throughout this standard, the definitions of normative reference apply, in addition 
+to the following definitions: 
+3.1 
+Cellular Customer Premises Equipment (Cellular CPE) 
+A generalized equipment set providing connectivity between a Cellular base 
+station (BS) and a subscriber premise. 
+3.2 
+Optical Network Terminal (ONT) 
+A device installed at a customer’s premises that acts as the endpoint of a fiberoptic network and acts to convert the optical signals transmitted through fiber 
+optics into electrical signals. 
+3.3 
+Home Access Gateway (HAG) 
+A device that manages and distributes connectivity and services within the home 
+network and acts as the premise’s primary access device (a router with possible 
+added functionality). 
+3.4 
+Other Cellular-enabled Devices 
+An electronic device that connects to a network using standardized cellular 
+technologies (such as 2G, 3G, 4G, 5G, NB-IoT, and LTE-M) which has an 
+application or function dependent on data transmission over a cellular network 
+excluding cellular devices defined in this standard’s scope like smartphones, 
+tablets, or mobile computers, the definition includes, but not limited to, devices 
+like Cellular Gateways, industrial routers, smart watches, Point-of-Sale (POS), 
+Tracking Devices and any other cellular devices not listed in the definitions.
+
+[[page 7]]
+6 
+ 
+3.5 
+Wi-Fi Distribution Device 
+A device intended for ensuring reliable and high-quality Wi-Fi connectivity 
+across spaces to address signal limitations, the definition includes, but not limited 
+to, devices like Wi-Fi Mesh Systems, Wi-Fi Repeaters, Wi-Fi Adapters, Wi-Fi 
+Range Extenders, Powerline Wi-Fi Extenders, Wi-Fi Access Points. 
+3.6 
+Smart Phones 
+a mobile phone that performs functions of a computer, such as data storage, 
+capability to run downloadable applications, and access to Internet-based 
+services with computer-like functions. 
+3.7 
+Smart Watches 
+a wearable computing device resembling a wristwatch, which integrates an 
+information processing system and supports connectivity, typically with mobile 
+apps and wireless communication features. 
+3.8 
+Major Software Update 
+Any update made to the operating system of the device that changes the technical 
+specifications and the connectivity features of the device or any other technical 
+requirements, thus affecting the technical performance of the device and its 
+connection with the infrastructure of communications and information 
+technology networks for service providers, such as enabling, or modifying of 
+current or new frequencies, transmission modes, or connectivity services. 
+3.9 
+Passive Optical Network Optical Line Terminal (PON OLT) 
+A device that serves as the service provider's endpoint of a passive optical 
+network, it provides conversion between the electrical signals used by the service 
+provider's equipment and the fiber optic signals used by the passive optical 
+network, and it coordinates multiplexing between the conversion devices on the 
+other end of that network. 
+ 
+4.0 E-LABEL REQUIREMENTS 
+4.1 
+The following product categories shall have E-Label of Communications, Space 
+and Technology Commission (CST) embedded in their software as a proof of 
+compliance: 
+ 
+a) Mobile phones 
+ 
+b) Smart watches 
+ 
+c) Tablets and Mobile Computers 
+4.2 
+E-Label shall be accessible and displayed to the users of the devices as per the 
+design shown in figure (1). 
+4.3 
+The issued Certificate of Conformity number (TA xxxx-y) must be inserted in 
+the E-Label as shown in figure (1)
+
+[[page 8]]
+7 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure (1) - CST E-Label 
+ 
+5.0 REQUIREMENTS FOR MOBILE PHONES 
+5.1 
+Mobile phones* shall support the technologies and features listed in table (1) 
+ 
+Table (1) 
+Technology and features requirements for Mobile Phones 
+Category 
+Requirements 
+Long Term Evolution (LTE) 
+4G Cellular Network 
+connection 
+ To support the following frequencies (B1, B3, B8, 
+B20, B28, B40 and B41) 
+ VoLTE (Voice over LTE), enabled by default 
+ VoLTE roaming 
+New Radio (NR) 5G Cellular 
+Network connection 
+ 5G Standalone (5G SA) 
+ 5G Carrier Aggregation of 2CC (Carrier 
+Components) 
+ To support the following frequencies (n1, n3, n8, 
+n20, n28, n40, n41, n71, n77 and n78) 
+ 5G Modulation of 256 QAM in DL/UL 
+ 5G MIMO 4x4 
+ VoNR (Voice over NR) 
+ 
+Other Technologies and 
+features 
+ Wi-Fi 7 (IEEE 802.11 be) for each supported band 
+ Wi-Fi Triple-band support (2.4 GHz, 5 GHz and 
+6GHz (5.925 – 7.125) bands)** 
+ VoWiFi (Voice over WiFi) 
+ NFC 
+ IPv4/IPv6 with dual-stack enabled by default 
+ GNSS: GPS/GLONASS/Galileo/BeiDou 
+ XCAP and USSD over IMS 
+ Network Slicing support 
+ SMSoIP 
+ Calling Name Presentation Feature (CNAP) 
+ 
+ 
+ 
+(Certificate number starts with TA) 
+Kingdom of Saudi Arabia
+
+[[page 9]]
+8 
+ 
+*Note 1: For non-smart phones, compliance with 5.1 requires to support only 
+LTE frequencies ((B1, B3, B8, B20 and B28), NR frequencies (n1, n3, n8, n20, 
+n28 and n71), VoLTE, VoNR, CNAP, XCAP and USSD over IMS 
+**Note 2: To support 6 GHz (5.925 – 7.125) Wi-Fi, mobile phones shall comply 
+with power limits and bandwidth for both LPI (Low-Power Indoor) and SP 
+(Standard Power) Client devices as per relative standards and national spectrum 
+regulation 
+ 
+5.5 
+Emergency Communications Services Requirements 
+5.5.1 
+Mobile phones shall support the Advanced Mobile Location (AML) 
+emergency communication service and testing shall be carried out to ensure 
+compliance with ETSI TR 103 393. 
+5.5.1 
+Mobile phones shall support the Cell Broadcast Service (CBS) to enable cell 
+broadcast service (CBS) alert as illustrated in Annex (A). 
+ 
+6.0 REQUIREMENTS FOR TABLETS AND MOBILE COMPUTERS 
+6.1 
+Tablets and Mobile Computers* shall support the technologies and features 
+listed in table (2) 
+Table (2) 
+Technology and features requirements for Tablets and Mobile Computers 
+Category 
+Requirements 
+Cellular Network 
+connection 
+ 4G Long Term Evolution (LTE) 
+ 5G Standalone (5G SA) 
+ 5G 
+Carrier 
+Aggregation 
+of 
+2CC 
+(Carrier 
+Components) 
+ To support the following 5G frequencies (n1, n3, n8, 
+n20, n28, n40, n41, n71, n77 and n78) 
+Other Technologies and 
+features 
+ Wi-Fi 7 (IEEE 802.11 be) for each supported band 
+ Wi-Fi Dual-band support (2.4 GHz and 5 GHz bands) 
+ IPv4/IPv6 with dual-stack enabled by default 
+ If supported, GNSS: 
+GPS/GLONASS/Galileo/BeiDou 
+ 
+*Note 1: For Tablets and Mobile Computers that do not have a cellular 
+connection, compliance with 6.1 requires to meet only the requirements in the 
+category (Other Technologies and features)
+
+[[page 10]]
+9 
+ 
+7.0 REQUIREMENTS FOR MOBILE ROUTERS AND CELLULAR CPE 
+7.1 
+Mobile Routers and CPEs shall support the technologies and features listed in 
+table (3) 
+Table (3) 
+Technology and features requirements for Mobile Routers and Cellular CPE 
+Category 
+Requirements 
+Cellular Network 
+connection 
+ 4G Long Term Evolution (LTE) 
+ 5G Standalone (5G SA) 
+ 5G 
+Carrier 
+Aggregation 
+of 
+2CC 
+(Carrier 
+Components) 
+ To support the following 5G frequencies (n1, n3, n8, 
+n20, n28, n40, n41, n71, n77 and n78) 
+ 5G Modulation of 256 QAM in DL/UL 
+ 5G MIMO 4x4 
+Wi-Fi Connectivity 
+ Wi-Fi 7 (IEEE 802.11 be) for each supported band 
+ Wi-Fi Dual-band support (2.4 GHz and 5 GHz bands) 
+ 4 x 4 MIMO (2.4Ghz, 5Ghz). 
+ UL\DL MU-MIMO 
+CPU 
+2 GHz Quad-core 
+SDRAM 
+512 MB 
+Other Technologies and 
+features 
+ IPv4/IPv6 with dual-stack enabled by default 
+ 1× 2.5GE (RJ-45) Port 
+ 1×1GE (RJ-45) port with auto-negotiation for 
+10/100/1000 Mbps. 
+ 
+8.0 REQUIREMENTS FOR OTHER CELLULAR-ENABLED DEVICES 
+8.1 
+Other Cellular-enabled Devices shall meet and comply with all the requirements 
+and conditions of the national regulations related to the Internet of Things (IoT). 
+8.2 
+Other Cellular-enabled Devices shall support the technologies and features listed 
+in table (4). 
+Table (4) 
+Technology and features requirements for Other Cellular-enabled Devices 
+Category 
+Requirements 
+New Radio (NR) 5G Cellular Network 
+connection 
+ 5G Standalone (5G SA) 
+ To support the following frequencies (n1, 
+n3, n8, n20, n28) 
+Other Technologies and features 
+ IPv4/IPv6 with dual-stack enabled by 
+default
+
+[[page 11]]
+10 
+ 
+9.0 REQUIREMENTS FOR ONT/HAG DEVICES 
+9.1 
+ONT/HAG Devices shall achieve compatibility with existing PON OLTs, 
+network management systems, and other fiber-connected equipment such as 
+mesh Wi-Fi and similar devices. 
+9.2 
+Detailed requirements and instructions shall be defined for easy installation and 
+configuration. 
+9.3 
+ONT/HAG Devices shall support advanced features such as remote management, 
+diagnostics, and user-friendly interfaces. 
+9.4 
+ONT/HAG Devices* shall support the technologies and features listed in table 
+(5). 
+Table (5) 
+Technology and features requirements for ONT/HAG Devices 
+Category 
+Requirements 
+PON Interface 
+PON (Passive Optical Network) interface shall meet the 
+required standards XGSPON (ITU-T G.9807). 
+Wi-Fi Connectivity 
+ Wi-Fi 7 (IEEE 802.11 be) for each supported band 
+ Wi-Fi Dual-band support (2.4 GHz and 5 GHz) 
+ 4 x 4 MIMO (2.4Ghz, 5Ghz) 
+ UL\DL MU-MIMO 
+ Modulation of 4096 QAM 
+ Band steering 
+ Multi-Link Operation (MLO) 
+ Beamforming 
+Ethernet Ports 
+ 4×1GE (RJ-45) port with auto-negotiation for 
+10/100/1000 Mbps. 
+ 1×10GE (RJ-45) port with auto-negotiation. 
+ RJ-11 port supporting SIP and H.248 protocols for 
+Voice-over-IP (VoIP) capabilities. 
+Other Technologies and 
+features 
+ The device shall be manageable remotely via 
+protocols: TR-069, TR-369, and it has to be through 
+encrypted and authenticated channels. 
+ IPv4/IPv6 with dual-stack enabled by default 
+ DNSsec 
+(Domain 
+Name 
+System 
+Security 
+Extensions) 
+ 
+*Note 1: For ONT-only devices, compliance with 9.4 requires to support only 
+the standard XGSPON (ITU-T G.9807) for its PON (Passive Optical Network) 
+interface and 1×10GE (RJ-45) port.
+
+[[page 12]]
+11 
+ 
+10.0 REQUIREMENTS FOR WI-FI DISTRIBUTION DEVICES 
+10.1 
+Wi-Fi Distribution devices shall support the technologies and features listed in 
+table (6) 
+Table (6) 
+Technology and features requirements for Wi-Fi Distribution devices 
+Category 
+Requirements 
+Wi-Fi Connectivity 
+ Wi-Fi 7 (IEEE 802.11 be) for each supported band 
+ Wi-Fi Dual-band support (2.4 GHz and 5 GHz 
+bands) 
+ 4 x 4 MIMO (2.4Ghz, 5Ghz). 
+ UL\DL MU-MIMO 
+ Modulation of 4096 QAM 
+ Band steering 
+ Multi-Link Operation (MLO) 
+ Beamforming 
+Other Technologies and 
+features 
+ IPv4/IPv6 with dual-stack enabled by default 
+ If supported, 1×1GE Ethernet port (RJ-45) with 
+auto-negotiation for 10/100/1000 Mbps.
+
+[[page 13]]
+12 
+ 
+Annex A 
+Technical Requirements on Mobile Devices to Enable Cell Broadcast Service (CBS) 
+Alert 
+ 
+A.1 
+Mobile devices shall be enabled to receive all classifications of alerts. 
+A.2 
+The alert message shall not support any features related to forwarding, 
+copying, or replying to the message. 
+A.3 
+The message shall support adding a phone number or a URL link. 
+A.4 
+Mobile phone shall support displaying or deleting the previous alert message 
+if requested by the user. 
+A.5 
+Mobile phone shall enable receiving synchronized alert messages. 
+A.6 
+Mobile phone shall include features that help people with special needs such 
+as converting text to speech or flashing light. 
+A.7 
+Mobile phone shall support giving the priority to the Cell Broadcast Alert 
+Messages over all functions of the mobile phone, including voice calls and 
+SMS. 
+A.8 
+The alert message shall support both Arabic and English, where the primary 
+language being Arabic and secondary language is English. 
+A.9 
+Distribution of the channels shall be according to the Commercial Mobile 
+Alert System (CMAS) as Table (A.1). 
+A.10 
+Mobile phone shall Adopt the behaviors and settings as per Table (A.2) 
+ 
+Table (A.1) 
+Distribution of channels 
+Primary 
+Channel 
+ 
+Primary 
+Language 
+Secondary 
+Channel 
+ 
+Secondary 
+Language 
+Alert Settings 
+Title 
+(Classification) 
+Alert 
+Alerts 
+Level 
+Severity 
+Level 
+Urgency 
+Response 
+Level 
+Certainty 
+Level 
+4370 
+4383 
+ "الرسائل التحذيرية
+"الوطنية 
+“National 
+Warning 
+Alerts” 
+(Category 1) 
+This Warning Alert on National Level 
+4371 
+4384 
+ "الرسائل
+ التحذيرية الطارئة
+"جدا 
+“Extreme 
+Emergency 
+Extreme Extreme Immediate 
+Observed 
+4372 
+4385 
+Extreme Extreme Immediate 
+Likely
+
+[[page 14]]
+13 
+ 
+Warning 
+Alerts” 
+(Category 2) 
+4373 
+4386 
+ "الرسائل
+"التحذيرية الطارئة 
+“Emergency 
+Warning 
+Alerts” 
+(Category 3) 
+Severe 
+Extreme 
+Expected 
+Observed 
+4374 
+4387 
+Severe 
+Extreme 
+Expected 
+Likely 
+4375 
+4388 
+Severe 
+Severe 
+Immediate 
+Observed 
+4376 
+4389 
+Severe 
+Severe 
+Immediate 
+Likely 
+4377 
+4390 
+Severe 
+Severe 
+Expected 
+Observed 
+4378 
+4391 
+Severe 
+Severe 
+Expected 
+Likely 
+4379 
+4392 
+ "الرسائل
+"التحذيرية 
+“Alerts” 
+(Category 4) 
+Security Alerts 
+4380 
+4393 
+ "الرسائل
+"التجريبية 
+“Testing 
+Alerts” 
+(Category 5) 
+Monthly Test 
+4381 
+4394 
+""تمارين 
+“Exercises” 
+(Category 6) 
+Exercises 
+ 
+Table (A.2) 
+Mobile phone behaviors and settings 
+Primary 
+Channel 
+ 
+Primary 
+Language 
+Secondary 
+Channel 
+ 
+Secondary 
+Language 
+Alert 
+Classification 
+Mobile Phone Behavior 
+Mode 
+Sound Vibration Ringtone Duration 
+(seconds) 
+Acknowledgement 
+Settings 
+4370 
+4383 
+Category 1 
+The alert is 
+activated 
+even in 
+silent mode 
+Audible 
+Signal 
+Yes 
+Default 
+With a 
+minimum 
+of 10.5 
+seconds 
+and a 
+maximum 
+of 32.5 
+seconds 
+Stopping the 
+alert requires 
+the recipient’s 
+acknowledgeme
+nt 
+Mandatory 
+Activation 
+4371 
+4384 
+Category 2 
+The alert is 
+activated 
+even in 
+silent mode 
+Audible 
+Signal 
+Yes 
+Default 
+10.5 
+Stopping the 
+alert requires 
+the recipient’s 
+acknowledgeme
+Mandatory 
+Activation
+
+[[page 15]]
+14 
+ 
+4372 
+4385 
+nt 
+4373 
+4386 
+Category 3 
+The alert is 
+activated 
+even in 
+silent mode 
+Audible 
+Signal 
+Yes 
+Default 
+10.5 
+Stopping the 
+alert requires 
+the recipient’s 
+acknowledgeme
+nt 
+Mandatory 
+Activation 
+4374 
+4387 
+Default 
+10.5 
+4375 
+4388 
+Default 
+10.5 
+4376 
+4389 
+Default 
+10.5 
+4377 
+4390 
+Default 
+SMS 
+Ringtone 
+Default 
+SMS 
+Duration 
+4378 
+4391 
+Default 
+10.5 
+4379 
+4392 
+Category 4 
+The alert is 
+not required 
+during silent 
+mode 
+Audible 
+Signal 
+Yes 
+Default 
+With a 
+minimum 
+of 5 
+seconds 
+and a 
+maximum 
+of 10.5 
+seconds 
+Stopping the 
+alert requires 
+the recipient’s 
+acknowledgeme
+nt 
+Optional 
+Activation 
+4380 
+4393 
+Category 5 
+The alert is 
+not required 
+during silent 
+mode 
+Audible 
+Signal Yes or No 
+Default 
+10.5 
+Stopping the 
+alert does not 
+require 
+recipient’s 
+acknowledgeme
+nt 
+Optional 
+Activation 
+4381 
+4394 
+Category 6 
+The alert is 
+activated 
+even in 
+silent mode 
+Audible 
+Signal 
+Yes 
+Default 
+10.5 
+Stopping the 
+alert requires 
+the recipient’s 
+acknowledgeme
+nt 
+Mandatory 
+Activation 
+ 
+ 
+ 
+ 
+___________

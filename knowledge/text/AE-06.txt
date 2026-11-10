@@ -1,0 +1,1274 @@
+[[page 1]]
+1
+ 
+ 
+Federal Decree-Law No. (34) of 2021 On Countering Rumors and 
+Cybercrimes 
+ 
+We, Khalifa bin Zayed Al Nahyan, resident of the United Arab Emirates, 
+− Upon reviewing the Constitution, 
+− Federal Law No. (1) of 1972 Concerning the Competences of Ministries and Powers of 
+Ministers, 
+− Federal Law No. (9) of 1976 Concerning Delinquent Juveniles and Vagrants, 
+− Federal Law No. (15) of 1980 Concerning Publications and Publishing, 
+− Federal Law No. (3) of 1987 Promulgating the Penal Code, as amended, 
+− Federal Law No. (35) of 1992 Promulgating the Criminal Procedure Code, as amended, 
+− Federal Law No. (37) of 1992 Concerning Trademarks, as amended, 
+− Federal Law No. (14) of 1995 on the Countermeasures against Narcotic Drugs and 
+Psychotropic Substances, as amended, 
+− Federal Law No. (7) of 2002 Concerning Copyrights and Neighboring Rights, ant its 
+amendments, 
+− Federal Decree-Law No. (3) of 2003 Regulating the Telecommunication Sector, as 
+amended, 
+− Federal Law No. (1) of 2006 Concerning Electronic Transactions and Commerce, 
+− Federal Law No. (51) of 2006 Concerning Combatting Trafficking in Human Beings 
+Crimes, as amended, 
+− Federal Decree-Law No. (3) of 2012 Establishing the National Electronic Security 
+Authority, 
+− Federal Decree-Law No. (5) of 2012 Concerning Countering Cybercrimes? as amended, 
+− Federal Law No. (7) of 2014 Concerning Combating Terrorist Offences, 
+− Federal Law no. (3) of 2016 Concerning the Child's Rights "Wadeema's Law", 
+− Federal Decree-Law No. (14) of 2018 Concerning the Central Bank and the Organization 
+of Financial Institutions and Activities, as amended,
+
+[[page 2]]
+2
+ 
+ 
+− Federal Decree-Law No. (20) of 2018 Concerning Anti-Money Laundering and 
+Countering the Financing of Terrorism and Illegal Organizations, as amended, 
+− Federal Decree-Law No. (17) of 2019 Concerning Arms, Ammunition, Explosives, 
+Materiel, and Hazardous Substances, 
+− Federal Decree-Law No. (28) of 2019 Concerning the Establishment of the National 
+Counseling Center, 
+− Federal Law No. (3) of 2021 Regulating Donations, 
+− Federal Law No. (11) of 2021 Regarding the Regulation and Protection of Industrial 
+Property Rights, 
+− Based on the proposition of the Minister of Justice and approval of the Cabinet, 
+Do hereby enact the following Decree-law: 
+ 
+Article (1) 
+Definitions 
+For applying the provisions of this Decree-Law, the following words and expressions shall 
+denote the meaning ascribed thereto respectively, unless otherwise required by the context: 
+UAE 
+: The United Arab Emirates. 
+Government Entities 
+: Any federal or local government entity, or any company or 
+establishment in which any of these entities holds at least 
+25% of its capital. 
+Competent Authorities 
+: The federal or local authorities concerned with electronic and 
+cyber security inside the UAE. 
+Information Technology 
+(IT) 
+: All forms of technologies used for creating, processing, 
+storing, exchanging and using electronic information systems 
+(ISs), information programs, websites, information network, 
+and any means of information technology equipment (ITE). 
+Cyber 
+: Everything relating to computer networks, the internet, and 
+the various information program as well as all the services
+
+[[page 3]]
+3
+ 
+ 
+they perform. 
+Data or Information 
+: An organized or unorganized package of data, facts, concepts, 
+instructions, views, or measurements taking the form of 
+digits, characters, words, symbols, images, videos, signals, 
+sounds, maps, or any other form, and which are interpreted, 
+exchanged or processed by persons or computers, so that 
+after being processed or circulated, they produce what is 
+called "the information". 
+Government Data and 
+Information 
+: Electronic data or information pertaining or belonging to any 
+of the government entities and are not made available to the 
+public. 
+Personal 
+Data 
+and 
+Information 
+: Information or data pertaining to natural persons whenever 
+these information or data are relating to their private lives or 
+personal identities, or whenever linking these information or 
+data, whether directly or indirectly, would lead to revealing 
+the person's identity. 
+Confidential 
+Information and Data 
+: Any information or data that are not permitted to be 
+accessed by or disclosed to Third Parties, without prior 
+permission of the person who has the power to grant this 
+permission. 
+Route Data 
+: The data of an information technology means produced by 
+an information system to show the source of communication 
+and its transmitter and receiver interfaces, time, date, size, 
+and duration, and the type of the service. 
+Website 
+: A virtual space or domain on the information network that 
+depends on smart software which enables its users to make 
+available, exchange, or disseminate any content, whether 
+text, audio, visual or data content. This includes social media 
+websites, networks and platforms, personal pages and
+
+[[page 4]]
+4
+ 
+ 
+accounts, weblogs, e-services and etc. 
+Electronic Information 
+System (IS) 
+: An information program or collection of information 
+programs that are designed to process, manage or store 
+electronic information that can execute the instructions or 
+commands using the information technology equipment, 
+including the applications and the like. 
+Information Technology 
+Equipment (ITE) 
+: Any magnetic, optical or electrochemical electronic 
+equipment or any other tool used for processing electronic 
+data, or performing logical and mathematical processes or 
+storage functions, including any tool that is connected or 
+linked to it, directly or indirectly, and which enables this tool 
+to store or communicate the electronic information to others. 
+Electronic Account 
+: Any account created with an information network broker in 
+order to use the services of this broker. 
+Content 
+: The electronic information, data, and services that provide 
+value to its receivers in specific contexts. 
+Illegal Content 
+: The content whose subject constitutes one of the crimes 
+punishable by law, or whose publication, circulation or 
+recirculation inside the UAE would compromise the UAE's 
+security, sovereignty or any of its interests, the public health, 
+or public peace assurance, or the friendly relations between 
+the UAE and other countries, or would affect the results of 
+elections of members of the Federal National Council (FNC) 
+or of the Consultative Councils of the emirates of UAE, or 
+would incite hostility and hatred among different groups of 
+persons, or would decrease the public's confidence in any of 
+the government authorities' or entities' performance of any 
+duty or task or exercise of any powers. 
+False Data 
+: The rumors and data which are false or misleading, in whole
+
+[[page 5]]
+5
+ 
+ 
+or in part, whether by itself or within the context where they 
+appear. 
+Electronic 
+Robot 
+(E-robot) 
+: an electronic program that is created or modified for the 
+purpose of running automated tasks efficiently and quickly. 
+Electronic 
+Document 
+(e-document) 
+: An informational record or statement that is created, stored, 
+extracted, copied, sent, communicated or received by 
+electronic tool on a medium. 
+Hacking 
+: The unauthorized access, access in violation of the provisions 
+of the license, or illegal access to or stay on an information 
+system (IS), or a computer, or operating system (OS) of a 
+device, machine, vehicle or information network and the like. 
+Leakage 
+: The deliberate disclosure or revelation of information or data 
+without the knowledge or authorization of the owner of the 
+system. Such data may be classified as sensitive, private or 
+confidential. 
+Interception 
+: Viewing, monitoring, or acquiring data or information for the 
+purpose of eavesdropping, disrupting, storing, copying, 
+recording, circumventing, or altering the content, or for 
+misusing, rerouting or redirecting for illegal and unlawful 
+reasons. 
+Cyberattacks 
+: Every deliberate and planned targeting of ISs, infrastructure, 
+electronic networks, or ITE that reduces the capabilities and 
+functions of any of them, whether for personal purposes or 
+for the purposes of intercepting, intruding, hacking, leaking, 
+or exposing data or information to risks, or for disrupting the 
+operations and the like. 
+Encryption 
+: Converting information or information systems or tools into 
+a form that is unreadable or unidentifiable unless returned to
+
+[[page 6]]
+6
+ 
+ 
+their original form using a password or the encryption tool 
+involved. 
+Electronic 
+: Everything relating to electromagnetic, optical, digital, 
+automated or photogenic technologies or the like. 
+Electronic media 
+: Every physical medium used for storing and circulating 
+electronic data and information, including compact discs 
+(CDs), optical discs, electronic memory, or the like. 
+Digital Evidence 
+: Any electronic information having a probative force or value 
+and is stored, transmitted, extracted or derived from 
+computer sets, information networks and etc. It may be 
+gathered and analyzed using special technological devices or 
+applications. 
+Information Network 
+: A connection between two or more information programs 
+and information technology equipment that allow users to 
+get access to and exchange information. 
+Internet Protocol (IP) 
+Address 
+: A digital identifier assigned to each information technology 
+equipment on the information network and is used for 
+connection purposes. 
+Information 
+Network 
+Broker 
+: Every person providing any information network brokerage 
+services including social networking services, search engines, 
+collecting the contents transmitted through the information 
+network, sharing videos ...etc. 
+Service Provider 
+: Every public or private natural or legal person providing 
+users with IT-based access to the information network. 
+Financial, Commercial or 
+Economic Establishment 
+: Any establishment that acquires its financial, commercial or 
+economic standing under the license granted to it by the 
+competent authority inside the UAE. 
+Child 
+: Every person under the age of eighteen calendar years.
+
+[[page 7]]
+7
+ 
+ 
+Child Pornography 
+: Producing, displaying, disseminating, possessing or 
+circulating a photo, movie, or a drawing through any means 
+of communication, social networks, or any other means or 
+tool that shows the child involved in a dishonorable situation 
+in a sexual act or show whether real, fictional or simulated. 
+Electronic 
+Advertisement 
+: Every advertisement through an electronic means that aims 
+to promote the sale of a product or the provision of a service, 
+directly or indirectly. 
+Misleading 
+Advertisement 
+: Advertising any goods or a service based on the provision of 
+deceptive information or omission of essential or basic 
+information related to the goods or the service involved, and 
+which would affect the consumer's decision and motivate 
+them to seek to acquire it; so that the consumer would not 
+have acquired the same had it not for that information. 
+Data or Information 
+Processing 
+: Performing or carrying out a single process or a group of 
+processes involving the data or information, whether such 
+information and data are pertaining to natural or to legal 
+persons. This includes collecting, receiving, recording, 
+storing, modifying, transmitting, retrieving and deleting that 
+information. 
+User 
+: Every natural or legal person using or taking advantage of IT 
+services in any form. 
+Writs of correction and 
+removal of false data 
+: The notices issued by the competent authorities to one or 
+more persons for correcting, removing or deleting illegal 
+content, or to correct, remove or delete false information or 
+data in the form or manner those authorities deem 
+appropriate during the period stated in the notice. 
+Disable order 
+: The notices issued by the competent authorities to an 
+information network broker through which illegal content or
+
+[[page 8]]
+8
+ 
+ 
+false data is published. The broker is required under this 
+notice to disable, in the form or manner deemed appropriate 
+by these authorities, the users' access to the said content or 
+data within the period stated in the notice. 
+Access Blocking Orders 
+: The orders issued by the competent authorities to the service 
+provider inside the UAE in case of failure to perform the other 
+instructions mentioned in this Decree-Law in order to take 
+actions to disable users' access in the UAE to the website or 
+electronic account. 
+ 
+Section One 
+CRIMES AND PENALTIES 
+Chapter One 
+CRIMES AGAINST INFORMATION TECHNOLOGY 
+Article (2) 
+Hacking 
+1. Whoever hacks a website, an electronic IS, an information network or a piece of ITE shall 
+be punished with imprisonment and/ or a fine of not less than (AED 100,000) one 
+hundred thousand dirhams or more than (AED 300,000) three hundred thousand 
+dirhams. 
+2. If the hacking results in damages, destruction, or interruption of work; or disruption of a 
+website, an electronic IS, an information network or a piece of ITE, or cancellation, 
+deletion, destruction, disclosure, damage, alteration, copying, dissemination, 
+re-dissemination, or acquiring any data or information, or loss of confidentiality of data 
+and information, the penalty shall be imprisonment for at least (6) six months and/ or a 
+fine of not less than (AED 150,000) one hundred fifty thousand dirhams or more than 
+(AED 500,000) five hundred thousand dirhams. 
+3. If the hacking is committed for acquiring data or information for illegal purposes, the 
+penalty shall be imprisonment for at least one year and/ or a fine no less than (AED
+
+[[page 9]]
+9
+ 
+ 
+200,000) two hundred thousand dirhams or more than (AED 500,000) five hundred 
+thousand dirhams. 
+ 
+Article (3) 
+Hacking the Government Entities' Information Systems 
+1. Whoever hacks a website, electronic IS, information network or a piece of ITE belonging 
+to the government entities shall be punished with temporary imprisonment and a fine of 
+not less than (AED 200,000) two hundred thousand dirhams or more than (AED 
+500,000) five hundred thousand dirhams. 
+2. If the hacking results in damages, destruction, or interruption of work, or disruption of a 
+website, electronic IS, information network or a piece of ITE, or cancellation, deletion, 
+destruction, disclosure, damage, alteration, copying, dissemination, or re-dissemination 
+of any data or information or loss of their confidentiality, or if crime is committed as a 
+result of a cyberattack, the penalty shall be imprisonment for at least (5) five years and a 
+fine of not less than (AED 250,000) two hundred fifty thousand dirhams or more than 
+(AED 1,500,000) one million and five hundred thousand dirhams. 
+3. If the hacking is committed for acquiring data or information of the entities mentioned in 
+Para. (1) of this Article, the penalty shall be temporary imprisonment for at least (7) 
+seven years and a fine of not less than (AED 250,000) two hundred fifty thousand 
+dirhams or more than (AED 1,500,000) one million and five hundred thousand dirhams. 
+ 
+Article (4) 
+Causing Harm to Information Systems 
+1. Whoever willfully causes harm, destruction, interruption or disruption of a website, 
+electronic IS, information network or a piece of ITE, shall be punished with 
+imprisonment for at least one year and/ or a fine of not less than (AED 500,000) five 
+hundred thousand dirhams or more than (AED 3,000,000) three million dirhams. 
+2. If the harm is inflicted upon a banking, media, health or scientific entity, if the harm is 
+intended for achieving an illegal purpose, or if the crime is committed as a result of a
+
+[[page 10]]
+10
+ 
+ 
+cyberattack, the penalty shall be temporary imprisonment and a fine of not less than 
+(AED 500,000) five hundred thousand dirhams or more than (AED 3,000,000) three 
+million dirhams. 
+ 
+Article (5) 
+Harm to Information System of Government Entity and Critical Facility 
+Whoever willfully causes harm, destruction, interruption or disruption of a website, 
+electronic IS, information network or a piece of ITE belonging to one of the government 
+entities or critical facilities shall be punished with temporary imprisonment and a fine of not 
+less than (AED 500,000) five hundred thousand dirhams or more than (AED 3,000,000) 
+three million dirhams. 
+If the crime is committed as a result of a cyberattack, this shall be deemed an aggravating 
+circumstance. 
+ 
+Article (6) 
+Infringement of Personal Data and Information 
+1. Whoever acquires, possesses, modifies, destroys, reveals, leaks, cancels, deletes, copies, 
+disseminates, or re-disseminates any personal electronic data or information using the 
+information technology or any ITE without permission shall be punished with 
+imprisonment for at least (6) six months and/ or a fine of not less than (AED 20,000) 
+twenty thousand dirhams or more than (AED 100,000) one hundred thousand dirhams. 
+2. If the data or information aforementioned in Clause (1) of this Article are related to 
+examinations, diagnosis, medication, healthcare, medical records, bank accounts, or 
+e-payment information and data, this shall be deemed an aggravating circumstance. 
+3. Whoever receives, keeps, or stores the data and information referred to in Clauses (1) 
+and (2) of this Article, or accepts to handle or use them despite knowledge of the 
+illegality of acquiring them shall be punished with imprisonment and/ or a fine.
+
+[[page 11]]
+11
+ 
+ 
+Article (7) 
+Infringement of Government Data and Information 
+1. Whoever acquires, possesses, modifies, destroys, reveals, leaks, cancels, deletes, copies, 
+disseminates, or re-disseminates any government confidential data or information 
+without permission shall be punished with temporary imprisonment for at least (7) 
+seven years and a fine of not less than (AED 500,000) five hundred thousand dirhams or 
+more than (AED 3,000,000) three million dirhams. 
+2. If the acts stipulated in Clause (1) of this Article cause harms to the UAE, or results in loss 
+of confidentiality of the operation of electronic systems and software pertaining to 
+military and security facilities and concerning the communication and transmission of 
+confidential information, the penalty shall be temporary imprisonment for at least (10) 
+ten years and a fine of not less than (AED 500,000) five hundred thousand dirhams or 
+more than (AED 5,000,000) five million dirhams. 
+3. Whoever receives, keeps, or stores the data and information referred to in Clause (1) of 
+this Article, or accepts to deal with or use them despite knowledge of the illegality of 
+acquiring them shall be punished with temporary imprisonment. 
+ 
+Article (8) 
+Infringement of Data of Financial, Commercial or Economic Establishments 
+Whoever acquires, possesses, modifies, destroys, reveals, leaks, cancels, deletes, alters, 
+copies, disseminates, or re-disseminates any confidential data or information pertaining to 
+any financial, commercial or economic establishment without permission using the 
+information technology or any ITE shall be punished with temporary imprisonment for at 
+least (5) five years and a fine of not less than (AED 500,000) five hundred thousand dirhams 
+or more than (AED 3,000,000) three million dirhams. 
+ 
+Article (9) 
+Unauthorized Acquisition of Third Party's Codes and Ciphers 
+1. Whoever acquires the PIN code, cipher, or password or the like pertaining to a website,
+
+[[page 12]]
+12
+ 
+ 
+information system, information network or ITE without permission or authorization of 
+the person concerned shall be punished with imprisonment and/ or a fine of not less 
+than (AED 50,000) fifty thousand dirhams or more than (AED 100,000) one hundred 
+thousand dirhams. 
+2. If the person who acquires the PIN code, cipher, or password and the like without 
+permission or authorization of the person concerned accesses or enables third parties to 
+access the website, information system, information network or the ITE with the intent 
+to commit a crime, he shall be punished with imprisonment for at least (6) six months 
+and/ or a fine of not less than (AED 300,000) three hundred thousand dirhams or more 
+than (AED 500,000) five hundred thousand dirhams. 
+ 
+Article (10) 
+Circumventing the Information Network with the Intention of Committing a 
+Crime 
+Whoever circumvents an IP Address through the use of an IP address of others or any other 
+means with the intention of committing or to preventing detection of a crime shall be 
+punished with temporary imprisonment and/ or a fine of not less than (AED 500,000) five 
+hundred thousand dirhams or more than (AED 2,000,000) two million dirhams. 
+ 
+Article (11) 
+Creating Fake Emails, Websites, and Electronic Accounts 
+1. Whoever creates a fake website, an account or an email and attributes it falsely to any 
+natural or legal person shall be punished with imprisonment and/ or a fine of not less 
+than (AED 50,000) fifty thousand dirhams or more than (AED 200,000) two hundred 
+thousand dirhams. 
+2. If the offender uses or enables third parties to use the fake account, email or website in a 
+matter offensive to the person affected shall be punished with imprisonment for at least 
+(2) two years. 
+3. If the fake website, account or email is attributed to one of the government entities, the
+
+[[page 13]]
+13
+ 
+ 
+penalty shall be imprisonment for not more than (5) five years and a fine of not less than 
+(AED 200,000) or more than (AED 2,000,000) two million dirhams. 
+ 
+Article (12) 
+Illegal Interception and Disclosure of Information 
+1. Whoever obstructs or intercepts the access to an information network, website, or 
+electronic IS or any electronic connection, information or data shall be punished with 
+imprisonment and/ or a fine of not less than (AED 150,000) one hundred fifty thousand 
+dirhams or more than (AED 500,000) five hundred thousand dirhams. 
+2. If the offender discloses or leaks the information, data or purport of the communication 
+obtained through the interception shall be punished with imprisonment for at least one 
+year and fine of not more than (AED 1,000,000) one million dirhams. 
+3. If the interception involves the communication, information or data of one of the 
+government entities, the penalty shall be temporary imprisonment. 
+ 
+Article (13) 
+Collecting and Processing Personal Data and Information in Violation of the 
+Legislation 
+Whoever uses the information technology or ITE to collect, save, or process personal data 
+and information of nationals and residents of the UAE in violation of the legislation in force 
+in the UAE shall be punished with imprisonment and/ or a fine of not less than (AED 50,000) 
+fifty thousand dirhams or more than (AED 500,000) five hundred thousand dirhams. 
+ 
+Article (14) 
+Forging E-documents 
+1. Whoever forges an e-document belonging to any of the federal or local government or 
+the public federal or local authorities or entities shall be punished with temporary 
+imprisonment and a fine of not less than (AED 150,000) one hundred fifty thousand
+
+[[page 14]]
+14
+ 
+ 
+dirhams or more than (AED 750,000) seven hundred fifty thousand dirhams. 
+2. If the forging involves documents belonging to entities other than those mentioned in 
+Clause (1) of this Article, the penalty shall be imprisonment and/ or a fine of not less 
+than (AED 100,000) one hundred thousand dirhams or more than (AED 300,000) three 
+hundred thousand dirhams. 
+3. The penalty prescribed for forgery crime shall be imposed on whoever knowingly uses 
+the forged e-document. 
+ 
+Article (15) 
+Hacking E-Payment Instruments 
+Whoever forges, clones or copies any credit card, debit card, or any e-payment instrument, 
+or captures its data or information using any of the ITE ISs shall be punished with 
+imprisonment and/or a fine of not less than (AED 200,000) two hundred thousand dirhams, 
+or more than (AED 2,000,000) two million dirhams. 
+The same penalties shall be imposed on whoever: 
+1. Makes or designs any ITE or software with the intention of facilitating any of the acts 
+stipulated in Para. (I) of this Article. 
+2. Uses without authorization any credit, electronic, or debit card or any other e-payment 
+instrument, or any of its data or information with the intention of obtaining for himself 
+of for third parties any funds or properties of others, or to utilize the services made 
+available to third parties by these cards or instruments. 
+3. Accepts using these forged, fake, or copied cards or e-payment instruments or data 
+seized or obtained illegally despite being aware of their illegality. 
+ 
+Article (16) 
+Using Electronic Systems to Commit Crimes and to Conceal Evidence 
+Whoever possesses, obtains, prepares, designs, produces, imports, makes available or uses 
+any information program, ITE, passcodes or codes, or uses encryption with the intention of 
+committing any of the crimes stipulated in this Decree-Law or concealing its evidence or
+
+[[page 15]]
+15
+ 
+ 
+traces, or preventing detection of the crime shall be punished with imprisonment for at least 
+(2) two years and/ or a fine of not less than (AED 200,000) two hundred thousand dirhams 
+or more than (AED 500,000) five hundred thousand dirhams. 
+ 
+Article (17) 
+Crimes Committed by Administrator of Website or Electronic Account 
+Whoever manages, creates or uses a website or account on an information network with the 
+intent to commit or to facilitate the commission of a crime punishable by law shall be 
+punished with imprisonment for at least one year and/ or a fine of not less than (AED 
+300,000) three hundred thousand dirhams or more than (AED 500,000) five hundred 
+thousand dirhams. 
+ 
+Article (18) 
+Tampering with Digital Evidence 
+Everyone responsible for managing a website or an account on an information network, an 
+e-mail, or an IS and conceals or tampers with digital evidence pertaining to any of the crimes 
+stipulated in this Decree-Law with the intent of impeding the work of the searching, 
+investigations, and interrogations teams or other competent authorities shall be punished 
+with imprisonment for at least (6) six months and/ or a fine of not less than (AED 200,000) 
+two hundred thousand dirhams. 
+ 
+Article (19) 
+Dissemination of Data or Information Not Compliant with Media Content 
+Standards 
+Everyone responsible for managing a website or an electronic account that has posted on 
+any of it any content, data or information that does not comply with the media content 
+standards issued by the authorities concerned shall be punished with imprisonment for not 
+more than one year and/ or a fine of not less than (AED 30,000) thirty thousand dirhams or
+
+[[page 16]]
+16
+ 
+ 
+more than (AED 300,000) three hundred thousand dirhams. 
+ 
+Chapter Two 
+CRIMES RELATING TO CONTENT AND SPREAD OF RUMORS AND FALSE 
+NEWS 
+Part One 
+CONTENT CRIMES 
+Article (20) 
+Inciting the Suspension of the Provisions of the Constitution and Laws 
+Whoever creates, manages, or supervises a website or publishes information, programs or 
+thoughts that include, aim to or instigate overthrowing the ruling regime change or seizure 
+of power in the UAE, or to suspend the provisions of the Constitution or Laws in force in the 
+UAE, or to protest against the basic principles of the UAE's regime using the information 
+network or any ITE, shall be punished with life imprisonment. 
+the same penalty shall be imposed on everyone who promotes, incites to, or facilitates any 
+of the aforementioned acts. 
+ 
+Article (21) 
+Advocacy and Promotion of Terrorist Groups 
+Whoever creates, manages, or supervises a website or publishes information or data 
+pertaining to terrorist group(s), society, or organization or an illicit body via the information 
+network or the ITE with the intention of facilitating communication with their leaders or 
+members, attracting members, promoting or advocating their thoughts, financing their 
+activities, providing actual assistance to them, or disseminating the methods of 
+manufacturing incendiary devices, weapons, ammunition, explosives or dangerous 
+materials or any other tools used in terrorist acts shall be punished with imprisonment for a 
+period that is not less than (10) ten years or more than (25) twenty-five years and a fine of 
+not less than (AED 2,000,000) two million dirhams or more than (AED 5,000,000) five
+
+[[page 17]]
+17
+ 
+ 
+million dirhams. 
+Whoever downloads, re-broadcasts, or reposts the contents of any of the websites 
+aforementioned in Para (I) of this Article using any means whatsoever, or re-accesses these 
+sites to view this content, or disseminates any content that incites hatred shall be punished 
+with imprisonment of not more than (5) five years and a fine of not less than (AED 500,000) 
+five hundred thousand dirhams or more than (AED 1,000,000) one million dirhams. 
+In cases other than recidivism, the court may, instead of imposing the penalties set out in the 
+preceding paragraph, decide that the accused person be assigned to a counseling house or 
+be placed under electronic monitoring and be prohibited from using any of the ITE for the 
+period of time to be determined by the court, provided that it is not longer than the 
+maximum penalty prescribed. 
+ 
+Article (22) 
+Dissemination of Information to Harm the Interests of the UAE 
+Whoever uses information network or ITE and provides to any organization, institution, 
+body, person or entity any information, data, reports or documents that are not authorized 
+to be published or circulated and would harm the interests of the UAE or its government 
+agencies, or would harm its reputation, prestige or dignity, shall be punished with temporary 
+imprisonment. 
+ 
+Article (23) 
+Incitement to Harm the Security of the UAE and to Assault Judicial Officers 
+Whoever creates, manages, or supervises a website or uses information on the information 
+network or on the ITE with the intention of inciting actions, disseminating or broadcasting 
+information, news, cartoons or any other images which would endanger the security of the 
+UAE and its higher interests, or would harm the public order, or incite assaulting the judicial 
+officers or law enforcement officers shall be punished with temporary imprisonment and a 
+fine of not more than (AED 1,000,000) one million dirhams.
+
+[[page 18]]
+18
+ 
+ 
+Article (24) 
+Promoting Sedition and Harming the National Unity 
+Whoever uses of information network or any ITE to create, manage, or supervise a website 
+or to disseminate information, programs or thoughts that include incitement, promotion or 
+advocation of sedition, hatred, racism, or sectarianism in a manner which would harm the 
+national unity, social peace, public order, public morals or would endanger the UAE's 
+interests shall be punished with temporary imprisonment and a fine of not less than (AED 
+200,000) two hundred thousand dirhams or more than (AED 1,000,000) one million 
+dirhams. 
+ 
+Article (25) 
+Mockery and Tainting the Reputation of the UAE and its Public Figures 
+Whoever publishes information, news, data, visual images, visual or optical materials or 
+rumors on a website, any information network or ITE with the intention of mocking or 
+damaging the reputation, prestige, or dignity of the UAE, any of its authorities, institutions, 
+any of its founding leaders, the UAE's flag, currency, peace, coat of arms, or national anthem, 
+or any of its national public figures shall be punished with imprisonment for not more than 
+(5) five years and a fine not exceeding (AED 500,000) five hundred thousand dirhams. 
+ 
+Article (26) 
+Unauthorized Call for and Promotion of Demonstrations 
+Whoever creates, manages, or supervises a website or uses information on the information 
+network or the ITE in order to plan for, organize, promote, or call for demonstrations, 
+marches, or similar acts without obtaining permit from the competent authority shall be 
+punished with imprisonment and/ or a fine of not less than (AED 200,000) two hundred 
+thousand dirhams or more than (AED 1,000,000) one million dirhams.
+
+[[page 19]]
+19
+ 
+ 
+Article (27) 
+Incitement to Disobedience of the Legislation 
+Whoever calls for or incites to disobedience of the legislation in force in the UAE through 
+dissemination of information via the information network or any ITE shall be punished with 
+imprisonment and/ or a fine of not less than (AED 100,000) one hundred thousand dirhams 
+or more than (AED 500,000) five hundred thousand dirhams. 
+ 
+Article (28) 
+Offending a Foreign Country 
+Whoever disseminates information or data on the information network or any ITE which 
+include offending of foreign countries shall be punished with imprisonment for at least (6) 
+six months and/ or a fine of not less than (AED 100,000) one hundred thousand dirhams or 
+more than (AED 500,000) five hundred thousand dirhams. 
+In respect of the crimes set out in this Article, the legal proceedings shall be instituted only 
+by the Attorney General of the UAE. 
+ 
+Article (29) 
+Trafficking in and Promotion of Firearms, Ammunition or Explosives 
+Whoever creates, manages or supervises a website or publishes information on an 
+information network or ITE with the intention of trafficking in or promoting firearms, 
+ammunition or explosives in cases other than those authorized by law shall be punished 
+with imprisonment for at least one year and/ or a fine of not less than (AED 500,000) five 
+hundred thousand dirhams or more than (AED 1,000,000) one million dirhams. 
+ 
+Article (30) 
+Transfer, Possession, Use or Acquisition of Illicit Financial Flows (IFFs) 
+Without prejudice to the provisions of the Anti-Money Laundering Law, whoever willfully 
+commits any of the following acts through the use of any information network, IS, or any ITE
+
+[[page 20]]
+20
+ 
+ 
+shall be punished with imprisonment for not more than (10) ten years and a fine of not less 
+than (AED 100,000) one hundred thousand dirhams or more than (5,000,000) five million 
+dirhams: 
+1. Transferring, transporting or depositing IFFs with the intention of concealing or 
+disguising their illegal source. 
+2. Concealing or disguising the truth, source, movement, rights associated with or 
+ownership of the IFFs. 
+3. Acquiring, possessing or using IFFs despite knowledge of the illegality of their source. 
+The same penalties shall be imposed to whoever creates, manages, or supervises a website 
+or disseminates information or data on the information network or ITE to facilitate or incite 
+the commission of any of the acts abovementioned in this Article. 
+ 
+Article (31) 
+Trafficking in and Promotion of Narcotic Drugs and Psychotropic 
+Substances 
+Whoever creates, manages, or supervises a website or disseminates information or data on 
+the information network or ITE for the purpose of trafficking in or promoting narcotic drugs 
+and psychotropic substances and etc., or how they are used, or to facilitate trading in them 
+in cases other than those authorized by law shall be punished with temporary imprisonment 
+and/ or a fine of not less than (AED 500,000) five hundred thousand dirhams or more than 
+(AED 1,000,000) one million dirhams. 
+ 
+Article (32) 
+Creation and Management of a Website for Trafficking in Human Beings 
+Whoever creates, manages, or supervises a website or disseminates information or data on 
+the information network or using a piece of ITE with the intention of trafficking in human 
+beings or organs or illegal trading in them shall be punished with temporary imprisonment 
+and/ or a fine of not less than (AED 500,000) five hundred thousand dirhams or more than 
+(AED 1,000,000) one million dirhams.
+
+[[page 21]]
+21
+ 
+ 
+ 
+Article (33) 
+Incitement to Immoral Acts and Prostitution 
+Whoever incites or tempts third parties to commit prostitution or immoral acts, or assists 
+him/her to do so through the use an information network or any ITE shall be punished with 
+temporary imprisonment and a fine of not less than (AED 250,000) two hundred fifty 
+thousand dirhams or more than (AED 1,000,000) one million dirhams. 
+In the event that the victim is a child, the penalty shall be temporary imprisonment for at 
+least (5) five years and a fine of not more than (AED 1,000,000) one million dirhams. 
+ 
+Article (34) 
+Disseminating Obscene Materials And Violating the Public Morals 
+Whoever creates, manages, or supervises a website, or broadcasts, transmits, disseminates, 
+re-disseminates or displays through the information network any obscene materials and 
+everything which would violate the public morals shall be punished with imprisonment 
+and/ or and a fine of not less than (AED 250,000) two hundred fifty thousand dirhams or 
+more than (AED 500,000) five hundred thousand dirhams. 
+The same penalty shall be imposed on everyone who produces, prepares, designs, transmits, 
+or stores any obscene materials and everything which would violate the public morals 
+through the use of the information network with the intention of making use of, distributing 
+or displaying the same to third parties. 
+If the subject of the obscene content is a child, or if the content is designed to seduce 
+children, the offender shall be punished with imprisonment for at least one year and/ or a 
+fine of not more than (AED 500,000) five hundred thousand dirhams. 
+ 
+Article (35) 
+Engaging Children in Creating Pornographic Materials 
+1. Whoever incites, seduces, or assists a child to broadcast, createor transmit obscene 
+material using the information network or the ITE shall be punished with imprisonment
+
+[[page 22]]
+22
+ 
+ 
+for at least (2) two years and/ or a fine of not less than (AED 250,000) two hundred fifty 
+thousand dirhams or more than (AED 1,000,000) one million dirhams. 
+2. In the event that the subject of this obscene materials prepared or transmitted is this 
+child, the penalty shall be temporary imprisonment and a fine not exceeding (AED 
+1,000,000) one million dirhams. 
+3. The victim child shall not be held criminally accountable for the acts he commits as a 
+result of the incitement and seduction. 
+ 
+Article (36) 
+Possession of Child Pornographic Materials 
+Whoever willfully possesses any child pornographic materials using the electronic IS, 
+information network, website, or any ITE shall be punished with imprisonment for at least 
+(6) six months and a fine of not less than (AED 150,000) one hundred fifty thousand 
+dirhams or more than (AED 1,000,000) one million dirhams. 
+ 
+Article (37) 
+Blasphemy and Condoning the Sin 
+Whoever uses information network, any ITE, or a website to commit any of the following 
+crimes shall be punished with imprisonment and/ or a fine of not less than (AED 250,000) 
+two hundred fifty thousand dirhams or more than (AED 1,000,000) one million dirhams: 
+1. Offending any of the Islamic sanctities or rituals. 
+2. Offending any of the sanctities or rituals established in other religions whenever these 
+sanctities and rituals are inviolable in accordance with the provisions of Islamic Sharia. 
+3. Insulting one of the recognized monotheistic religions. 
+4. Condoning, inciting to or promoting sins. 
+If the crime involves an insult to the Divine Essence or to the Messengers and Prophets, or if 
+it is in opposition to the Islamic religion, breaches the foundations and principles upon 
+which Islam is based, violating or breaches the rituals and rulings of the Islamic religion 
+which are known as necessity, or humiliates Islamic religion, preaches to another religion,
+
+[[page 23]]
+23
+ 
+ 
+advocates, recommends or promotes a doctrine or thought that involves any of the 
+foregoing, the penalty shall be temporary imprisonment for not more than (7) seven years. 
+ 
+Article (38) 
+Promotion of Gambling Activities 
+Whoever creates, manages or supervises a website, or uses information network to 
+broadcast, transmit, disseminate, re-disseminate, or promote practicing of gambling 
+activities in the cases other than the authorized shall be punished with imprisonment and/ 
+or a fine of not less than (AED 250,000) two hundred fifty thousand dirhams or more than 
+(AED500,000) five hundred thousand dirhams. 
+ 
+Article (39) 
+Illicit Trafficking in Antiquities and Works of Art 
+Whoever creates, manages or supervises a website or uses an information network or any 
+ITE with the intention of trafficking in antiquities and works of art in cases other than those 
+authorized by law shall be punished with imprisonment and/ or a fine of not less than (AED 
+500,000) five hundred thousand dirhams or more than (AED 1,000,000) one million 
+dirhams. 
+ 
+Article (40) 
+Internet Fraud 
+Whoever illegally seizes for himself or for third parties a movable asset, a benefit or a 
+document or signs this document through the use of any of the fraud techniques, or through 
+taking an alias or false impersonation through the information network, IS or any ITE shall 
+be punished with imprisonment for at least one year and/ or a fine of not less than (AED 
+250,000) two hundred fifty thousand dirhams or more than (AED 1,000,000) one million 
+dirhams.
+
+[[page 24]]
+24
+ 
+ 
+Article (41) 
+Unauthorized Fundraising 
+Whoever calls for or promotes a contest or electronic currency, or creates or manages a 
+fictitious portfolio or company with the intention of receiving or raising funds from the 
+public for the purpose of investing, managing, employing or increasing these funds without 
+a license from the authorities concerned shall be punished with imprisonment for not more 
+than (5) five years and/ or a fine of not less than (AED 250,000) two hundred fifty thousand 
+dirhams or more than (AED 1,000,000) one million dirhams. The court shall order the 
+refund of the illegally seized funds. 
+ 
+Article (42) 
+Cyberextortion and Cyber Threats 
+1. Whoever uses an information network or any ITE to extort or threaten another person to 
+force the latter to act or to refrain from acting shall be punished with imprisonment for 
+not more than (2) two years and/ or a fine of not less than (AED 250,000) two hundred 
+fifty thousand dirhams or more than (AED 500,000) five hundred thousand dirhams. 
+2. In the event that the person is threatened to commit a crime or to commit dishonorable 
+acts, and this is accompanied by an explicit or implicit request to act or refrain from 
+acting, the penalty shall be temporary imprisonment for not more than (10) ten years. 
+ 
+Article (43) 
+Defamation and Slander 
+Whoever uses an information network, ITE, or an information system and insults another or 
+attributes a quality to him that would make that person subject to punishment or contempt 
+by third parties shall be punished with imprisonment and/ or a fine of not less than (AED 
+250,000) two hundred fifty thousand dirhams or more than (AED 500,000) five hundred 
+thousand dirhams. 
+In the event that any of the offences abovementioned in Para. (I) of this Article is committed 
+against a public official or a person entrusted with a public service during or because of
+
+[[page 25]]
+25
+ 
+ 
+performance of his work, that shall be deemed an aggravating circumstance of the crime. 
+ 
+Article (44) 
+Revealing Secrets and Invasion of Privacy 
+Whoever uses an information network, an IS, or any ITE with the intention of invading the 
+privacy or sanctity of private or familial life of someone without his consent in cases other 
+than those authorized by law through committing any of the following actions shall be 
+punished with imprisonment for at least (6) six months and/ or a fine of not less than (AED 
+150,000) one hundred fifty thousand dirhams or more than (AED 500,000) fiver hundred 
+thousand dirhams: 
+1. Eavesdropping, intercepting, recording, transmitting, broadcasting, or revealing 
+conversations, communications or audio or visual materials. 
+2. Taking photos of third parties in any public or private place, or preparing, transferring, 
+disclosing, copying or keeping electronic photos. 
+3. Publishing news, electronic photos, images, scenes, comments, data or information, even 
+if it is true and genuine, with intention of harming the person. 
+4. Taking, transmitting, or publishing photos of the injured, the dead, or the victims of 
+accidents or disasters without permission or consent of the parties concerned. 
+5. Tracking, monitoring, revealing, transmitting, disclosing, copying or keeping the 
+geographic location data of third parties. 
+Moreover, whoever uses an IS or ITE to modify or process any record, photo or scene with 
+the intention of defaming or insulting another person shall be punished with imprisonment 
+for at least one year and/ or a fine of not less than (AED 250,000) two hundred fifty 
+thousand dirhams or more than (AED 500,000) five hundred thousand dirhams. 
+ 
+Article (45) 
+Disclosure of Confidential Information at Work 
+Whoever discloses any confidential information obtained at or because of his work or by 
+virtue of his job or profession using one of the ITE without being authorized to disclose it, or
+
+[[page 26]]
+26
+ 
+ 
+without permission from the person concerned to disclose or use the secret shall be 
+punished with imprisonment for at least (6) six months and/ or a fine of not less than (AED 
+200,000) two hundred thousand dirhams or more than (AED 1,000,000) one million 
+dirhams. 
+If the offender uses said information to gain benefits for himself or for third parties, this shall 
+be deemed an aggravating circumstance. 
+ 
+Article (46) 
+Calling for and Promoting the Collection of Donations Without a License 
+Whoever creates, manages, or supervises a website or disseminates information on the 
+information network or any ITE to call for or promote collection of donations without a 
+licenses approved by the competent authority or in violation of the conditions of this 
+licenses shall be punished with imprisonment and/ or a fine of not less than (AED 200,000) 
+two hundred thousand dirhams or more than (AED 500,000) five hundred thousand 
+dirhams. 
+ 
+Article (47) 
+Conducting Statistical Surveys or Questionnaires Without a License 
+Whoever uses an information program, information network, or ITE to conduct statistical 
+surveys or questionnaires without permit from the competent authority shall be punished 
+with imprisonment and/ or a fine of not less than (AED 100,000) one hundred thousand 
+dirhams or more than (AED 500,000) five hundred thousand dirhams. 
+In the event that offender intends to affect or harm the interests of the UAE, the penalty shall 
+be temporary imprisonment. 
+ 
+Article (48) 
+Advertisements and Promotions Misleading the Consumers 
+Whoever uses an information network, any ITE, or a website to commit any of the following 
+acts shall be punished with imprisonment and/ or a fine of not less than (AED 20,000)
+
+[[page 27]]
+27
+ 
+ 
+twenty thousand dirhams or more than (AED 500,000) five hundred thousand dirhams: 
+1. Promote a good or service through a misleading advertisement or technique which 
+include inaccurate data. 
+2. Advertise, promote, mediate, or deal in any form or encourage dealing with a virtual or 
+digital currency, a stored unit of value, or any payment unit that is not officially 
+recognized in the UAE or without obtaining a license from the competent authority. 
+ 
+Article (49) 
+Promoting Medical Products without license 
+Whoever creates, manages, or supervises a website or publishes information on an 
+information network or any ITE to promote or sell unlicensed medical products, or copies of 
+licensed medical products shall be punished with imprisonment and/ or a fine. 
+ 
+Article (50) 
+Unlawful Use of Communication Services or Broadcast Channels 
+Whoever uses or helps third parties use communication services of audio or video broadcast 
+channels unlawfully through the use of information network or any ITE shall be punished 
+with imprisonment for at least one year and/ or a fine of not less than (AED 250,000) two 
+hundred fifty thousand dirhams or more than (AED 1,000,000) one million dirhams. 
+ 
+Article (51) 
+Cyberbegging 
+Whoever commits the crime of begging using any ITE through mendicity or any other form 
+or means shall be punished with imprisonment for not more than (3) three months and/ or a 
+fine of not less than (AED 10,000) ten thousand dirhams. 
+The same penalty shall be imposed on whoever uses any ITE to request assistance from 
+federal or local government entities or one of their officials in an offensive manner or 
+contrary to the truth.
+
+[[page 28]]
+28
+ 
+ 
+Part Two 
+CRIMES OF SPREADING RUMORS AND FALSE NEWS 
+Article (52) 
+Spreading Rumors and False News 
+1. Whoever uses the information network or any ITE to announce, disseminate, 
+re-disseminate, circulate, or recirculate false news or data, or false, tendentious, 
+misleading or erroneous rumors or reports, or rumors or reports contrary to what has 
+been announced officially, or broadcasts any provocative advertisements that would 
+incite or provoke the public opinion, disturb the public peace, spread terror among 
+people, or cause harm to the public interest, the national economy, the public order, or 
+the public health shall be punished with imprisonment for at least one year and a fine of 
+not less than (AED 100,000) one hundred thousand dirhams. 
+2. If any of the acts abovementioned in Clause (1) of this Article results in incitement and 
+provocation of the public opinion against any of the UAE's authorities or entities, or is 
+committed during epidemics, crises, emergencies or disasters, the penalty shall be 
+imprisonment for at least (2) two years and a fine of not less than (AED 200,000) two 
+hundred thousand dirhams. 
+ 
+Article (53) 
+Making Available and Refraining from Removing Illegal Content 
+Whoever uses a website or electronic account to commit any of the following acts shall be 
+punished with a fine of not less than (AED 300,000) three hundred thousand dirhams or 
+more than (AED 1,000,000) one million dirhams: 
+1. Stores, makes available or publishes illegal content and does not remove it or prevent 
+access to this content within the period specified in the orders issued to him as stipulated 
+in this Decree-Law. 
+2. Refuses to comply, in whole or in part, with any of the orders issued to him and 
+stipulated in this Decree-Law without an acceptable excuse.
+
+[[page 29]]
+29
+ 
+ 
+Article (54) 
+Creating or Modifying E-robots To Disseminate False Data inside The UAE 
+Whoever creates or modifies an e-robot with the intention of disseminating, 
+re-disseminating, or circulating false data or news inside the UAE, or enabling third parties to 
+disseminate, re-disseminate or circulate it shall be punished with imprisonment for not 
+more than (2) two years and/ or a fine of not less than (AED 100,000) one hundred 
+thousand dirhams or more than (AED 1,000,000) one million dirhams. The punishment 
+shall be augmented in the event that there are multiple offenders. 
+ 
+Article (55) 
+Obtaining a Gift in Return for Spreading Illegal Content or False Data 
+Whoever requests, accepts or takes, directly or indirectly, or is promised of a materialistic of 
+non-materialistic gift or benefit, whether inside or outside the UAE, in return for publishing 
+or re-publishing illegal content or any of the false data in the UAE using any ITE shall be 
+punished with temporary imprisonment and a fine of not more than (AED 2,000,000) two 
+million dirhams. A judgment shall be made to forfeit the material gift or benefit obtained by 
+him. In the event that it is not possible to seize the same, a fine equal to the value of what 
+has been requested, offered, or accepted shall be imposed. 
+Whoever manages, or supervises, rents or purchases advertising space on an offensive 
+account or website shall be punished with the same penalty. 
+The competent authorities may consider a website or an electronic account offensive if the 
+authority verifies that it has repeatedly published false data or content in violation of the 
+law.
+
+[[page 30]]
+30
+ 
+ 
+Chapter Three 
+SPECIAL PROVISIONS CONCERNING THE PENALTIES AND MEASURES 
+FORFEITURE PENALTY 
+Article (56) 
+Without prejudice to the rights of bona fide third parties, in the event of being convicted, the 
+devices, programs, or means used in committing any of the crimes stipulated in this 
+Decree-Law, or the funds obtained from it shall be forfeited and the information or data 
+shall be deleted. 
+ 
+Article (57) 
+Penalty for Attempted Misdemeanor 
+Attempted misdemeanors stipulated in this Decree-Law shall be subject to half of the 
+penalty prescribed for the committed crime. 
+ 
+Article (58) 
+The Penalty for the Person Responsible for De Facto Management of the 
+Legal Person 
+The person responsible for the actual management of the legal person shall be punished 
+with the same penalties prescribed for the acts committed in violation of the provisions of 
+this Decree-Law if it is proven that he was aware of them and that his failure to comply with 
+of the duties imposed on him by that management has contributed to commission of the 
+crime. The legal person shall be jointly liable to pay the fines or compensations imposed if 
+the violation was committed by one of its employees in the name and for the benefit of the 
+legal person. 
+ 
+Article (59) 
+Punitive Measures 
+Upon rendering a judgment of conviction of any of the crimes stipulated in this Decree-Law,
+
+[[page 31]]
+31
+ 
+ 
+the court may decide to take any of the following measures: 
+1. Order that the convict be placed under electronic supervision or monitoring, be deprived 
+of using any information network, IS, or ITE, or be placed in a treatment shelter or 
+rehabilitation center for the duration the court deems appropriate. 
+2. Close down the violating site completely or partially whenever this is technically 
+feasible. 
+3. Block the violating site completely or partially for the duration decided by the court. 
+Whoever violates any of the measures awarded shall be punished with imprisonment for 
+not more than one year or a fine of not more than (AED 5,000) five thousand dirhams, and 
+the court may order a prolongation of the measure for a period not exceeding half of the 
+sentenced period and, in any case, not more than (3) three years. Otherwise, the court may 
+replace it with any other measure from among the aforementioned measures. 
+ 
+Article (60) 
+Aggravating Circumstances 
+In implementation of the provisions of this Decree-Law, the following shall constitute 
+aggravating circumstances: 
+1. The offender commits any of the crimes stipulated in this Decree-Law during or due to 
+the performance of his job. 
+2. The offender uses the information network, any IS, website, or ITE to commit any crime 
+that is not provided for in this Decree-Law. 
+3. The offender commits any of the crime stipulated in this Decree-Law for the account or 
+interest of a foreign country, any hostile group, terrorist group or illegal organization. 
+ 
+Article (61) 
+Exemption from Punishment 
+1. At the request of the Attorney General, the court may reduce or exempt from the 
+punishment if the offender provides the judicial or administrative authorities with 
+information related to any of the crimes stipulated in this Decree-Law whenever this
+
+[[page 32]]
+32
+ 
+ 
+information leads to the detection of the crime and its offenders, or to proving their 
+involvement, or the arrest of one of them. 
+2. In respect of crimes affecting the security of the UAE, the Attorney General of the UAE 
+alone may request the court before which the case is heard to apply the provisions of the 
+preceding paragraph in cases other than those stipulated in the preceding paragraph if 
+the request is related to the supreme interest of the UAE or any other national interest. If 
+a judgment is rendered in the case, he may submit the request to the court that has 
+rendered the judgement before or during its execution. 
+ 
+Article (62) 
+Writs To Correct, Interrupt, Disable And Block Access 
+In respect of the crimes stipulated in Article (71) of this Decree-Law, the competent 
+authorities may, either sua sponte or at the request of the Prosecutor-General, issue any of 
+the writs stipulated in this Decree-Law if they have verified the dissemination, 
+re-dissemination, or circulation of illegal content or content containing false data. 
+The writs provided for in this Decree-Law shall be issued by the competent authorities using 
+the available methods including electronic methods. 
+The writs shall be sent, according to their nature, to the person concerned or to whomever 
+this person appoints or selects to receive them on his behalf. 
+The procedures stipulated in this Article do not prejudice the authority of the Public 
+Prosecution to take any actions it deems appropriate regarding the criminal case in 
+accordance with the law. 
+ 
+Article (63) 
+Grievance and Appeal Against Orders 
+Any person against whom any of the writs stipulated in this Decree-Law have been issued 
+may file a grievance against them through filing of a grievance with the competent 
+authorities within (3) three working days from the date on which he became aware of 
+issuance of the writ, and the competent authority shall decide on the grievance within one
+
+[[page 33]]
+33
+ 
+ 
+week from the date of filing it. Passage of this period without a response shall be deemed a 
+rejection of the grievance. 
+If the grievance is rejected, this person may file an appeal against the decision before the 
+Federal Court located in the headquarters of the UAE's capital within one week from the 
+date of the rejection or the passage of the period for deciding on the grievance. 
+The appeal shall be filed by submitting a Statement accompanied by the evidence and 
+documents to the case management department at the court before which the appeal is 
+filed. 
+The court shall consider the appeal in camera and shall decide on it within (7) seven days by 
+making a decision either to revoke those writs in whole or in part, or to reject the appeal 
+after hearing the litigants' requests, and its decision shall be final. 
+ 
+Article (64) 
+Cases of Non-Absence of Criminal Liability 
+In implementation of the provisions of this Decree-Law, the following shall not be 
+considered as grounds for absence of criminal liability: 
+1. The person is subject to a duty under any legislation, legal rule, contract or code of 
+conduct that restricts or prevents him from complying with any part of the writs set forth 
+in this Decree-Law. 
+2. The person concerned or his representative submits a grievance or an appeal, as 
+applicable, against these writs in accordance with the provisions of Article (63) of this 
+Decree-Law. 
+ 
+Section Two 
+PROCEDURAL AND FINAL PROVISIONS 
+Article (65) 
+Probative Force of Evidence 
+The evidence derived or extracted from electronic devices, equipment, media, or drives, 
+information system, computer programs, or from any ITE shall have the same probative
+
+[[page 34]]
+34
+ 
+ 
+force of physical forensic evidence as a criminal evidence. 
+ 
+Article (66) 
+Powers of the Attorney General 
+1. In the cases where the criminal case lapses due to amicable settlement or compromise in 
+accordance with the provisions of this Decree-Law, the Attorney General may order that 
+the accused be placed under supervision or monitoring or be deprived of using any 
+information network, IS. or any other ITE, or undergo a rehabilitation program for the 
+duration he deems appropriate. 
+2. 2. whenever there is an evidence that a website broadcasting from inside or outside the 
+UAE has displayed any phrases, numbers, photos, films, or any advertising materials or 
+etc. which constitute one of the crimes stipulated in Article (71) of this Decree-Law, or 
+constitutes a threat to the national security or endangers the security of the UAE or its 
+national economy, the Attorney General may order the blocking of the website(s) subject 
+of the broadcast whenever it is technically feasible, or may issue any of the orders 
+stipulated in this Decree-Law. 
+ 
+Article (67) 
+Amicable Settlement 
+Either the court or the Public Prosecution, as the case may be, may accept amicable 
+settlement with the person accused in the crimes stipulated in Articles (13), (19), (24), (25), 
+(26), (27), (28), (47), (48), (49), (50), (51), (52) and (53) of this Decree-Law as follows: 
+1. Amicable settlement may take place before the criminal case is referred to the court, 
+against paying an amount that is not less than half the minimum fine or more than half 
+the maximum fine prescribed for the crime. 
+2. Amicable settlement may take place after the criminal case is referred to the court but 
+before a final judgment is rendered, against paying an amount that is not less than 
+double the minimum fine prescribed or more than two-thirds of the maximum fine. 
+3. Amicable settlement shall give rise to lapse of the criminal case and shall not affect the
+
+[[page 35]]
+35
+ 
+ 
+rights of the victim of the crime, if necessary. 
+ 
+Article (68) 
+Invoking Amicable Settlement with the Victim 
+In the crimes stipulated in Articles (2) Clause (1), (6) Clause (1), (9) Clause (1), (11) Clause 
+(1), (42) Clause (1), (43), (44) and (45) of this Decree-Law, the accused may invoke the 
+amicable settlement taking place with the victim or his representative either before the 
+public prosecution or the court, as the case may be, irrespective of the status of the criminal 
+case but before the judgment becomes final. The same shall be made in accordance with 
+provisions of penal reconciliation stipulated in the Criminal Procedure Code 
+abovementioned. 
+ 
+Article (69) 
+Entry into Force 
+Without prejudice to the provisions of the aforementioned Penal Code, the provisions of this 
+Decree-Law shall apply to everyone who commits any of the crimes stipulated in this 
+Decree-Law outside the UAE in the following cases: 
+1. If the crime involves an IS, an information network, a website, or ITE whether relating or 
+belonging to one of the government entities. 
+2. If the crime was prepared, planned, directed, supervised or financed inside the UAE. 
+3. If the crime affects the security of the UAE whether at home or abroad, or affects any of 
+its interests, or harms any of its nationals or residents. 
+4. If the offender is found in the UAE after the crime had been committed and was not 
+extradited. 
+ 
+Article (70) 
+ Judicial Officers 
+The employees, upon whom the capacity of judicial officers is conferred pursuant to a 
+resolution by the Minister of Justice or the head of the local judicial entity, as applicable, may
+
+[[page 36]]
+36
+ 
+ 
+detect and detect the acts committed in violation of the provisions of this Decree-Law. The 
+local authorities inside the Emirates shall provide these employees with necessary facilities 
+to enable them to discharge their duties. 
+ 
+Article (71) 
+Crimes against the security of the UAE 
+The crimes mentioned in Articles (3), (5), (7), (11) Clause (3), (12) Clause (3), (13), (19), (20), 
+(21), (22), (23), (24), (25), (26), (27), (28), (47) Para (II), (52), (53) and (55) of this 
+Decree-Law shall be classified as crimes against UAE's security. 
+In addition, any crime stipulated in this Decree-Law shall be classified as a crime against the 
+UAE's security if it is committed for the benefit or interest of a foreign country, terrorist 
+group, gang, or illegal organization or entity. 
+ 
+Article (72) 
+Imposition of the More Severe Punishment 
+Imposition of the penalties stipulated in this Decree-Law shall not prejudice any more 
+severe penalty stipulated in the Penal Code or any other law. 
+ 
+Article (73) 
+Repeals 
+The Decree-Law No. (5) of 2012 on Combating Cybercrimes is hereby repealed. In addition, 
+any provision shall also be repealed to the extent that they contradict or contravene with the 
+provisions of this Decree-Law.
+
+[[page 37]]
+37
+ 
+ 
+Article (74) 
+Publication and Entry of the Decree-Law Into Force 
+This Decree-Law shall be published in the Official Gazette and shall enter into force as of 02 
+January, 2022A.D. 
+ 
+ 
+ 
+ 
+Khalifa bin Zayed Al Nahyan 
+President of the United Arab Emirates 
+ 
+ 
+ 
+Issued by us at the Presidential Palace in Abu Dhabi: 
+On: 13 Safar, 1443 A.H. 
+Corresponding to: 20 September, 2021 A.D.

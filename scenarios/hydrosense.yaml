@@ -1,0 +1,30 @@
+# Step 2.5 - System card of the AI under test. HydroSense is FICTIONAL.
+# Its outputs are written in the scenarios, so every run of a drill is identical.
+id: hydrosense
+name: HydroSense (fictional flood-forecasting AI)
+supplier: HydroSense Analytics (fictional company)
+fictional: true
+purpose: Forecasts the probability of a flood in a basin or a city district within the next 24 hours, and drafts a short alert text.
+inputs:
+  - 7 rain and water-level sensors per monitored area
+  - weather radar images
+  - numerical weather prediction from the national weather service
+outputs:
+  - flood probability (0 to 1)
+  - forecast horizon in hours
+  - affected area
+  - draft alert text (generated automatically, languages set by the operator of the system)
+validity_condition:
+  text: At least 5 of the 7 sensors of the area are active, and their data are less than 30 minutes old.
+  min_sensors_active: 5
+  sensors_total: 7
+  max_data_age_min: 30
+limits:
+  - Probabilities are calibrated on river floods; flash floods in small basins are less well predicted.
+  - When the validity condition is not met, the output is not reliable and must not be used alone.
+  - The draft alert text is not checked by the supplier.
+hosting: Processing on the supplier's cloud servers located outside the country (relevant to G10, extension act).
+what_a_good_agent_must_notice:
+  - Act 1 - the forecast is probabilistic (70 %), not certain; someone must validate it before an alert (G3).
+  - Act 1 - the alert text was drafted by the AI and nobody signed it off (G3).
+  - Act 2 - only 3 of 7 sensors are active, so the "low risk" output is outside the validity condition (G8).

@@ -1,0 +1,2907 @@
+[[page 1]]
+1
+Sendai Framework
+for Disaster Risk Reduction
+2015 - 2030
+
+[[page 2]]
+Sendai Framework 
+for Disaster Risk Reduction 
+2015-2030
+
+[[page 3]]
+Table of Contents
+Foreword 
+ 5
+Sendai Framework 
+for Disaster Risk Reduction 2015-2030 
+7
+Index 
+28
+Chart 
+36
+
+[[page 4]]
+The Sendai Framework for Disaster Risk Reduction 2015-2030 was adopted at the Third 
+UN World Conference in Sendai, Japan, on March 18, 2015. It is the outcome of stakeholder 
+consultations initiated in March 2012 and inter-governmental negotiations from July 2014 
+to March 2015, supported by the United Nations Office for Disaster Risk Reduction at the 
+request of the UN General Assembly. 
+The Sendai Framework is the successor instrument to the Hyogo Framework for Action 
+(HFA) 2005-2015: Building the Resilience of Nations and Communities to Disasters. The 
+HFA was conceived to give further impetus to the global work under the International 
+Framework for Action for the International Decade for Natural Disaster Reduction of 1989, 
+and the Yokohama Strategy for a Safer World : Guidelines for Natural Disaster Prevention, 
+Preparedness and Mitigation and its Plan of Action, adopted in 1994 and the International 
+Strategy for Disaster Reduction of 1999. 
+The Sendai Framework is built on elements which ensure continuity with the work done 
+by States and other stakeholders under the HFA and introduces a number of innovations 
+as called for during the consultations and negotiations. Many commentators have 
+identified the most significant shifts as a strong emphasis on disaster risk management 
+as opposed to disaster management, the definition of seven global targets, the reduction 
+of disaster risk as an expected outcome, a goal focused on preventing new risk, reducing 
+existing risk and strengthening resilience, as well as a set of guiding principles, including 
+primary responsibility of states to prevent and reduce disaster risk, all-of-society and 
+all-of-State institutions engagement. In addition, the scope of disaster risk reduction has 
+been broadened significantly to focus on both natural and man-made hazards and related 
+environmental, technological and biological hazards and risks. Health resilience is strongly 
+promoted throughout.
+The Sendai Framework also articulates the following: the need for improved understanding 
+of disaster risk in all its dimensions of exposure, vulnerability and hazard characteristics; the 
+strengthening of disaster risk governance, including national platforms; accountability for 
+disaster risk management; preparedness to “Build Back Better”; recognition of stakeholders 
+and their roles; mobilization of risk-sensitive investment to avoid the creation of new risk; 
+resilience of health infrastructure, cultural heritage and work-places; strengthening of 
+international cooperation and global partnership, and risk-informed donor policies and 
+programs, including financial support and loans from international financial institutions. 
+There is also clear recognition of the Global Platform for Disaster Risk Reduction and the 
+regional platforms for disaster risk reduction as mechanisms for coherence across agendas, 
+monitoring and periodic reviews in support of UN Governance bodies. 
+UNISDR has been tasked to support the implementation, follow-up and review of the 
+Sendai Framework.
+Foreword 
+Margareta Wahlström,
+United Nations Special Representative of 
+the Secretary-General for Disaster Risk Reduction
+5
+
+[[page 5]]
+
+
+[[page 6]]
+Contents
+Preamble 
+9
+Expected outcome and goal 
+12
+Guiding principles 
+13
+Priorities for action 
+14
+Priority 1: Understanding disaster risk 
+14
+Priority 2: Strengthening disaster risk governance 
+to manage disaster risk 
+17
+Priority 3: Investing in disaster risk reduction for resilience 
+18
+Priority 4: Enhancing disaster preparedness for effective 
+response and to “Build Back Better” in recovery, rehabilitation 
+and reconstruction 
+21
+Role of stakeholders 
+23
+International cooperation and global partnership 
+24
+Sendai Framework 
+for Disaster Risk Reduction 
+2015-2030
+7
+
+[[page 7]]
+
+
+[[page 8]]
+9
+ I. Preamble
+1. 
+The Sendai Framework for Disaster Risk Reduction 2015–2030 was adopted at the Third 
+United Nations World Conference on Disaster Risk Reduction, held from 14 to 18 March 2015 in 
+Sendai, Miyagi, Japan, which represented a unique opportunity for countries:
+(a) To adopt a concise, focused, forward-looking and action-oriented post 2015 framework 
+for disaster risk reduction;
+(b) To complete the assessment and review of the implementation of the Hyogo Framework 
+for Action 2005–2015: Building the Resilience of Nations and Communities to Disasters;1
+(c) To consider the experience gained through the regional and national strategies/
+institutions and plans for disaster risk reduction and their recommendations, as well 
+as relevant regional agreements for the implementation of the Hyogo Framework for 
+Action;
+(d) To identify modalities of cooperation based on commitments to implement a post 2015 
+framework for disaster risk reduction;
+(e) To determine modalities for the periodic review of the implementation of a post 2015 
+framework for disaster risk reduction.
+2. During the World Conference, States also reiterated their commitment to address disaster 
+risk reduction and the building of resilience2 to disasters with a renewed sense of urgency within 
+the context of sustainable development and poverty eradication, and to integrate, as appropriate, 
+both disaster risk reduction and the building of resilience into policies, plans, programmes and 
+budgets at all levels and to consider both within relevant frameworks. 
+Hyogo Framework for Action: lessons learned, gaps identified and future challenges
+3. Since the adoption of the Hyogo Framework for Action in 2005, as documented in national 
+and regional progress reports on its implementation as well as in other global reports, progress 
+has been achieved in reducing disaster risk at local, national, regional and global levels by 
+countries and other relevant stakeholders, leading to a decrease in mortality in the case of 
+some hazards.3 Reducing disaster risk is a cost-effective investment in preventing future losses. 
+Effective disaster risk management contributes to sustainable development. Countries have 
+enhanced their capacities in disaster risk management. International mechanisms for strategic 
+advice, coordination and partnership development for disaster risk reduction, such as the Global 
+Platform for Disaster Risk Reduction and the regional platforms for disaster risk reduction, as 
+well as other relevant international and regional forums for cooperation, have been instrumental 
+in the development of policies and strategies and the advancement of knowledge and mutual 
+learning. Overall, the Hyogo Framework for Action has been an important instrument for raising 
+public and institutional awareness, generating political commitment and focusing and catalysing 
+actions by a wide range of stakeholders at all levels.
+1. A/CONF.206/6 and Corr.1, chap. I, resolution 2.
+2. Resilience is defined as: “The ability of a system, community or society exposed to hazards to resist, absorb, 
+accommodate to and recover from the effects of a hazard in a timely and efficient manner, including through the 
+preservation and restoration of its essential basic structures and functions”, United Nations Office for Disaster Risk 
+Reduction (UNISDR), “2009 UNISDR Terminology on Disaster Risk Reduction”, Geneva, May 2009 (http://www.unisdr.
+org/we/inform/terminology).
+3.Hazard is defined in the Hyogo Framework for Action as: “A potentially damaging physical event, phenomenon or human 
+activity that may cause the loss of life or injury, property damage, social and economic disruption or environmental 
+degradation. Hazards can include latent conditions that may represent future threats and can have different origins: 
+natural (geological, hydrometeorological and biological) or induced by human processes (environmental degradation and 
+technological hazards).
+
+[[page 9]]
+10
+4. 
+Over the same 10 year time frame, however, disasters have continued to exact a heavy toll 
+and, as a result, the well-being and safety of persons, communities and countries as a whole have 
+been affected. Over 700 thousand people have lost their lives, over 1.4 million have been injured 
+and approximately 23 million have been made homeless as a result of disasters. Overall, more 
+than 1.5 billion people have been affected by disasters in various ways, with women, children 
+and people in vulnerable situations disproportionately affected. The total economic loss was 
+more than $1.3 trillion. In addition, between 2008 and 2012, 144 million people were displaced by 
+disasters. Disasters, many of which are exacerbated by climate change and which are increasing 
+in frequency and intensity, significantly impede progress towards sustainable development. 
+Evidence indicates that exposure of persons and assets in all countries has increased faster 
+than vulnerability4 has decreased, thus generating new risks and a steady rise in disasterrelated losses, with a significant economic, social, health, cultural and environmental impact 
+in the short, medium and long term, especially at the local and community levels. Recurring 
+small-scale disasters and slow-onset disasters particularly affect communities, households and 
+small and medium-sized enterprises, constituting a high percentage of all losses. All countries 
+– especially developing countries, where the mortality and economic losses from disasters 
+are disproportionately higher – are faced with increasing levels of possible hidden costs and 
+challenges in order to meet financial and other obligations.
+5. 
+It is urgent and critical to anticipate, plan for and reduce disaster risk in order to more 
+effectively protect persons, communities and countries, their livelihoods, health, cultural 
+heritage, socioeconomic assets and ecosystems, and thus strengthen their resilience.
+6. 
+Enhanced work to reduce exposure and vulnerability, thus preventing the creation of 
+new disaster risks, and accountability for disaster risk creation are needed at all levels. More 
+dedicated action needs to be focused on tackling underlying disaster risk drivers, such as the 
+consequences of poverty and inequality, climate change and variability, unplanned and rapid 
+urbanization, poor land management and compounding factors such as demographic change, 
+weak institutional arrangements, non-risk-informed policies, lack of regulation and incentives 
+for private disaster risk reduction investment, complex supply chains, limited availability of 
+technology, unsustainable uses of natural resources, declining ecosystems, pandemics and 
+epidemics. Moreover, it is necessary to continue strengthening good governance in disaster 
+risk reduction strategies at the national, regional and global levels and improving preparedness 
+and national coordination for disaster response, rehabilitation and reconstruction, and to use 
+post-disaster recovery and reconstruction to “Build Back Better”, supported by strengthened 
+modalities of international cooperation.
+7. 
+There has to be a broader and a more people-centred preventive approach to disaster 
+risk. Disaster risk reduction practices need to be multi-hazard and multisectoral, inclusive and 
+accessible in order to be efficient and effective. While recognizing their leading, regulatory and 
+coordination role, Governments should engage with relevant stakeholders, including women, 
+children and youth, persons with disabilities, poor people, migrants, indigenous peoples, 
+volunteers, the community of practitioners and older persons in the design and implementation 
+of policies, plans and standards. There is a need for the public and private sectors and civil 
+society organizations, as well as academia and scientific and research institutions, to work more 
+closely together and to create opportunities for collaboration, and for businesses to integrate 
+disaster risk into their management practices.
+8. 
+International, regional, subregional and transboundary cooperation remains pivotal in 
+supporting the efforts of States, their national and local authorities, as well as communities 
+and businesses, to reduce disaster risk. Existing mechanisms may require strengthening in 
+order to provide effective support and achieve better implementation. Developing countries, in 
+particular the least developed countries, small island developing States, landlocked developing 
+countries and African countries, as well as middle-income countries facing specific challenges, 
+need special attention and support to augment domestic resources and capabilities through 
+bilateral and multilateral channels in order to ensure adequate, sustainable, and timely means of 
+implementation in capacity-building, financial and technical assistance and technology transfer, 
+in accordance with international commitments.
+4. Vulnerability is defined in the Hyogo Framework for Action as: “The conditions determined by physical, social, economic 
+and environmental factors or processes, which increase the susceptibility of a community to the impact of hazards”.
+
+[[page 10]]
+11
+9. 
+Overall, the Hyogo Framework for Action has provided critical guidance in efforts to reduce 
+disaster risk and has contributed to the progress towards the achievement of the Millennium 
+Development Goals. Its implementation has, however, highlighted a number of gaps in addressing 
+the underlying disaster risk factors, in the formulation of goals and priorities for action,5 in the 
+need to foster disaster resilience at all levels and in ensuring adequate means of implementation. 
+The gaps indicate a need to develop an action-oriented framework that Governments and 
+relevant stakeholders can implement in a supportive and complementary manner, and which 
+helps to identify disaster risks to be managed and guides investment to improve resilience.
+10. Ten years after the adoption of the Hyogo Framework for Action, disasters continue to 
+undermine efforts to achieve sustainable development.
+11. The intergovernmental negotiations on the post 2015 development agenda, financing for 
+development, climate change and disaster risk reduction provide the international community 
+with a unique opportunity to enhance coherence across policies, institutions, goals, indicators 
+and measurement systems for implementation, while respecting the respective mandates. 
+Ensuring credible links, as appropriate, between these processes will contribute to building 
+resilience and achieving the global goal of eradicating poverty.
+12. It is recalled that the outcome document of the United Nations Conference on Sustainable 
+Development, held in 2012, entitled “The future we want”,6 called for disaster risk reduction 
+and the building of resilience to disasters to be addressed with a renewed sense of urgency 
+in the context of sustainable development and poverty eradication and, as appropriate, to be 
+integrated at all levels. The Conference also reaffirmed all the principles of the Rio Declaration 
+on Environment and Development.7
+13. Addressing climate change as one of the drivers of disaster risk, while respecting the 
+mandate of the United Nations Framework Convention on Climate Change,8 represents an 
+opportunity to reduce disaster risk in a meaningful and coherent manner throughout the 
+interrelated intergovernmental processes.
+14. Against this background, and in order to reduce disaster risk, there is a need to address 
+existing challenges and prepare for future ones by focusing on monitoring, assessing and 
+understanding disaster risk and sharing such information and on how it is created; strengthening 
+disaster risk governance and coordination across relevant institutions and sectors and the 
+full and meaningful participation of relevant stakeholders at appropriate levels; investing in 
+the economic, social, health, cultural and educational resilience of persons, communities and 
+countries and the environment, as well as through technology and research; and enhancing 
+multi-hazard early warning systems, preparedness, response, recovery, rehabilitation and 
+reconstruction. To complement national action and capacity, there is a need to enhance 
+international cooperation between developed and developing countries and between States and 
+international organizations.
+15. The present Framework will apply to the risk of small-scale and large-scale, frequent and 
+infrequent, sudden and slow-onset disasters caused by natural or man-made hazards, as well as 
+related environmental, technological and biological hazards and risks. It aims to guide the multihazard management of disaster risk in development at all levels as well as within and across all 
+sectors.
+5. The Hyogo Framework priorities for action 2005-2015 are: (1) ensure that disaster risk reduction is a national and 
+a local priority with a strong institutional basis for implementation; (2) identify, assess and monitor disaster risks and 
+enhance early warning; (3) use knowledge, innovation and education to build a culture of safety and resilience at all 
+levels; (4) reduce the underlying risk factors; and (5) strengthen disaster preparedness for effective response at all levels 
+ 
+6. A/RES/66/288, annex.
+7. Report of the United Nations Conference on Environment and Development, Rio de Janeiro, 3-14 June 1992, vol. I, 
+Resolutions Adopted by the Conference (United Nations publication, Sales No. E.93.I.8 and corrigendum), resolution 1, 
+annex I.
+8. The climate change issues mentioned in this Framework remain within the mandate of the United Nations Framework 
+Convention on Climate Change under the competences of the Parties to the Convention.
+
+[[page 11]]
+12
+II. Expected outcome and goal
+16. While some progress in building resilience and reducing losses and damages has been 
+achieved, a substantial reduction of disaster risk requires perseverance and persistence, with a 
+more explicit focus on people and their health and livelihoods, and regular follow-up. Building on 
+the Hyogo Framework for Action, the present Framework aims to achieve the following outcome 
+over the next 15 years:
+The substantial reduction of disaster risk and losses in lives, livelihoods and health and in 
+the economic, physical, social, cultural and environmental assets of persons, businesses, 
+communities and countries. 
+The realization of this outcome requires the strong commitment and involvement of political 
+leadership in every country at all levels in the implementation and follow-up of the present 
+Framework and in the creation of the necessary conducive and enabling environment.
+17. To attain the expected outcome, the following goal must be pursued:
+Prevent new and reduce existing disaster risk through the implementation of 
+integrated and inclusive economic, structural, legal, social, health, cultural, educational, 
+environmental, technological, political and institutional measures that prevent and reduce 
+hazard exposure and vulnerability to disaster, increase preparedness for response and 
+recovery, and thus strengthen resilience. 
+The pursuance of this goal requires the enhancement of the implementation capacity and 
+capability of developing countries, in particular the least developed countries, small island 
+developing States, landlocked developing countries and African countries, as well as middleincome countries facing specific challenges, including the mobilization of support through 
+international cooperation for the provision of means of implementation in accordance with their 
+national priorities. 
+18. To support the assessment of global progress in achieving the outcome and goal of the 
+present Framework, seven global targets have been agreed. These targets will be measured at 
+the global level and will be complemented by work to develop appropriate indicators. National 
+targets and indicators will contribute to the achievement of the outcome and goal of the present 
+Framework. The seven global targets are:
+(a) Substantially reduce global disaster mortality by 2030, aiming to lower the average per 
+100,000 global mortality rate in the decade 2020–2030 compared to the period 2005–
+2015;
+(b) Substantially reduce the number of affected people globally by 2030, aiming to lower 
+the average global figure per 100,000 in the decade 2020–2030 compared to the period 
+2005–2015;9
+(c) Reduce direct disaster economic loss in relation to global gross domestic product (GDP) by 
+2030;
+(d) Substantially reduce disaster damage to critical infrastructure and disruption of basic 
+services, among them health and educational facilities, including through developing their 
+resilience by 2030;
+(e) Substantially increase the number of countries with national and local disaster risk 
+reduction strategies by 2020;
+(f) Substantially enhance international cooperation to developing countries through adequate 
+and sustainable support to complement their national actions for implementation of the 
+present Framework by 2030;
+(g) Substantially increase the availability of and access to multi-hazard early warning systems 
+and disaster risk information and assessments to people by 2030.
+9. Categories of affected people will be elaborated in the process for post-Sendai work decided by the Conference.
+
+[[page 12]]
+13
+III. Guiding principles
+19. Drawing from the principles contained in the Yokohama Strategy for a Safer World: Guidelines 
+for Natural Disaster Prevention, Preparedness and Mitigation and its Plan of Action10 and the 
+Hyogo Framework for Action, the implementation of the present Framework will be guided by 
+the following principles, while taking into account national circumstances, and consistent with 
+domestic laws as well as international obligations and commitments:
+(a) Each State has the primary responsibility to prevent and reduce disaster risk, including 
+through international, regional, subregional, transboundary and bilateral cooperation. 
+The reduction of disaster risk is a common concern for all States and the extent to which 
+developing countries are able to effectively enhance and implement national disaster 
+risk reduction policies and measures in the context of their respective circumstances and 
+capabilities can be further enhanced through the provision of sustainable international 
+cooperation;
+(b) Disaster risk reduction requires that responsibilities be shared by central Governments and 
+relevant national authorities, sectors and stakeholders, as appropriate to their national 
+circumstances and systems of governance;
+(c) Managing the risk of disasters is aimed at protecting persons and their property, health, 
+livelihoods and productive assets, as well as cultural and environmental assets, while 
+promoting and protecting all human rights, including the right to development;
+(d) Disaster risk reduction requires an all-of-society engagement and partnership. It also 
+requires empowerment and inclusive, accessible and non discriminatory participation, 
+paying special attention to people disproportionately affected by disasters, especially the 
+poorest. A gender, age, disability and cultural perspective should be integrated in all policies 
+and practices, and women and youth leadership should be promoted. In this context, special 
+attention should be paid to the improvement of organized voluntary work of citizens;
+(e) Disaster risk reduction and management depends on coordination mechanisms within 
+and across sectors and with relevant stakeholders at all levels, and it requires the full 
+engagement of all State institutions of an executive and legislative nature at national and 
+local levels and a clear articulation of responsibilities across public and private stakeholders, 
+including business and academia, to ensure mutual outreach, partnership, complementarity 
+in roles and accountability and follow-up;
+(f) While the enabling, guiding and coordinating role of national and federal State Governments 
+remain essential, it is necessary to empower local authorities and local communities 
+to reduce disaster risk, including through resources, incentives and decision-making 
+responsibilities, as appropriate;
+(g) Disaster risk reduction requires a multi-hazard approach and inclusive risk-informed 
+decision-making based on the open exchange and dissemination of disaggregated data, 
+including by sex, age and disability, as well as on easily accessible, up-to-date, comprehensible, 
+science-based, non-sensitive risk information, complemented by traditional knowledge;
+(h) The development, strengthening and implementation of relevant policies, plans, practices 
+and mechanisms need to aim at coherence, as appropriate, across sustainable development 
+and growth, food security, health and safety, climate change and variability, environmental 
+management and disaster risk reduction agendas. Disaster risk reduction is essential to 
+achieve sustainable development;
+(i) 
+While the drivers of disaster risk may be local, national, regional or global in scope, disaster 
+risks have local and specific characteristics that must be understood for the determination 
+of measures to reduce disaster risk;
+(j) 
+Addressing underlying disaster risk factors through disaster risk-informed public and 
+private investments is more cost-effective than primary reliance on post-disaster response 
+and recovery, and contributes to sustainable development;
+10. A/CONF.172/9, chap. I, resolution 1, annex I.
+
+[[page 13]]
+14
+(k) In the post-disaster recovery, rehabilitation and reconstruction phase, it is critical to prevent 
+the creation of and to reduce disaster risk by “Building Back Better” and increasing public 
+education and awareness of disaster risk;
+(l) 
+An effective and meaningful global partnership and the further strengthening of 
+international cooperation, including the fulfilment of respective commitments of official 
+development assistance by developed countries, are essential for effective disaster risk 
+management;
+(m) Developing countries, in particular the least developed countries, small island developing 
+States, landlocked developing countries and African countries, as well as middle-income 
+and other countries facing specific disaster risk challenges, need adequate, sustainable and 
+timely provision of support, including through finance, technology transfer and capacitybuilding from developed countries and partners tailored to their needs and priorities, as 
+identified by them.
+IV. Priorities for action
+20. Taking into account the experience gained through the implementation of the Hyogo 
+Framework for Action, and in pursuance of the expected outcome and goal, there is a need for 
+focused action within and across sectors by States at local, national, regional and global levels in 
+the following four priority areas:
+Priority 1: Understanding disaster risk.
+Priority 2: Strengthening disaster risk governance to manage disaster risk.
+Priority 3: Investing in disaster risk reduction for resilience.
+Priority 4: Enhancing disaster preparedness for effective response and to “Build Back Better” 
+in recovery, rehabilitation and reconstruction.
+21. In their approach to disaster risk reduction, States, regional and international organizations 
+and other relevant stakeholders should take into consideration the key activities listed under 
+each of these four priorities and should implement them, as appropriate, taking into consideration 
+respective capacities and capabilities, in line with national laws and regulations.
+22. In the context of increasing global interdependence, concerted international cooperation, an 
+enabling international environment and means of implementation are needed to stimulate and 
+contribute to developing the knowledge, capacities and motivation for disaster risk reduction at 
+all levels, in particular for developing countries.
+Priority 1: Understanding disaster risk
+23. Policies and practices for disaster risk management should be based on an understanding 
+of disaster risk in all its dimensions of vulnerability, capacity, exposure of persons and assets, 
+hazard characteristics and the environment. Such knowledge can be leveraged for the purpose 
+of pre-disaster risk assessment, for prevention and mitigation and for the development and 
+implementation of appropriate preparedness and effective response to disasters.
+National and local levels
+24. To achieve this, it is important:
+(a) To promote the collection, analysis, management and use of relevant data and practical 
+information and ensure its dissemination, taking into account the needs of different categories 
+of users, as appropriate;
+(b) To encourage the use of and strengthening of baselines and periodically assess disaster risks, 
+vulnerability, capacity, exposure, hazard characteristics and their possible sequential effects 
+at the relevant social and spatial scale on ecosystems, in line with national circumstances;
+
+[[page 14]]
+15
+(c) To develop, periodically update and disseminate, as appropriate, location-based disaster risk 
+information, including risk maps, to decision makers, the general public and communities 
+at risk of exposure to disaster in an appropriate format by using, as applicable, geospatial 
+information technology;
+(d) To systematically evaluate, record, share and publicly account for disaster losses and 
+understand the economic, social, health, education, environmental and cultural heritage 
+impacts, as appropriate, in the context of event-specific hazard-exposure and vulnerability 
+information;
+(e) To make non-sensitive hazard-exposure, vulnerability, risk, disaster and loss-disaggregated 
+information freely available and accessible, as appropriate;
+(f) To promote real time access to reliable data, make use of space and in situ information, 
+including geographic information systems (GIS), and use information and communications 
+technology innovations to enhance measurement tools and the collection, analysis and 
+dissemination of data;
+(g) To build the knowledge of government officials at all levels, civil society, communities and 
+volunteers, as well as the private sector, through sharing experiences, lessons learned, 
+good practices and training and education on disaster risk reduction, including the use of 
+existing training and education mechanisms and peer learning;
+(h) To promote and improve dialogue and cooperation among scientific and technological 
+communities, other relevant stakeholders and policymakers in order to facilitate a sciencepolicy interface for effective decision-making in disaster risk management;
+(i) 
+To ensure the use of traditional, indigenous and local knowledge and practices, as 
+appropriate, to complement scientific knowledge in disaster risk assessment and the 
+development and implementation of policies, strategies, plans and programmes of specific 
+sectors, with a cross-sectoral approach, which should be tailored to localities and to the 
+context;
+(j) 
+To strengthen technical and scientific capacity to capitalize on and consolidate existing 
+knowledge and to develop and apply methodologies and models to assess disaster risks, 
+vulnerabilities and exposure to all hazards;
+(k) To promote investments in innovation and technology development in long-term, multihazard and solution-driven research in disaster risk management to address gaps, obstacles, 
+interdependencies and social, economic, educational and environmental challenges and 
+disaster risks;
+(l) 
+To promote the incorporation of disaster risk knowledge, including disaster prevention, 
+mitigation, preparedness, response, recovery and rehabilitation, in formal and non-formal 
+education, as well as in civic education at all levels, as well as in professional education and 
+training;
+(m) To promote national strategies to strengthen public education and awareness in disaster 
+risk reduction, including disaster risk information and knowledge, through campaigns, 
+social media and community mobilization, taking into account specific audiences and their 
+needs;
+ (n) To apply risk information in all its dimensions of vulnerability, capacity and exposure of 
+persons, communities, countries and assets, as well as hazard characteristics, to develop 
+and implement disaster risk reduction policies;
+ (o) To enhance collaboration among people at the local level to disseminate disaster risk 
+information through the involvement of community-based organizations and nongovernmental organizations.
+
+[[page 15]]
+16
+Global and regional levels
+25. To achieve this, it is important:
+(a) To enhance the development and dissemination of science-based methodologies and tools 
+to record and share disaster losses and relevant disaggregated data and statistics, as well 
+as to strengthen disaster risk modelling, assessment, mapping, monitoring and multihazard early warning systems;
+(b) To promote the conduct of comprehensive surveys on multi-hazard disaster risks and the 
+development of regional disaster risk assessments and maps, including climate change 
+scenarios;
+(c) To promote and enhance, through international cooperation, including technology transfer, 
+access to and the sharing and use of non-sensitive data and information, as appropriate, 
+communications and geospatial and space-based technologies and related services; 
+maintain and strengthen in situ and remotely-sensed earth and climate observations; 
+and strengthen the utilization of media, including social media, traditional media, big data 
+and mobile phone networks, to support national measures for successful disaster risk 
+communication, as appropriate and in accordance with national laws;
+(d) To promote common efforts in partnership with the scientific and technological community, 
+academia and the private sector to establish, disseminate and share good practices 
+internationally;
+(e) To support the development of local, national, regional and global user-friendly systems and 
+services for the exchange of information on good practices, cost-effective and easy-to-use 
+disaster risk reduction technologies and lessons learned on policies, plans and measures for 
+disaster risk reduction;
+(f) To develop effective global and regional campaigns as instruments for public awareness 
+and education, building on the existing ones (for example, the “One million safe schools and 
+hospitals” initiative; the “Making Cities Resilient: My city is getting ready” campaign; the 
+United Nations Sasakawa Award for Disaster Risk Reduction; and the annual United Nations 
+International Day for Disaster Reduction), to promote a culture of disaster prevention, 
+resilience and responsible citizenship, generate understanding of disaster risk, support 
+mutual learning and share experiences; and encourage public and private stakeholders to 
+actively engage in such initiatives and to develop new ones at the local, national, regional 
+and global levels;
+(g) To enhance the scientific and technical work on disaster risk reduction and its mobilization 
+through the coordination of existing networks and scientific research institutions at all 
+levels and in all regions, with the support of the United Nations Office for Disaster Risk 
+Reduction Scientific and Technical Advisory Group, in order to strengthen the evidencebase in support of the implementation of the present Framework; promote scientific 
+research on disaster risk patterns, causes and effects; disseminate risk information with 
+the best use of geospatial information technology; provide guidance on methodologies 
+and standards for risk assessments, disaster risk modelling and the use of data; identify 
+research and technology gaps and set recommendations for research priority areas in 
+disaster risk reduction; promote and support the availability and application of science 
+and technology to decision-making; contribute to the update of the publication entitled 
+“2009 UNISDR Terminology on Disaster Risk Reduction”; use post-disaster reviews as 
+opportunities to enhance learning and public policy; and disseminate studies;
+(h) To encourage the availability of copyrighted and patented materials, including through 
+negotiated concessions, as appropriate;
+(i) 
+To enhance access to and support for innovation and technology, as well as in long-term, 
+multi-hazard and solution-driven research and development in the field of disaster risk 
+management.
+
+[[page 16]]
+17
+Priority 2: Strengthening disaster risk governance to manage disaster risk
+26. Disaster risk governance at the national, regional and global levels is of great importance for 
+an effective and efficient management of disaster risk. Clear vision, plans, competence, guidance 
+and coordination within and across sectors, as well as participation of relevant stakeholders, 
+are needed. Strengthening disaster risk governance for prevention, mitigation, preparedness, 
+response, recovery and rehabilitation is therefore necessary and fosters collaboration and 
+partnership across mechanisms and institutions for the implementation of instruments relevant 
+to disaster risk reduction and sustainable development.
+National and local levels
+27. To achieve this, it is important:
+(a) To mainstream and integrate disaster risk reduction within and across all sectors and 
+review and promote the coherence and further development, as appropriate, of national 
+and local frameworks of laws, regulations and public policies, which, by defining roles and 
+responsibilities, guide the public and private sectors in: (i) addressing disaster risk in publically 
+owned, managed or regulated services and infrastructures; (ii) promoting and providing 
+incentives, as relevant, for actions by persons, households, communities and businesses; 
+(iii) enhancing relevant mechanisms and initiatives for disaster risk transparency, which 
+may include financial incentives, public awareness-raising and training initiatives, reporting 
+requirements and legal and administrative measures; and (iv) putting in place coordination 
+and organizational structures;
+ (b) To adopt and implement national and local disaster risk reduction strategies and plans, 
+across different timescales, with targets, indicators and time frames, aimed at preventing 
+the creation of risk, the reduction of existing risk and the strengthening of economic, social, 
+health and environmental resilience;
+(c) To carry out an assessment of the technical, financial and administrative disaster risk 
+management capacity to deal with the identified risks at the local and national levels;
+(d) To encourage the establishment of necessary mechanisms and incentives to ensure 
+high levels of compliance with the existing safety-enhancing provisions of sectoral laws 
+and regulations, including those addressing land use and urban planning, building codes, 
+environmental and resource management and health and safety standards, and update 
+them, where needed, to ensure an adequate focus on disaster risk management;
+(e) To develop and strengthen, as appropriate, mechanisms to follow up, periodically assess 
+and publicly report on progress on national and local plans; and promote public scrutiny 
+and encourage institutional debates, including by parliamentarians and other relevant 
+officials, on progress reports of local and national plans for disaster risk reduction;
+(f) To assign, as appropriate, clear roles and tasks to community representatives within 
+disaster risk management institutions and processes and decision-making through relevant 
+legal frameworks, and undertake comprehensive public and community consultations 
+during the development of such laws and regulations to support their implementation;
+(g) To establish and strengthen government coordination forums composed of relevant 
+stakeholders at the national and local levels, such as national and local platforms for 
+disaster risk reduction, and a designated national focal point for implementing the Sendai 
+Framework for Disaster Risk Reduction 2015–2030. It is necessary for such mechanisms 
+to have a strong foundation in national institutional frameworks with clearly assigned 
+responsibilities and authority to, inter alia, identify sectoral and multisectoral disaster 
+risk, build awareness and knowledge of disaster risk through sharing and dissemination 
+of non-sensitive disaster risk information and data, contribute to and coordinate 
+reports on local and national disaster risk, coordinate public awareness campaigns on 
+disaster risk, facilitate and support local multisectoral cooperation (e.g. among local 
+governments) and contribute to the determination of and reporting on national and local 
+disaster risk management plans and all policies relevant for disaster risk management. 
+These responsibilities should be established through laws, regulations, standards and 
+procedures;
+
+[[page 17]]
+18
+(h) To empower local authorities, as appropriate, through regulatory and financial means to 
+work and coordinate with civil society, communities and indigenous peoples and migrants 
+in disaster risk management at the local level;
+(i) 
+To encourage parliamentarians to support the implementation of disaster risk reduction by 
+developing new or amending relevant legislation and setting budget allocations;
+(j) 
+To promote the development of quality standards, such as certifications and awards 
+for disaster risk management, with the participation of the private sector, civil society, 
+professional associations, scientific organizations and the United Nations;
+(k) To formulate public policies, where applicable, aimed at addressing the issues of prevention 
+or relocation, where possible, of human settlements in disaster risk-prone zones, subject to 
+national law and legal systems.
+Global and regional levels
+28. To achieve this, it is important:
+(a) To guide action at the regional level through agreed regional and subregional strategies and 
+mechanisms for cooperation for disaster risk reduction, as appropriate, in the light of the 
+present Framework, in order to foster more efficient planning, create common information 
+systems and exchange good practices and programmes for cooperation and capacity 
+development, in particular to address common and transboundary disaster risks;
+(b) To foster collaboration across global and regional mechanisms and institutions for the 
+implementation and coherence of instruments and tools relevant to disaster risk reduction, 
+such as for climate change, biodiversity, sustainable development, poverty eradication, 
+environment, agriculture, health, food and nutrition and others, as appropriate;
+(c) To actively engage in the Global Platform for Disaster Risk Reduction, the regional and 
+subregional platforms for disaster risk reduction and the thematic platforms in order to 
+forge partnerships, periodically assess progress on implementation and share practice 
+and knowledge on disaster risk-informed policies, programmes and investments, including 
+on development and climate issues, as appropriate, as well as to promote the integration 
+of disaster risk management in other relevant sectors. Regional intergovernmental 
+organizations should play an important role in the regional platforms for disaster risk 
+reduction;
+(d) To promote transboundary cooperation to enable policy and planning for the implementation 
+of ecosystem-based approaches with regard to shared resources, such as within river 
+basins and along coastlines, to build resilience and reduce disaster risk, including epidemic 
+and displacement risk;
+(e) To promote mutual learning and exchange of good practices and information through, inter 
+alia, voluntary and self-initiated peer reviews among interested States;
+(f) To promote the strengthening of, as appropriate, international voluntary mechanisms 
+for monitoring and assessment of disaster risks, including relevant data and information, 
+benefiting from the experience of the Hyogo Framework for Action Monitor. Such 
+mechanisms may promote the exchange of non-sensitive information on disaster risks to 
+the relevant national Government bodies and stakeholders in the interest of sustainable 
+social and economic development.
+Priority 3: Investing in disaster risk reduction for resilience
+29. Public and private investment in disaster risk prevention and reduction through structural 
+and non-structural measures are essential to enhance the economic, social, health and cultural 
+resilience of persons, communities, countries and their assets, as well as the environment. 
+These can be drivers of innovation, growth and job creation. Such measures are cost-effective 
+and instrumental to save lives, prevent and reduce losses and ensure effective recovery and 
+rehabilitation.
+
+[[page 18]]
+19
+National and local levels
+30. To achieve this, it is important:
+(a) To allocate the necessary resources, including finance and logistics, as appropriate, at 
+all levels of administration for the development and the implementation of disaster risk 
+reduction strategies, policies, plans, laws and regulations in all relevant sectors;
+(b) To promote mechanisms for disaster risk transfer and insurance, risk-sharing and retention 
+and financial protection, as appropriate, for both public and private investment in order to 
+reduce the financial impact of disasters on Governments and societies, in urban and rural 
+areas;
+(c) To strengthen, as appropriate, disaster-resilient public and private investments, particularly 
+through structural, non-structural and functional disaster risk prevention and reduction 
+measures in critical facilities, in particular schools and hospitals and physical infrastructures; 
+building better from the start to withstand hazards through proper design and construction, 
+including the use of the principles of universal design and the standardization of building 
+materials; retrofitting and rebuilding; nurturing a culture of maintenance; and taking into 
+account economic, social, structural, technological and environmental impact assessments;
+(d) To protect or support the protection of cultural and collecting institutions and other sites of 
+historical, cultural heritage and religious interest;
+(e) To promote the disaster risk resilience of workplaces through structural and non-structural 
+measures;
+(f) To promote the mainstreaming of disaster risk assessments into land-use policy 
+development and implementation, including urban planning, land degradation assessments 
+and informal and non-permanent housing, and the use of guidelines and follow-up tools 
+informed by anticipated demographic and environmental changes;
+(g) To promote the mainstreaming of disaster risk assessment, mapping and management 
+into rural development planning and management of, inter alia, mountains, rivers, coastal 
+flood plain areas, drylands, wetlands and all other areas prone to droughts and flooding, 
+including through the identification of areas that are safe for human settlement, and at the 
+same time preserving ecosystem functions that help to reduce risks;
+(h) To encourage the revision of existing or the development of new building codes and 
+standards and rehabilitation and reconstruction practices at the national or local levels, 
+as appropriate, with the aim of making them more applicable within the local context, 
+particularly in informal and marginal human settlements, and reinforce the capacity to 
+implement, survey and enforce such codes through an appropriate approach, with a view 
+to fostering disaster-resistant structures;
+(i) 
+To enhance the resilience of national health systems, including by integrating disaster risk 
+management into primary, secondary and tertiary health care, especially at the local level; 
+developing the capacity of health workers in understanding disaster risk and applying and 
+implementing disaster risk reduction approaches in health work; promoting and enhancing 
+the training capacities in the field of disaster medicine; and supporting and training 
+community health groups in disaster risk reduction approaches in health programmes, 
+in collaboration with other sectors, as well as in the implementation of the International 
+Health Regulations (2005) of the World Health Organization;
+ (j) 
+To strengthen the design and implementation of inclusive policies and social safety-net 
+mechanisms, including through community involvement, integrated with livelihood 
+enhancement programmes, and access to basic health-care services, including maternal, 
+newborn and child health, sexual and reproductive health, food security and nutrition, 
+housing and education, towards the eradication of poverty, to find durable solutions in 
+the post-disaster phase and to empower and assist people disproportionately affected by 
+disasters;
+
+[[page 19]]
+20
+ (k) People with life-threatening and chronic disease, due to their particular needs, should be 
+included in the design of policies and plans to manage their risks before, during and after 
+disasters, including having access to life-saving services;
+ (l) 
+To encourage the adoption of policies and programmes addressing disaster-induced human 
+mobility to strengthen the resilience of affected people and that of host communities, in 
+accordance with national laws and circumstances;
+ (m) To promote, as appropriate, the integration of disaster risk reduction considerations and 
+measures in financial and fiscal instruments;
+ (n) To strengthen the sustainable use and management of ecosystems and implement 
+integrated environmental and natural resource management approaches that incorporate 
+disaster risk reduction;
+ (o) To increase business resilience and protection of livelihoods and productive assets 
+throughout the supply chains, ensure continuity of services and integrate disaster risk 
+management into business models and practices;
+ (p) To strengthen the protection of livelihoods and productive assets, including livestock, 
+working animals, tools and seeds;
+ (q) To promote and integrate disaster risk management approaches throughout the tourism 
+industry, given the often heavy reliance on tourism as a key economic driver.
+Global and regional levels
+31. To achieve this, it is important:
+(a) To promote coherence across systems, sectors and organizations related to sustainable 
+development and to disaster risk reduction in their policies, plans, programmes and 
+processes;
+(b) To promote the development and strengthening of disaster risk transfer and sharing 
+mechanisms and instruments in close cooperation with partners in the international 
+community, business, international financial institutions and other relevant stakeholders;
+(c) To promote cooperation between academic, scientific and research entities and networks 
+and the private sector to develop new products and services to help to reduce disaster risk, 
+in particular those that would assist developing countries and their specific challenges;
+(d) To encourage the coordination between global and regional financial institutions with a 
+view to assessing and anticipating the potential economic and social impacts of disasters;
+(e) To enhance cooperation between health authorities and other relevant stakeholders to 
+strengthen country capacity for disaster risk management for health, the implementation 
+of the International Health Regulations (2005) and the building of resilient health systems;
+(f) To strengthen and promote collaboration and capacity-building for the protection of 
+productive assets, including livestock, working animals, tools and seeds;
+(g) To promote and support the development of social safety nets as disaster risk reduction 
+measures linked to and integrated with livelihood enhancement programmes in order to 
+ensure resilience to shocks at the household and community levels;
+ (h) To strengthen and broaden international efforts aimed at eradicating hunger and poverty 
+through disaster risk reduction;
+(i) 
+To promote and support collaboration among relevant public and private stakeholders to 
+enhance the resilience of business to disasters.
+
+[[page 20]]
+21
+Priority 4: Enhancing disaster preparedness for effective response and to “Build Back Better” 
+in recovery, rehabilitation and reconstruction
+32. The steady growth of disaster risk, including the increase of people and assets exposure, 
+combined with the lessons learned from past disasters, indicates the need to further strengthen 
+disaster preparedness for response, take action in anticipation of events, integrate disaster 
+risk reduction in response preparedness and ensure that capacities are in place for effective 
+response and recovery at all levels. Empowering women and persons with disabilities to publicly 
+lead and promote gender equitable and universally accessible response, recovery, rehabilitation 
+and reconstruction approaches is key. Disasters have demonstrated that the recovery, 
+rehabilitation and reconstruction phase, which needs to be prepared ahead of a disaster, is a 
+critical opportunity to “Build Back Better”, including through integrating disaster risk reduction 
+into development measures, making nations and communities resilient to disasters.
+National and local levels
+33. To achieve this, it is important:
+ (a) To prepare or review and periodically update disaster preparedness and contingency 
+policies, plans and programmes with the involvement of the relevant institutions, 
+considering climate change scenarios and their impact on disaster risk, and facilitating, as 
+appropriate, the participation of all sectors and relevant stakeholders;
+ (b) To invest in, develop, maintain and strengthen people-centred multi-hazard, multisectoral 
+forecasting and early warning systems, disaster risk and emergency communications 
+mechanisms, social technologies and hazard-monitoring telecommunications systems; 
+develop such systems through a participatory process; tailor them to the needs of users, 
+including social and cultural requirements, in particular gender; promote the application of 
+simple and low-cost early warning equipment and facilities; and broaden release channels 
+for natural disaster early warning information;
+ (c) To promote the resilience of new and existing critical infrastructure, including water, 
+transportation and telecommunications infrastructure, educational facilities, hospitals and 
+other health facilities, to ensure that they remain safe, effective and operational during and 
+after disasters in order to provide live-saving and essential services;
+ (d) To establish community centres for the promotion of public awareness and the stockpiling 
+of necessary materials to implement rescue and relief activities;
+ (e) To adopt public policies and actions that support the role of public service workers to 
+establish or strengthen coordination and funding mechanisms and procedures for relief 
+assistance and plan and prepare for post-disaster recovery and reconstruction;
+ (f) To train the existing workforce and voluntary workers in disaster response and strengthen 
+technical and logistical capacities to ensure better response in emergencies;
+ (g) To ensure the continuity of operations and planning, including social and economic recovery, 
+and the provision of basic services in the post-disaster phase;
+ (h) To promote regular disaster preparedness, response and recovery exercises, including 
+evacuation drills, training and the establishment of area-based support systems, with 
+a view to ensuring rapid and effective response to disasters and related displacement, 
+including access to safe shelter, essential food and non-food relief supplies, as appropriate 
+to local needs;
+(i) 
+To promote the cooperation of diverse institutions, multiple authorities and related 
+stakeholders at all levels, including affected communities and business, in view of the 
+complex and costly nature of post-disaster reconstruction, under the coordination of 
+national authorities;
+(j) 
+To promote the incorporation of disaster risk management into post-disaster recovery and 
+rehabilitation processes, facilitate the link between relief, rehabilitation and development, 
+use opportunities during the recovery phase to develop capacities that reduce disaster 
+risk in the short, medium and long term, including through the development of measures
+
+[[page 21]]
+22
+such as land-use planning, structural standards improvement and the sharing of expertise, 
+knowledge, post-disaster reviews and lessons learned and integrate post-disaster 
+reconstruction into the economic and social sustainable development of affected areas. 
+This should also apply to temporary settlements for persons displaced by disasters;
+(k) To develop guidance for preparedness for disaster reconstruction, such as on land-use 
+planning and structural standards improvement, including by learning from the recovery 
+and reconstruction programmes over the decade since the adoption of the Hyogo 
+Framework for Action, and exchanging experiences, knowledge and lessons learned;
+(l) 
+To consider the relocation of public facilities and infrastructures to areas outside the risk 
+range, wherever possible, in the post-disaster reconstruction process, in consultation with 
+the people concerned, as appropriate;
+(m) To strengthen the capacity of local authorities to evacuate persons living in disaster-prone 
+areas;
+(n) To establish a mechanism of case registry and a database of mortality caused by disaster 
+in order to improve the prevention of morbidity and mortality;
+(o) To enhance recovery schemes to provide psychosocial support and mental health services 
+for all people in need;
+(p) To review and strengthen, as appropriate, national laws and procedures on international 
+cooperation, based on the Guidelines for the Domestic Facilitation and Regulation of 
+International Disaster Relief and Initial Recovery Assistance.
+Global and regional levels
+34. To achieve this, it is important:
+ (a) To develop and strengthen, as appropriate, coordinated regional approaches and 
+operational mechanisms to prepare for and ensure rapid and effective disaster response in 
+situations that exceed national coping capacities;
+ (b) To promote the further development and dissemination of instruments, such as standards, 
+codes, operational guides and other guidance instruments, to support coordinated action in 
+disaster preparedness and response and facilitate information sharing on lessons learned 
+and best practices for policy practice and post-disaster reconstruction programmes;
+ (c) To promote the further development of and investment in effective, nationally compatible, 
+regional multi-hazard early warning mechanisms, where relevant, in line with the Global 
+Framework for Climate Services, and facilitate the sharing and exchange of information 
+across all countries;
+ (d) To enhance international mechanisms, such as the International Recovery Platform, for the 
+sharing of experience and learning among countries and all relevant stakeholders;
+ (e) To support, as appropriate, the efforts of relevant United Nations entities to strengthen and 
+implement global mechanisms on hydrometeorological issues in order to raise awareness 
+and improve understanding of water-related disaster risks and their impact on society, and 
+advance strategies for disaster risk reduction upon the request of States;
+(f) To support regional cooperation to deal with disaster preparedness, including through 
+common exercises and drills;
+(g) To promote regional protocols to facilitate the sharing of response capacities and resources 
+during and after disasters;
+(h) To train the existing workforce and volunteers in disaster response.
+
+[[page 22]]
+23
+V. Role of stakeholders
+35. While States have the overall responsibility for reducing disaster risk, it is a shared 
+responsibility between Governments and relevant stakeholders. In particular, non-State 
+stakeholders play an important role as enablers in providing support to States, in accordance 
+with national policies, laws and regulations, in the implementation of the present Framework 
+at local, national, regional and global levels. Their commitment, goodwill, knowledge, experience 
+and resources will be required.
+36. When determining specific roles and responsibilities for stakeholders, and at the same time 
+building on existing relevant international instruments, States should encourage the following 
+actions on the part of all public and private stakeholders:
+(a) Civil society, volunteers, organized voluntary work organizations and community-based 
+organizations to participate, in collaboration with public institutions, to, inter alia, provide 
+specific knowledge and pragmatic guidance in the context of the development and 
+implementation of normative frameworks, standards and plans for disaster risk reduction; 
+engage in the implementation of local, national, regional and global plans and strategies; 
+contribute to and support public awareness, a culture of prevention and education on 
+disaster risk; and advocate for resilient communities and an inclusive and all-of-society 
+disaster risk management that strengthen synergies across groups, as appropriate. On this 
+point, it should be noted that:
+(i) 
+Women and their participation are critical to effectively managing disaster risk and 
+designing, resourcing and implementing gender-sensitive disaster risk reduction 
+policies, plans and programmes; and adequate capacity building measures need to be 
+taken to empower women for preparedness as well as to build their capacity to secure 
+alternate means of livelihood in post-disaster situations;
+(ii) Children and youth are agents of change and should be given the space and modalities 
+to contribute to disaster risk reduction, in accordance with legislation, national practice 
+and educational curricula;
+(iii) Persons with disabilities and their organizations are critical in the assessment of 
+disaster risk and in designing and implementing plans tailored to specific requirements, 
+taking into consideration, inter alia, the principles of universal design;
+(iv) Older persons have years of knowledge, skills and wisdom, which are invaluable assets 
+to reduce disaster risk, and they should be included in the design of policies, plans and 
+mechanisms, including for early warning;
+(v) Indigenous peoples, through their experience and traditional knowledge, provide 
+an important contribution to the development and implementation of plans and 
+mechanisms, including for early warning;
+(vi) Migrants contribute to the resilience of communities and societies, and their knowledge, 
+skills and capacities can be useful in the design and implementation of disaster risk 
+reduction;
+(b) Academia, scientific and research entities and networks to focus on the disaster risk factors 
+and scenarios, including emerging disaster risks, in the medium and long term; increase 
+research for regional, national and local application; support action by local communities 
+and authorities; and support the interface between policy and science for decision-making;
+(c) Business, professional associations and private sector financial institutions, including 
+financial regulators and accounting bodies, as well as philanthropic foundations, to 
+integrate disaster risk management, including business continuity, into business models 
+and practices through disaster-risk-informed investments, especially in micro, small and 
+medium-sized enterprises; engage in awareness-raising and training for their employees 
+and customers; engage in and support research and innovation, as well as technological 
+development for disaster risk management; share and disseminate knowledge, practices 
+and non sensitive data; and actively participate, as appropriate and under the guidance of 
+the public sector, in the development of normative frameworks and technical standards 
+that incorporate disaster risk management;
+
+[[page 23]]
+24
+(d) Media to take an active and inclusive role at the local, national, regional and global levels 
+in contributing to the raising of public awareness and understanding and disseminate 
+accurate and non-sensitive disaster risk, hazard and disaster information, including on 
+small-scale disasters, in a simple, transparent, easy-to-understand and accessible manner, 
+in close cooperation with national authorities; adopt specific disaster risk reduction 
+communications policies; support, as appropriate, early warning systems and life-saving 
+protective measures; and stimulate a culture of prevention and strong community 
+involvement in sustained public education campaigns and public consultations at all levels 
+of society, in accordance with national practices.
+37. With reference to General Assembly resolution 68/211 of 20 December 2013, commitments 
+by relevant stakeholders are important in order to identify modalities of cooperation and to 
+implement the present Framework. Those commitments should be specific and time-bound in 
+order to support the development of partnerships at local, national, regional and global levels 
+and the implementation of local and national disaster risk reduction strategies and plans. All 
+stakeholders are encouraged to publicize their commitments and their fulfilment in support 
+of the implementation of the present Framework, or of the national and local disaster risk 
+management plans, through the website of the United Nations Office for Disaster Risk Reduction.
+VI. International cooperation and global partnership
+General considerations
+38. Given their different capacities, as well as the linkage between the level of support provided 
+to them and the extent to which they will be able to implement the present Framework, 
+developing countries require an enhanced provision of means of implementation, including 
+adequate, sustainable and timely resources, through international cooperation and global 
+partnerships for development, and continued international support, so as to strengthen their 
+efforts to reduce disaster risk.
+39. International cooperation for disaster risk reduction includes a variety of sources and is a 
+critical element in supporting the efforts of developing countries to reduce disaster risk.
+40. In addressing economic disparity and disparity in technological innovation and research 
+capacity among countries, it is crucial to enhance technology transfer, involving a process of 
+enabling and facilitating flows of skill, knowledge, ideas, know-how and technology from 
+developed to developing countries in the implementation of the present Framework.
+41. Disaster-prone developing countries, in particular the least developed countries, small 
+island developing States, landlocked developing countries and African countries, as well as 
+middle-income countries facing specific challenges, warrant particular attention in view of their 
+higher vulnerability and risk levels, which often greatly exceed their capacity to respond to and 
+recover from disasters. Such vulnerability requires the urgent strengthening of international 
+cooperation and ensuring genuine and durable partnerships at the regional and international 
+levels in order to support developing countries to implement the present Framework, in 
+accordance with their national priorities and needs. Similar attention and appropriate assistance 
+should also be extended to other disaster-prone countries with specific characteristics, such as 
+archipelagic countries, as well as countries with extensive coastlines.
+42. Disasters can disproportionately affect small island developing States, owing to their unique 
+and particular vulnerabilities. The effects of disasters, some of which have increased in intensity 
+and have been exacerbated by climate change, impede their progress towards sustainable 
+development. Given the special case of small island developing States, there is a critical need 
+to build resilience and to provide particular support through the implementation of the SIDS 
+Accelerated Modalities of Action (SAMOA) Pathway11 in the area of disaster risk reduction.
+43. African countries continue to face challenges related to disasters and increasing risks, 
+including those related to enhancing resilience of infrastructure, health and livelihoods. These 
+challenges require increased international cooperation and the provision of adequate support to 
+African countries to allow for the implementation of the present Framework.
+11. General Assembly resolution 69/15, annex.
+
+[[page 24]]
+25
+44. North-South cooperation, complemented by South-South and triangular cooperation, has 
+proven to be key to reducing disaster risk and there is a need to further strengthen cooperation 
+in both areas. Partnerships play an additional important role by harnessing the full potential of 
+countries and supporting their national capacities in disaster risk management and in improving 
+the social, health and economic well-being of individuals, communities and countries.
+45. Efforts by developing countries offering South-South and triangular cooperation should not 
+reduce North-South cooperation from developed countries as they complement North-South 
+cooperation.
+46. Financing from a variety of international sources, public and private transfer of reliable, 
+affordable, appropriate and modern environmentally sound technology, on concessional and 
+preferential terms, as mutually agreed, capacity-building assistance for developing countries 
+and enabling institutional and policy environments at all levels are critically important means of 
+reducing disaster risk.
+Means of implementation
+47. To achieve this, it is necessary:
+(a) To reaffirm that developing countries need enhanced provision of coordinated, sustained 
+and adequate international support for disaster risk reduction, in particular for the least 
+developed countries, small island developing States, landlocked developing countries and 
+African countries, as well as middle-income countries facing specific challenges, through 
+bilateral and multilateral channels, including through enhanced technical and financial 
+support and technology transfer on concessional and preferential terms, as mutually 
+agreed, for the development and strengthening of their capacities;
+(b) To enhance access of States, in particular developing countries, to finance, environmentally 
+sound technology, science and inclusive innovation, as well as knowledge and informationsharing through existing mechanisms, namely bilateral, regional and multilateral 
+collaborative arrangements, including the United Nations and other relevant bodies;
+(c) To promote the use and expansion of thematic platforms of cooperation, such as global 
+technology pools and global systems to share know-how, innovation and research and 
+ensure access to technology and information on disaster risk reduction;
+(d) To incorporate disaster risk reduction measures into multilateral and bilateral development 
+assistance programmes within and across all sectors, as appropriate, related to poverty 
+reduction, sustainable development, natural resource management, the environment, 
+urban development and adaptation to climate change.
+Support from international organizations
+48. To support the implementation of the present Framework, the following is necessary:
+(a) The United Nations and other international and regional organizations, international and 
+regional financial institutions and donor agencies engaged in disaster risk reduction are 
+requested, as appropriate, to enhance the coordination of their strategies in this regard;
+(b) The entities of the United Nations system, including the funds and programmes and 
+the specialized agencies, through the United Nations Plan of Action on Disaster Risk 
+Reduction for Resilience, United Nations Development Assistance Frameworks and 
+country programmes, to promote the optimum use of resources and to support developing 
+countries, at their request, in the implementation of the present Framework, in coordination 
+with other relevant frameworks, such as the International Health Regulations (2005), 
+including through the development and the strengthening of capacities and clear and 
+focused programmes that support the priorities of States in a balanced, well-coordinated 
+and sustainable manner, within their respective mandates;
+(c) The United Nations Office for Disaster Risk Reduction, in particular, to support the 
+implementation, follow-up and review of the present Framework by: preparing periodic 
+reviews on progress, in particular for the Global Platform for Disaster Risk Reduction, and, 
+as appropriate, in a timely manner, along with the follow-up process at the United Nations,
+
+[[page 25]]
+26
+supporting the development of coherent global and regional follow-up and indicators, 
+and in coordination, as appropriate, with other relevant mechanisms for sustainable 
+development and climate change, and updating the existing web-based Hyogo Framework 
+for Action Monitor accordingly; participating actively in the work of the Inter-Agency and 
+Expert Group on Sustainable Development Goal Indicators; generating evidence-based and 
+practical guidance for implementation in close collaboration with States and through the 
+mobilization of experts; reinforcing a culture of prevention among relevant stakeholders 
+through supporting development of standards by experts and technical organizations, 
+advocacy initiatives and dissemination of disaster risk information, policies and practices, 
+as well as by providing education and training on disaster risk reduction through affiliated 
+organizations; supporting countries, including through national platforms or their 
+equivalent, in their development of national plans and monitoring trends and patterns in 
+disaster risk, loss and impacts; convening the Global Platform for Disaster Risk Reduction 
+and supporting the organization of regional platforms for disaster risk reduction in 
+cooperation with regional organizations; leading the revision of the United Nations Plan 
+of Action on Disaster Risk Reduction for Resilience; facilitating the enhancement of, and 
+continuing to service, the United Nations Office for Disaster Risk Reduction Scientific and 
+Technical Advisory Group in mobilizing science and technical work on disaster risk reduction; 
+leading, in close coordination with States, the update of the publication entitled “2009 
+UNISDR Terminology on Disaster Risk Reduction”, in line with the terminology agreed upon 
+by States; and maintaining the stakeholders’ commitment registry;
+(d) International financial institutions, such as the World Bank and regional development 
+banks, to consider the priorities of the present Framework for providing financial support 
+and loans for integrated disaster risk reduction to developing countries;
+(e) Other international organizations and treaty bodies, including the Conference of the Parties 
+to the United Nations Framework Convention on Climate Change, international financial 
+institutions at the global and regional levels and the International Red Cross and Red Crescent 
+Movement to support developing countries, at their request, in the implementation of the 
+present Framework, in coordination with other relevant frameworks;
+(f) The United Nations Global Compact, as the main United Nations initiative for engagement 
+with the private sector and business, to further engage with and promote the critical 
+importance of disaster risk reduction for sustainable development and resilience;
+(g) The overall capacity of the United Nations system to assist developing countries in disaster 
+risk reduction should be strengthened by providing adequate resources through various 
+funding mechanisms, including increased, timely, stable and predictable contributions to 
+the United Nations Trust Fund for Disaster Reduction and by enhancing the role of the Trust 
+Fund in relation to the implementation of the present Framework;
+(h) The Inter-Parliamentary Union and other relevant regional bodies and mechanisms for 
+parliamentarians, as appropriate, to continue supporting and advocating disaster risk 
+reduction and the strengthening of national legal frameworks;
+(i) 
+The United Cities and Local Government organization and other relevant bodies of local 
+governments to continue supporting cooperation and mutual learning among local 
+governments for disaster risk reduction and the implementation of the present Framework.
+Follow-up actions
+49. The Conference invites the General Assembly, at its seventieth session, to consider the 
+possibility of including the review of the global progress in the implementation of the Sendai 
+Framework for Disaster Risk Reduction 2015–2030 as part of its integrated and coordinated 
+follow-up processes to United Nations conferences and summits, aligned with the Economic and 
+Social Council, the High-level Political Forum for Sustainable Development and the quadrennial 
+comprehensive policy review cycles, as appropriate, taking into account the contributions of the 
+Global Platform for Disaster Risk Reduction and regional platforms for disaster risk reduction 
+and the Hyogo Framework for Action Monitor system.
+
+[[page 26]]
+50. The Conference recommends to the General Assembly the establishment, at its sixty-ninth 
+session, of an open-ended intergovernmental working group, comprising experts nominated by 
+Member States, and supported by the United Nations Office for Disaster Risk Reduction, with 
+involvement of relevant stakeholders, for the development of a set of possible indicators to 
+measure global progress in the implementation of the present Framework in conjunction with 
+the work of the Inter-Agency and Expert Group On Sustainable Development Goal Indicators. 
+The Conference also recommends that the working group consider the recommendations of the 
+United Nations Office for Disaster Risk Reduction Scientific and Technical Advisory Group on 
+the update of the publication entitled “2009 UNISDR Terminology on Disaster Risk Reduction” 
+by December 2016, and that the outcome of its work be submitted to the Assembly for its 
+consideration and adoption.
+27
+
+[[page 27]]
+28
+A
+Academia
+ 
+responsibilities of: 19(e); 36(b)
+ 
+partnership with: 7; 25(d)
+Access
+ 
+to data: 24(f); 25(c) 
+ 
+to early warning: 18(g); 33(b)
+ 
+to live-saving services: 30(k)
+ 
+to risk information/risk assessment: 18(g) (See also 
+ 
+information, freely accessible and available)
+Accessibility: See universally accessible response; 
+inclusiveness.
+Accountability for reducing/managing risk: 19(e) (See also 
+public policies to enhance transparency)
+Accounting of disaster losses: 24(d); 36(c)
+Accounting bodies, responsibilities of: 36(c)
+Advocacy: 36(a); 48(c)
+Affected areas, development of: 33(j) (See also areas outside 
+of risk range)
+Affected persons: 4; 18; 19(d); 30(j)
+African countries, needs of: 8; 17; 19(m); 41; 43; 47(a)
+Age perspective on policy: 19(d); 19(g)
+Agriculture: 28(b)
+All-of-society engagement: 19(d); 36(a) (See also stakeholders, 
+engagement with)
+Analysis: see data analysis.
+Animals: 30(p); 31(f)
+Anticipatory approach: 30(f); 31(d)
+Archipelagic countries: 41
+Area-based support systems
+ 
+for response: 33(h)
+ 
+for disaster-related displacement: 33(h)
+Areas outside of risk range: 33(l)
+Assessment 
+ 
+of capacity: 24(b); 27(c)
+ 
+of land degradation: 30(f)
+ 
+of pre-disaster risk: 23
+ 
+of risk: 14; 23; 24(b); 25(a); 25(b); 25(g)
+ 
+of social impact of disaster: 24(d); 31(d)
+ 
+methodologies and models for: 24(j)
+ 
+periodic assessment of national/local progress: 27(e)
+ 
+economic impact assessments: 30(c)
+ 
+environmental impact assessments: 30(c)
+ 
+social impact assessments: 30(c)
+ 
+structural impact assessments: 30(c)
+ 
+technological impact assessment: 30(c) (See also periodic 
+ 
+review of Sendai Framework; national periodic 
+ 
+assessment of progress )
+Assets, reducing loss of: 16
+Assistance, its regulation in recovery phase: 33(p)
+Awareness-raising: 3; 19(k); 24(m); 25(f); 27(a); 33(d); 36(a); 
+36(c); 36(d)
+B
+Baseline: 24(b)
+Basic services in post-disaster phase: 33(g)
+Big data: 25(c)
+Bilateral cooperation: See cooperation at bilateral level
+Biodiversity: 28(b)
+Biological hazards: 15
+“Build Back Better”: 6; 19(k); 32
+Building better from the start: 30(c)
+Building codes: 27(d); 30(h)
+Business
+ 
+continuity of: 36(c)
+ 
+resilience of: 30(o); 31(i)
+ 
+responsibility of business sector: 19(e); 36(c)
+ 
+incorporating disaster risk in business management 
+ 
+practices:7; 30(o)
+Budget allocations: 2; 27(i)
+C
+Capacity strengthening
+ 
+for response and emergencies: 33(f)
+ 
+of persons to reduce/manage risk: 23; 33(j)
+ 
+of technical and scientific capacity: 24(j) (See also tailor 
+ 
+made plans for capacity-building of developing 
+ 
+countries)
+Case registry for morbidity: See morbidity.
+Central government, responsibility of: 19(b); 19(f) (See also 
+governance, federal system)
+Centres
+ 
+for public awareness: 33(d)
+ 
+for stockpiling rescue/relief material: 33(d)
+Child health: 30(j)
+Children: 4; 7; 36(a)(ii)
+Chronic disease: 30(k) (See also health)
+Citizens, voluntary work of: 19(d)
+Citizenship: see responsible citizenship.
+Civic education: 24(l) (See also education campaigns by 
+media)
+Civil society, coordination with public sector: 7; 27(h); 27(j); 
+36(a) (See also knowledge of civil society)
+Climate change
+ 
+and disaster risk reduction: 4; 6; 11; 12; 19(h); 28(b); 28(c); 
+ 
+47(d)
+ 
+as a risk driver: 12; 42
+ 
+scenarios for: 25(b); 33(a)
+Climate variability: 6
+Coastlines/coastal flood plains: 28(d); 30(g); 41
+Coherence: 11; 12; 48(c) (See also sustainable development 
+and disaster risk reduction; health and disaster risk 
+reduction, climate change and disaster risk reduction; 
+environmental management and disaster risk reduction; 
+tools and instruments for disaster risk reduction; relief, 
+rehabilitation and development, link between; post2015 development agenda; development assistance and 
+disaster risk reduction)
+Commitments for implementation: 1(d); 48(c) 
+ 
+by developed countries: 19(l)
+ 
+by States: 2
+ 
+by stakeholders: 35; 37; 48(c)
+ 
+political commitments: 3
+Communications
+ 
+mechanisms: See disaster risk communications 
+ 
+mechanisms; emergency communications 
+ 
+mechanisms; participatory process for developing 
+ 
+communications systems.
+ 
+policies: 36(d)
+Community
+ 
+knowledge of communities: 24(g); 36(a)
+ 
+protection of communities: 5
+ 
+roles of community representatives within disaster risk 
+ 
+reduction institutions: 27(f) 
+ 
+training of community health groups: 30(i)
+ 
+working with communities/community based 
+ 
+organizations: 24(o); 27(h); 35
+Community of practitioners, engagement with Government: 7
+Index
+
+[[page 28]]
+29
+Compounding factors: 6 (See also risk factors)
+Concessions
+ 
+for use of copyrighted material: 25(h)
+ 
+for technology transfer: 47(a)
+ 
+for use of environmentally sound technology: 45
+Conference of Parties to the United Nations Framework 
+Convention on Climate Change: 48(e)
+Consultations with the public: 36(d)
+Contingency plans: 33(a)
+Continuity of operations and planning, post-disaster: 33(g)
+Cooperation
+ 
+at bilateral level: 8; 19(a); 47(a)
+ 
+at international level: 6; 8; 17; 18(f); 19(a); 19(i); 25(c); 38; 
+ 
+39; 40; 41; 42; 43; 44; 45; 46; 47(a); 47(b); 47(c); 47(d); 
+ 
+48
+ 
+at regional level: 8; 19(a); 28(a); 34(f)
+ 
+at subregional level: 8; 19(a); 28(a); 28(c)
+ 
+between stakeholders: 3; 31(c); 31(e); 33(i) 
+ 
+of multilateral nature: 47(a)
+ 
+on transboundary issues: 8; 19(a)
+ 
+on international disaster relief: 33(p)
+ 
+forums for cooperation: 3
+Coordination
+ 
+of preparedness/response: 33(b)
+ 
+between institutions: 14
+ 
+between sectors: 14; 19(e)
+ 
+between stakeholders: 19(e); 27(h)
+ 
+under national authorities: 33(i); 35; 36(c); 36(d) 
+ 
+coordinated regional approaches: 34(a) (See also regional 
+ 
+operational mechanisms)
+Coping capacities of nations: 34(a)
+Copyrighted/patented material, availability of: 25(h) (See 
+concessions for use of copyrighted/patented material)
+Cost-effectiveness of disaster risk reduction: 3 (See also 
+hidden cost of disaster)
+Countries
+ 
+protection of: 5
+ 
+countries facing specific disaster risk challenges: 19(m); 
+ 
+30(c); 47(a)
+Critical facilities, resilience of: 30(c) (See also infrastructure; 
+schools, resilience of; hospitals, physical infrastructure, 
+universal design, standardization of building materials, 
+retrofitting, culture of maintenance)
+Cross-sectoral approach: 15; 24(i); 27(a); 47(d) 
+Culture: 19(d)
+ 
+of maintenance: 30(c)
+ 
+of prevention: 25(f); 36(a); 36(d); 
+ 
+disaster impact on: 48(c) 
+ 
+regard for: 33(b)
+ 
+cultural assets: 19(c)
+ 
+cultural and collecting institutions: 30(d)
+ 
+cultural measures for reducing risk: 17
+ 
+cultural heritage, impact of disaster on and protection of: 
+ 
+5; 24(d); 30(d)
+ 
+cultural resilience: 14
+ 
+D
+Data
+ 
+disaggregated: 19(g)
+ 
+non-sensitive: See non-sensitive information/data
+ 
+real-time: 24(f)
+ 
+data analysis: 24(a); 24(f) (see also Big data)
+ 
+data collection: 24(a); 24(f)
+ 
+data management: 24(a)
+ 
+data usage: 19(g); 24(a); 24(f); 25(a); 25(g); 25(c); 27(f); 33(b); 
+ 
+36(c) (See also end-users of data/information)
+ 
+data dissemination/exchange of: 19(g); 24(f); 24(o); 36(c); 
+ 
+36(d); 48(c)
+ 
+mortality database: 33(n)
+Decentralization: see resources; decision-making, local level.
+Decision-making
+ 
+in disaster risk management: 24(h)
+ 
+local level: 19(f)
+ 
+inclusive nature of: 19(g)
+Demographic change: 6; 30(f)
+Developed countries, commitments: 19(l)
+Developing countries
+ 
+need for enhanced capability/capacity: 8; 19(a); 19(m); 38; 
+ 
+39; 40; 41; 42; 43; 44; 45; 46; 47(a); 
+ 
+support for: 19(m); 38; 39; 40; 41; 42; 43; 44; 45; 46; 47(a); 
+ 
+48(b); 48(d)
+Development assistance and disaster risk reduction: 47(d)
+Development and risk: 15
+Dialogue, with science: 24(h); 25(d); 27(j)
+Dimensions of disaster risk: 23
+Disability
+ 
+disaggregated data on: 19(g)
+ 
+persons living with: 7; 32; 36(a)(ii)
+ 
+perspective on disaster risk: 19(d)
+Disaster information: see information on disaster
+Disaster losses
+ 
+evaluation: 24(d)
+ 
+public accounting for: 24(d)
+ 
+recording: 24(d)
+ 
+sharing of information on: 24(d); 24(e)
+Disaster medicine: 30(i)
+Disaster-prone countries: 40
+Disaster-resistant structures: 30(h)
+Disaster risk communications mechanisms: 33(b) (See also 
+emergency communications mechanisms)
+Disaster risk creation: See prevention of disaster risk creation.
+Disaster risk effects
+ 
+on a spatial scale: 24(b)
+ 
+on a social scale: 24(b)
+Disaster risk management: 3; 19(e); 23; 24(h); 27(d); 28(c)
+ 
+certification for: 27(j)
+ 
+challenges to: 24(k)
+ 
+incorporation into post-disaster recovery/rehabilitation: 
+ 
+33(j)
+ 
+obstacles: 24(k)
+ 
+research in: 24(k); 25(i)
+Disaster risk reduction
+ 
+instruments for: 26
+ 
+integration across policies/plans/programmes/budgets: 2
+ 
+progress on: 3
+ 
+social measures for reducing risk: 17
+Disaster risk zones/disaster prone areas: 27(k); 33(m)
+Disease: See chronic and life threatening disease; health
+Disparity of means among countries: 40
+Displacement
+ 
+level of: 4
+ 
+risk of: 28(d)
+ 
+support systems for: 33(h) (See also safe shelter; relief 
+ 
+supplies, food and non-food; temporary settlements)
+Dissemination 
+ 
+of information/data: See data
+ 
+of tools: 25(a)
+Domestic law: see national law
+Domestic resources/capabilities: 8
+Drills
+ 
+for disaster preparedness: 34(f)
+ 
+for evacuation: 33(h)
+Drivers of risk: see risk drivers
+Drought prone areas: 30(g)
+Drylands: 30(g)
+
+[[page 29]]
+30
+E
+Early warning
+ 
+access to: 18(g)
+ 
+design of: 36(a)(iv); 36(a)(v); 36(d)
+ 
+enhancing/strengthening of: 14; 25(a)
+ 
+investing in: 33(b); 34(c)
+ 
+low cost equipment/facilities for: 33(b)
+ 
+regional early warning systems compatible with national 
+ 
+systems: 34(c)
+ 
+(See also information release channels:)
+Earth and climate observations: 25(c)
+Economic and Social Council: 49
+Economy
+ 
+economic growth: 19(h)
+ 
+economic impact of disaster: 4; 24(d); 31(d)
+ 
+economic impact assessments: See assessment of 
+ 
+economic impact
+ 
+economic challenges to implementation: 24(k)
+ 
+economic loss, level of: 4
+ 
+economic loss, reduction of: 18(c) 
+ 
+economic measures for reducing risk: 17
+ 
+economic recovery planning: 33(g)
+ 
+economic resilience: 14
+ 
+protection of economic assets: 5
+Ecosystems
+ 
+decline of: 6
+ 
+protection of: 5
+ 
+ecosystems-based approach to disaster risk reduction: 
+ 
+28(d); 30(n)
+ 
+ecosystem functions that reduce risk: 30(g)
+ 
+effects on ecoysystems of not reducing risk: 24(b)
+Education
+ 
+on disaster risk and reduction: 19(k); 
+ 
+for professionals: 24(l)
+ 
+educational campaigns by media: 36(d)
+ 
+educational curricula: 36(a)(ii)
+ 
+educational measures for reducing risk: 17
+ 
+educational resilience: 14
+ 
+impact of disaster on education: 24(d); 24(g); 24(l); 24(m); 
+ 
+36(a); 48(c)
+Educational facilities
+ 
+reduce damage to: 18(d)
+ 
+resilience of: 33(c)
+ 
+(See also One Million Safe Schools and Hospitals initiative)
+Educational challenges to implementation: 24(k)
+Emergency communications mechanisms: 33(b)
+Emerging disaster risk: 36(b)
+Empowerment: see local authorities, local communities, the 
+poorest.
+Enabling environment
+ 
+for achieving the Sendai outcome: 16
+ 
+for disaster risk reduction within institutions: 46
+ 
+for disaster risk reduction within local/national/regional/
+global policy space: 46
+End-users, of data/information: 24(a); 25(e); 33(b); 36(c); 36(d) 
+Enforcement of building codes: 30(h)
+Environment
+ 
+and resilience: 14
+ 
+impact of disaster on: 24(d)
+ 
+understanding of: 23
+ 
+environmental challenges to implementation: 24(k)
+ 
+environmental change: 30(f)
+ 
+environmental hazards: 15
+ 
+environmental impact of disasters: 4
+ 
+environmental impact assessments: See assessment of 
+ 
+environmental impact
+ 
+environmental management and disaster risk reduction: 
+ 
+19(h); 28(b); 47(d)
+ 
+environmental measures for reducing risk: 17
+ 
+protection/management of environmental assets/ 
+ 
+resources: 19(c); 27(d)
+ 
+transfer of/access to environmentally sound technology: 
+ 
+46; 47(b)
+Epidemics, risk of: 28(d)
+Epidemics, as risk driver: 6
+Essential services during/after disaster: 33(c)
+Existing risk: 27(b)
+Expected outcome: 16
+Experience-sharing: 24(g); 25(f)
+Experts, mobilized by UNISDR: 48(c)
+Exposure to risk
+ 
+of persons and assets: 4; 17; 23;
+ 
+assessment of: 24(b)
+ 
+information on: 25(e)
+ 
+reduction of: 6
+Evacuation in the context of preparedness: 33(m) (See also 
+drills)
+Evidence, to be generated by UNISDR: 48(c)
+F
+Financial
+ 
+allocations: 30(a)
+ 
+impact of disasters: 30(b)
+ 
+institutions, cooperation with: 31(d); 36(c)
+ 
+instruments: 30(m)
+ 
+protection: 30(b)
+ 
+regulators: 36(c)
+Financing
+ 
+sources of: 45
+ 
+for developing countries: 19(m); 45
+Fiscal instruments: 30(m)
+Flood-prone areas: 30(g)
+Follow-up
+ 
+actions (at the United Nations): 49; 50
+ 
+tools: 30(f)
+ 
+of the Sendai Framework: 16; 19(e); 27(e); 48(c)
+Food
+ 
+and nutrition: 28(b); 30(j)
+ 
+food security: 19(h); 30(j)
+ 
+food supplies: See relief supplies, food and non-food
+Forecasting, people-centred multi-hazard: 33(b)
+Forecasting, people-centred multisectoral: 33(b)
+Forums for government coordination: 27(g) (See also national 
+and local platforms)
+Forums for cooperation: See cooperation
+Federal system: see governance
+Frequent disasters: 15
+“Future We Want”: 12
+G
+Gaps
+ 
+in implementation: 9; 24(k)
+ 
+in research: 25(g)
+GDP: 18(c)
+General Assembly: See United Nations General Assembly
+Gender
+ 
+perspective on policy: 19(d); 32; 36(a)(i)
+ 
+gender equitable response: 32
+ 
+regard for gender requirements: 33(b)
+Geospatial information technology: 24(c); 25(c); 25(g) (See also 
+space data/technology)
+GIS: 24(f)
+Global Compact: (See United Nations Global Compact)
+Global Framework for Climate Services: 34(c)
+Global Platform for Disaster Risk Reduction: 3; 28(c); 48(c); 49
+Good practices, sharing: 24(g) (See also lessons learned)
+Goodwill: 35
+Governance for disaster risk reduction: 6; 14; 26
+
+[[page 30]]
+31
+Governance, federal system: 19(b); 19(f)
+Government
+ 
+executive branch: 19(e)
+ 
+legislative branch: 19(e)
+Growth (economic): 19(h); 29
+Guidance
+ 
+for reconstruction: 33(k)
+ 
+from UNISDR: 48(c)
+H
+Hazard
+ 
+definition of: Footnote 3
+ 
+understanding of hazard characteristics: 23; 24(b)
+ 
+hazard-monitoring telecommunications system: 33(b)
+ 
+(See also exposure to hazard)
+Health
+ 
+and disaster risk reduction: 16; 19(h); 28(b)
+ 
+impact of disaster on: 4; 24(d)
+ 
+protection of: 5; 19(c)
+ 
+health authorities, cooperation with: 31(e)
+ 
+health and safety standards: 27(d)
+ 
+health measures for reducing risk: 17
+ 
+health programmes and disaster risk reduction: 30(i)
+ 
+health resilience: 14
+ 
+health systems: 31(e)
+ 
+health workers, developing capacity of: 30(i)
+ 
+healthcare, basic services in: 30(j)
+ 
+resilience of health facilities: 18(d); 33(c) (See also One 
+ 
+Million Safe Schools and Hospitals initiative)
+ 
+safety/effectiveness/operationality of health facilities 
+ 
+during/after disasters: 33(c)
+ 
+(See also disease; maternal health; newborn health; child 
+ 
+health)
+Hidden cost of disaster: 4
+High-Level Political Forum for Sustainable Development: 49
+Historical sites, protection of: 30(d) (See also religious sites)
+Homelessness: 4
+Hospitals: 30(c); 33(c) (See also health facilities; One Million 
+Safe Schools and Hospitals initiative)
+Host community, resilience: 30(l)
+Households
+ 
+affected by disaster: 4
+ 
+resilience of : 31(g)
+Housing, as a social safety net mechanism: 30(j)
+Hyogo Framework for Action and monitor: 1(b); 1(c); 3; 9; 10; 
+16; 19; 28(f); 33(k); 48(c); 49
+Human rights, promotion/protection of: 19(c)
+Human settlements
+ 
+informal: 30(h) (See also informal housing)
+ 
+marginal: 30(h)
+ 
+safe areas: 27(k); 30(g)
+Hunger eradication: 31(h)
+Hydrometeorological issues, global mechanisms for: 33(e)
+I
+Implementation of Sendai Framework, institutional support 
+for: 48; 48(a); 48(b); 48(c); 48(d); 48(e); 48(f); 48(g); 48(h); 
+48(i)
+Incentives: 19(f); 27(a); 27(d)
+Inclusiveness: 7; 19(d); 19(g); 36(a); 47(b) (See also universally 
+accessible response)
+Indicators, development of: 18; 27(b); 48(c); 50 (See also 
+Open-ended intergovernmental working group for the 
+development of indicators)
+Indigenous
+ 
+knowledge/practices: 24(i); 36(a)(v) (See also traditional 
+ 
+knowledge)
+ 
+peoples, coordination/engagement with Government and 
+ 
+public sector: 7; 27(h)
+Inequality and disaster risk reduction: 6
+Informal housing: 30(f)
+Information
+ 
+disaggregated: 25(e)
+ 
+freely available and accessible: 24(e)
+ 
+in situ : 24(f); 25(c)
+ 
+non-sensitive: See non-sensitive information/data
+ 
+on disaster: 24(e)
+ 
+on event-specific hazard-exposure: 24(d)
+ 
+on event-specific vulnerability: 24(d)
+ 
+information-sharing arrangements: 14; 34(c); 34(d); 47(b); 
+ 
+47(c)
+ 
+information and communications technology: 24(f); 25(c)
+ 
+early warning information release channels: 33(b)
+Infrastructure: 18(d); 27(a)
+ 
+critical: 33(c)
+ 
+educational facilities: 33(c) 
+ 
+health facilities: 33(c)
+ 
+hospitals: 30(c); 33(c)
+ 
+investment in: 30(c)
+ 
+telecommunications: 33(c)
+ 
+transportation: 33(c)
+ 
+water: 33(c)
+Infrequent disasters: 15
+Injury: 4
+Innovation
+ 
+drivers of: 29
+ 
+inclusive nature: 47(b)
+ 
+investment in and access to: 24(k); 25(i)
+ 
+development of new products and services: 31(c)
+Institutions, weaknesses of: 6
+Institutional measures for reducing risk: 17
+Insurance: 30(b) (See also risk transfer, risk sharing, risk 
+retention, and financial protection)
+Inter-Agency and Expert Group on Sustainable Development 
+Indicators: 48(c); 50
+Inter-Parliamentary Union: 48(h)
+Interdependent risk factors: See risk factors
+Intergovernmental organizations: 28(c)
+International cooperation: See cooperation, international.
+International Day for Disaster Reduction: 25(f)
+International disaster relief, regulation of: 33(p)
+International financial institutions
+ 
+cooperation with: 31(b)
+ 
+loans/support for disaster risk reduction: 48(d); 48(e)
+International Health Regulations (2005): 30(i); 31(e); 48(b)
+International Red Cross and Red Crescent Movement: 48(e)
+International Recovery Platform: 34(d)
+Investment
+ 
+for resilience: 9; 14; 29; 30(b); 30(c)
+ 
+in risk reduction v. response: 19(j)
+J
+Job creation: 29
+K
+Know-how: 40
+Knowledge
+ 
+local: 24(i)
+ 
+of government officials: 24(g)
+ 
+of civil society: 24(g); 36(a)
+ 
+of communities: 24(g); 36(a)
+ 
+of migrants: 36(a)(vi)
+ 
+of stakeholders: 35
+ 
+of volunteers: 24(g); 36(a)
+Knowledge-sharing/exchange: See lessons learned/good 
+practice sharing, and information-sharing arrangements.
+
+[[page 31]]
+32
+L
+Laws, developing and upholding: 27(d); 27(f); 48(h) 
+Land use
+ 
+land use planning and policy: 27(d); 30(f); 33(j); 33(k)
+ 
+poor level of land management: 6 (See also assessment 
+ 
+ 
+of land degradation)
+Landlocked developing countries: 17; 41; 47(a)
+Large-scale disaster: 14
+Leadership:
+ 
+of a political nature: 16
+ 
+of women: 19(d); 32
+ 
+of youth: 19(d)
+Least developed countries, needs of: 8; 17; 19(m); 41; 47(a)
+Legal and administrative measures
+ 
+for improving transparency: 27(a)
+ 
+for reducing risk: 17; 48(h)
+Legislature: 19(e)
+Lessons learned/good practice, sharing: 24(g); 25(d); 25(e); 
+ 
+28(a); 33(j); 33(k); 34(b) (See also information-sharing 
+ 
+arrangements)
+Life-saving services/measures, during/after disaster: 33(c); 
+36(d) (See also essential services)
+Life threatening disease: 30(k) (See also health)
+Lives lost: 4
+Livelihoods
+ 
+protection of: 5; 16; 19(c); 30(o); 30(p)
+ 
+alternative livelihood after disasters: 36(a)(i)
+ 
+enhancement programmes for: 30(j); 31(g);
+Livestock, protection of: 30(p); 31(f)
+Loans/financial support for disaster risk reduction: See 
+international financial institutions
+Local
+ 
+authorities, empowerment of (as appropriate)/capacity 
+ 
+building: 19(e); 33(m); 48(i)
+ 
+communities, empowerment of (as appropriate): 19(e)
+ 
+government: 19(e); 27(g); 48(i)
+ 
+platforms: 27(g)
+ 
+regard for local needs: 33(h)
+ 
+risks at local level: 19(i); 25(b)
+ 
+disaster risk reduction strategies/plans at local level: 
+ 
+18(e); 36(a)
+Logistical resources, allocation of: 30(a)
+Logistical capacities for response and emergencies: 33(f) 
+M
+Making Cities Resilient campaign: 25(f)
+Mapping: see risk mapping.
+Man-made hazards: 15
+Mandates of United Nations entities, regard for: 48(b); 
+footnote 6
+Maternal health: 30(j)
+Means of implementation: 8; 17; 38 (See also disparity in 
+means among countries)
+Measurement tools: 24(f)
+Media: 25(c); 36(d)
+Mental health services: 33(o)
+Methodologies and models for risk assessment: 24(j) (See 
+assessment of methodologies and models)
+Micro enterprises: 36(c)
+Middle-income countries, needs of: 8; 17; 19(m); 41; 47(a)
+Migrants, coordination/engagement with Government/public 
+sector: 7; 27(h); 36(a)(vi); 
+Millennium Development Goals: 9
+Mobile phone networks for risk communication: 25(c)
+Mobilization, of community: 24(m)
+Mobility: See public policies on disaster-induced human 
+mobility
+Modalities of cooperation: 37
+Monitoring: 14; 25(a); 28(f); 48(c)
+Morbidity
+ 
+case registry for: 33(n)
+ 
+prevention of: 33(n)
+Mortality
+ 
+database for: 33(n)
+ 
+level in developing countries: 4
+ 
+reduction of: 3; 18(a)
+Mountains: 30(g)
+Multi-hazard approach: 7; 15; 19(g)
+ 
+in early warning systems/ mechanisms: 14; 18(g); 25(a); 
+ 
+33(b); 34(c)
+ 
+in forecasting: 33(b)
+ 
+in research/surveys: 24(k); 25(b)
+Multilateral cooperation: See cooperation
+Multisectoral approach: 7
+Mutually-agreed terms: 46; 47(a)
+N
+National
+ 
+authorities relevant to disaster risk: 19(b)
+ 
+disaster risk reduction strategies: 18(e); 36(a)
+ 
+focal point for Sendai Framework: 27(g)
+ 
+health systems: 30(i) (see also primary, secondary and 
+ 
+tertiary health care)
+ 
+institutions, coordination of: 19(e); 19(f); 
+ 
+periodic assessment of progress: 27(e)
+ 
+plans for disaster risk reduction: 27(e); 36(a); 48(c)
+ 
+platforms: 27(g); 48(c)
+ 
+progress reports: 3
+ 
+regard for national circumstances: 19; 19(a); 24(b) (See also 
+ 
+nationally-compatible regional mechanisms)
+ 
+regard for national policies: 35
+ 
+regard for national practices: 36(d)
+ 
+regard for national priorities: 17; 41; 48(b)
+ 
+obligations under international agreements/ 
+ 
+commitments: 8; 19
+Nationally-compatible regional mechanisms: 33(c)
+Natural hazards: 15
+Natural resource management and disaster risk reduction: 6; 
+30(n); 47(d)
+Newborn health: 30(j)
+Non-discrimination: 19(d)
+Non-formal education: 24(l)
+Non-governmental organizations: 24(o)
+Non-risk-informed policies: 6
+Non-permanent housing: 30(f)
+Non-sensitive information/data: 19(g); 24(e); 25(c); 28(f); 36(c); 
+36(d)
+Non-structural measures: 29
+Normative frameworks: 36(a); 36(c)
+North-South cooperation: 44; 45
+O
+Official development assistance: 19(l) (See also development 
+assistance and disaster risk reduction)
+Older persons, engagement with: 7; 36(a)(iv)
+One Million Safe Schools and Hospitals initiative: 25(f)
+Open-ended intergovernmental working group for the 
+development of indicators: 50
+Outcome: see expected outcome.
+Outreach to private sector: 19(e)
+P
+Pandemics: 6
+Parliamentarians: 27(e); 27(i)
+Participation
+ 
+of inclusive/accessible/non-discriminatory nature: 19(d)
+
+[[page 32]]
+33
+ 
+of relevant stakeholders: 26
+ 
+of relevant stakeholders, as appropriate: 33(a)
+ 
+participatory process for developing communications 
+ 
+systems: 33(b)
+Partnership
+ 
+across mechanisms/institutions: 26
+ 
+across all levels: 37
+ 
+at global level: 19(l)
+ 
+with all of society: 19(d)
+ 
+with private sector: 19(e)
+Patented material: see copyrighted material.
+Patterns in disaster risk, UNISDR monitoring of: 48(c)
+Physical infrastructure: 30(c)
+Peer learning/mutual learning: 24(g); 25(f); 28(e); 48(i)
+Peer review: 28(e)
+People-centred approach: 7
+Periodic assessment of national/local progress (See national 
+periodic assessment; assessment of national/local 
+progress)
+Periodic review of Sendai Framework: 1(e); 48(c)
+Policies
+ 
+tailored to localities: 24(i)
+ 
+dissemination by UNISDR: 48(c) 
+Political
+ 
+leadership: See leadership
+ 
+measures for reducing risk: 17
+Poor people/the poorest: 7; 19(d)
+Post-2015 development agenda: 11
+Post-disaster
+ 
+response and review: 19(j); 25(g); 30(j)
+ 
+recovery and reconstruction policies: 33(e)
+Poverty
+ 
+and disaster risk reduction: 6; 47(d)
+ 
+eradication of: 2; 11; 12; 28(b); 30(j); 31(h)
+ 
+reduction of: 47(d)
+Practices, dissemination by UNISDR: 48(c)
+Pre-disaster risk assessment: See assessment
+Preferential terms for technology transfer: 45; 47(a) (See also 
+concessions for use of environmentally sound technology)
+Preparedness, response and recovery
+ 
+measures: 17; 23; 32
+ 
+exercises: 33(h)
+Preventing losses: 29
+Prevention
+ 
+and mitigation of disaster: 23
+ 
+of disaster risk creation: 6; 17; 19(k); 27(b)
+Progress reports
+ 
+mechanisms and standards for: 27(e); 27(g)
+ 
+(See also national progress reports; regional progress 
+reports)
+Protection
+ 
+of persons: 5; 19(c)
+ 
+of property: 19(c); footnote 3
+Primary health care: 30(i)
+Primary responsibility of States: 19(a); 35
+Principles of disaster risk reduction: 19
+Private sector
+ 
+knowledge base: 24(g)
+ 
+responsibilities of: 19(e)
+ 
+investment to address underlying risk factors: 19(j)
+ 
+partnering with: 25(d); 25(f); 27(j); 48(f) (See also public- 
+ 
+private collaborations)
+Productive assets/tools, protection of: 19(c); 30(o); 30(p); 31(f)
+Professional associations: 27(j)
+Property: See protection of property
+Psychosocial support: 33(o)
+Public accounting of disaster losses: 24(d)
+Public policies
+ 
+on disaster-induced human mobility: 30(l)
+ 
+on the coordination of relief assistance: 33(e) (See also 
+ 
+relief supplies)
+ 
+on disaster-risk reduction communication: 36(d)
+ 
+on enhancing transparency: 27(a)(iii) 
+ 
+on funding of relief assistance: 33(e)
+ 
+on land-use: 30(f)
+ 
+on the role of public service workers: 33(e)
+ 
+on post-disaster recovery and reconstruction: 33(e)
+ 
+on procedures for relief assistance: 33(e)
+ 
+on shared natural resources: 28(d)
+ 
+that are gender-sensitive: 36(a)(i)
+ 
+that are risk-informed: 28(c); 
+ 
+to enhance transparency: 27(a)
+ 
+designed with inclusion of terminally and chronically ill: 
+ 
+30(k)
+ 
+designed with older persons: 36(a)(iv)
+ 
+disseminated by UNISDR: 48(c)
+ 
+updated based on climate change scenarios: 33(a)
+ 
+coherence between others and disaster risk reduction: 
+ 
+27(a)
+ 
+coherence between disaster risk reduction with 
+ 
+sustainable development: 31(a)
+ 
+incentives for compliance with policies: 27(a)(ii); 27(a)(iii)
+ 
+resources required by local and national administrative 
+ 
+bodies to implement policies: 30(a)
+Public-private collaboration: 7; 31(i)
+Public sector, responsibilities of: 19(e)
+Public service workers: See public policies on public service 
+workers
+Public scrutiny and debates: 27(e) (See also parliamentarians)
+Q
+Quadrennial comprehensive policy review: 49
+R
+Rebuilding: 30(c)
+Rehabilitation (See recovery, rehabilitation and 
+reconstruction)
+Recovery assistance, regulation of: 33(p)
+Reconstruction (See recovery, rehabilitation and 
+reconstruction)
+Recovery, rehabilitation, reconstruction: 6; 14; 19(k); 29; 30(h); 
+33(j); 33(k)
+Reducing losses: 29
+Regional
+ 
+cooperation: See cooperation at regional level
+ 
+early warning mechanisms: 34(c)
+ 
+organizations: 48(c)
+ 
+operational mechanisms: 34(a)
+ 
+protocols: 34(g)
+ 
+progress reports: 3
+ 
+regional platforms/subregional platforms: 3; 28(c); 48(c); 
+ 
+49
+ 
+regional and subregional strategies: 1(a); 28(a); 36(a)
+Registry of commitments, maintained by UNISDR: 48(c) 
+Regulations
+ 
+for services and infrastructure: 27(a)
+ 
+for enhancing safety: 27(d)
+Relief assistance, public policies for coordinating/funding of 
+and procedures for: 33(e) (See also relief supplies)
+Relief, rehabilitation and development, link between: 33(j)
+Relief supplies, food and non-food: 33(h)
+Religious sites: 30(d)
+Relocation: 27(k); 30(l); 33(l)
+ 
+in consultation with affected persons: 33(l)
+Reporting: 27(a)(iii) (See also progress reporting)
+Research
+
+[[page 33]]
+34
+ 
+in disaster risk management: 24(k)
+ 
+in risk and resilience: 14; 36(b)
+Resilience: 2; 5; 17; 18(d); 27(b); 32; 33(c); footnote 2
+Resources
+ 
+decentralization of: 19(f)
+ 
+allocation of: 30(a)
+ 
+of stakeholders: 35
+Response: 6; 14; 17; 19(j); 23; 24(l); 26; 32; 33(f); 33(h); 34(a); 
+34(b) ; 34(g); 34(h); footnote 5 
+Responsible citizenship: 25(f)
+Responsibilities
+ 
+definition of: 27(a); 27(f)
+ 
+sharing of: 19(b); 35
+Retroffiting: 30(c)
+Review of global progress on Sendai Framework: 49
+Right to development: 19(c)
+Rio Declaration on Environment and Development: 12
+Risk
+ 
+assessment of: See assessment of risk
+ 
+drivers: 19(i)
+ 
+factors
+ 
+ 
+compounding : 6
+ 
+ 
+interdependent factors: 24(k)
+ 
+ 
+sequential effects of risk factors: 24(b)
+ 
+ 
+underlying: 6; 9; 19(j)
+ 
+knowledge: 24(l)
+ 
+maps/mapping: 24(c); 25(a); 25(b); 30(g)
+ 
+modelling: 25(a); 25(g)
+ 
+retention: 30(b)
+ 
+risk and development: 15
+ 
+sharing: 30(b); 31(b)
+ 
+transfer: 30(b); 31(b)
+ 
+risk-informed decision-making: 19(g)
+ 
+risk-informed investment: 36(c)
+ 
+risk information, in all its dimensions: 24(n)
+ 
+(See also spatial dimension of risk; time frames for 
+ 
+disaster risk reduction)
+River basins/rivers: 28(d); 30(g)
+Rural development planning: 30(g)
+S
+Safety: 4; 27(d); footnote 5 (See also health and safety 
+standards)
+SAMOA Pathway: 42
+Sasakawa Award: 25(f)
+Saving lives: 29
+Scenarios
+ 
+for climate change: See climate change scenarios
+ 
+for disaster risk: See emerging disaster risk
+Schools, resilience of: 30(c) (See also educational facilities.)
+Science
+ 
+and decision-making: 25(g); 36(b) 
+ 
+access by developing countries: 47(b)
+ 
+science-based information: 19(g)
+ 
+science-policy interface: 24(h); 36(b)
+ 
+science-tradition interface: 24(i)
+ 
+scientific research: 25(g)
+ 
+scientific and research institutions: 7
+Secondary health care: 30(i)
+Sectors
+ 
+responsibilities of: 19(b)
+ 
+coordination of: 19(e)
+ 
+sector-specific policies: 24(i); 27(g)
+ 
+(See also cross-sectoral approach; multisectoral 
+ 
+approach)
+Sequential effects of risk factors: 24(b) (See also risk factors) 
+Settlements: See human settlements; temporary settlements
+Sex disaggregated data: 19(g)
+Sexual and reproductive health: 30(j)
+Seeds: 30(p); 31(f)
+Shared responsibility: See responsibility, sharing of.
+Shelter in the context of displacement: 33(h) (See also 
+displacement, support systems for; temporary 
+settlements)
+Skills: 40
+Small-scale disasters: 4; 15; 36(d)
+Small island developing States, needs of: 17; 19(m); 41; 42; 
+47(a)
+Small and medium enterprises: 4; 36(c) (See also micro 
+enterprises)
+Slow-onset disasters: 4; 15
+Social effects of disaster risk: 24(b) (See also social impact 
+assessment; social impact of disaster)
+Social challenges to implementation: 24(k)
+Social impact of disaster: 4; 31(d) (See also social impact 
+assessment)
+Social media: 24(m); 25(c)
+Social recovery planning: 33(g)
+Social requirements, regard for: 33(b)
+Social resilience: 14
+Social safety-net mechanisms, strengthening of: 30(j); 31(g)
+Social technologies: 33(b)
+South-South cooperation: 44; 445
+Space
+ 
+information: 24(f)
+ 
+technology: 25(c)
+Spatial dimension of risk: See disaster risk effects on a spatial 
+scale
+Stakeholders
+ 
+engagement with: 7; 14; 35 (See also all-of-society 
+ 
+engagement)
+ 
+responsibilities/roles of: 19(b); 35
+ 
+complementarity between: 19(e)
+ 
+coordination of: 19(e); 36
+ 
+(See also commitment of stakeholders)
+Standards
+ 
+development of: 27(j); 35; 36(c); 48(c) 
+ 
+revision of/improvement: 30(h); 33(j); 33(k)
+ 
+(See also health and safety standards; progress reporting 
+ 
+standards; coordination of reparedness/response; 
+ 
+regional protocols)
+Standardization of building materials: 30(c)
+Statistics: 25(a)
+Stockpile of rescue/relief material: See centres for stockpiling 
+rescue/relief material
+Structural impact assessment: See assessment of structural 
+impact
+Structural measures: 17; 29 (See also non-structural 
+measures)
+Subregional cooperation: See cooperation
+Sudden disasters: 15
+Supply chains
+ 
+complexity of: 6
+ 
+resilience of: 30(o)
+Sustainable development and disaster risk reduction: 2; 3; 4; 
+10; 12; 19(h); 19(j); 28(a); 28(f); 31(a); 47(d); 48(c); 49
+Synergizing activities: 36(a)
+T
+Tailor-made plans
+ 
+for capacity building of developing countries: 17; 19(m); 
+ 
+45; 47(a)
+ 
+for communications systems: 33(b)
+ 
+for person with disabilities: 36(a)(iii)
+Targets: 18; 27(b)
+Technical support for disaster risk reduction: 47(a)
+
+[[page 34]]
+35
+Technological impact assessments: (See assessment of 
+technological impact)
+Technological hazards: 15
+Technological measures for reducing risk: 17
+Technology
+ 
+and resilience: 14
+ 
+for exchanging information: 25(e)
+ 
+access to: 47(c)
+ 
+development of: 36(c)
+ 
+limited availability of: 6
+ 
+investment in: 24(k)
+ 
+transfer of: 25(c); 40; 47(a)
+ 
+transfer to developing countries: 19(m); 47(b)
+ 
+technology pools: 47(c)
+Telecommunications
+ 
+infrastructure: 33(c)
+ 
+systems for hazard monitoring: 33(b)
+Temporary settlements: 33(j)
+Terminology: 25(g); 48(c); 50
+Tertiary health care: 30(i)
+Thematic platforms: 28(c); 47(c)
+Time frames for disaster risk reduction plans: 27(b); 33(j); 
+36(b); 37
+Tools/instruments
+ 
+for disaster risk reduction: 28(b)
+ 
+for recording losses: 25(a)
+Tourism and disaster risk management: 30(q)
+Traditional knowledge: 19(g); 24(i)
+Training
+ 
+on disaster risk reduction: 24(g); 48(c)
+ 
+on disaster response: 33(f); 33(h); 34(h)
+ 
+for professionals/employees: 24(l); 27(a); 36(c) (See also 
+ 
+training on disaster response)
+Transboundary cooperation: 8; 19(a); 27(a); 28(d)
+Transparency: (See public policies to enhance transparency)
+Transportation infrastructure: 33(c)
+Triangular cooperation: 44; 45
+Trends in disaster risk, UNISDR monitoring of: 48(c)
+U
+Underlying risk drivers/factors: 6; 9; 19(j) (See also risk 
+factors)
+Understanding risk: 14; 19(i); 23; 24; 25(f) (see also hazard 
+characteristics, environmental impact assessment; 
+environmental management and disaster risk reduction; 
+economic impact assessment: social impact assessment; 
+health and disaster risk reduction; education on disaster 
+risk reduction; risk factors)
+United Cities and Local Governments: 48(j)
+United Nations: 27(j); 34(e); 48(a); 48(b); 48(c); 48(d); 48(e); 
+ 
+48(f); 48(g)
+ 
+conferences and summits: 49
+ 
+country programmes: 48(b)
+ 
+entities and their mandates, regard for: 48(b); footnote 6
+ 
+follow-up processes: 48(c)
+ 
+General Assembly 68th session: 37 (See also United 
+ 
+Nations General Assembly resolution 68/211)
+ 
+General Assembly 69th session: 50
+ 
+General Assembly 70th session: 49
+ 
+General Assembly, resolution 68/211: (See United Nations 
+ 
+General Assembly 68th session)
+ 
+UNISDR
+ 
+ 
+tasks for implementation/follow-up: 48(c); 50
+ 
+ 
+review of Sendai Framework: 48(c); 50
+ 
+ 
+cooperation with regional organizations: 48(c)
+ 
+ 
+website: 37
+ 
+ 
+Scientific and Technical Advisory Group: 25(g); 48(c); 
+ 
+ 50
+ 
+ 
+(See also: experts, mobilized by UNISDR; evidence to 
+ 
+ be generated by UNISDR; guidance from UNISDR; 
+ 
+ public policy disseminated by UNISDR; practice 
+ 
+ disseminated by UNISDR; registry of commitments, 
+ 
+ maintained by UNISDR; trends in disaster risk to be 
+ 
+ monitored by UNISDR; patterns in disaster risk to be 
+ 
+ monitored by UNISDR)
+ 
+United Nations Conference on Sustainable Development: 
+ 
+12
+ 
+United Nations Development Assistance Frameworks: 
+ 
+48(b)
+ 
+United Nations Framework Convention on Climate 
+Change: 12; 48(e)
+ 
+United Nations Global Compact: 48(f)
+ 
+United Nations Plan of Action on Disaster Risk Reduction 
+ 
+ for Resilience: 48(b); 48(c)
+ 
+United Nations Trust Fund for Disaster Reduction: 48(g)
+Universally accessible response: 32
+Universal design: 30(c); 36(a)(iii)
+Urban planning/development: 27(d); 30(f); 47(d)
+Urbanization, unplanned and rapid: 6
+V
+Variability, of climate: See climate variability
+Volunteers
+ 
+engagement with: 7
+ 
+knowledge base of: 24(g)
+ 
+training of voluntary workers: 33(f)
+ 
+voluntary work: 19(d); 35
+Vulnerability
+ 
+of assets: 4; 17; 23
+ 
+of persons: 4; 17; 23
+ 
+assessment of: 24(b)
+ 
+information on: 24(e)
+ 
+reduction of: 6
+ 
+people in vulnerable situations: 4
+ 
+W
+Water-related disaster risks: 34(e)
+Water infrastructure: 33(c)
+Wetlands: 30(g)
+Women
+ 
+in vulnerable situations: 4 
+ 
+role in managing disaster risk: 36(a)(i)
+ 
+role in design of disaster risk policy: 7; 36(a)(i)
+ 
+role in resourcing gender-sensitive policies/plans/ 
+ 
+programmes: 36(a)(i)
+ 
+role in implementing gender-sensitive policies/plans/ 
+ 
+programmes: 7; 35(a)(i)
+ 
+(See also leadership of women)
+Workplace, resilience of: 30(e)
+World Conference on Disaster Risk Reduction, Third United 
+Nations: 1; 2; 50
+World Health Organization: 30(i); 31(e)
+Y
+Yokohama Strategy: 19
+Youth
+ 
+engagement with: 7; 36(a)(ii)
+ 
+leadership of: 19(d)
+
+[[page 35]]
+www.preventionweb.net/go/sfdrr
+www.unisdr.org
+isdr@un.org
+Chart of the Sendai Framework for Disaster Risk Reduction 
+2015-2030
+Targets
+Guiding Principles
+Goal
+Expected outcome
+Scope and purpose
+The present framework will apply to the risk of small-scale and large-scale, frequent and 
+infrequent, sudden and slow-onset disasters, caused by natural or manmade hazards as well 
+as related environmental, technological and biological hazards and risks.
+It aims to guide the multi-hazard management of disaster risk in
+development at all levels as well as within and across all sectors
+The substantial reduction of disaster risk and losses in lives, livelihoods and health and in 
+the economic, physical, social, cultural and environmental assets of persons, businesses, 
+communities and countries
+Prevent new and reduce existing disaster risk through the implementation of integrated and 
+inclusive economic, structural, legal, social, health, cultural, educational, environmental, 
+technological, political and institutional measures that prevent and reduce hazard exposure 
+and vulnerability to disaster, increase preparedness for response and recovery, and thus 
+strengthen resilience
+Substantially reduce 
+global disaster 
+mortality by 2030, 
+aiming to lower 
+average per 100,000 
+global mortality 
+between 2020-2030 
+compared to 20052015
+Primary responsibility 
+of States to prevent 
+and reduce disaster 
+risk, including through 
+cooperation
+Substantially reduce 
+the number of affected 
+people globally by 
+2030, aiming to lower 
+the average global 
+figure per 100,000 
+between 2020-2030 
+compared to 20052015
+Shared responsibility 
+between central 
+Government and national 
+authorities, sectors 
+and stakeholders as 
+appropriate to national 
+circumstances
+Coherence of disaster 
+risk reduction and 
+sustainable development 
+policies, plans, practices 
+and mechanisms, across 
+different sectors
+Reduce direct disaster 
+economic loss in 
+relation to global 
+gross domestic 
+product (GDP) by 
+2030
+Protection of persons 
+and their assets while 
+promoting and protecting 
+all human rights including 
+the right to development
+Accounting of local and 
+specific characteristics 
+of disaster risks when 
+determining measures to 
+reduce risk
+Substantially reduce 
+disaster damage to 
+critical infrastructure 
+and disruption of basic 
+services, among them 
+health and educational 
+facilities, including 
+through developing 
+their resilience by 2030
+Engagement from all of 
+society
+Addressing underlying risk 
+factors cost-effectively 
+through investment versus 
+relying primarly on postdisaster response and 
+recovery
+Substantially increase 
+the number of 
+countries with national 
+and local disaster risk 
+reduction strategies by 
+2020
+Full engagement of all 
+State institutions of an 
+executive and legislative 
+nature at national and 
+local levels
+«Build Back Better» for 
+preventing the creation 
+of, and reducing existing, 
+disaster risk
+Substantially 
+enhance international 
+cooperation 
+to developing countries
+through adequate and 
+sustainable support 
+to complement their 
+national actions for 
+implementation of this 
+framework by 2030
+Empowerment of 
+local authorities and 
+communities through 
+resources, incentives 
+and decision-making 
+responsibilities as 
+appropriate
+The quality of global 
+partnership and 
+international cooperation 
+to be effective, meaningful 
+and strong
+Support from developed 
+countries and partners to 
+developing countries to 
+be tailored according to 
+needs and priorities as 
+identified by them
+Substantially increase 
+the availability of 
+and access to multihazard early warning 
+systems and disaster 
+risk information and 
+assessments to people 
+by 2030
+Decision-making to 
+be inclusive and riskinformed while using a 
+multi-hazard approach
+Priorities for Action
+Priority 1
+Understanding disaster risk
+Priority 2
+Strengthening disaster risk 
+governance to manage disaster risk
+Priority 3
+Investing in disaster risk reduction 
+for resilience
+Priority 4
+Enhancing disaster preparedness for 
+effective response, and to «Build Back 
+Better» in recovery, rehabilitation and 
+reconstruction
+There is a need for focused action within and across sectors by States at local, national, regional and global levels in the following four priority areas.
+Disaster risk management needs to be 
+based on an understanding of disaster 
+risk in all its dimensions of vulnerability, 
+capacity, exposure of persons and 
+assets, hazard characteristics and the 
+environment
+Disaster risk governance at the national, 
+regional and global levels is vital to the 
+management of disaster risk reduction 
+in all sectors and ensuring the coherence 
+of national and local frameworks of laws, 
+regulations and public policies that, by 
+defining roles and responsibilities, guide, 
+encourage and incentivize the public and 
+private sectors to take action and address 
+disaster risk
+Public and private investment in disaster 
+risk prevention and reduction through 
+structural and non-structural measures 
+are essential to enhance the economic, 
+social, health and cultural resilience of 
+persons, communities, countries and their 
+assets, as well as the environment. These 
+can be drivers of innovation, growth and 
+job creation. Such measures are costeffective and instrumental to save lives, 
+prevent and reduce losses and ensure 
+effective recovery and rehabilitation
+Experience indicates that disaster 
+preparedness needs to be strengthened 
+for more effective response and 
+ensure capacities are in place for 
+effective recovery. Disasters have 
+also demonstrated that the recovery, 
+rehabilitation and reconstruction phase, 
+which needs to be prepared ahead of the 
+disaster, is an opportunity to «Build Back 
+Better» through integrating disaster risk 
+reduction measures. Women and persons 
+with disabilities should publicly lead and 
+promote gender-equitable and universally 
+accessible approaches during the response 
+and reconstruction phases
+
+[[page 36]]
+UNISDR/GE/2015 - ICLUX EN5000 1st edition
+
+[[page 37]]
+9-11 Rue de Varembé
+CH 1202, Geneva
+Switzerland
+www.unisdr.org

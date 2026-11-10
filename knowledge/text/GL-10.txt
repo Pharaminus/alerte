@@ -1,0 +1,1931 @@
+[[page 1]]
+EARLY WARNINGS FOR ALL
+The UN Global Early Warning Initiative for the Implementation of Climate Adaptation
+Executive Action Plan 
+ 2023-2027
+WEATHER CLIMATE WATER
+
+[[page 2]]
+Overall political and strategic coordination with the COP27 Presidency and
+the UN Climate Action Team:
+Paul Egerton, Johan Stander
+Laura Paterson, Rose Devillier and Annick Champagne-Fall
+Overall technical/scientific coordination:
+Johan Stander, Cyrille Honore, Erica Allis and Geoff Love
+Core writing integration team:
+Rodica Nitu, Lauren Stuart, Erica Allis, Fatih Kaya, Lorena Santamaria
+and Giacomo Teruggi
+Action Plan layout: Kim Kenny
+Contributions from the WMO Early Warning System Task Force members:
+Petteri Taalas (Chair), Paul Egerton, Johan Stander, Cyrille Honore, Anthony Rea,
+Filipe Lucio, John Harding, Markus Repnik, Juerg Luterbacher, Assia Alexieva,
+Henriette Gonsior, Stefan Uhlenbrook and Johannes Cullmann
+Contributions from Partners and Pillar leads (a non-exhaustive list):
+Ben Webster (REAP), Gavin White (REAP), Vanessa Gray (ITU), Caroline Holt (IFRC),
+Benjamin Larroquette (UNDP), Jochem Zoetelief (UNEP), Abou Amani (UNESCO),
+Johnathan Stone (UNDRR), Loretta Hieber-Giradet (UNDRR), Animesh Kumar
+(UNDRR) Nathan Cooper (IFRC), Alexandra Sicotte Levesque (IFRC), Jesse Mason
+(WFP), Jacqueline Tesha (WFP) Gantsetseg Gantulga (IFRC), Tiziana Bonzon (IFRC) 
+Niccolo Lombardi (FAO) and Dujanovic Dunja (FAO) 
+Daniel Pfister (OCHA) and Zinta Zommers (OCHA)
+UN Climate Action Team: Selwin Hart, Anne-Sophie Cerisola, 
+Hernani Escobar Rodriguez, Arun Jacob and Kaylan Keo
+COP27 Presidency: Mohamed Nasr and Ayman Tharwat Amin
+UN Resident Coordinator in Egypt: Elena Atanasova Panova 
+We extend our sincere gratitude to the many individuals who have
+made valuable consultative contributions to the development of the
+Early Warnings for All Initiative Executive Action Plan 2023-2027,
+including the following non-exhaustive list:
+Front Cover Photo: Miroslav Zadravec 
+Location: Stari Grad, Hvar Island, Croatia
+WMO 2023 Calendar Competition
+
+[[page 3]]
+An integrated system of hazard monitoring, forecasting and prediction, disaster risk
+assessment, communication and preparedness activities systems and processes that
+enables individuals, communities, governments, businesses and others to take timely
+action to reduce disaster risks in advance of hazardous events.
+Early warning system:
+As defined 1 December 2016 by resolution 69/284, United Nations General Assembly
+Photographer: Mostafa Ghroz
+Location: Ushgui Village, Georgia
+WMO 2023 Calendar Competition
+
+[[page 4]]
+EARLY WARNINGS FOR ALL
+ACTION PLAN
+Today, one third of the world’s
+people, mainly in least
+developed countries and small
+island developing states, are still
+not covered by early warning
+systems... This is unacceptable,
+particularly with climate impacts
+sure to get even worse. Early
+warnings and action save lives.
+To that end, today I announce
+the United Nations will
+spearhead new action to ensure
+every person on Earth is
+protected by early warning
+systems within five years. I have
+asked the World Meteorological
+Organization to lead this effort
+and to present an action plan at
+the next UN climate conference,
+later this year in Egypt.
+UN Secretary-General
+António Guterres on
+World Meteorological Day
+23 March 2022
+
+[[page 5]]
+Contents
+Foreword 1
+Foreword by United Nations Secretary-General 1
+Foreword by WMO Secretary-General 2
+Foreword by COP27 President 3
+ 
+Global collaboration 4
+Executive Summary 5
+Introduction to Multi-Hazard Early Warning Systems 7
+Global State of Early Warnings 9
+Executive Action Plan to Achieve
+Universal Coverage 13
+Five Year Action Plan 2023-2027 Overview 15 
+Pillar 1: Risk Knowledge and Management 17
+Pillar 2: Observations and Forecasting 21
+Deep dive: Systematic Observations Financing Facility (SOFF) 25
+Deep dive: Integrating water and climate 27
+Pillar 3: Dissemination and Communication 29 
+Pillar 4: Preparedness to Respond 33
+Cross-cutting enablers 37
+Partnerships 37
+Locally led action 38
+Financial 39
+Deep dive: Climate Risk and Early Warnings Systems Initiative 43
+Private sector 45
+Science, research and innovation 46
+Monitoring and Evaluation 47
+Governance and the way forward 49 
+Photographer: Emili Vilamala
+Location: Sant Bartomeu del Grau, Barcelona, Spain
+WMO 2023 Calendar Competition
+
+[[page 6]]
+Foreword
+Ever-rising greenhouse gas emissions are supercharging extreme
+weather events across the planet. These increasing calamities cost
+lives and hundreds of billions of dollars in loss and damage. Three
+times more people are displaced by climate disasters than war. Half of
+humanity is already in the danger zone. 
+The world is failing to invest in protecting the lives and livelihoods of
+those on the front line. Those who have done the least to cause the
+climate crisis are paying the highest price. Entire populations are
+being blindsided by cascading climate disasters without any means of
+prior alert. 
+We must invest equally in adaptation and resilience. That includes
+the information that allows us to anticipate storms, heatwaves, floods
+and droughts. Communities and nations need adequate warning and
+the ability to respond to incoming extreme weather events. To that
+end, I have called for every person on Earth to be protected by early
+warning systems within five years, with the priority to support the 
+1 Foreword
+H.E. António Guterres
+Secretary-General of the United Nations
+most vulnerable first. This Executive Action Plan sets out the concrete way forward to achieve this
+goal. It describes how the United Nations system and a wide range of partners will work together to
+effectively deliver on this objective. 
+The facts are clear.Early warnings save lives and deliver vast financial benefits. COP27 is the COP
+for implementation. Now is the time to implement Early Warnings for All.
+I urge all governments, financial institutions and civil society to support this effort. 
+Early warnings save lives and provide vast economic benefits. Just 24
+hours' notice of an impending hazardous event can cut the ensuing
+damage by 30 per cent. The Global Commission on Adaptation, found
+that spending just $800 million on such systems in developing
+countries would avoid losses of $3-16 billion per annum. Such
+progress is only possible with modern science, sustained systematic
+observing networks, daily international exchange of quality data,
+advanced supercomputing power, the translation of forecasts into
+impacts, plus advances in telecommunications and connectivity. We
+require improvements and deeper understanding of risk across all
+time scales, stronger National Meteorological and Hydrological
+Services, Disaster Risk Management Agencies, and Emergency
+preparedness measures, considered capacity development, regional
+support structures, expert technical assistance, accessible financial
+support, an anticipatory humanitarian sector. Overall we need a
+people-centred approach that prioritizes community engagement.
+These are the essential ingredients for protecting every person on
+Earth by early warnings within five years. 
+H.E. Prof. Petteri Taalas
+Secretary-General 
+World Meteorological Organization
+This Executive Action plan 2023-2027 sets out the recipe for how these ingredients can come together
+to achieve the goal. I thank the many partners who worked together to develop this Executive Action
+Plan, and count on your continued support to ensure implementation. It is our collective
+accountability and responsibility not to fail but to leave a legacy of implementation.
+
+[[page 7]]
+Early Warnings for All Executive Action Plan 2
+H.E. Sameh Hassan Shoukry
+Minister of Foreign Affairs
+Arab Republic of Egypt
+COP 27 President
+I deeply believe that COP27 is an opportunity to showcase unity against an existential threat that we can only
+overcome through concerted action and effective implementation. 
+The hosting of COP27 in the green city of Sharm El-Sheikh this
+year marks the 30th anniversary of the adoption of the United
+Nations Framework Convention on Climate Change. In the thirty
+years since, the world has come a long way in the fight against
+climate change and its negative impacts on our planet; we are
+now able to better understand the science behind climate
+change, better assess its impacts, and better develop tools to
+address its causes and consequences. 
+ 
+The science is there and clearly shows the urgency with which
+we must act to assist those in need of support to adapt to the
+negative impacts of climate change. Climate hazards, especially
+water-related climate hazards, are already affecting billions of
+people worldwide. Disruption in the hydrological cycle gravely
+threatens food security, livelihoods and ecosystems, causing
+loss and damage, and mostly affecting those in vulnerable
+situations. Early warning systems are a tangible way to improve
+countries resilience to these hazards. They underscore the links
+between the water and climate agendas. The launch of this
+Executive Action Plan is an important contribution to adaptation
+and resilience, particularly in Africa, where 60% of people are
+not covered by early warning systems. 
+Sharm El Sheikh, Egypt
+
+[[page 8]]
+3 Foreword
+Global collaboration 
+Delivering on the UN Secretary-General's five year goal of early warnings for all
+requires global collaboration. There has already been significant work between
+many UN entities, the private sector and financing institutions in the lead-up to
+COP27. Several agencies are leading the work on the four individual pillars in the
+formulation of the Action Plan, namely for Pillar 1: UNDRR and WMO; Pillar 2:
+WMO, UNDP, UNESCO and UN Environment Programme; Pillar 3: ITU, IFRC UNDP,
+WMO ; and Pillar 4: IFRC, REAP, OCHA, FAO and WFP. Continued and scaled-up
+collaboration will be required over the next five years.
+A partnership across the United Nations, International Agencies
+and International Financing Institutions
+The Early Warnings for All Initiative gratefully acknowledges the support at the Cairo Roundtable held 5-6 Sept, 2022,
+and preparatory consultations on the Action Plan of the following entities, listed in alphabetical order: 
+Photo by Christophe Suarez
+Geneva, Switzerland
+
+[[page 9]]
+Early Warnings for All Executive Action Plan 4
+*During the Third Multi-Hazard Early Warning Conference (MHEWC-III) in Bali in May, 2022, over 150 entities expressed
+interest to be involved in the further development of the Early Warnings for All Initiative. The Initiative looks forward to
+further collaboration with these entities, which could not be listed in their entirety here.
+The Early Warnings for All Initiative specially recognizes future collaboration with the following financing institutions:
+
+[[page 10]]
+Executive Summary
+5 Executive Summary
+Early Warning Systems are a proven, effective, and feasible climate adaptation measure, that save lives
+and provide at least a tenfold return on investment. The WMO State of the Climate 2021 Report shows
+that extreme weather, such as floods, droughts, heatwaves and storms, led to hundreds of billions of
+dollars of economic losses and wreaked a heavy toll on human lives and wellbeing. The IPCC’s Sixth
+Assessment Report on Impacts, Adaptation, and Vulnerability recognized early warning systems and
+disaster risk management activities as key cross-cutting adaptation options, that enhance the benefits of
+other adaptation measures when combined(iv). 
+ 
+And yet, the recent UNDRR and WMO Global Status of Early Warning Systems: Target G report,
+highlighted that only half of countries have early warning systems in place with coverage especially low in
+Small Island Developing States (SIDS), Least Developed Countries (LDCs) and in Africa. Even where
+warning elements exist, coverage across the full warning cycle remains limited. 
+In March 2022, United Nations Secretary-General, António Guterres, announced(vi) the United Nations
+would spearhead new action to ensure every person on Earth is protected by early warning
+systems within five years. He tasked the World Meteorological Organization to lead this effort and
+present an action plan to achieve the goal at the UN Climate Change Conference in Sharm El-Sheikh,
+COP27. 
+This Executive Action Plan, developed in partnership with key partner organizations, summarizes the
+initial actions required to achieve the goal, and sets out the pathway to implementation. It calls for an
+estimated new targeted investments of USD 3.1 Billion over the five years to advance the four MultiHazard Early Warning System (MHEWS) pillars from a scientific & technical, policy and financial
+perspective. 
+The plan identifies key areas for advancing universal disaster risk knowledge, and outlines the priority
+actions required to achieve this, building on the aforementioned Sendai Target G report. It prioritizes the
+top technical actions required to enhance capacity to detect hazards, close the observations gap, and
+advance global forecast data processing systems and data exchange, optimizing international efforts.
+The plan highlights both the infrastructure, governance and people-centered approach required to
+effectively disseminate and communicate warnings. And it outlines the policies, capacities, finance and
+collaboration needed to improve preparedness and response capabilities over the next five-years. 
+The plan indicates how key foundational financing mechanisms will be scaled up to support the
+achievement of the goal, including a new framework developed by the Climate Risk and Early Warning
+Systems (CREWS) Initiative and Green Climate Fund, and the operationalization of the Systematic
+Observations Financing Facility (SOFF). The plan also calls for increased coherence and alignment of
+existing and planned investments from international financing institutions, utilizing the Alliance for
+Hydromet Development as an important uniting partnership of climate finance institutions. The plan
+recognizes existing successful bilateral funds for early warnings and calls for an acceleration of these
+mechanisms.
+Tracking progress, informing decision making, and measuring success are all key to ensuring effective
+implementation, and so plans are outlined to develop an objective Early Warnings for All Maturity
+Index in advance of COP 28.
+To ensure progress and the continued strategic alignment of activities with implementing bodies, the
+United Nations Secretary-General is creating an Early Warnings for All Governing Board, 
+co-chaired by the Executive Heads of the World Meteorological Organization (WMO) and the
+United Nations Office for Disaster Risk Reduction (UNDRR). Board membership will include many of
+the key partners who have shaped this Executive Action Plan to date. The Board will report annually on
+progress to the United Nations Secretary-General in advance of the COP meetings.
+In addition, an annual Multi-Stakeholder Forum will be organized to enhance consultation and foster
+collaboration with a wider group of partners. 
+Photographer: Youngchoun Kim 
+Gimje-si, Jeollabuk-do, Republic of Korea
+WMO 2023 Calendar Competition
+
+[[page 11]]
+USD 374 MILLION
+USD 1.18 BILLION
+USD 550 MILLION
+USD 1 BILLION
+P
+A
+R
+T
+N
+E
+R
+S
+HI
+P
+S
+MONITORING & EVALUATION
+USD 3.1 BILLION
+New investment required to advance
+towards early warnings for all within five years:
+*Estimate based on consultations with pillar lead partners
+*
+*
+*
+*
+*
+Early Warnings for All Executive Action Plan 6
+The Forum will provide an opportunity for the more than 150 organizations who have already registered
+their interest to supporting the initiative to shape its future implementation. Interested stakeholders
+ranging from the UN System, hydro-meteorological, early action, financial, academic, civil society, private
+and disaster sectors will be invited to join. 
+WMO Members will play a key role in technical implementation, building on the standards and guidance
+provided by the Commission for Weather, Climate, Water and related Environmental Services and
+Applications (SERCOM) and the Commission for Observations, Infrastructure, and Information Services
+(INFCOM) plus other relevant constituent/advisory bodies. National Meteorological and Hydrological
+Services (NMHSs) and Disaster Risk Management agencies, as the relevant authoritative providers, will
+be central for enabling implementation at the national level. 
+In the political sphere, countries will continue to be engaged to advance Early Warnings for All through
+relevant upcoming platforms, such as the 2023 United Nations Water Conference, the Mid-term Review of
+the Sendai Framework, the United Nation SDG Summit, and future sessions of the UN General Assembly
+and UNFCCC Conference of Parties meetings. 
+The need for progress could not be more urgent as 3.3 to 3.6 billion people live in contexts that are highly
+vulnerable to climate change, and global temperatures are continuing to rise. Collectively, the actions
+outlined in this plan are designed to ensure concrete progress in the years ahead to ensure every person
+on earth is protected by Early Warning Systems by 2027.
+Figure 1: Budget overview for the four Pillars of the Early Warnings for All Initiative
+
+[[page 12]]
+Introduction to MHEWS
+A Multi-Hazard Early Warning System (MHEWS) is an integrated system which allows
+people to know that hazardous weather or climate events are on their way, and informs
+how governments, communities and individuals can act to minimize impacts. End-to-end
+MHEWS include risk knowledge, observation and forecasting, communication, and
+response, as shown in Figure 1 and 2 below. MHEWS should be people-centred to
+empower those threatened by hazards to act in sufficient time and in an appropriate
+manner, and must build on partnerships within and across relevant sectors. 
+7 Introduction to Multi-Hazard Early Warning Systems (MHEWS)
+Figure 2: Graphical presentation of a Multi-Hazard Early Warning System (MHEWS) 
+Figure 3: More detailed explanation of the four components of an early warning system
+
+[[page 13]]
+Early Warnings for All Executive Action Plan 8
+The current definition of an early warning system was approved by the United Nations General
+Assembly in its resolution 69/284 on 1 December 2016 following the update of the publication "2009
+UNISDR Terminology on Disaster Risk Reduction" by the Inter-Agency and Expert Group on
+Sustainable Development Goal Indicators. The subsequent publication of the "Report of the openended intergovernmental expert working group on indicators and terminology relating to disaster
+risk reduction" coincided with the resolution to develop a set of possible indicators to measure global
+progress in the implementation of the Sendai Framework for Disaster Risk Reduction 2015-2030. 
+Communities act
+People understand
+Weather and Climate monitored
+Warnings communicated
+Figure 4: A brief history of event, publication, and announcement milestones in the development of early warning
+systems from 1989 to the present day
+
+[[page 14]]
+The Global State of Early Warnings
+Across the four components of the value cycle
+9 The Global State of Early Warnings
+Half of the countries globally
+are not protected by multi-hazard early
+warning systems. Coverage is even
+worse for developing countries on the
+front lines of climate change. 
+ 
+Least Developed Countries (LDCs),
+Small Island Developing States (SIDS), 
+and Africa suffer the greatest
+gaps in early warning systems. 
+Figure 5a: Status of Small Island Developing States (SIDS) and Least Developed Countries (LDCs) relating to
+Multi-Hazard Early Warning Systems based on recent 2022 survey of the WMO Member countries.
+Photographer: Andrés Miraglia
+Location: Patagonia, Argentina
+WMO 2023 Calendar Competition
+
+[[page 15]]
+Africa
+Europe
+Pacific
+Asia
+Global
+Early Warnings for All Executive Action Plan 10
+Based on the Target G analysis from the Sendai Framework Monitor data, complemented with data from
+recent surveys by the World Meteorological Organization (WMO), a report on the Global status of Multihazard Early Warning Systems (MHEWS) was launched on 13 October 2022. It presents an overview and a
+baseline of the status of early warning coverage around the world. 
+ 
+While status reporting from the countries still needs improvement, it is clear at the global scale, that only
+half of the countries report having implemented MHEWS (Figure 5b). It is also clear that implementation is
+very uneven across regions. Least developed countries, small island developing states and Africa are in
+crucial need for improvement and, consequently, for support in doing so. 
+Figure 5b: Countries reporting early warning system coverage through the Sendai Framework Monitor
+Disaster risk knowledge, the first
+classical pillar of MHEWS, suffers from
+significant shortcomings globally. Less
+than half of the countries reporting to
+have MHEWS, indicate they have disaster
+risk information and assessments
+available in an appropriate manner. Even
+fewer countries have MHEWS that are
+based in national legislation and
+regulatory frameworks for emergency
+response, which are essential to
+ensure their effectiveness (Figure 4).
+Beyond the technical issues related to
+data collection and interoperability, a lack
+of understanding of the socioeconomic
+benefits of MHEWS, a lack of legislation
+and governance among national
+institutions are key drivers to be
+addressed to remediate the situation. 
+Figure 6: WMO Members reporting to have MHEWS legislation
+Source: WMO Performance Monitoring System, August 2022
+Central and North
+America
+South America
+No data
+None
+Other legislative act
+Law
+Decree
+11%
+21%
+13%
+38%
+17%
+9%
+12%
+9%
+26%
+44%
+11%
+21%
+13%
+38%
+17%
+17%
+58%
+8%
+23%
+4%
+18%
+55%
+18%
+36%
+14%
+32%
+5%
+18%
+14%
+30%
+33%
+2%
+18%
+10%
+30%
+40%
+
+[[page 16]]
+11 The Global State of Early Warnings
+Figure 7: Global Basic Observing Network (GBON) compliance for surface (top)
+and upper-air (bottom) observations.
+An assessment of observation, monitoring and forecasting of hazards, reveals significant
+global gaps. In-situ observations fall far short of meeting the requirements of the Global Basic
+Observation Network (Figure 6). In the forecasting area, many countries lack the capacity to
+incorporate an impact-based approach to forecasting and still have challenges in accessing,
+analyzing and translating prediction model outputs into actionable warning messages.
+
+[[page 17]]
+Figure 8: Warning Service Availability through the Common Alerting Protocol (CAP)
+Source: WMO Performance Monitoring System, August 2022
+Early Warnings for All Executive Action Plan 12
+Considering warning dissemination and communication, the third pillar of MHEWS, alerting
+authorities, including national meteorological and hydrological services frequently use a variety of
+communication channels. Differences lie in the uptake of modern information and communication
+technologies in addition to the traditional mass media such as radios and TV channels, still on top in
+several regions. Challenges however remain in ensuring that public warnings from official sources are
+easily recognized, that redistribution including through relays of information at the community levels is
+inclusive enough to reach all people at risk, especially the most vulnerable. The implementation of the
+Common Alerting Protocol, although recognized as suitable and ensuring consistency for all hazards and
+all media is still a gap in many countries (Figure 7). 
+Finally, having preparedness and response plans and capabilities, including at local government level is
+vital for responding to warnings issued by the regional or national hydro-meteorological services. Less
+than half of the countries which have MHWES in place report on the availability of such plans. Identified
+gaps in this area relate to policy development, governance, collaboration and inclusion at large. 
+Figure 9: Number of people pre-emptively evacuated following early warnings. The numbers on top of the
+bars indicate the number of countries who evacuated people in that year. First shown in Target G Report.
+Note: The overall reporting by countries was degraded in 2021 showing a lower number and does not
+reflect the situation on the ground due to the lack of data.
+
+[[page 18]]
+13 Executive Action Plan to achieve universal coverage
+Global Development Context
+of early warning systems
+Human-induced climate change is causing more frequent and intense extreme climate events, resulting
+in widespread adverse impacts and related losses and damages to nature and people, with the most
+vulnerable people and systems disproportionately affected. Early warning systems are a proven,
+effective, and feasible climate adaptation measure, that save lives, reduce poverty and economic
+losses, and are shown to provide near a tenfold return on investment. The IPCC recognizes early warning
+systems, climate services and disaster risk management activities as key cross-cutting adaptation
+options, that enhance the benefits of other adaptation measures when combined.
+Early Warning Systems are a visible component of the Sendai Framework for Disaster Risk Reduction,
+as reflected in Target G, and are recognized as important areas of cooperation in the
+Paris Agreement, in relation to Article 7 on adaptation, and Article 8 on averting, minimizing and
+addressing loss and damage. The key components of the Early Warning System value cycle are already
+recognized in many countries National Adaptation Plans. Lessons learnt from the Early Warnings for All
+initiative could help to inform the Glasgow-Sharm El Sheikh work programme on the Global Goal on
+Adaptation. 
+Early warning systems support the advancement of the 2030 Agenda for Sustainable Development
+and provide crossing-cutting benefits to nearly all of the Sustainable Development Goals (Figure 9).
+Whether it be through supporting agricultural productivity, water security, good health and wellbeing,
+reducing poverty, enhancing economic growth, or supporting resilient energy systems, cities, oceans and
+land; early warning systems are a vital tool for decision makers to help progress towards sustainable
+development. Progress on achieving universal early warning systems will most directly contribute to the
+achievement of SDG Indicators 1.5, 11.5, 13.1 and 13.3.
+Figure 10: The United Nations Sustainable Development Goals
+
+[[page 19]]
+Early Warnings for All Executive Action Plan 14
+The actions required to achieve the goal of ensuring every
+person on Earth is protected by early warnings within five years
+have been broken down into four pillars aligned with the
+four components of a multi-hazard early warning system,
+already described in more detail above. 
+ 
+The following four sections outline the key top level financial,
+policy and scientific and technical actions required to
+address the gaps in early warning status globally. Following the
+pillars are several cross-cutting enablers, which are required
+to bring the pillars together, and ensure effectiveness of the full
+early warning value cycle. 
+Executive Action Plan
+to achieve universal coverage 2023-2027 
+Photographer: Douglas Fischer 
+Location: Cambará do Sul, Brazil
+WMO 2023 Calendar Competition
+
+[[page 20]]
+Lead:
+Lead:
+Supporting
+entities:
+Continuous improvement
+and evolution of the
+Early Warnings for All
+Maturity Index
+Step 1: Setting
+up a working
+group composed
+of key
+stakeholders
+and relevant
+experts for each
+EWS component
+Step 2: Defining
+a conceptual
+framework,
+critical
+components, subcomponents and
+variables for each
+EWS element
+Step 3:
+Defining
+levels of
+maturity (e.g.
+deficient,
+basic,
+intermediate,
+advanced)
+Step 4: Mapping
+existing data
+sources, identifying
+the data needs for
+targeting and
+tracking EWS
+investment and
+support
+Step 5: Integrating the
+various existing data and
+information sources for
+the provision of
+coordination information
+to the partners,
+stakeholders and
+beneficiaries
+Data and risk assessments are systematically
+collected
+Hazards and vulnerabilities are well-known by
+communities
+Factor patterns and trends are identified
+Risk maps and data are widely available
+All countries have geo-referenced data platforms
+and tools to issue impact-based forecasts
+All NMHSs or other relevant authorities benefit
+from capacity building measures
+Sendai Target G Indicator G-5: All countries have
+accessible, understandable, usable and relevant
+disaster risk information and assessment available
+to people at national and local levels.
+Sendai Target G Indicator G-2: All countries have
+multi-hazard forecast and monitoring systems
+The correct parameters are monitored
+There is a sound scientific basis for making forecasts
+Accurate and timely warnings are generated
+All countries have national plans, strategies and
+legislation for their NMHSs
+All NMHSs regularly review and report on the
+accuracy and timeliness of their services
+No priority hazards occur without associated
+forecasting and warning services
+Sendai Target G Indicator G-4: All countries' local
+governments have a plan to act on early warnings.
+Warnings reach everyone at risk
+Risks and warnings are understood
+Warning information is clear and useable
+All countries have updated registries of 
+ alerting authorities
+All countries issue warnings in Common 
+ Alerting Protocol (CAP) format 
+Sendai Target G Indicator G-3: All people are 
+ covered by early warning information through 
+ local governments or through national
+dissemination mechanisms.
+Response plans are up-to-date and tested
+Local capacities and knowledge are utilized
+All people are prepared and ready to react to
+warnings
+All people are covered by forecasts and 
+ warnings for a given hazard
+All people who are living in areas covered by
+forecasts and warnings have access to
+communications
+All countries report on Sendai Target A and G
+Sendai Target G Indicator G-6: All populations
+exposed to or at risk from disasters are protected
+through pre-emptive evacuation following early
+warnings.
+POLICY
+FINANCIAL
+TECHNICAL
+POLICY
+FINANCIAL
+TECHNICAL
+POLICY
+FINANCIAL
+TECHNICAL
+POLICY
+FINANCIAL
+TECHNICAL
+Lead:
+Lead:
+Supporting
+entities:
+Supporting
+entities:
+Supporting
+entities:
+Partnerships
+Locally led
+action
+Financial
+Private sector
+Science,
+research and
+innovation
+CROSS-CUTTING ENABLERS
+15 Executive Action Plan to achieve universal coverage
+Five Year Action Plan Overview
+2023
+SUCCESS LOOKS LIKE:
+Sources: Sendai Framework Monitor Target G Indicators
+(2015-2030), OIEWG Report (2017), MHEWS Checklist
+(2018), CREWS Core Programme Indicators (2022)
+"All people on Earth must be protected by
+early warning systems within five years."
+- UN Secretary-General Antonio Guterres,
+March 23, 2022
+A Framework for implementation
+2024
+2025
+2026
+2027
+POLICY
+TECHNICAL
+FINANCIAL
+PILLAR 5: MONITORING & EVALUATION
+PILLAR 1: DISASTER RISK KNOWLEDGE AND MANAGEMENT
+PILLAR 2: OBSERVATIONS & FORECASTING
+PILLAR 4: PREPAREDNESS & RESPONSE CAPABILITIES
+PILLAR 3: WARNING DISSEMINATION & COMMUNICATION
+ Achieve GBON compliance
+
+[[page 21]]
+USD 374 MILLION
+MONITORING & EVALUATION
+USD 3.1 BILLION*
+USD 550 MILLION
+USD 1 BILLION *
+DISASTER RISK KNOWLEDGE
+& MANAGEMENT
+OBSERVE, MONITOR
+AND FORECAST
+Early Warnings for All Executive Action Plan 16
+DISSEMINATE AND
+COMMUNICATE
+BE PREPARED AND
+ANTICIPATE
+In support of comprehensive risk management 
+In the context of a changing climate 
+Connecting hazard recording with loss and
+damage accounting 
+Initial minimum investment required to advance
+towards early warnings for all within five years:
+Registering and empowering national
+official alerting authorities 
+Leveraging geolocated cell-broadcast
+among multiple channels 
+Using inclusive and people focused
+approaches to reach all people at risk 
+Building on enhanced national policies
+and legislation 
+Strengthening preparedness capacities
+of local government and actors 
+Leveraging existing partnerships at all
+levels
+With a full Earth system approach, 
+Leveraging global and regional
+resources to support national efforts 
+Optimizing and sustaining international
+exchange of data and information
+*Estimate based on consultations with pillar lead partners
+connect across and within all aspects of the
+early warning value cycle
+*
+PARTNERSHIPS
+*
+USD 1.18 BILLION
+
+[[page 22]]
+Led by
+17 Pillar 1: Risk knowledge and management
+Supported by
+USD 374 MILLION
+Estimated minimum new investment to deliver early warnings for all in five years:
+and management
+Disaster risk knowledge
+and management
+Photographer: Sangseok Kim
+Location: Seogwipo-si, Jeju-do, Republic of Korea
+WMO 2023 Calendar Competition
+
+[[page 23]]
+Pillar 1: Disaster risk knowledge and management
+Knowledge about risk is the first component of a successful early warning value chain. To be
+effective, this risk knowledge requires a deep and locally-grounded understanding of hazards,
+vulnerabilities, livelihoods, social inclusion, and exposure among other important aspects to
+contextualize disaster risk knowledge. This risk knowledge is not just the domain of experts
+but is most impactful when incorporating all forms of knowledge, from indigenous to
+scientific, and with a specific focus on understanding risk from the perspective of those who are
+most vulnerable and those who can help mitigate it. 
+ 
+Building on a long history of engagement, consultation and research, seven risk knowledge
+outcome themes have been identified, along with associated outcome statements (see Box 1)
+that will help us achieve the global goal of Early Warnings for All: 1. production 2. access 3.
+application 4. monitoring and evaluation 5. governance and collaboration 6. locally led action;
+and 7. innovation. 
+ 
+From these outcomes, a set of priority actions have been identified. Whilst action at all scales is
+important (including regional and local) the actions presented here are categorized according to
+global and national scales for clarity in this initial strategy. All of the actions and outcomes are
+focused on decision making in support of the most vulnerable and are designed to raise the
+capability of risk knowledge to support early warning. 
+2023
+2024
+2025
+2026
+2027
+Priority actions
+In Year 1 - Building on the Global Status Report of MHEWS (Target G), the focus will be on
+establishing the state of risk knowledge through the identification of gaps (global, national and
+sub-national); agreeing on global to sub-national application of knowledge and policies;
+accelerating the use of innovation and technology to achieve the goal; and identifying a minimum
+risk knowledge global and national data and capability for early warning. This will result in a
+costed, national level focused plan to build this capability in coordination with existing global risk
+databases, relative to priority hazards, impacts and vulnerabilities. 
+ 
+In Year 2 - The foundations required for implementing the plan will be laid, including
+commitments and allocations of funding. Implementation will be initiated in a first tranche of
+countries. A minimum risk knowledge capability will be agreed upon and worked towards, with
+gaps filled at a global scale through application and integration of global projects and processes.
+Institutional capacity to deliver support with and by national actors will be built. 
+ 
+Year 3 - Will be about further implementing the plan with an increase percentage of target
+countries (at least 40%) starting to achieve the minimum. 
+ 
+Year 4 - Will accelerate implementation with 80% of countries starting to achieve the minimum
+risk data and capability. 
+ 
+Year 5 - Will see all countries achieving the minimum risk data and capability for risk knowledge. 
+Early Warnings for All Executive Action Plan 18
+POLICY | FINANCIAL | TECHNICAL
+
+[[page 24]]
+19 Pillar 1: Risk knowledge and management
+The Seven Risk Knowledge Outcome Themes
+Outcome: Countries have a minimum capability where they are able to produce
+quality, timely and contextually relevant risk information, where vulnerable
+communities are able to participate in the process. 
+Catalytic Action: Significantly strengthen the ability of countries to produce
+national, sub/national, and local risk information, integrating existing community
+knowledge, to a defined minimum capability (vulnerability, exposure, hazard).
+Outcome: Those who need it are able to access standardized, interoperable and
+updated risk information that can inform their decisions 
+Catalytic Action: Ensure that countries have access to open and relevant risk
+data, metrics and analysis to support decision-making. 
+Outcome: Relevant actors are able to use risk information to inform decisionmaking for early warning.
+Catalytic Action: Develop institutional capacity to incorporate risk knowledge into
+early warning systems.
+Outcome: Countries are able to monitor the availability and effectiveness of early
+warning systems, and use this to update their approaches. 
+Catalytic Action: Enhance national capacities to report better on Sendai
+Framework Target G and custom indicators.
+Outcome: Strengthened collaboration between key Ministries, academia, the
+private sector and vulnerable communities generates improved risk information 
+Catalytic Action: Support countries to define roles/responsibilities and ways of
+working that prioritize collective action, including at community-level. 
+Outcome: Risk knowledge capability is built through a combination of local,
+traditional, Indigenous, generational and scientific knowledge that can enable
+resilience under a range of future risk scenarios. 
+Catalytic Action: Build on existing approaches to ensure that all risk knowledge
+capability is locally led where possible, people centered and strengthened
+through an increased use of citizen science. 
+Outcome: Innovation, particularly through the use of new and existing
+technologies drives a step change in risk knowledge capability at all scales that is
+for all, rather than those who are most developed.
+Catalytic Action: Shift focus of technology application, innovation and
+development in risk knowledge from ‘state of the art’ to driving rapid change in
+all other themes.
+1. Risk Knowledge – Production (25%) USD 93.7 million
+2. Risk Knowledge – Access (20%) USD 75 million
+3. Risk Knowledge – Application (15%) USD 56.2 million
+4. Risk Knowledge - Monitoring and Evaluation (5%) USD 18.7 million
+5. Risk Knowledge – Governance/Collaboration/Inclusion (10%) USD 37 million
+6. Risk Knowledge – Robust Locally led understanding (15%* (assumes most of this
+is covered in pilar 3)) USD 56 million
+7. Risk Knowledge – Innovation (10%) USD 37 million
+
+[[page 25]]
+Early Warnings for All Executive Action Plan 20
+USD 374 MILLION
+Estimated minimum new investment to deliver early warnings for all in five years:
+POLICY
+TECHNICAL
+FINANCIAL
+Disaster risk knowledge and management
+
+[[page 26]]
+Detection, Observations, Monitoring,
+Analysis and Forecasting
+Led by
+21 Pillar 2: Observations and Forecasting
+Supported by
+USD 1.18 BILLION
+Estimated minimum new investment to deliver early warnings for all in five years:
+Photographer: Yurii Bershadskiy
+Location: Nikolaev, Ukraine
+WMO 2023 Calendar Competition
+
+[[page 27]]
+Early Warning Systems are underpinned by a global upward reporting of surface and space-based
+observation data, exchanged freely between all countries, and ingested into several highly advanced
+supercomputing modelling centres. These centres run numerical models which replicate the physical
+interactions of the full Earth System (weather, hydrology, ocean, cryosphere and more) to create
+predictions, which are then cascaded back down from global to regional and national levels, so that
+National Hydrological and Meteorological Services can provide forecast services to their citizens. Without
+this daily, complex, global effort, modern day weather and hydrology forecasts would not be possible. 
+Observations are the fuel that feeds this system. They are critical for predictions of all timescales and can
+be particularly important for predictions of high-impact weather and water hazards on timescales up to six
+hours. Closing the gap on the Global Basic Observing System (GBON) is an essential step for supporting
+Early Warnings for All, measured through a global indicator of change, including specific sub-indicators
+for SIDS and LDCs to ensure that priority gaps are closed. The Systematic Observations Financing Facility
+(SOFF) is the dedicated funding mechanism for the implementation of GBON (see SOFF deep dive box,
+page 25). 
+Hydrological observations also suffer significant gaps and hydrological data is often not exchanged
+between countries as freely as atmospheric observation data. This poses major challenges for warnings of
+droughts and floods – two of the most impactful climate hazards for people. Around the globe 145
+countries share 263 transboundary basins, covering half of Earth’s land surface, making hydrological data
+sharing an issue of high regional importance. 
+The networks that enable the exchange of data, namely the WMO Information System (WIS) is going
+through a process of modernisation to enable weather, water and climate information to be more related
+to socioeconomic and other data through an open ecosystem of tools, applications and services. This too
+is a critical step for advancing early warnings. 
+Moreover, from the forecast and alerting perspective, countries have access to global products, but
+require support in identifying and assessing information reliability across timescales. Supporting
+countries in evaluating multiple sources of information and to identify which products offer good skill for
+the parameters of interest and downscaling these products to decision relevant forecasts and enable
+actionable alerts.
+The Global Multi-Hazard Alert System (GMAS) Framework, an initiative of the WMO in which many
+partner agencies have engaged and significantly contributed, aims to enhance the alerting capabilities of
+countries to close the EWS coverage gaps and support regional coherence in dealing with common
+hazards and alerts.
+Additionally, supporting the paradigm shift from providing information on “what the weather/climate will
+be” to “what the weather/climate will do” or impact-based forecasting and warning services (IBFWS)
+underlies actionable alerts. It requires a structured approach and effective partnership to combining
+hazard related information with exposure and vulnerability data (from the first pillar, Disaster Risk
+Knowledge) to identify risk and support decision-making. Its ultimate objective is to encourage early
+action that reduces damages and loss of life from natural hazards by providing information about the
+hazard, about the potential impacts it may cause and recommended actions to minimize the effects of
+these impacts for society (UNESCAP, 2021 and WMO 2021).
+WMO Members will continue to play a vital role in the technical implementation of this pillar through the
+work of the Commission for Weather, Climate, Water and related Environmental Services and
+Applications (SERCOM) and the Commission for Observations, Infrastructure, and Information Services
+(INFCOM) and other important constituent and advisory bodies.
+Pillar 2: Observations and Forecasting
+2023
+2024
+2025
+2026
+2027
+Early Warnings for All Executive Action Plan 22
+POLICY | FINANCIAL | TECHNICAL
+
+[[page 28]]
+23 Pillar 2: Observations and Forecasting
+Establish and implement the Global Basic Observing Network to deliver timely data to global
+weather prediction systems - the critical foundation for EWS; 
+Close ocean and cryosphere observation gaps in hot spots (coastal areas, high mountains, etc.) 
+Accelerate the implementation of the WMO Action plan for hydrology, including establish regional
+hydrological status systems (HydroSOS)
+Expand the network of Regional Specialized Hydro-Meteorological Centres and the associated
+National Hydro-Meteorological Centres with at least 13 new centres (e.g Northern Africa, South
+America, Middle East, Caucasus, Eastern Europe, Oceania, Central Asia) to meet region specific
+needs, e.g. Severe Weather Forecasting, flood and flashflood forecasting, high resolution weather
+prediction, nowcasting, tropical cyclones, impact-based forecasting, tsunami, etc. Estimated
+funding requirement
+Technical development: Accelerate the implementation of the WMO Information System 2.0 (WIS
+2.0) – to enable timely and sustained data access and develop technical capabilities. 
+Policy advocacy and implementation: Policy development that would enable the increased sharing
+of data or critical importance for early warnings, underpinned by the implementation of the WMO
+Unified Data Policy. 
+2. Close the observing gaps to meet the data needs for monitoring hazards (Estimated for 70 priority
+countries
+a.
+b.
+c.
+3. Enhance the existing framework and the capabilities of global data processing, forecasting, and
+analysis systems. 
+a.
+4. Sustainable data and Information exchange infrastructure to support EWS 
+a.
+b.
+5. Optimize international efforts on observation, monitoring, and forecasting in support of EWS, as
+fostered by, for example, UNDP, UNEP, UNESCO. and upscale successful regional initiatives on sharing
+data and forecasting products 
+Key action areas
+ Enhancing capacity to detect hazards: 
+ Conduct gap analyses on early warning needs (national, regional) e.g. flood and drought, flash flood,
+tropical cyclones, heatwaves, tsunami, glacier lake outburst floods etc. Expand the Cataloguing of
+Hazardous Events (WMO-CHE) to all climate driven hazards and their monitoring requirements. 
+Enhance the timely access to, and use of satellite observations and of advanced technologies (radar,
+lightning detection) to build up detection and forecasting capabilities: action: establish satellite
+nowcasting facilities in Africa and South America; funding requirements. 
+1.
+a.
+b.
+
+[[page 29]]
+Early Warnings for All Executive Action Plan 24
+USD 1.18 BILLION
+Estimated minimum investment to deliver early warnings for all in five years:
+POLICY
+TECHNICAL
+FINANCIAL
+Detection, Observations, Monitoring, Analysis and Forecasting
+
+[[page 30]]
+Deep dive box on SOFF
+SOFF was launched in July 2022 and has an ambitious target to support 100
+countries. 65 SIDS and LDCs with technical assistance, investments, and openended results-based funding and 35 ODA eligible countries with technical
+assistance. In November 2022, the first 26 countries to receive SOFF support
+have been approved. 
+According to the WMO Global Basic Observing Network Global Gap Analysis
+2022, the Pacific, Caribbean and Sub-Saharan Africa are areas with significant
+data gaps. Out of the 26 countries, 17 have less than 25% of the required GBON
+infrastructure. The initial group of countries represents about 40% of the total
+GBON gap in SIDS and LDCs. Implementation of SOFF in these initial countries
+will bring large improvements in upper air observations critical for Numerical
+Weather Prediction models; opportunities to improve existent upper air and
+surface stations; and high potential for regionally coordinated action to optimize
+the global basic weather and climate observing network.
+A deep dive on SOFF
+Systematic Observations Financing Facility (SOFF) – Closing the basic
+weather and climate data gap in SIDS and LDCs
+Table 1: On 2nd November 2022, the first 26 countries to receive SOFF
+support have been approved. 
+25 Deep dive: Systematic Observations Financing Facility (SOFF)
+4
+4
+6
+3
+4
+5
+4
+
+[[page 31]]
+Figure 11: Countries for the first batch of SOFF programming. Closing the most significant gaps
+while maximizing opportunities for regionally coordinated action. Source: SOFF Secretariat
+This material therein does not imply the expression of any opinion whatsoever on the part of SOFF
+concerning the legal status of any country, area or territory or of its authorities, or concerning the
+delimitation of its borders.
+Figure 12: WMO Global GBON Gap Analysis for surface (top) and upper air (bottom)
+stations. Areas in dark red are far from meeting the GBON requirements. Source: WMO
+Global GBON Gap Analysis, January 2022.
+Early Warnings for All Executive Action Plan 26
+
+[[page 32]]
+27 Deep dive on water
+Water is the primary vehicle through which we feel the threats of climate change. Over
+the past twenty years, water-related hazards have consistently increased in frequency
+and intensity with at least 1.6 billion people having been affected by floods and 1.4
+billion by droughts. (World Bank, 2021)[1]. A weather, climate or water-related disaster
+has occurred on average every single day within the past 50 years– taking the lives of
+115 people daily and causing US$ 202 million in daily losses (WMO, 2021)[2]. As
+currently 1/3 of the world’s population is not covered by early warning systems, we are
+risking to at least doubling the population exposed to floods and droughts due to
+climate change (IPCCC, 2022)[3]. These challenges will intensify with future climate
+change, population growth and increasing economic activities in flood prone areas,
+underscoring the importance of building resilience to socio-economic impacts of
+extreme events. 
+In Summer 2022, Pakistan was severely affected by extensive floods following a record
+heat wave earlier this year. This caused approximately $10 billion in damages to
+infrastructure, homes and farms, affecting more than 33 million people (about 15% of
+the population) and their livelihoods[4]. In the previous year, extreme flood events
+affected Western Europe, causing an estimated 40 billion damages in Germany
+alone[5]. On the flip side of the coin, droughts have a slower onset but can cause
+dramatic food insecurity, economic downturn, unemployment, poverty, conflict, and
+internal displacement or migration. Estimates from the NOAA attribute to droughts a
+cost to the USA of at least $249 billion since 1980, with an average of more than $9.6
+billion incurred during each major event[6].
+To overcome these challenges and build resilient societies and economies effective
+end-to-end early warning systems for floods, droughts and water-related hazards are
+urgently needed. WMO, joining forces with the Global Water Partnership and other
+partners, has been promoting an integrated approach to flood and drought
+management, since 2001 through the Associated Programme on Flood Management
+and since 2013 through the Integrated Drought Management Programme. Moreover,
+the World Meteorological Congress adopted in its Extraordinary 2021 session the WMO
+Vision and Strategy for Hydrology, articulating over 8 long-term ambitions of which the
+first two are “No one is surprised by a flood” and “Everyone is prepared for a drought”. 
+These are supported by other ambitions covering the need to have high quality data to
+support the science feeding operational hydrology. Developing a global early warning
+system mechanism will enhance capacity to anticipate and manage floods and
+droughts across scales, which is also supported the Water and Climate Coalition
+(cofounded by WMO with 9 UN Agencies and GWP, now with more than 160 members).
+Fragmentation and gaps in water and climate data at the local, national and regional
+levels constitute, together with the lack of forecasting system and good governance
+systems and proper communication and preparedness at the grass-root level, are the
+biggest challenges in managing risks of floods and droughts. More and better (quality
+assured) data needs to be accessible across countries and scales to benefit all. The
+AWARe Initiative (to be launched at CO27, led by Egypt) will help addressing these
+challenges. 
+A deep dive on integrating water and climate agendas
+
+[[page 33]]
+Early Warnings for All Executive Action Plan 28
+12 mil
+1.65 bil
+360.6 mil
+75 mil
+Global flood and drought risk mapping and information tool 10 mil
+Development of tools and modules to assess and analyse the uncertainty of extreme
+conditions is available 2 mil 
+Optimize the hydrological observation network and monitoring. 5 mil per country
+Global Water Data Portal. 1 mil (250 K per year)
+Implementation of Hydro Status and Outlook System (HydroSOS) at the global, regional
+and national scale; Define set of parameters to monitor and support sustainable
+development on a long-term scale in cooperation with relevant organizations. 5 mil per
+country; 50 mil for global scale
+GDPFS – development of hydrological centres, including regional forecasting and
+assessment centres/systems 20 mil; 1.2 mil per year
+1) establishment of global centres on flood, drought and cryosphere within GDPFS
+and training of NMHSs to process and apply the information to the local context
+2) Global products for local use – Regional Specialized Hydrological Centre (RSHC) of
+GDPFS provide to Members Water Regional Assessment products, including training
+products and tools for interpretation
+Development of Regional/National/Global data and products for flood
+(urban/flash/riverine) and drought modeling and forecasting systems (including
+cryosphere) 2 mil per country; 30 global
+Development of water quality monitoring and modeling system at global, regional, and
+national level including training materials development and implement 1.2 mil per
+country; 25 mil global scale
+Development of global, regional/ national flood and drought early warning platforms including
+training. 1.5 mil per country; 10 global
+Capacity building activities organized through APFM and IDMP, including curricula and training
+material based on needs identification, developed to enhance Members’ flood and drought
+management capacities and capabilities. 1.3 mil per year
+Identification of requirements on globally/regionally/nationally produced information for use in
+flood and drought assessment, modelling and prediction at the national scale by NHSs, and
+Development of an interface for NHSs to search, use and interpret the products including training. 
+2 mil per country; 30 mil global
+Operational guidance and tools for verification of available products. 600k
+Simulation exercise to test the effectiveness of flood and drought early warning systems and
+platforms 200k per country
+Capacity development on Search and Rescue operation for floods. 300k per country
+Coordination and collaboration with multi-stakeholders for effective flood and drought response. 
+ 250k per country
+Pillar 1
+Pillar 2
+Pillar 3
+Pillar 4
+Budget for Water, Hydro and Cryosphere related challenges*
+In USD, for
+minimum
+100 countries
+*This is a calculation of comprehensive global hydrological capacity development which are not included in the overall global envelope
+amount.
+POLICY
+TECHNICAL
+FINANCIAL
+Photographer: Abbas Raad 
+Location: Iraq
+WMO 2023 Calendar Competition
+
+[[page 34]]
+Warning dissemination
+and communication
+Led by
+29 Pillar 3: Warning dissemination and communication
+USD 550 MILLION
+Estimated minimum new investment to deliver early warnings for all in five years:
+Supported by
+Photographer: Rodolfo Romeor 
+Location: Sossusvlei Desert, Namibia
+WMO 2023 Calendar Competition
+
+[[page 35]]
+Pillar 3: Warning dissemination and communication
+Governance
+Outcome: All countries have agreed on functions, roles and responsibilities for each
+actor in the warning dissemination process and this is defined through government
+policy
+Catalytic Actions:
+Advocate and support efforts to establish designated functions, roles and
+responsibilities in national warning dissemination process through legislation. Review
+the design and process of updating the WMO Register of Alerting Authorities (RAA)
+Promote advocacy efforts to populate the RAA with mandated alerting agencies
+Infrastructure networks and services 
+Outcome: Last-mile communication - All countries ensure the warnings reach those at
+risk by using multichannel dissemination and communication alerting 
+Catalytic Actions:
+Identify and strengthen several of the most efficient, preferred and trusted
+communication channels to reach communities at risk 
+Promote the implementation of geo-located mobile early warning services using cellbroadcast and/or location-based SMS 
+Promote a regulatory approach, based on the model adopted by several countries
+including the EU, which has mandated the use of geo-located alerts using mobile
+networks
+Work with mobile network operators and the GSM Association to provide support
+and expertise in strengthening networks and services in countries 
+Together with the private sector develop an investment model to support countries
+in establishing a basic mobile EWS 
+Leverage Artificial Intelligence to support the development of ‘client’ profiles and
+scale the dissemination of actionable
+The fundamental purpose of an early warning system is to ensure people receive warnings in
+advance of impending hazardous events, so that they can take the necessary actions to save
+lives, livelihoods and to support longer-term resilience. 
+ 
+Effective early warning services are co-designed with the ‘clients’ they serve and have feedback
+mechanisms to help ensure messages reach people through preferred and trusted
+communication channels, in actionable formats and in a timely manner to support decision
+making. This co-design process duly recognizes and seeks to address the structural inequalities
+too often facing women, youth, children, disabled, displaced, Indigenous Peoples and
+marginalised ethnic groups in receiving, understanding and acting on early warning services. 
+ 
+Building on a long history of engagement, the following outcomes and priority actions were
+identified for the warning dissemination and communication pillar. 
+1.
+a.
+b.
+i.
+ii.
+2.
+a.
+b.
+i.
+ii.
+iii.
+iv.
+v.
+vi.
+2023
+2024
+2025
+2026
+2027
+Early Warnings for All Executive Action Plan 30
+POLICY | FINANCIAL | TECHNICAL
+
+[[page 36]]
+Inclusion and people-centered approach including through existing local networks 
+Outcome: Strengthened and expanded alert dissemination and feedback channels
+reaching all people with actionable information. 
+Catalytic Actions:
+Leverage existing community-based infrastructures such as Indigenous Knowledge
+Systems (IKS), Community-based flood and drought management, IFRC, civil society
+and faith-based organization in the dissemination of early warnings. 
+Establish locally led feedback mechanisms to inform iterative service development
+and delivery plans 
+Establish partnerships with intermediaries (i.e., journalists, extension officers, etc.)
+and provide training to appropriately interpret and disseminate authoritative and
+actionable alerts without distorting the intended information 
+Promote co-development of actionable early warning repository messages with last
+mile users to ensure information is easily understood by the target community
+(including the language) 
+Strengthen collaboration with the social science research community to better
+understand HOW to communicate warnings in an effective manner to ensure they
+are understood and appropriately acted upon.
+Quality and trust 
+Outcome: All countries have the capability for effective, authoritative emergency alerting
+that leverages the Common Alerting Protocol (CAP), suitable for all media and all
+hazards.
+Catalytic Actions:
+Establish a CAP Help Desk to support countries in adopting and effectively using the
+CAP standard 
+Establish CAP editor and Alert Hub to further enhance multi-hazard CAP based
+emergency alerting 
+Training of various sectoral ‘clients’ to support the use of CAP messages in decision
+making processes 
+Develop an attribution statement for redistributors, such as the private sector, when
+using alerting information 
+Develop global, regional and national dashboards that display active early warning
+messages / alerts 
+1.
+a.
+b.
+i.
+ii.
+iii.
+iv.
+v.
+2.
+a.
+b.
+i.
+ii.
+iii.
+iv.
+v.
+31 Pillar 3: Warning dissemination and communication
+Photo credit: IFRC
+
+[[page 37]]
+Early Warnings for All Executive Action Plan 32
+USD 550 MILLION
+Estimated minimum investment to deliver early warnings for all in five years:
+POLICY
+TECHNICAL
+FINANCIAL
+Warning dissemination and communication
+
+[[page 38]]
+Preparedness to respond
+Led by
+33 Pillar 4: Preparedness to respond
+Supported by
+USD 1 BILLION
+Estimated minimum new investment to deliver early warnings for all in five years:
+Photographer: Pierandrea Folle 
+Location: Minas de San Josè, Tenerife, Spain
+ WMO 2023 Calendar Competition
+
+[[page 39]]
+Pillar 4: Preparedness to respond
+Preparedness to Respond is the approach that translates early warnings into life-saving actions. In contrast
+to humanitarian contingency plans, the actions covered here are activated by a warning to a specific shock,
+not a disaster. When an early warning is issued, it is a call for actors on the ground, including national
+and local authorities, businesses, communities, NGOs, the International Federation of Red Cross Red
+Crescent Societies (IFRC), the United Nations (UN) and community groups to activate their respective
+response plans to reduce the impact of the hazard. To be sustainable over time, plans should be embedded
+in government systems and rely on local priorities, knowledge, and resources. These actions should strive
+to offer no-regrets interventions that benefit exposed groups, even if the hazard does not materialize. Plans
+must be tested and updated regularly and should factor in climate change trends and compounding risk
+factors. 
+ 
+Top level actions: 
+There is a spectrum of ways that we can ensure that early warning for all results in reduced losses and
+harm. At one end of the spectrum, it is critical that people at risk are prepared and able to respond to a
+warning themselves and at the other it is vital that in situations where national and local stakeholders are
+required, that their capacities are strengthened along the following: 
+2023
+2024
+2025
+2026
+2027
+Early Warnings for All Executive Action Plan 34
+POLICY | FINANCIAL | TECHNICAL
+Develop a strategy and action plan to deliver increased support to the development of national policy
+and legislation to ensure the mainstreaming of Early Warning and Anticipatory Action across national
+and local policy frameworks for finance and delivery mechanisms, social protection, and Disaster Risk
+Management. 
+Embed the principles of anticipatory action into social assistance through a shock-responsive social
+protection system. 
+Strengthen the preparedness capacities, systems and procedures of local governments and responders
+including IFRC through training and equipping them to respond based on integrated community and
+national early warning systems (EWS). 
+Develop and implement a National Hydromet Early Warning Service training programme to both enhance
+capability and to develop a sustainable knowledge baseBuild capacities at institutional and operational
+level by scaling up investments in readiness, cash systems, supply chains and logistics, as well as
+enhancing accountability of local responders.
+Develop and implement global, regional and national EWS/Anticipatory Action financial advocacy
+campaigns to support the mainstreaming of the key principles into international financial systems 
+Develop coordinated local community and national anticipatory action plans with pre-arranged and
+reliable funding attached 
+1. POLICY: Preparedness to Respond - Comprehensive Risk Management Policy, Laws and Strategies 
+Outcome: Crisis/disaster risk management and climate adaptation laws, policies and/or plans are reviewed,
+ensuring they reduce climate change impacts and exposure on people and the environment. [REAP Target 1] 
+Catalytic Action: 
+ 
+2. TECHNICAL: Preparedness to Respond - Local capacities 
+Outcome: Preparedness capacities, that are risk informed and impact-based, are ensured at the local level,
+enabling local first responders to act quickly and effectively based on the early warning alerts. 
+ 
+Catalytic Action: 
+ 
+3. FINANCIAL: Preparedness to Respond - Financing 
+Outcome: Financing and delivery mechanisms are connected to effective anticipatory action plans, for action
+ahead of predicted hazards and crises. [REAP Target 2] 
+Catalytic Action:
+
+[[page 40]]
+35 Pillar 4: Preparedness to respond
+Existing ODA and climate finance is flexible, suited to anticipatory action and channelled
+through existing pooled funds supporting anticipatory action 
+Financial resources are mobilized to strengthen the capacities of key local and national
+governments and partners such as IFRC to develop and implement anticipatory action plans. 
+Integrate anticipatory action into layered disaster risk financing strategies 
+Design specific Early Warning/Anticipatory action standards that support realistic and
+achievable development, whilst developing underpinning metrics through which to monitor and
+evaluate progress 
+Enhance national capacities to report better on the anticipatory action plan, particularly
+Sendai Framework Target G and custom indicators 
+Anticipatory action plans continue to include collective learning 
+Coordination and collaboration across and within the meteorological services, national disaster
+management authorities, academia, the private sector, IFRC, UN agencies, etc. 
+Continue to increase local, national, regional and global commitments towards stronger
+regional leadership 
+Leverage existing global partnerships, e.g., Anticipatory Action Task Force, Risk-informed Early
+Action Partnership and Anticipation Hub to ensure synergies and collaboration, whilst supporting
+local, regional and national intergovernmental bodies.
+ 
+4. Preparedness to Respond - Monitoring and Evaluation 
+Outcome: Countries and local actors are able to monitor the availability of early warnings, associated
+financing and the feasibility and effectiveness of anticipatory action. 
+ 
+Catalytic Action: 
+ 
+5. Preparedness to Respond - Governance/Collaboration/Inclusion 
+Outcome: Strengthened collaboration between stakeholders for informed action on the ground. 
+ 
+Catalytic Action: 
+WMO Coordination Mechanism (WCM)
+Agreed at the 18th World Meteorological Congress (Res 14) a concept to support
+the humanitarian activities of the United Nations using authoritative information
+and products from WMO members including via the Global Multi-Hazard Alert
+System (GMAS) and the designated Global Data Processing and Forecasting
+System. The fundamental role of the National Meteorological and Hydrological
+Services as the official providers of warnings is emphasized.
+
+[[page 41]]
+Early Warnings for All Executive Action Plan 36
+USD 1 BILLION
+Estimated minimum investment to deliver early warnings for all in five years:
+POLICY
+TECHNICAL
+FINANCIAL
+Preparedness and response capabilities
+Financials
+
+[[page 42]]
+Cross cutting enablers 
+37 Cross cutting enablers
+Early Warning Systems can only save lives and protect livelihoods if incorporate all of the MHEWS
+components and ensure strong connections between the four components. An effective early
+warning is only possible if the full cycle works together. 
+ 
+The importance of this concept is described by the book 'Towards the "Perfect" Weather Warning:
+Bridging Disciplinary Gaps through Partnership and Communication". It describes a pathway,
+connecting key elements of the early warning process (such as observations, weather forecasts,
+hazard forecasts, socio-economic impact forecasts and warning messages), through a set of bridges
+that cross the divide between the relevant organizations and areas of expertise. Each bridge
+represents the communications, translation, and interpretation of information as it passes from one
+area of expertise to another. Partnerships are the vital to aiding this translation, and it is important
+that as much focus is put on bridging the pillars of this action plan, as it is on each individual pillar.
+At the national level it is vital that National Meteorological and Hydrological Services (NMHSs) and
+Disaster Risk Management Agencies, as the authoritative national entities, are empowered to work
+together, in partnership, across the full value cycle to enable this.
+Partnerships
+Bridging the pillars
+The Risk-Informed Early Action Partnership (REAP) has already made significant progress to enhance
+communication and understanding across the different stakeholders involved in the early
+warning/Early action value cycle. REAP, the newly established WMO-UNDRR Centre of Excellence for
+Climate and Disaster Resilience will continue work to bridge the pillars through the implementation
+phase. Partner engagement will also be important for the future Monitoring and Evaluation
+Framework and Governance mechanisms, described later in this document. 
+Figure 13: The four pillars of the Multi-Hazard Early Warning Systems Cycle represented in the
+format of the "Valleys of death" concept outlined in the book ‘Towards the “Perfect” Weather
+Warning: Bridging Disciplinary Gaps through Partnership and Communication’ 
+Partnerships
+Locally led action
+Financial - CREWS deep dive
+Private sector
+Science, research and innovation
+
+[[page 43]]
+Early Warnings for All Executive Action Plan 38
+Locally led action
+Principle 1: Devolving decision making to the lowest appropriate level, by giving local institutions and
+communities more direct access to finance and decision-making power over how early warnings are defined,
+prioritized, designed, implemented; how progress is monitored; and how success is evaluated. 
+Principle 2: Addressing structural inequalities faced by women, youth, children, disabled, displaced, Indigenous
+Peoples and marginalized ethnic groups through meaningfully participate in the process. 
+Principle 3: Providing patient and predictable funding that can be accessed more easily. 
+Principle 5: Building a robust understanding of climate risk and uncertainty through a combination of local,
+traditional, Indigenous, generational and scientific knowledge. 
+Locally led action plays an important role in advocating for policies, governance and finance that will be crucial for
+ensuring the implementation of this action plan.“Civil society” is made up of many entities and groups, including
+international and national NGOs, community-based groups, academia and other organizations whose mandates
+include supporting governments to protect residents of their country. These groups also play an important
+advocacy role, using their voice to advocate for policies and resources that create an enabling environment for the
+implementation of this action plan. 
+ 
+A recurring problem in early warnings is that the authors of warnings rarely know the end users well. Recipients,
+when they receive the message, often do not understand its full meaning, particularly when it incorporates
+technical language – this can result in a misunderstanding of warnings and a lack of trust in the issuing authorities. 
+For early warning systems to be effective, civil society organizations play an important role as a bridge between
+technical scientific agencies and the community, including local volunteer networks that are often the only ones
+able to reach specific groups. It is ultimately community first responders that will take actions to protect vulnerable
+households and disadvantaged individuals. A fully inclusive approach which emphasizes empowerment and access
+to information for those in society who face significant challenges and disabilities. With the support of civil society
+organizations, “last mile” communities are better imagined as “first mile” actors, where warning information will
+be customized, disseminated, understood and acted upon. 
+ 
+To ensure the success of the initiative, the inclusion of diverse civil society organizations will be critical. Their role
+in the initiative will be guided by the application of the Principles for Locally Led Adaptation directly applicable to
+early warning systems, namely: 
+Civil society engagement
+Photographer: Muhammad Amdad Hossain
+Location: Sunamganj, Bangladesh
+WMO 2023 Calendar Competition
+
+[[page 44]]
+39 Cross cutting enablers
+Financial enablers
+Scaling up over five years
+The UN Global Early Warning initiative of the UN Secretary-General provides an umbrella for the international
+community to target investments in the critical parts of the value cycle where there are deficiencies and avoid
+duplication. The suite of international financing vehicles that are available should be aligned to ensure a
+range of global, regional, and national support frameworks to enhance sustainability across the four pillars.
+The challenge is ensuring a coordinated approach and scaling up targeted financial instruments such as the
+Systematic Observation Financing Facility (SOFF) and the Climate Risk and Early Warning Systems (CREWS)
+initiative. Further mobilizing partners including the World Bank, Climate Investment Fund (CIF), regional
+development banks is also critical e.g. encouraging portfolio assessments by financial institutions for early
+Overall coherence and alignment for Global Early Warnings
+and Early Action investments
+The global estimates of new investments of 3.1
+Billion USD injected across the various pillars in the
+value cycle provided in this five-year action plan are
+based on consultations with
+Critical new investments in the
+value cycle to ensure response to
+the impacts of extreme weather
+The world is failing to
+invest in protecting the
+lives and livelihoods of
+those on the front line.
+UN Secretary-General António
+Guterres on International Day for
+Disaster Risk Reduction (IDDRR)
+2022, on early warning systems
+warning investments in Asia, SW Pacific, Africa,
+Central and South America, where clusters of
+countries need to work together to achieve
+enhanced regional capacities. There needs to be
+scaling up and alignment of funds related to the
+UNFCCC and Paris Agreement such as Green
+Climate Fund and Adaptation Fund, Global
+Environment Facility and stimulating private and
+insurance sector investments for warning and
+dissemination through public/private sector
+partnership. Other substantial mechanisms such as
+the alignment of European Commission
+development financing and programming will be
+important.
+key UN and international partners. These investments represent approx. 6% of the total global
+adaptation financing which has been called for annually (50 billion USD). The new investment will
+further stimulate extensive public/private finance required for transformational steps over the next five
+years in line with the UNSG Goal. Enhancing the maturity of observational infrastructure, ensuring human
+capital and skills, enhancing the effectiveness of warning processes and responding to the challenges of
+adaptation to extreme weather impacts that many countries are now facing. This is especially important in
+countries which have the highest vulnerability and needs such as the least developed countries (LDCs), Small
+Island developing states (SIDs) where there are critical gaps resulting in high-mortality and impact to the
+economies and impact and slow development pathways for decades. 
+Photographer: Jaegyu Yeo 
+Location: Seo-gu, Busan, Republic of Korea
+WMO 2023 Calendar Competition
+
+[[page 45]]
+Early Warnings for All Executive Action Plan 40
+In line with the UNSG call for a greater dedication of financing for adaptation The UN Global Early warning initiative
+action plan will focus on ensuring the concrete implementation on the ground to make a difference and sustainable
+financing of foundational elements to ensure rapid progress over the next five years. Without this implementation
+countries will face increasingly severe impacts of extreme weather and longer-term mortality and economic of
+climate change with less ability to cope with multiple cascading threats. A key to ensuring rapid progress in the
+international community’s response will be further commitment to investing in underpinning foundational
+elements. The scale of the up-front financing required is modest to the return in investment to protect lives and
+property. The Early Warning for all initiative contributes significantly to the global adaptation agenda. 
+Scaling-up Finance. 
+The Systematic Observations Financing Facility (SOFF) enhancing the base and sustainability of global basic
+weather and climate information in support of the overall enhancement of numerical weather prediction and
+quality of warnings 
+The Climate Risk and Early Warning Systems (CREWS) ensuring the transformation and enhancement of
+meteorological and warning services, human capacities and last mile action. 
+Action on Water and climate to address the threats posed by water related disaster’s and ensure better
+hydrological and meteorological monitoring and the fusion of information in support of impact-based
+forecasting and decision making by regional national and local authorities. The Water and Climate Coalition
+has pointed to the importance of developing a global water data monitoring system and ensuring that there
+are sufficient national hydrological observation capacities contributing to Sustainable Development Goal 6. 
+Critical to saving lives and protecting economies will be ensuring adequate financial investments in the ‘last
+mile’ early action and anticipation to ensure warnings and information are delivered to the communities and
+acted upon. It is clear that enhanced resources are required for this part of the value cycle and the plans
+drawn up by key stakeholders of the Risk and Early Action Partnership REAP and the humanitarian
+community will be key to this and an enhanced coordination of humanitarian actors. Collaboration with
+private sector 'Big-Tech' companies will also enhance the reach and speedy delivery of National authoritative
+information to the communities at risk.
+Underpinning foundational elements to ensure success in the UNSG
+five-year Goal
+The Alliance for Hydromet Development brings together the key financing institutions investing
+in infrastructure, services and capacity development. This coordination mechanism for the
+international community will be a key delivery outlet for moving the Early Warning global action
+plan forward in its implementation phase. The umbrella of the UNSG Early Warning for all initiative
+will ensure, alignment, reduction of duplication. It will encourage prioritization of investments
+based on needs assessments and ensuring enhancement in the maturity of national
+meteorological and hydrological services and their connection to emergency management
+authorities and whole of government approach to Early Warning and Early Action. Commitment to
+scale-up financing in for Early Warnings/Early Action will ensure the required concrete steps to
+filling the critical gaps that have been identified in the recent target G Report.
+Working together globally to ensure alignment
+of financing instruments for Early Warnings for All
+Photographer: Aleksandar Gospić
+Location: Velebit, Croatia
+WMO 2023 Calendar Competition
+
+[[page 46]]
+41 Cross cutting enablers
+Existing pooled and bilateral funds for early warnings
+Several countries also contribute financially, through multi-lateral and pooled funds, to early warning
+systems. These include the Governments of Australia, Canada, France, Germany, Luxembourg,
+Finland, Switzerland, The Netherlands and the United Kingdom, through their funding of CREWS, and
+the United States, the Nordic Development Fund, Denmark, Norway, Austria, Finland, Ireland and
+Iceland, through their funding of SOFF. 
+ 
+Countries are also making important contributions through bilateral programmes, such as the UK's
+Weather Climate and Information Services (WISER) programme and Australia’s Climate and Oceans
+Support Program in the Pacific (COSPPac). Environment Canada contributes to WMO's work in LDCs
+and SIDS and, in 2022, they announced a new contribution through CREWS. The European
+Commission contributes to the CLIMSA programme and to CREWS, while USAID is scaling-up its
+support to WMO to strengthen, coordinate and support early warnings to Members. The Government
+of Italy supports early warnings in Africa through UNDRR. 
+Actions for financing over five years
+Figure 14: The three-step approach to Early Warning for All financials
+Balance financing across the whole MHEWS value cycle, in an inclusive manner 
+Increase financing for early action through people-centres, risk-informed approaches 
+Adopting multi-hazard programmes 
+Incentivizing private sector actors to play a role, along with the acedemic community 
+Tracking financing by development partners for effectiveness. 
+The primary principles for the financial plan over the next five years will be to: 
+1.
+2.
+3.
+4.
+5.
+ 
+This will be delivered through a three-step approach, which aligns finance with demand, increases
+coherence and effectiveness of financing and scales up what works. 
+Photographer: Youngchoun Kim 
+Location: Gimje-si, Jeollabuk-do, Republic of Korea
+WMO 2023 Calendar Competition
+
+[[page 47]]
+Science Basis for Climate Finance and Action
+Early Warnings for All Executive Action Plan 42
+Contributions of the Green Climate Fund and CREWS to support
+Early Warnings for All 
+A GCF/CREWS Scaling-Up Framework on Early Warnings linked to the GCF Simplified Approval
+Process (SAP) is being set up to accelerate the deployment of climate finance towards investments
+in early warning systems for LDCs and SIDS. It is part of the implementation of the recent GCF
+Board decision (May 2022) that requested SAP fast-track projects that scale up previously
+successful climate investments – in this case CREWS projects. The Scaling Up Framework has
+been developed and a piloting phase with CREWS, the GCF countries and accredited entities will
+begin in 2023 with regular results monitoring. An initial target is for 20 countries to access SAP
+funds of up to USD 25 million for early warnings by 2027. 
+Climate science information (access to historical climate data and projected impacts)
+is an essential ingredient for effective climate financing that delivers adaptation
+benefits for vulnerable populations. These resources are needed for providing risk
+information for climate-relevant early warning system strengthening and adaptation
+planning and for the development of proposals for climate finance. At the UN Climate
+Change Conference in Glasgow, Scotland (COP26), GCF and WMO released the
+Climate Science Information for Climate Action resource pack. The pack includes
+state-of-the-art technical guidance; a Climate Information Data Platform (CIP); and,
+online access to Climpact - for calculation of over 70 indices associated with climate
+impacts, from historical daily temperature and precipitation data. The Early Warning
+for All Plan will facilitate access to these tools, through the readiness support of the
+GCF and, the capacity building and technical assistance of CREWS.
+Adaptation Fund (AF)
+Climate for Development in Africa ClimDev Special Fund (CDSF)
+Climate Investment Funds
+Further specialist funds aligned with Early Warnings for All
+Closing the gap in the Global Basic Observing Network- the Systematic Observations Financing Facility (SOFF)
+
+ To respond to the substantial basic weather and climate data gap, the WMO, the UN Development Programme and the UN
+Environment Programme established the Systematic Observations Financing Facility (SOFF) as a UN Multi-Partner Trust Fund, with
+the support of funding partners. SOFF became operational in July 2022. It provides long-term, technical and financial support to the
+countries with the largest capacity gaps to close their GBON data gap, with a focus on LDCs and SIDS. SOFF contributes to achieving
+the adaptation and systematic observation goals of the Paris Agreement through improved climate and weather observations
+essential for effective climate services and early warnings. 
+Over the next five years, SOFF is expected to support 100 countries. 65 SIDS and LDCs with technical assistance, investments, and
+open-ended results-based funding to ensure sustained international exchange of data and 35 ODA eligible countries with technical
+assistance. To achieve this, SOFF requires USD 400 M. Financial support for implementation of GBON in non SIDS and LDCs is
+expected to be provided by other existing financial mechanisms.
+
+[[page 48]]
+50 LDCs and SIDS with predictive capacity for floods, droughts, storm
+surges, sand and dust storms, heat waves and forest fires 
+500 million people in LDCs and SIDS (households and individuals) living in
+areas covered by forecasts and prediction with access to warnings 
+50 LDCs and SIDS using common alerting protocols 
+50 LDCs and SIDS using georeferenced risk and prediction data platforms
+and tools and issuing impact-based forecasts 
+All LDCs and SIDS with national plans, strategies and legislation for NMHSs 
+All LDCs and SIDS reporting progress against the Sendai Framework and
+other relevant early warning targets 
+The Climate Risk and Early Warning Systems initiative (CREWS) is a specialized
+financing mechanism for climate risk and early warnings that save lives, assets
+and livelihoods in LDCs and SIDS.
+CREWS is operational, with a USD 84 million portfolio of technical assistance,
+capacity building and expert advisory services that covers over 50 LDCs and SIDS,
+through 14 country and regional projects. CREWS responds to the priority
+capacity gaps and needs identified in the Early Warnings for All Plan.
+Targets for the next 5 years: 
+A deep dive on CREWS
+43 Deep dive: Climate Risk and Early Warning Systems initiative (CREWS)
+CREWS will contribute to the objectives of the Early Warning
+for All Plan through the application of the following principles
+People-centered – local organizations are listened to and
+engaged so that investments are co-produced and driven by
+the needs of the end-users
+Gender-sensitive – women's empowerment is fundamental
+for building resilience, and gender influences the way people
+access, process, and respond to information and warnings
+Solution-oriented – innovative practices are applied and
+shared continuously across national and regional projects
+Multiplier – all CREWS investments promote a favorable
+environment for, and leveraging of, effective additional
+financing
+
+[[page 49]]
+Early Warnings for All Executive Action Plan 44
+USD 40 million immediate funding requirements - based on the list of
+pipeline countries (countries with needs, demand and leveraging
+potential and ready to implement projects) 
+USD 155 million funding needs to the CREWS Financial Intermediary
+Fund (FIF) over next 5 years – in addition to the USD 84 million already
+committed 
+USD 700 million to be leveraged over the next 5 years through
+development partners and financing mechanisms 
+25 LDC and SIDS, provided with just-in-time technical assistance and
+expert advisory services through the CREWS Accelerated Support
+Window – USD 50’000 to USD 150’000 (maximum USD 250’000) 
+To achieve its objectives, CREWS has the following funding targets: 
+Figure 15: CREWS Operational Procedures 2021-2025 funding projections
+
+[[page 50]]
+45 Cross cutting enablers
+Advanced analysis of forecast and vulnerability data, using AI and other technology,
+to support warning decision making, 
+Utilizing private sector digital platforms to enable data analysis and delivery,
+enhance warning dissemination, drive better awareness and reach those most
+vulnerable, and 
+More generally tapping into the wealth of innovative technical expertise held by the
+private technology sector to enhance the effectiveness throughout the value cycle. 
+Ensuring that every person on Earth is protected by early warnings within five years is a
+global challenge that will require the combined efforts of the public and private sectors
+and will not be possible without the vast and varied capabilities of businesses.
+Throughout the Multi-Hazard Early Warning System (MHEWS) value cycle – whether it be
+in relation to community engagement, communications and outreach, data, or technical
+infrastructure - the global supply chains providing the enabling and underpinning
+technology and systems largely consist of private entities. 
+ 
+Weather information and early warnings can help businesses to manage their logistics,
+plan for climate risks and reduce the impact of hazardous weather or climate events on
+their own operations, supply chains and employees. Investment in the weather and
+climate value chain can therefore provide direct benefits and further, can be aligned be
+businesses’ public good or corporate social responsibility priorities, especially in relation
+to climate adaptation efforts. 
+ 
+WMO has taken a proactive approach to greater engagement between the public,
+private and academic sectors operating across the early warnings value cycle, and
+particularly within what is often referred to as the ‘global weather enterprise’ - which
+primarily aligns with the first three MHEWS pillars. This includes a policy framework
+which provides a set of principles for successful public-private partnerships between
+government entities and private businesses. Initiatives such as the UN Global Compact
+offer further mechanisms through which businesses can adopt sustainability principles
+and take steps to support UN goals. 
+ 
+WMO recognises that the role of the private sector could go beyond a supporting role
+and that the private technology sector could be a leading contributor to the five-year
+goal through private-public-partnerships. In October 2022, WMO hosted a Technical
+Conference on Early Warnings with key ‘Big Tech’ companies to consider new models of
+collaboration and partnerships. The conference aimed to facilitate a dialogue between
+WMO, National Meteorological and Hydrological Services, other UN entities and the
+private sector on the potential contributions of technological advancements, big data,
+and the continued rise of social media and related digital platforms. 
+ 
+The conference identified a number of potentials for collaboration including 
+1.
+2.
+3.
+ 
+The complexity and urgency of climate challenges require coordinated efforts and an
+agile approach, which businesses – large and small, from many sectors – can have an
+important role in. The rationale for strong engagement with the private sector is clear,
+and so private-public-engagement will continue to be prioritized through the upcoming
+implementation stage. 
+Role of the private sector
+
+[[page 51]]
+Early Warnings for All Executive Action Plan 46
+Integrate scientific and technological advancements with local, traditional, Indigenous and
+generational knowledge. 
+Ensure activities to implement MHEWS are grounded in best available scientific and
+technological information. 
+Embrace cross-discipline research and innovation, recognizing that a challenge this big
+can’t be tackled by one discipline alone. 
+Encourage further research and innovation related to MHEWS across diverse research
+communities in order to foster scientific and technological advancements. 
+Despite advances in science related to weather, water and climate, there are still scientific and
+technological challenges that must be addressed in order to improve the provision of accurate
+and effective early warnings. For example, advancements are needed to improve impactbased, people-centered forecasting as well as to enhance our understanding of how our
+climate will continue to change in order to ensure that MHEWS are effective not only in today’s
+climate, but tomorrow’s. Further research is also needed to better understand how to best
+communicate warnings and scientific uncertainty to ensure that warnings are understood and
+acted upon. It is also important to enhance the research to operations process to ensure the
+latest scientific and technological advances are being applied in operational settings and,
+ultimately, inform decision-makers. 
+ 
+There is already work taking place to address these scientific challenges, such as improving
+forecasting abilities in lower-income countries using new technologies, enhancing
+collaboration between scientists, and improving climate projections at regional and local
+scales. The science and research communities, including both the physical and social sciences,
+will be key partners for addressing these challenges through scientific and technological
+innovations, enabling this action plan and providing early warnings for all. 
+ 
+Recommendations:
+1.
+2.
+3.
+4.
+Science, research and innovation
+Photographer: Joohyoung Kim
+Location: Gwangju-si, Gyeonggi-do, Republic of Korea
+WMO 2023 Calendar Competition
+
+[[page 52]]
+Monitoring and evaluating the success
+of the initiative over the next five years 
+47 Monitoring Framework
+In terms of roles and ownership, the Early Warnings for All Initiative partners will be invited to
+co-lead the index development across the key components, based on a commonly agreed
+methodology. 
+The process will involve a series of actions, by a newly created working group, including defining
+a conceptual framework, defining maturity levels, mapping existing data sources, integrating
+data sources, integrating data sources, continuous improvement of the index and the eventual
+roll out at national, regional and global levels. Key partners, such as the Alliance for Hydromet
+Development, Members and technical experts will be closely engaged throughout and a detailed
+work plan will be elaborated in the coming months. An emphasis will be placed on ensuring a
+transparent, participatory and inclusive process. 
+Tracking progress,
+informing decision-making
+and measuring success are
+key in achieving the fiveyear goal of the Early
+Warnings for All Initiative.
+To this end, an integrated
+approach to monitoring is
+envisioned, capitalizing on
+the data strengths of
+partners and rooted in the
+principles of results-based
+management. 
+Photographer: Andriy Nestruiev 
+Location: Ukraine
+WMO 2023 Calendar Competition
+Figure 16: Monitoring framework guiding principles
+I. Disaster risk
+knowledge
+II. Monitoring,
+analysis and
+forecasting
+III. Warning,
+dissemination and
+communication
+IV. Disaster
+response
+capability
+EWS Components
+I. Governance
+II. Collaboration
+mechanisms
+III. Effective
+planning and
+capacity
+IV. Effective
+budgeting and
+financing
+Enabling Environment
+People-focused
+Accountability
+Inclusiveness
+Collaboration and
+Integration
+Multi-hazard and
+multifunctional
+Relevant and
+Contextual
+Technology,
+Innovation and
+forward looking
+Sustainability
+Guiding Principles
+Diagram Ref: Collymore, Jeremy, Model National Multi-Hazard Early Warning Systems (MHEWS) Policy, Caribbean Disaster Emergency Management Agency, January 2020
+
+[[page 53]]
+Create a common understanding of the basic requirements and maturity levels of early
+warnings and early action among Member States, NMHS and stakeholders; 
+Harness and integrate the data of all partners; 
+Cover all four elements of the end-to-end, people-centred early warning systems as well as the
+enabling environment; 
+Provide reliable information on capacity gaps and facilitate targeted investments and technical
+support. 
+Based on the four components of the initiative, a theory of change will be constructed, turning the
+main objectives and deliverables into a comprehensive logical framework of expected outputs,
+outcomes and societal impacts. At each level, a set of monitoring indicators will be designed and
+systematically tracked. Both quantitative and qualitative data will be used, with a focus on
+objective, validated, quality-assured data, to the extent possible. Given the existing challenges in
+data availability and global coverage, an evolution in the scope and granularity of the monitoring
+framework is expected, starting with a smaller dataset and gradually refining and capitalizing on
+partners’ data strengths. 
+ 
+In parallel, to ensure medium- to long-term sustainable measuring of success, WMO in
+collaboration with its partners and stakeholders will develop an objective Early Warnings for All
+Maturity Index. This Maturity Index will be an important contribution to the Global Goal on
+Adaptation. The index will be supported by an interactive monitoring, evaluation and learning
+service provided by WMO which will comprehensively support and enable the coordination of
+additional investment initiatives in the long-term. The index will: 
+ 
+ 
+The Early Warnings for All Maturity Index will be structured along the four components of a
+MHEWS, plus a fifth component to capture the maturity of the enabling environment, including
+governance arrangements, collaboration mechanisms, planning, resources, monitoring and
+institutional capacity. The monitoring framework shall further seek to adequately reflect the guiding
+principles of a modern Multi-Hazard Early Warning System, as presented in Figure 13.
+Early Warnings for All Executive Action Plan 48
+Developing the Early Warnings for All Maturity Index
+Figure 17: Timeline for establishing the Early Warnings for All Maturity Index
+
+[[page 54]]
+The way forward
+49 Cross cutting enablers
+To ensure implementation, the United Nations Secretary-General is creating a new
+Early Warnings for All Governing Board, co-chaired by the Executive Heads of
+the World Meteorological Organization (WMO) and the United Nations Office
+for Disaster Risk Reduction (UNDRR). Board membership will include many of the
+partners who have shaped this Executive Action Plan to date, including the pillar
+lead agencies, selected implementing partners, financing entities, and the United
+Nations Climate Action Team, representing the United Nations Secretary-General. 
+The Board will meet twice annually throughout the five years and will monitor and
+report on progress against the achievement of the goal to the United Nations
+Secretary-General, against four parameters (1) political and policy advances, (2)
+scientific and technical development, and (3) finance mobilization. and (4) assess
+progress in the global EWS Maturity levels. The Board will ensure the continued
+strategic alignment of activities to maximize benefit and ongoing engagement with
+implementing bodies. Existing coordinating bodies such as REAP and the Alliance
+for Hydromet development plus the newly created WMO-UNDRR Center of
+Excellence for climate and disaster resilience will play important roles in supporting
+this board. 
+WMO Members will play a key role in technical implementation through the work of
+the Commission for Weather, Climate, Water and related Environmental Services
+and Applications (SERCOM) and the Commission for Observations, Infrastructure,
+and Information Services (INFCOM) and other important constituent and advisory
+bodies. National Meteorological and Hydrological Services (NMHSs) and Disaster
+Risk Management agencies, as the relevant authoritative providers, will be central
+for enabling implementation at the national level. Consideration will be given to
+coordination with the UN Sustainable Development Group, through the Regional
+Collaborative Platforms, Issue Based Coalitions, and UN Country Teams, to ensure
+coordinated implementation on the ground from the UN System. 
+The Board will present annual reports on progress to the Secretary-General of the
+United Nations in advance of the COP meetings, in addition to special thematic
+reports, such as the Second Hydromet Gap Report due in 2023, which the Alliance
+for Hydromet Development will dedicate to early warnings. 
+Governance and key
+milestones
+Photographer: Joel Hinkson 
+Location: Guasca, Colombia
+WMO 2023 Calendar Competition
+
+[[page 55]]
+Early Warnings for All Executive Action Plan 50
+Milestones
+In addition, an annual Multi-Stakeholder Forum will be organized to
+enhance consultation with a wider group of partners. The Forum will
+provide an opportunity for the more than 150 organizations who have
+already registered their interest to support the initiative to shape its
+future implementation. Interested stakeholders ranging from the UN
+System, hydro-meteorological, early action, financial, academic, civil
+society, private and disaster sectors will be invited to take part. These
+stakeholders will also be invited to contribute over the coming months to
+the development of the Early Warnings for All Maturity Index.
+At the political level, countries will continue to be engaged to advance
+Early Warnings for All through relevant upcoming platforms including the
+2023 United Nations Water Conference, the Mid-term Review of the
+Sendai Framework, the SDG Summit, and future UN Climate Change
+Conferences. The inclusion of the Early Warnings for All initiative is also
+being considered within the work of the Second Committee of the United
+Nations General Assembly.
+
+[[page 56]]
+WEATHER CLIMATE WATER

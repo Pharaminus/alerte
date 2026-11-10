@@ -1,0 +1,112 @@
+[[page 1]]
+Global Forum on Emergency Telecommunications (GET-19) 
+Innovating together to save lives 
+Using technologies in disaster management 
+6 to 8 March 2019 
+Balaclava, Mauritius 
+PRE-EVENT: CAP WORKSHOP 
+REPORT 
+5 March 2019
+
+[[page 2]]
+Introduction 
+ 
+The pre-event, Common Alerting Protocol (CAP) Workshop took place on 5 March 2019, on 
+the eve of the 3rd Global Forum on Emergency Telecommunications (GET-19) Innovating 
+together to save lives: using technologies in disaster management, in Balaclava, Mauritius. 
+This workshop highlighted the benefits of CAP and shared best practices and lessons learned 
+on how to create an enabling environment for leveraging CAP. Panelists demonstrated that 
+regardless of the type of hazard, CAP emergency messages can quickly and efficiently be 
+disseminated to warn people in harm's way, using all available communication technologies. 
+ 
+Tuesday 5 March 2019 
+ 
+Opening session 
+Ms. Vanessa Gray delivered the welcome remarks on behalf of ITU and thanked all the 
+participants for making the effort to attend the workshop. She mentioned the need to ensure 
+that all ICT technologies and services, as well as existing standards, be used for disaster 
+management and risk reduction. She also provided an overview of all activities that ITU is 
+undertaking on emergency telecommunications making emphasis on the Common Alerting 
+Protocol. 
+Mr. Jerome Louis, Officer in Charge of ICTA and Director of Engineering delivered the 
+welcoming remarks on behalf of ICTA. Mr. Louis noted that climate change arising mainly from 
+human activity increases the risk of disasters in a number of ways and highlighted the 
+necessity to alert the population in the most effective and efficient manner in order to reduce 
+damage and loss of life. He also noted the importance of the Common Alerting Protocol 
+defined in Rec. ITU-T X.1303 in providing a general format for exchanging all-hazard 
+emergency alerts and public warning over all kinds of networks. 
+Session 1: CAP Introduction and Implementation Showcase 
+This session, led by Mr. Eliot Christian, provided a complete overview of the Common Alerting 
+Protocol, mentioning how alerting authorities had long relied on commercial media, such as broadcast 
+radio and television, to help disseminate public warnings. However, this text information was not 
+formatted to enable automated processing. Use of CAP enables simple tools to get critical messages 
+delivered to people in harm's way: wherever they are and whatever they are doing. 
+Mr. Christian also provided information on a range of CAP implementations at a national level. He 
+noted that half of the world's people live in a country that already issues CAP alerts, and a further 
+quarter are in countries actively implementing CAP today. Yet, the remaining quarter live in countries 
+that have yet to implement CAP, and these are almost all least-developed or developing countries. He 
+emphasized that closing this gap does not require new funding, since many free tools are available. 
+Enabling all countries to benefit from CAP requires serious commitment to outreach and education. 
+Cell Broadcast, as a telecommunications technology to disseminate alerts was also discussed. This 
+cellular phone technology allows messages to be broadcast immediately and efficiently to all mobile
+
+[[page 3]]
+devices within the alerting area. This maximizes the number of people receiving warnings in a timely 
+manner. Cell broadcast systems do not consume bandwidth, which is a key feature when networks 
+are potentially congested and degraded due to the hazard event. About 20 countries are using Cell 
+Broadcast for emergency alerting today. 
+Session 2: Best practices and lessons learned 
+This session provided an overview of practices and lessons learned on the development and 
+implementation of CAP. 
+Ms. Elysa Jones, from the OASIS Emergency Management Technical Committee, gave an overview 
+of the origin of the Common Alerting Protocol and described the OASIS Emergency Management 
+Technical Committee (EM TC) in its standards role. She also presented other specifications which the 
+EM TC has developed in support of all phases of disaster management. She highlighted that resilient 
+ICTs are necessary for disaster risk reduction and management and provided an update from the CAP 
+Subcommittee as well as a reference page to their work to include practical guides for CAP 
+implementation. 
+Mr. Darmen Ellayah, from the National Disaster Risk Reduction Management Centre of Mauritius, 
+presented how Mauritius has implemented CAP at a national level giving concrete examples on how 
+private and public partnership were developed with the Mauritius Telecom sector in order to ensure 
+that messages are delivered to the general public in a timely manner. He also mentioned that CAP 
+provides a flexibility for geographic targeting, multiple channel, different language and audience 
+messaging and it is easy to use. 
+Mr. Darmen Barker, from the Department of Disaster Management of Anguilla, provided a real life 
+example of how CAP has been implemented in Anguilla, how it works, its challenges and opportunities. 
+He presented the website that Anguilla is using for creating the alerts that are disseminated to the 
+public. He also emphasized the need for capacity building in the use and implementation of CAP and 
+mentioned that it is important to centralize the warning alerts in order to avoid any confusion. He 
+made emphasis on involving citizens and leaving decision making processes, when appropriate, in the 
+hands of the responsible authorities. 
+Ms. Kim Mallalieu from the West Indies University, provided a real life example on CAP 
+implementation in FEWER, which is an ICT-based Early Warning and Emergency Response tool for 
+small-scale fishers. She outlined the localization of CAP for a particularly vulnerable community in the 
+Caribbean. Her intervention provided recommendations based on the FEWER experience for 
+compatibility and validation support tools for CAP development and implementation in the region. 
+Session 3: Enabling environment 
+Ms. Jessica Robbins from the Global Disaster Preparedness Centre (GDPC), provided an overview of 
+the Universal App Programme, which was developed to allow Red Cross and Red Crescent national 
+societies, to customize and release First Aid and Hazard apps within their countries. The Multi-Hazard 
+app ingests CAP feeds applicable to the countries covered by the app, and allows national societies to 
+provide access to their alerting agency partners to generate and send CAP alerts. She also introduced 
+the WhatNow Service, which was developed by GDPC in partnership with Google, providing localized 
+action messages to accompany and complement CAP alerts. WhatNow messages are available via an 
+API to be ingested into apps or other CAP-compliant dissemination mechanisms.
+
+[[page 4]]
+Mr. Cao Zhyu from the National Early Warning Centre of China, presented an overview of how the 
+Centre leverages CAP to disseminate warning throughout all of China. The National Early Warning 
+Release System (NEWRS) gathers information from emergency command sectors and uses CAP to get 
+warnings to the public and emergency management personnel nationwide. NEWRS may be the world's 
+most extensive CAP-enabled warning system comprised of one national, 31 provincial, 343 municipal, 
+and 2,015 county centers. He gave real life examples of where CAP has been used to issue warning 
+alerts in a timely manner when disasters strike. He also noted that alerts are issued in a range of local 
+languages and disseminated using a wide range of media. 
+Mr. Saurabh Basu from the Centre for Development of Telematics (CDOT) of India, provided an 
+overview of the CAP compliant integrated early warning platform that India has developed and 
+implemented nationally. He highlighted the need to modernize and integrate existing alerting and 
+warning systems at the national and local levels, using a single cohesive platform. Mr. Basu mentioned 
+that India is integrating all existing technologies including digital and analogue to disseminate alerts. 
+The EWS have been developed in different languages to cope with the needs of the population of the 
+country. GIS based platforms have also been developed and incorporated into the system to 
+consolidate and centralize information in order to provide better response during disasters situations.

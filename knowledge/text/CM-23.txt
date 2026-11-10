@@ -1,0 +1,1625 @@
+[[page 1]]
+Thème Général : " De la fragmentation à l’interopérabilité : faire 
+de la donnée le socle des infrastructures publiques 
+numériques au Cameroun " 
+ 
+ 
+ 
+ 
+18 au 20 août 2026 
+Palais des Congrès de Yaoundé 
+ 
+ 
+ 
+RAPPORT FINAL DES TRAVAUX
+
+[[page 2]]
+
+
+[[page 3]]
+RAPPORT DES TRAVAUX - FORUM SUR LA GOUVERNANCE DE L’INTERNET AU CAMEROUN (FGI CAMEROUN 2026) DU 18 AU 20 AOUT 2026 
+3 | P a g e 
+S O M M A I R E 
+INTRODUCTION ............................................................................................................... 3 
+I. DE LA CEREMONIE D’OUVERTURE ......................................................................... 6 
+I.1. Mot de bienvenue du Coordonnateur national du MAG-FGI Cameroun .................................................. 6 
+I.2. Intervention du Directeur Général de CAMTEL .................................................................................................. 7 
+I.3. Intervention de Madame Tahiry RAKOTOHERINIAINA, Représentante de Zone UIT pour 
+l’Afrique centrale et Madagascar ...................................................................................................................................... 8 
+I.4. Discours d’ouverture de Madame le Ministre ....................................................................................................... 9 
+II. DES TRAVAUX EN PANELS .....................................................................................10 
+II.1 Session plénière : De la fragmentation à l’interopérabilité : quel cadre stratégique national pour 
+la gouvernance de la donnée et le développement des infrastructures publiques numériques au 
+Cameroun? ................................................................................................................................................................................ 10 
+II.2 Atelier 1 : La donnée comme socle de services publics numériques interopérables, inclusifs et 
+sécurité ....................................................................................................................................................................................... 15 
+II.3 Atelier 2 : Construire un cyberespace camerounais sûr et résilient ........................................................... 17 
+II.4 Atelier 3 : Gouvernance responsable de l’intelligence artificielle : souveraineté innovation, 
+éthique et souveraineté ....................................................................................................................................................... 21 
+II.5 Atelier 4 : Réduire les fractures numériques et garantir un accès abordable, inclusif et de qualité 
+à Internet................................................................................................................................................................................... 24 
+II.6 Atelier 5 : Contribution du Cameroun aux processus africains et internationaux de gouvernance 
+de l’Internet .............................................................................................................................................................................. 27 
+II.7 Table ronde : Élaboration d’une feuille de route nationale pour la gouvernance inclusive des 
+infrastructures publiques numériques ............................................................................................................................ 30 
+II.8 Side Event1 : FGI Jeunes Cameroun 2026 : Jeunesse, innovation et citoyenneté numérique : bâtir 
+l’avenir de l’Internet au Cameroun ................................................................................................................................. 33 
+II.9 Side Event FGI Femmes Cameroun 2026 : Femmes, données et intelligence artificielle : construire 
+un Internet inclusif, sûr et porteur d’opportunités ................................................................................................... 35 
+III. DE LA CEREMONIE DE CLOTURE ....................................................................... 36 
+III.1 Présentation des conclusions et des recommandations des concertations ........................................... 36 
+III.2 Allocution de clôture de Madame le Ministre des Postes et Télécommunications ........................... 38 
+CONCLUSION GÉNÉRALE ............................................................................................ 39 
+ANNEXES........................................................................................................................... 40 
+A1- PROGRAMME DU FORUM ...................................................................................................................................... 40 
+A2- LISTE DES PARTICIPANTS (FORMAT HYBRIDE) ........................................ Erreur ! Signet non défini. 
+ 
+ 
+INTRODUCTION 
+Du 18 au 20 août 2026 s’est tenue, au Palais des Congrès de Yaoundé, en format 
+hybride, l’édition 2026 du Forum sur la Gouvernance de l’Internet au Cameroun (FGI
+
+[[page 4]]
+RAPPORT DES TRAVAUX - FORUM SUR LA GOUVERNANCE DE L’INTERNET AU CAMEROUN (FGI CAMEROUN 2026) DU 18 AU 20 AOUT 2026 
+4 | P a g e 
+Cameroun 2026), placée sous le thème : « De la fragmentation à l’interopérabilité 
+: faire de la donnée le socle des infrastructures publiques numériques au 
+Cameroun ». 
+La tenue de ces assises intervient dans un contexte marqué par l’accélération de la 
+transformation numérique des économies et des administrations publiques, la 
+multiplication des plateformes numériques, l’essor de l’intelligence artificielle et 
+l’importance croissante de la donnée dans la conception, la fourniture et l’évaluation 
+des services publics. 
+Cette évolution place les États face à un double impératif. Il leur revient, d’une part, 
+d’accélérer la numérisation des services offerts aux citoyens et aux entreprises et, 
+d’autre part, de veiller à ce que cette transformation s’opère dans un environnement 
+cohérent, sécurisé, inclusif et respectueux des exigences de souveraineté. 
+Au Cameroun, les efforts de digitalisation engagés au sein de nombreuses 
+administrations ont favorisé l’émergence de plateformes et de systèmes d’information 
+sectoriels. Toutefois, leur développement suivant des logiques institutionnelles propres 
+pose progressivement la question de leur articulation. La fragmentation des systèmes, 
+l’insuffisante circulation des données entre administrations et les difficultés 
+d’interopérabilité sont susceptibles de limiter les gains attendus de la transformation 
+numérique. D’où la nécessité de dépasser le cloisonnement des données pour 
+construire des infrastructures publiques numériques performantes, sécurisées et 
+inclusives. 
+C’est dans cette perspective que l’édition 2026 du FGI Cameroun a placé la donnée au 
+centre de la réflexion. Il s’agissait de déterminer les conditions permettant de passer 
+d’une juxtaposition de systèmes numériques à un véritable écosystème national dans 
+lequel les infrastructures, les plateformes et les données peuvent interagir, dans le 
+respect de règles communes de gouvernance, de sécurité et de protection des droits. 
+Le Forum s’inscrit également dans la vocation même du processus du FGI, fondé sur le 
+dialogue multipartite. La gouvernance de l’Internet et, plus largement, la transformation 
+numérique ne peuvent en effet être appréhendées exclusivement par les pouvoirs 
+publics. Elles requièrent la participation du secteur privé, de la communauté technique, 
+de la société civile, du monde académique, des organisations internationales ainsi que 
+des utilisateurs. 
+C’est dans cet esprit que les travaux ont réuni des membres du Gouvernement, des 
+représentants du corps diplomatique et des organisations internationales, des 
+administrations publiques, des régulateurs, des entreprises, des acteurs du secteur 
+bancaire, des universitaires, des chercheurs et des représentants de la société civile.
+
+[[page 5]]
+RAPPORT DES TRAVAUX - FORUM SUR LA GOUVERNANCE DE L’INTERNET AU CAMEROUN (FGI CAMEROUN 2026) DU 18 AU 20 AOUT 2026 
+5 | P a g e 
+Les travaux ont été organisés autour d’une cérémonie officielle d’ouverture, d’une 
+session plénière de haut niveau, de cinq ateliers thématiques, de deux sessions spéciales 
+consacrées respectivement aux jeunes et aux femmes, d’une table ronde nationale des 
+parties prenantes et d’une cérémonie de clôture. 
+Au-delà du dialogue, le FGI Cameroun 2026 devait permettre de dégager des 
+orientations susceptibles d’alimenter une Feuille de Route Nationale pour la 
+gouvernance inclusive des infrastructures publiques numériques au Cameroun. 
+Le présent Rapport général rend compte du déroulement des travaux, en restitue les 
+principaux enseignements et recommandations et dégage les orientations susceptibles 
+de guider leur mise en œuvre.
+
+[[page 6]]
+RAPPORT DES TRAVAUX - FORUM SUR LA GOUVERNANCE DE L’INTERNET AU CAMEROUN (FGI CAMEROUN 2026) DU 18 AU 20 AOUT 2026 
+6 | P a g e 
+I. DE LA CEREMONIE D’OUVERTURE 
+La cérémonie officielle d’ouverture a permis de poser le cadre politique, institutionnel 
+et stratégique des assises. Elle a été ponctuée par le mot de bienvenue du 
+Coordonnateur national du Groupe consultatif multipartite du FGI Cameroun, 
+l’allocution du Directeur Général de CAMTEL, celle de la Représentante de Zone de 
+l’UIT pour l’Afrique centrale et Madagascar et le discours d’ouverture de Madame le 
+Ministre des Postes et Télécommunications. 
+I.1. Mot de bienvenue du Coordonnateur national du MAG-FGI Cameroun 
+Dans son mot de bienvenue, le Coordonnateur National du Comité consultatif 
+multipartite du FGI Cameroun a salué la présence nombreuse et diversifiée des 
+représentants des pouvoirs publics, du secteur privé, de la société civile, de la 
+communauté technique, du monde académique et des organisations internationales. Il 
+a exprimé la gratitude du MAG au Premier Ministre, Chef du Gouvernement, pour le 
+Haut Patronage accordé au Forum, ainsi qu’au Ministre des Postes et 
+Télécommunications pour son accompagnement institutionnel et son implication 
+personnelle dans la préparation de l’édition 2026. 
+Monsieur NNEMETE BEYEME François Joseph a rappelé que le FGI Cameroun 
+ne devait pas se limiter à un rendez-vous annuel, mais s’inscrire dans un processus 
+permanent de dialogue, de consultation et de mobilisation des parties prenantes. À cet 
+effet, il a annoncé l’élaboration d’une planification annuelle comprenant des 
+consultations thématiques, des actions de sensibilisation, des rencontres avec les 
+acteurs de l’écosystème et des initiatives décentralisées. Il a également évoqué le 
+renouvellement et la redynamisation du réseau des points focaux du FGI au sein des 
+différentes catégories de parties prenantes, en vue d’assurer une meilleure circulation 
+de l’information et une participation plus régulière au processus national. 
+Présentant l’esprit du programme, le Coordonnateur a indiqué que les sessions de haut 
+niveau, les panels techniques, le FGI Jeunes, le FGI Femmes et la table ronde nationale 
+avaient été conçus comme des séquences complémentaires. Il a particulièrement insisté 
+sur la participation effective des femmes et des jeunes, dont les préoccupations et 
+propositions devraient être intégrées aux travaux principaux et portées jusqu’à la table 
+ronde nationale. 
+Enfin, il a souligné que les contributions issues du FGI Cameroun devaient être relayées 
+dans les instances sous-régionales, africaines et mondiales, afin que les réalités, les 
+priorités et les intérêts du Cameroun et de l’Afrique soient pris en compte dans les 
+débats internationaux sur la gouvernance du numérique. Il a ainsi réaffirmé l’ambition
+
+[[page 7]]
+RAPPORT DES TRAVAUX - FORUM SUR LA GOUVERNANCE DE L’INTERNET AU CAMEROUN (FGI CAMEROUN 2026) DU 18 AU 20 AOUT 2026 
+7 | P a g e 
+de faire du FGI Cameroun un cadre permanent de concertation nationale, un espace 
+de formulation de positions communes et une passerelle avec les différents niveaux du 
+processus mondial de gouvernance de l’Internet. 
+I.2. Intervention du Directeur Général de CAMTEL 
+Dans son allocution, Madame Judith YAH SUNDAY, Directeur Général de 
+CAMTEL, a salué la tenue du FGI Cameroun 2026 et souligné la pertinence du thème 
+consacré à l’interopérabilité, à la donnée et aux infrastructures publiques numériques. 
+Elle a rappelé que ces enjeux sont indissociables des infrastructures qui permettent la 
+circulation des données, l’interconnexion des plateformes, les échanges entre 
+administrations et l’accès des citoyens et des entreprises aux services numériques. 
+Elle a insisté sur le rôle stratégique de CAMTEL dans la transformation numérique 
+nationale, en sa qualité d’opérateur public chargé notamment du déploiement et de 
+l’exploitation de la dorsale nationale en fibre optique, des infrastructures de 
+transmission, des capacités internationales, des réseaux d’accès ainsi que des 
+infrastructures d’hébergement et de connectivité. À ce titre, CAMTEL contribue à la 
+connectivité des territoires, des administrations, des entreprises et des populations, 
+tout en participant au renforcement de la souveraineté numérique du Cameroun. 
+Le Directeur Général a relevé que le principal défi ne réside désormais plus seulement 
+dans la disponibilité des infrastructures, mais dans leur mise en cohérence. La persistance 
+de systèmes d’information cloisonnés et de données organisées en silos limite en effet 
+la valeur créée par le numérique. Le passage de la fragmentation à l’interopérabilité 
+suppose donc la construction d’un environnement dans lequel les infrastructures, 
+plateformes et services peuvent interagir de manière sécurisée, dans le respect de la 
+protection des données et des exigences de souveraineté. 
+Dans cette perspective, CAMTEL entend jouer un rôle de facilitateur de 
+l’interopérabilité nationale, en mettant à disposition une infrastructure de confiance 
+capable de soutenir les services publics numériques, les collectivités territoriales, les 
+entreprises, les startups et l’ensemble de l’écosystème. L’entreprise entend également 
+poursuivre la modernisation et l’extension de ses réseaux, renforcer leur résilience, 
+améliorer la connectivité nationale et internationale et contribuer à réduire les 
+disparités d’accès au numérique. 
+Madame Judith YAH SUNDAY a par ailleurs souligné que la transformation numérique 
+ne saurait être portée par un seul acteur. Elle appelle une mobilisation conjointe de 
+l’État, des opérateurs, du secteur privé, du monde académique, de la société civile et 
+de la communauté technique. Elle a ainsi salué le caractère multipartite du FGI
+
+[[page 8]]
+RAPPORT DES TRAVAUX - FORUM SUR LA GOUVERNANCE DE L’INTERNET AU CAMEROUN (FGI CAMEROUN 2026) DU 18 AU 20 AOUT 2026 
+8 | P a g e 
+Cameroun, qui permet de faire des choix technologiques de véritables choix de société 
+et de développement. 
+Enfin, elle a exprimé la disponibilité de CAMTEL à contribuer à la mise en œuvre des 
+recommandations issues du Forum, notamment en matière d’amélioration de la 
+connectivité, de mutualisation des infrastructures, d’interopérabilité des plateformes, 
+de sécurisation des échanges, de développement des capacités nationales 
+d’hébergement et d’extension de l’accès au numérique sur l’ensemble du territoire. 
+Elle a conclu en réaffirmant l’engagement de CAMTEL à accompagner l’État dans la 
+construction des fondations technologiques nécessaires à l’émergence d’un Cameroun 
+numérique, souverain, inclusif et compétitif, en faisant de la connectivité un vecteur 
+d’intégration des infrastructures, des données, des services et des opportunités. 
+I.3. 
+Intervention de Madame Tahiry RAKOTOHERINIAINA, Représentante 
+de Zone UIT pour l’Afrique centrale et Madagascar 
+Dans son allocution, Mme Tahiry RAKOTOHERINIAINA a salué l’engagement du 
+Gouvernement camerounais, à travers le Ministère des Postes et Télécommunications, 
+en faveur d’une gouvernance inclusive et responsable de l’Internet. Elle a souligné la 
+pertinence du thème retenu pour l’édition 2026, qui met en lumière l’un des principaux 
+défis de la transformation numérique : passer de systèmes d’information cloisonnés à 
+un écosystème intégré dans lequel la donnée est gouvernée, protégée et partagée au 
+service des citoyens. 
+Elle a relevé que cette problématique s’inscrit pleinement dans les dynamiques 
+internationales, notamment celles portées par le Pacte pour l’Avenir et le Pacte 
+Numérique Mondial, qui accordent une place centrale à des modèles de gouvernance 
+des données responsables, équitables et interopérables. Elle a également établi un lien 
+entre le thème du Forum et les priorités régionales de l’UIT en Afrique, en rappelant 
+qu’il ne saurait y avoir d’infrastructures résilientes, d’intelligence artificielle digne de 
+confiance, de cybersécurité efficace ou d’innovation durable sans une gouvernance 
+rigoureuse de la donnée. 
+La Représentante de l’UIT a par ailleurs insisté sur le rôle déterminant de la 
+normalisation dans la construction de l’interopérabilité. Selon elle, les standards 
+techniques communs constituent une condition essentielle pour permettre aux 
+plateformes, systèmes et administrations d’échanger efficacement et de manière 
+sécurisée. 
+Elle a également mis en exergue la dimension souveraine de la donnée, soulignant que la 
+capacité d’un État à produire, gouverner, protéger, héberger et partager ses données
+
+[[page 9]]
+RAPPORT DES TRAVAUX - FORUM SUR LA GOUVERNANCE DE L’INTERNET AU CAMEROUN (FGI CAMEROUN 2026) DU 18 AU 20 AOUT 2026 
+9 | P a g e 
+constitue désormais un facteur déterminant de compétitivité et de souveraineté 
+numérique. 
+Enfin, elle a rappelé que la construction des infrastructures publiques numériques ne 
+peut relever d’une seule administration ou d’un seul secteur. Elle appelle au contraire 
+une vision partagée, une gouvernance claire et un cadre juridique robuste, fondés sur 
+une approche multipartite associant l’État, le secteur privé, la communauté technique, 
+la société civile, les femmes et les jeunes. 
+Elle a conclu en formulant le vœu que les travaux du FGI Cameroun 2026 débouchent 
+sur une feuille de route commune, capable de faire des infrastructures publiques 
+numériques un levier d’une transformation digitale plus inclusive, durable, efficace et 
+porteuse d’impact. 
+I.4. Discours d’ouverture de Madame le Ministre 
+Dans son allocution d’ouverture, prononcée au nom du Premier Ministre, Chef du 
+Gouvernement, Madame le Ministre des Postes et Télécommunications a souhaité la 
+bienvenue aux participants et salué la mobilisation des différentes parties prenantes 
+ainsi que l’accompagnement des partenaires institutionnels, techniques et financiers. 
+Elle a relevé que cette diversité d’acteurs traduit la vocation profondément multipartite 
+du Forum et la volonté commune de construire un environnement numérique ouvert, 
+sûr, inclusif et porteur de développement. 
+Elle a rappelé que le numérique constitue désormais un levier transversal de 
+modernisation de l’État, de compétitivité économique et d’inclusion sociale. Tout en 
+mettant en exergue les opportunités offertes par Internet, les données, le cloud, les 
+plateformes numériques et l’intelligence artificielle, elle a attiré l’attention sur les défis 
+liés à la fracture numérique, à la fragmentation des systèmes d’information, à la 
+cybersécurité, à la protection des données, aux usages de l’intelligence artificielle et à 
+l’inclusion des femmes, des jeunes et des populations insuffisamment desservies. 
+Revenant sur les fondements du Forum sur la Gouvernance de l’Internet, elle a rappelé 
+que celui-ci est issu du processus du Sommet Mondial sur la Société de l’Information 
+et de l’Agenda de Tunis de 2005. Elle a souligné que sa principale force réside dans son 
+modèle multipartite, qui associe les pouvoirs publics, le secteur privé, la société civile, 
+les communautés technique et académique ainsi que les partenaires au développement 
+à la recherche collective de réponses aux enjeux du numérique. 
+S’agissant du thème de l’édition 2026, Madame le Ministre a insisté sur la nécessité de 
+passer d’une juxtaposition de plateformes et de systèmes isolés à un véritable 
+écosystème numérique national interopérable. Elle a précisé que l’interopérabilité ne
+
+[[page 10]]
+RAPPORT DES TRAVAUX - FORUM SUR LA GOUVERNANCE DE L’INTERNET AU CAMEROUN (FGI CAMEROUN 2026) DU 18 AU 20 AOUT 2026 
+10 | P a g e 
+suppose pas l’existence d’un système informatique unique, mais la capacité des 
+différents systèmes à communiquer sur la base de normes communes, de référentiels 
+partagés, de mécanismes sécurisés d’échange et de règles de gouvernance clairement 
+définies. Dans cette architecture, la donnée doit être considérée comme une ressource 
+stratégique et comme le socle des infrastructures publiques numériques, notamment 
+l’identité numérique, les systèmes de paiement, les registres de référence et les 
+mécanismes sécurisés d’échange de données. 
+Elle a également réaffirmé la vision du Gouvernement en faveur d’une transformation 
+numérique inclusive, sécurisée et souveraine, dans laquelle l’État doit assurer la 
+cohérence des initiatives, définir des architectures et référentiels communs, mobiliser 
+les ressources nécessaires et coordonner l’action des différentes parties prenantes. 
+Enfin, Madame le Ministre a appelé les participants à dépasser les constats pour 
+formuler des recommandations réalistes et opérationnelles, notamment dans les 
+domaines de l’interopérabilité, de la gouvernance des données, de la cybersécurité et 
+de l’intelligence artificielle. Elle a particulièrement souligné que la Table ronde nationale 
+devrait jeter les bases d’une feuille de route pour la gouvernance inclusive des 
+infrastructures publiques numériques. 
+Elle a conclu en indiquant qu’un rapport assorti de recommandations et de propositions 
+opérationnelles sera transmis au Premier Ministre, Chef du Gouvernement, afin 
+d’assurer le passage du dialogue à l’action et de contribuer à l’édification d’un 
+Cameroun numérique plus intégré, inclusif, sûr et souverain, avant de déclarer 
+officiellement ouverts les travaux du FGI Cameroun 2026. 
+ 
+ 
+II. DES TRAVAUX EN PANELS 
+Les travaux en panels étaient structurés autour d’une (01) session plénière, cinq (05) 
+ateliers et une (01) table ronde. 
+ 
+II.1. 
+Session plénière : De la fragmentation à l’interopérabilité : quel 
+cadre stratégique national pour la gouvernance de la donnée et le 
+développement des infrastructures publiques numériques au Cameroun? 
+Les travaux de la session plénière ont porté sur les conditions permettant au Cameroun 
+de passer d’un environnement numérique encore marqué par la fragmentation des
+
+[[page 11]]
+RAPPORT DES TRAVAUX - FORUM SUR LA GOUVERNANCE DE L’INTERNET AU CAMEROUN (FGI CAMEROUN 2026) DU 18 AU 20 AOUT 2026 
+11 | P a g e 
+systèmes d’information à un écosystème intégré, interopérable et souverain, fondé sur 
+une gouvernance cohérente de la donnée. 
+Ladite session inaugurale a été modérée par le Professeur NGUELE ABADA 
+Marcellin, Chargé de Mission dans les Services du Premier Ministre, avec pour 
+intervenants : 
+- Mme LIBOM LI LIKENG née MENDOMO Minette, Ministre des Postes et 
+Télécommunications ; 
+- M. Georges ELANGA OBAM, Ministre de la Décentralisation et du 
+Développement Local ; 
+- M. IBRAHIM TALBA MALLA, Ministre Délégué à la Présidence de la République 
+chargé des Marchés Publics ; 
+- M. ISSA SANOGO, Coordonnateur résident du Système des Nations Unies au 
+Cameroun ; 
+- Mme Tahiry RAKOTOHERINIAINA, Représentante résidente de zone UIT 
+pour l’Afrique Centrale et Madagascar ; 
+- M. Joseph MOMASSO, cadre supérieur à la BEAC National ; 
+- M. Directeur général de Huawei Technologies ; 
+- M. TSANGA KEPEDEN Guy. 
+Dans son propos introductif, le modérateur, Pr Marcelin NGUELE ABADA, a 
+relevé que la fragmentation observée revêt une triple dimension : technique, du fait de 
+la coexistence de plateformes et bases de données insuffisamment communicantes ; 
+juridique, en raison de la nécessité de consolider le cadre normatif applicable à la 
+donnée, à la cybersécurité et à la protection des données personnelles ; et 
+institutionnelle, compte tenu de la multiplicité des acteurs et initiatives. Il a ainsi posé 
+comme enjeu central la capacité du Cameroun à mieux gouverner, sécuriser, partager 
+et valoriser ses données au service de l’action publique, des citoyens et de l’économie. 
+Les différentes interventions ont permis d’aborder cette problématique sous les angles 
+institutionnel, territorial, technique, financier et économique. 
+ 
+Madame Minette LIBOM LI LIKENG, Ministre des Postes et 
+Télécommunications, a rappelé que la transformation numérique repose à la fois 
+sur les infrastructures, les usages et applications, ainsi que sur un environnement 
+favorable intégrant la gouvernance, la cybersécurité, les compétences et le financement.
+
+[[page 12]]
+RAPPORT DES TRAVAUX - FORUM SUR LA GOUVERNANCE DE L’INTERNET AU CAMEROUN (FGI CAMEROUN 2026) DU 18 AU 20 AOUT 2026 
+12 | P a g e 
+Elle a relevé la nécessité de mieux valoriser les infrastructures déjà déployées et de 
+renforcer la cohérence des initiatives. Elle a également rappelé l’adoption de la loi de 
+2024 relative à la protection des données à caractère personnel et annoncé la 
+préparation de ses textes d’application, devant notamment permettre la mise en place 
+du dispositif institutionnel prévu pour la gouvernance et la protection des données. 
+Intervenant sous l’angle de la décentralisation, M. Georges ELANGA OBAM, 
+Ministre de la Décentralisation et du Développement Local, a mis en évidence 
+les conséquences de la fragmentation des systèmes au niveau des Collectivités 
+Territoriales Décentralisées, où les informations relatives à un même citoyen peuvent 
+être enregistrées séparément par plusieurs administrations. Il a présenté le Programme 
+de Digitalisation des Communes et des Régions, élaboré avec l’appui technique du 
+MINPOSTEL, comme une réponse à cette situation, avec l’intégration de 
+l’interopérabilité dès la conception. Il a notamment insisté sur la nécessité d’un cadre 
+juridique de la donnée publique, d’une architecture nationale d’interopérabilité 
+reposant sur des identifiants pivots, avec l’état civil comme socle, de capacités 
+souveraines d’hébergement et du renforcement des compétences numériques des 
+personnels territoriaux. 
+Le Coordonnateur Résident du Système des Nations Unies, M. ISSA SANOKO, a, 
+pour sa part, présenté la donnée comme un bien public stratégique, indispensable à la 
+planification des politiques publiques et à une meilleure prise en compte des populations 
+vulnérables. Il a plaidé pour une transformation numérique centrée sur l’humain, inclusive 
+et fondée sur la confiance, en cohérence avec le Pacte pour l’Avenir et le Pacte 
+Numérique Mondial. Il a également relevé la nécessité d’une meilleure coordination des 
+interventions des partenaires au développement, notamment à travers la Task Force 
+conjointe mise en place sous le leadership de l’UIT et du PNUD. 
+Dans le même ordre d’idées, Mme Tahiry RAKOTOHERINIAINA, 
+Représentante de Zone de l’UIT pour l’Afrique centrale et Madagascar, a souligné que 
+la donnée constitue désormais un enjeu majeur de souveraineté numérique. Elle a 
+préconisé une approche globale de l’interopérabilité couvrant simultanément ses 
+dimensions juridique, organisationnelle, sémantique et technique, adossée à une 
+gouvernance articulant orientation stratégique, coordination intersectorielle et 
+déclinaison sectorielle. Elle a également recommandé la mise en œuvre de projets 
+démonstrateurs à impact rapide, notamment autour de l’interconnexion des registres 
+publics et d’un identifiant unique, ainsi que le recours à l’approche GovStack, fondée 
+sur des briques numériques modulaires et réutilisables.
+
+[[page 13]]
+RAPPORT DES TRAVAUX - FORUM SUR LA GOUVERNANCE DE L’INTERNET AU CAMEROUN (FGI CAMEROUN 2026) DU 18 AU 20 AOUT 2026 
+13 | P a g e 
+Les échanges ont également permis d’examiner les enjeux d’interopérabilité dans le 
+secteur financier. M. MOMASSO Joseph, représentant M. Pierre-Emmanuel Nkoa 
+Ayissi, Représentant et Rapporteur principal de la Banque des États de l'Afrique 
+Centrale (BEAC) au sein du Comité National Économique et Financier (CNEF) du 
+Cameroun, a présenté le projet PREMIX et la plateforme PHOENIX, solution logicielle 
+d'intégration de données, d'automatisation des processus et de gouvernance 
+d'entreprise, comme des instruments destinés à renforcer l’interconnexion entre les 
+établissements de microfinance, les banques et les opérateurs de Mobile Money. 
+L’objectif est notamment de disposer d’une infrastructure commune favorisant les 
+paiements interopérables, l’exploitation des données transactionnelles et le 
+renforcement de l’inclusion financière. 
+Pour sa part, M. Alain NONO, Directeur Général de Mobile Money 
+Corporation, a attiré l’attention sur les contraintes économiques susceptibles de 
+limiter l’usage effectif de l’interopérabilité. Il a notamment relevé le poids des frais 
+appliqués aux transactions inter-opérateurs et plaidé pour leur réduction. Il a également 
+préconisé la modernisation de la Centrale des Incidents de Paiement, la mise en place 
+d’un dispositif central d’information sur le crédit ainsi que le recours à des architectures 
+cloud distribuées et résilientes. 
+Sous l’angle de la valorisation économique de la donnée, Dr TCHAMBA, Expert Tech 
+/ Data, a recommandé de dépasser la simple numérisation des processus pour évoluer 
+vers la production de « Data Products », c’est-à-dire des données structurées et 
+réutilisables pouvant être exposées, selon les conditions appropriées, au moyen d’API 
+sécurisées ou de mécanismes d’Open Data. Cette approche permettrait de faciliter 
+l’interopérabilité tout en favorisant l’innovation et le développement de nouveaux 
+services par les startups et entreprises locales. 
+Enfin, M. HERMAN TCHINMOGNE, Directeur de solution ICT à Huawei/CEMAC, 
+a insisté sur la nécessité de rationaliser les investissements numériques publics en 
+privilégiant la mutualisation et la réutilisation des infrastructures existantes. Il a 
+également mis l’accent sur les enjeux de souveraineté liés à l’hébergement des données 
+ainsi que sur la nécessité de renforcer la formation et la sensibilisation des 
+administrations, des entreprises et des citoyens face aux nouveaux risques liés à 
+l’intelligence artificielle, à la cybercriminalité et à la désinformation. 
+Au terme des présentations et des débats, les recommandations de la session ont été 
+structurées autour de cinq axes stratégiques : 
+i) Gouvernance institutionnelle et cadre juridique : 
+ élaborer un cadre national unifié de gouvernance de la donnée publique ;
+
+[[page 14]]
+RAPPORT DES TRAVAUX - FORUM SUR LA GOUVERNANCE DE L’INTERNET AU CAMEROUN (FGI CAMEROUN 2026) DU 18 AU 20 AOUT 2026 
+14 | P a g e 
+ accélérer la publication des textes d’application de la loi relative à la protection des 
+données à caractère personnel ; 
+ mettre en place une gouvernance articulant orientation nationale, coordination 
+intersectorielle et déclinaisons sectorielles ; et 
+ renforcer le pilotage transversal de la transformation digitale de l’État. 
+ii) Architectures, données et interopérabilité : 
+ consacrer l’«interopérabilité dès la conception » dans les projets publics ; 
+ développer une architecture nationale adossée à des identifiants pivots, notamment 
+l’état civil ; 
+ prendre en compte les dimensions juridique, organisationnelle, sémantique et technique 
+de l’interopérabilité ; 
+ promouvoir les Data Products, les API sécurisées et l’Open Data ; et 
+ examiner l’utilisation de GovStack pour la digitalisation des services publics. 
+iii) Infrastructures publiques numériques, souveraineté et résilience : 
+ rationaliser et mutualiser les infrastructures publiques existantes, notamment les 
+capacités nationales d’hébergement et les réseaux de connectivité ; 
+ encadrer la circulation et l’hébergement des données stratégiques ; et 
+ privilégier des architectures cloud distribuées garantissant la disponibilité et la résilience 
+des services. 
+iv) Inclusion financière et accessibilité des services : 
+ réduire les barrières tarifaires aux transactions interopérables ; 
+ accélérer les projets d’interconnexion du secteur financier ; 
+ moderniser les mécanismes relatifs aux incidents de paiement et à l’information sur le 
+crédit ; et 
+ intégrer les technologies mobiles et les mécanismes d’identification adaptés à la 
+conception des services publics numériques. 
+v) Capital humain, formation et sensibilisation : 
+ renforcer les compétences numériques des agents publics, des élus locaux et des cadres 
+administratifs et développer des programmes de sensibilisation sur la protection des 
+données, la cybersécurité, les usages responsables de l’intelligence artificielle et la lutte 
+contre la désinformation.
+
+[[page 15]]
+RAPPORT DES TRAVAUX - FORUM SUR LA GOUVERNANCE DE L’INTERNET AU CAMEROUN (FGI CAMEROUN 2026) DU 18 AU 20 AOUT 2026 
+15 | P a g e 
+II.2. 
+Atelier 1 : La donnée comme socle de services publics numériques 
+interopérables, inclusifs et sécurité. 
+Les travaux de ce panel, modérés par Dr TSAFAK Pauline, Directeur de la 
+Réglementation des Postes, des Télécommunications et des TIC au MINPOSTEL, ont 
+été animés principalement par les intervenants ci-après : 
+ Dr Pierre-François KAMANOU, Fondateur de GTS Africa & GTS-Infotel 
+Cameroon ; 
+ M. Félix SUMBELE, Chef de Cellule des Projets, de la Prospective et de la 
+Planification à CAMPOST, par ailleurs Coordonnateur du projet NPSI ; 
+ Commissaire de Police NGUELE, Ingénieur des Télécommunications, 
+représentant de la DGSN. 
+L’objectif général de cette session était d’examiner les conditions techniques, 
+organisationnelles et institutionnelles nécessaires à la mise en place d’infrastructures 
+publiques numériques permettant de fournir des services publics interopérables, 
+inclusifs et sécurisés. Les échanges sont partis du constat de la persistance de systèmes 
+d’information fonctionnant en silos, caractérisés par des bases de données hétérogènes, 
+des référentiels distincts et des mécanismes d’échange encore insuffisamment 
+harmonisés. 
+En introduisant les travaux, la modératrice a relevé que la transformation numérique 
+de l’administration camerounaise dépend désormais de sa capacité à partager, échanger 
+et exploiter efficacement les données afin de fournir aux citoyens des services publics 
+plus simples, rapides et accessibles. Elle a cependant relevé la persistance de 
+plateformes fonctionnant en silos, reposant sur des bases de données hétérogènes, des 
+référentiels distincts et des mécanismes d’échange insuffisamment harmonisés. La 
+problématique centrale du panel a dès lors porté sur la construction d’une architecture 
+nationale permettant aux administrations de partager efficacement leurs données, tout 
+en garantissant leur sécurité, la souveraineté numérique et la protection des droits des 
+citoyens. 
+Prenant la parole, Dr Pierre-François KAMANOU a abordé la problématique sous 
+l’angle de l’identité numérique des personnes morales et de l’interopérabilité des 
+données de communication professionnelle. À travers le « paradoxe KYC du numéro de 
+téléphone », il a relevé la nécessité pour les entreprises et les administrations de 
+disposer d’une identité numérique de communication propre, distincte de celle de leurs 
+dirigeants ou représentants. Il a défendu le principe selon lequel il ne saurait y avoir de
+
+[[page 16]]
+RAPPORT DES TRAVAUX - FORUM SUR LA GOUVERNANCE DE L’INTERNET AU CAMEROUN (FGI CAMEROUN 2026) DU 18 AU 20 AOUT 2026 
+16 | P a g e 
+données véritablement interopérables sans identités elles-mêmes interopérables. À cet 
+effet, il a préconisé la constitution d’un référentiel fiable permettant d’associer chaque 
+personne morale à ses données et à ses moyens de communication, notamment 
+Internet, la voix, les SMS et l’USSD. 
+Pour sa part, le Commissaire de Police NGUELE a développé la problématique de 
+l’interopérabilité à partir de la gestion des données d’identité des personnes physiques. 
+Il a relevé que celles-ci s’inscrivent dans un écosystème plus large impliquant plusieurs 
+registres et administrations et nécessitent, pour leur exploitation, des infrastructures 
+robustes de connectivité, de stockage et de traitement. Présentant l’expérience de la 
+DGSN, il a notamment évoqué les systèmes de production des titres identitaires et des 
+passeports ainsi que le projet de ville intelligente, qui prévoit l’utilisation de l’intelligence 
+artificielle et de la vidéoprotection pour renforcer la sécurité et améliorer certains 
+services publics. 
+Il a toutefois identifié comme difficulté majeure l’insuffisance d’interconnexion entre les 
+administrations et les différents détenteurs de données. Il a, à cet égard, insisté sur la 
+nécessité de permettre aux différents systèmes d’information publics de communiquer 
+de manière fluide et sécurisée et évoqué, en perspective, la mise en place d’un 
+identifiant unique attribué dès la naissance et utilisable tout au long de la vie. 
+Intervenant à son tour, M. Félix SUMBELE a présenté la donnée comme l’un des 
+piliers fondamentaux des infrastructures publiques numériques. Il a relevé que sa 
+sécurisation, son partage et sa réutilisation sont indispensables à la disponibilité 
+d’informations fiables et à la rationalisation de la fourniture des services publics. Il a 
+cependant constaté que les données demeurent largement collectées et gérées de 
+manière dispersée par les administrations, entraînant la multiplication de bases 
+indépendantes et difficilement interopérables. 
+Son intervention a notamment mis en évidence l’absence d’une base centrale de 
+référence et d’un système central d’identification et de vérification, l’insuffisance de 
+standards communs ainsi que le déficit de mécanismes harmonisés et sécurisés 
+d’échange des données. Il en ressort que la fragmentation actuelle des plateformes 
+constitue un frein majeur à la construction de services publics numériques intégrés et 
+que l’interopérabilité suppose, au-delà des solutions technologiques, une harmonisation 
+des référentiels, des règles et des mécanismes de gouvernance. 
+Au terme des présentations et des échanges, les recommandations ont principalement 
+porté sur la nécessité de :
+
+[[page 17]]
+RAPPORT DES TRAVAUX - FORUM SUR LA GOUVERNANCE DE L’INTERNET AU CAMEROUN (FGI CAMEROUN 2026) DU 18 AU 20 AOUT 2026 
+17 | P a g e 
+ capitaliser sur les infrastructures nationales existantes d’agrégation et de commutation 
+des communications numériques, notamment celles disponibles au niveau de 
+CAMPOST, et renforcer l’interopérabilité des plateformes au-delà de la simple 
+interconnexion technique ; 
+ décloisonner les registres et systèmes d’information publics, en développant notamment 
+une interopérabilité sémantique fondée sur des référentiels et un langage communs ; 
+ mettre en place un identifiant numérique unique et pérenne attribué dès la naissance, 
+appelé à constituer progressivement un socle commun d’accès aux services publics ; 
+ mettre en place un référentiel national KYC des numéros professionnels, reconnaître 
+les données de communication professionnelle et expérimenter un programme pilote 
+de « numéros PRO » ; 
+ mieux associer les différents identifiants numériques, notamment le numéro mobile, 
+aux registres et services afin de faciliter l’identification des usagers et l’accès aux 
+transactions numériques ; 
+ définir en amont les conditions techniques et tarifaires d’interconnexion des services 
+innovants, notamment dès l’attribution des licences, afin de réduire les délais de 
+négociation entre opérateurs et fournisseurs de services ; 
+ garantir un accès non discriminatoire aux services numériques, indépendamment de 
+l’opérateur ou de la plateforme utilisés, et mettre en place un environnement 
+réglementaire favorable à l’innovation et au développement de services interopérables 
+et inclusifs. 
+II.3. Atelier 2 : Construire un cyberespace camerounais sûr et résilient 
+Les travaux du Panel 2, consacrés au thème « Construire un cyberespace sûr et résilient », 
+étaient modérés par Pr BELL BITJOKA, Maître de conférences à l’École Nationale 
+Supérieure Polytechnique de Yaoundé et expert en cryptologie. 
+- Dr EVINA née BITYEBIYA’A OYONO Pierrette Annie, Directeur de la 
+Sécurité des Réseaux et des Systèmes d’Information (DSR) au Minpostel; 
+- M. Prosper PAGOU, Ingénieur de conception en informatique en service à l’ANTIC 
+; 
+- M. Gérard EYOUNG, Chef d’entreprise spécialisée en cybersécurité (CYBERIX) ; 
+- Mme TCHENDJOU DJAWA Adeline ;
+
+[[page 18]]
+RAPPORT DES TRAVAUX - FORUM SUR LA GOUVERNANCE DE L’INTERNET AU CAMEROUN (FGI CAMEROUN 2026) DU 18 AU 20 AOUT 2026 
+18 | P a g e 
+- Mme NZODOUM DIBOUNDJE Berverly Muriel, MTN Cameroun ; 
+- M. NGUELA Romeo Eric, responsable technique MONETBIL Group SAS; 
+L’objectif général de cette session était d’identifier les mesures susceptibles de 
+renforcer durablement la confiance numérique et la résilience du cyberespace 
+camerounais, dans un contexte caractérisé par l’accélération de la transformation 
+numérique, l’interconnexion croissante des systèmes et la diversification des 
+cybermenaces. 
+Les échanges ont notamment porté sur la protection des infrastructures critiques, la 
+gestion des incidents, la coopération entre les acteurs, la protection des données 
+personnelles, la lutte contre la cybercriminalité et la désinformation, la protection des 
+enfants en ligne, ainsi que la sensibilisation et la formation. 
+Dans son propos introductif, Pr BELL BITJOKA a souligné que le développement 
+d’infrastructures publiques numériques interopérables devait nécessairement 
+s’accompagner d’un renforcement de la cybersécurité, de la protection des données 
+personnelles et des mécanismes de confiance numérique. À cet égard, la pérennité de 
+la transformation numérique suppose que la gestion des risques soit intégrée à la 
+conception, au déploiement et à l’exploitation des systèmes numériques. 
+Intervenant sur le cadre stratégique, juridique et institutionnel de la cybersécurité, Dr 
+EVINA née BITYEBIYA’A OYONO Pierrette Annie, Directeur de la Sécurité 
+des Réseaux et des Systèmes d’Information au MINPOSTEL, a relevé que la 
+cybersécurité constitue désormais un enjeu majeur de souveraineté nationale, au regard 
+du développement de l’e-gouvernement, du commerce électronique et des services 
+financiers numériques. Elle a toutefois relevé plusieurs défis, notamment l’évolution 
+rapide des cybermenaces, l’insuffisance des compétences spécialisées, les coûts 
+technologiques, la faible culture de cybersécurité et la dépendance technologique. Elle a 
+rappelé l’existence d’un cadre juridique et stratégique national, tout en soulignant la 
+nécessité de poursuivre son adaptation, de renforcer la coordination institutionnelle, de 
+rendre opérationnel le dispositif de protection des données personnelles et de 
+développer davantage les compétences nationales. 
+Pour sa part, M. Prosper PAGOU, représentant de l’ANTIC, a présenté l’évolution 
+de la menace cyber au Cameroun. Il a indiqué qu’en 2025, environ 17 500 plaintes liées 
+à la cybercriminalité avaient été enregistrées, pour un préjudice estimé à 5,8 milliards de 
+FCFA. Il a également fait état de plus de 5 533 faux comptes Facebook détectés, de 33 
+applications frauduleuses bloquées et de plus de 21 000 machines situées au Cameroun 
+identifiées comme appartenant à des botnets. Face à cette situation, l’ANTIC mène 
+notamment des activités de monitoring, d’audit, de sensibilisation, de formation et
+
+[[page 19]]
+RAPPORT DES TRAVAUX - FORUM SUR LA GOUVERNANCE DE L’INTERNET AU CAMEROUN (FGI CAMEROUN 2026) DU 18 AU 20 AOUT 2026 
+19 | P a g e 
+d’assistance aux investigations numériques. En 2025, 73 audits de sécurité ont été 
+conduits et 35 686 réquisitions traitées dans le cadre des investigations numériques. 
+Au-delà de ces actions, l’intervenant a insisté sur la nécessité d’une réponse davantage 
+coordonnée, notamment à travers la création d’une plateforme nationale de 
+collaboration entre les acteurs de lutte contre la cybercriminalité, l’organisation 
+régulière de CyberDrills, le développement des talents et de la recherche, l’audit des 
+plateformes numériques, le contrôle des solutions technologiques importées et la 
+promotion de solutions locales. 
+Abordant la question du point de vue des opérateurs, Mme Berverlie NZODOUM, 
+représentante de MTN Cameroon, a mis l’accent sur la combinaison nécessaire entre 
+gouvernance, conformité réglementaire, dispositifs techniques et sensibilisation des 
+utilisateurs. Elle a notamment souligné l’importance de la résilience des infrastructures, 
+de la sécurisation des centres de données et de la redondance des systèmes. Elle a par 
+ailleurs attiré l’attention sur le fait que l’interopérabilité, tout en étant indispensable à 
+la transformation numérique, peut accroître les surfaces d’attaque lorsque des 
+systèmes présentant des niveaux de sécurité différents sont interconnectés. Elle a ainsi 
+plaidé pour la systématisation des audits de sécurité des entités participant aux 
+mécanismes d’interopérabilité. 
+S’agissant de la problématique de la protection de l’identité numérique des enfants, 
+Mme DJAWAL Adeline a notamment attiré l’attention sur l’exposition précoce des 
+données personnelles des enfants sur les plateformes numériques. Elle a souligné que 
+les informations diffusées dès les premières étapes de leur vie peuvent être 
+durablement conservées, croisées et réutilisées, notamment avec le développement de 
+l’intelligence artificielle. Elle a, par conséquent, appelé à une meilleure prise en compte 
+de l’identité numérique de l’enfant dans les politiques de protection des données et de 
+sécurité en ligne. 
+Dans son intervention, M. NGUELA Romeo Eric, représentant de MONETBIL 
+Group SAS, a particulièrement insisté sur la notion de résilience numérique. Selon lui, 
+au-delà des dispositifs de prévention, les infrastructures doivent être conçues en 
+intégrant l’hypothèse de survenance d’un incident. Elles doivent ainsi disposer de 
+capacités leur permettant de détecter, prévenir, résister et répondre aux attaques, puis 
+de rétablir rapidement les services. Il a, à cet effet, recommandé l’intégration 
+systématique des plans de continuité et de reprise d’activité ainsi que de la gestion des 
+risques dès la conception des infrastructures numériques. 
+Enfin, M. Gérard EYOUNG, expert du secteur privé, a replacé la cybersécurité dans 
+une perspective plus large de souveraineté numérique et technologique. Il a notamment
+
+[[page 20]]
+RAPPORT DES TRAVAUX - FORUM SUR LA GOUVERNANCE DE L’INTERNET AU CAMEROUN (FGI CAMEROUN 2026) DU 18 AU 20 AOUT 2026 
+20 | P a g e 
+plaidé pour une meilleure coordination institutionnelle, le développement et la 
+rétention de l’expertise nationale, l’amélioration de l’accès aux formations, stages et 
+certifications, ainsi que le soutien aux entreprises camerounaises spécialisées dans la 
+cybersécurité. Il a également relevé les enjeux liés à la dépendance aux technologies 
+étrangères et à l’hébergement extérieur des données, appelant à renforcer 
+progressivement les capacités technologiques nationales et l’hébergement souverain. 
+Au terme des échanges, les recommandations du panel ont été regroupées autour de 
+six orientations prioritaires : 
+ renforcer la gouvernance et le cadre juridique de la cybersécurité, notamment 
+par l’actualisation des textes, l’élaboration des textes d’application nécessaires, la mise 
+en place effective de l’autorité chargée de la protection des données personnelles et une 
+meilleure coordination des acteurs nationaux; 
+ accroître les capacités nationales de prévention, de détection et de réponse 
+aux incidents, notamment par des exercices réguliers de simulation, l’audit des 
+plateformes et le renforcement des capacités opérationnelles et technologiques ; 
+ sécuriser les infrastructures critiques et intégrer la cybersécurité dès la 
+conception, particulièrement dans les projets d’interconnexion et d’interopérabilité, en 
+systématisant les normes de sécurité, la redondance, la continuité d’activité et les 
+mécanismes de reprise après incident ; 
+ développer et retenir les compétences nationales en cybersécurité, à travers 
+les formations spécialisées, les certifications, les stages, les hackathons, la 
+recherchedéveloppement et l’accompagnement des jeunes talents et des entreprises 
+nationales ; 
+ renforcer la souveraineté technologique et la maîtrise des données, en 
+encourageant le développement de solutions locales, la réduction de la dépendance aux 
+technologies étrangères et le recours à des capacités souveraines d’hébergement des 
+données ; 
+ renforcer la protection des utilisateurs et particulièrement des enfants, par 
+la sensibilisation aux risques numériques, la prévention de la fraude et de l’usurpation 
+d’identité, ainsi que par l’adaptation du cadre juridique aux enjeux liés à la constitution 
+et à l’exploitation de l’identité numérique des mineurs.
+
+[[page 21]]
+RAPPORT DES TRAVAUX - FORUM SUR LA GOUVERNANCE DE L’INTERNET AU CAMEROUN (FGI CAMEROUN 2026) DU 18 AU 20 AOUT 2026 
+21 | P a g e 
+II.4. 
+Atelier 3 : Gouvernance responsable de l’intelligence artificielle : 
+souveraineté innovation, éthique et souveraineté. 
+Les travaux du Panel 3, consacrés au thème « Gouvernance responsable de l’intelligence 
+artificielle : innovation, éthique et souveraineté », étaient modérés par Dr 
+NLEND Raphael, Conseiller Technique n°1 au Ministère des Postes et 
+Télécommunications. Ils ont réuni entre autres : 
+- Dr TSAFAK DJOUMESSI Pauline épse GNIMPIEBA, Directeur de la 
+Réglementation des Postes, des Télécommunications et des Technologies de 
+l’Information et de la Communication (DRPT) au MINPOSTEL ; 
+- Dr KOE Jean Patrice, Diplomate en service au Ministère des Relations 
+Extérieures du Cameroun ; 
+- Me Danielle MOUKOURI, Avocate au Barreau du Cameroun, Consultant 
+certifiée par la Banque mondiale ; 
+- M. Thierry Roland TABI AGBOR, Directeur des Partenariats Okwelians 
+Branche Overseas Paris ; 
+- M. AWONO Louis Christian, Chef Service de l’Intelligence Artificielle à 
+l’Agence de Régulation des Télécommunications (ART). 
+L’objectif général de cette session était d’examiner les conditions d’une gouvernance 
+responsable de l’intelligence artificielle au Cameroun, capable de concilier innovation, 
+éthique, inclusion et souveraineté. 
+Les échanges ont notamment porté sur la gouvernance nationale de l’IA, la protection 
+des droits fondamentaux, la qualité et la gouvernance des données, la souveraineté 
+numérique, les cas d’usage prioritaires, l’inclusion des langues nationales, le 
+développement de la recherche et des compétences ainsi que les mécanismes 
+d’expérimentation, d’audit et d’évaluation des systèmes d’IA. 
+Dans son propos introductif, Dr NLEND Raphael a relevé que l’intelligence 
+artificielle constitue désormais un important levier de transformation de 
+l’administration, de l’économie et de la société. Si elle offre des perspectives en matière 
+d’amélioration des services publics, de compétitivité et d’innovation, son 
+développement soulève également des enjeux liés à la qualité des données, à la 
+transparence des algorithmes, aux biais, à la responsabilité, à la protection des droits 
+fondamentaux, à la souveraineté technologique et aux compétences nationales. Il a ainsi 
+souligné l’importance, dans le cadre de la Stratégie Nationale de Développement de 
+l’Intelligence Artificielle, de construire un modèle de gouvernance conciliant innovation, 
+confiance, inclusion et souveraineté.
+
+[[page 22]]
+RAPPORT DES TRAVAUX - FORUM SUR LA GOUVERNANCE DE L’INTERNET AU CAMEROUN (FGI CAMEROUN 2026) DU 18 AU 20 AOUT 2026 
+22 | P a g e 
+Intervenant sur les usages prioritaires et l’encadrement réglementaire de l’IA, Dr 
+TSAFAK Pauline a présenté l’approche progressive retenue par le Cameroun, 
+fondée sur la définition préalable d’une vision et d’une stratégie nationales avant la mise 
+en place d’un cadre réglementaire. Elle a rappelé, à cet égard, la contribution des 
+Concertations Nationales sur l’Intelligence Artificielle (CONIA) de 2024 et 2025 à 
+l’élaboration du projet de Stratégie Nationale de Développement de l’IA. Elle a 
+préconisé de privilégier les cas d’usage à fort impact répondant aux priorités nationales, 
+notamment dans les services publics, tout en garantissant les droits fondamentaux, la 
+transparence, la responsabilité, la sécurité et la supervision humaine. Elle a également 
+insisté sur une régulation proportionnée aux risques, le recours aux sandboxes, la 
+qualité des données, le renforcement des infrastructures et des compétences ainsi que 
+sur une gouvernance multipartite et souveraine, ouverte à la coopération internationale 
+et au transfert de compétences. 
+Pour sa part, M. Thierry Roland TABI AGBOR a relevé que le développement de 
+solutions d’IA endogènes demeure freiné par l’insuffisante structuration de 
+l’écosystème national d’innovation. Il a plaidé pour un système fédérant davantage les 
+pouvoirs publics, les entreprises, les startups et les autres acteurs de l’innovation 
+autour des priorités nationales. Il a notamment préconisé la mobilisation de 
+financements dédiés à la mise en œuvre de la stratégie nationale, un soutien accru aux 
+entreprises locales et une meilleure valorisation des capacités nationales, 
+particulièrement dans les domaines stratégiques des infrastructures et des données. 
+Abordant les questions relatives à l’éthique, aux données et à la protection des droits, 
+Me Danielle MOUKOURI a souligné que la qualité des données constitue une 
+condition essentielle au développement d’une IA souveraine et digne de confiance. Elle 
+a préconisé la constitution de jeux de données certifiés, susceptibles d’être protégés 
+en tant qu’actifs de propriété intellectuelle, ainsi que l’intégration de protocoles 
+éthiques dès la conception des solutions. Elle a également recommandé le recours à 
+des bacs à sable réglementaires, permettant de tester conjointement la conformité 
+technologique, juridique et éthique des solutions avant leur déploiement à grande 
+échelle. 
+Sous l’angle de la diplomatie et de la souveraineté numérique, Dr KOE Jean Patrice 
+a relevé que l’intelligence artificielle, les données et les infrastructures numériques 
+constituent désormais des enjeux de puissance et de relations internationales. Il a ainsi 
+plaidé pour l’intégration de la veille technologique, de la prospective et de l’anticipation 
+des risques dans les mécanismes de diplomatie préventive. Il a également souligné le 
+rôle que peut jouer le réseau diplomatique camerounais dans la mobilisation des
+
+[[page 23]]
+RAPPORT DES TRAVAUX - FORUM SUR LA GOUVERNANCE DE L’INTERNET AU CAMEROUN (FGI CAMEROUN 2026) DU 18 AU 20 AOUT 2026 
+23 | P a g e 
+partenariats et des financements, le transfert de technologies et le renforcement de la 
+coopération internationale dans le domaine de l’IA et des technologies émergentes. 
+Enfin, M. AWONO Louis Christian a présenté l’approche de l’ART en matière 
+d’encadrement de l’intelligence artificielle dans le secteur des télécommunications. Il a 
+relevé que l’utilisation croissante d’algorithmes par les opérateurs peut avoir des 
+incidences sur les consommateurs, notamment en matière de classification, d’accès aux 
+services et de liberté de choix. Dans ce contexte, l’enjeu n’est pas d’interdire l’IA, mais 
+d’en assurer un encadrement proportionné permettant de concilier innovation, 
+protection des consommateurs et respect de leurs droits, notamment à travers la 
+surveillance du marché et l’élaboration de lignes directrices pour une utilisation 
+responsable et éthique de ces technologies. 
+Au terme des présentations et des échanges, les principales recommandations ont 
+porté sur la nécessité : 
+ de mettre en place un cadre national de gouvernance responsable de l’IA, fondé sur 
+une approche proportionnée aux risques et conciliant éthique, qualité des données, 
+innovation, inclusion, développement des compétences et souveraineté numérique ; 
+ d’adopter et de mettre en œuvre la Stratégie Nationale de Développement de 
+l’Intelligence Artificielle du Cameroun, en lui assurant les moyens institutionnels, 
+techniques et financiers nécessaires ; 
+ de faire de la qualité, de la certification et de la gouvernance des données des priorités 
+nationales et de développer le data engineering nécessaire à la conception de systèmes 
+d’IA adaptés aux besoins du Cameroun ; 
+ de mettre en place des mécanismes d’expérimentation, d’audit, d’évaluation et, le cas 
+échéant, de certification des systèmes d’IA, notamment à travers un bac à sable 
+réglementaire assorti de conditions et de mécanismes d’évaluation clairement définis ; 
+ de consolider le système national d’innovation, en renforçant les synergies entre les 
+administrations, les universités, les centres de recherche, les entreprises et les startups, 
+tout en favorisant le développement de modèles et d’applications répondant aux 
+réalités nationales ; 
+ de lancer un programme national de consolidation des registres publics et de 
+constitution de jeux de données souverains, notamment en langues camerounaises, afin 
+de favoriser le développement de solutions d’IA inclusives et représentatives des réalités 
+locales ;
+
+[[page 24]]
+RAPPORT DES TRAVAUX - FORUM SUR LA GOUVERNANCE DE L’INTERNET AU CAMEROUN (FGI CAMEROUN 2026) DU 18 AU 20 AOUT 2026 
+24 | P a g e 
+ de développer des partenariats internationaux structurants favorisant l’accès aux 
+technologies et aux financements, mais également le transfert de compétences, la 
+recherche, le développement conjoint de solutions et la maîtrise progressive des 
+technologies stratégiques ; 
+ de renforcer la diplomatie numérique et technologique, notamment à travers des 
+mécanismes de veille et d’anticipation permettant de défendre les intérêts stratégiques 
+du Cameroun et de renforcer sa participation aux processus africains et internationaux 
+de gouvernance du numérique. 
+ 
+II.5. 
+Atelier 4 : Réduire les fractures numériques et garantir un accès 
+abordable, inclusif et de qualité à Internet. 
+Les travaux du quatrième panel, modérés par le Professeur Paulin MELATAGIA 
+YONTA, enseignant à l’Université de Yaoundé I et spécialiste en intelligence 
+artificielle, ont porté sur les conditions permettant de garantir au Cameroun un accès 
+universel, abordable, inclusif et de qualité à Internet. 
+Le panel réunissait : 
+- Docteur NGAE Denis, Chef de la Division des Projets, des Etudes et de la 
+Prospective (DPEP) au MINPOSTEL ; 
+- Monsieur CHIMOGNE Herman de Huawei Technologies Cameroun ; 
+- Madame NZODOUM DIBOUNDJE Beverly Murielle de MTN Cameroon 
+(MTNC) ; 
+- Monsieur ADAMOU Salomon de la CAMTEL ; 
+- Monsieur MOMNOUGUI Robert Alain de l’Agence de Régulation des 
+Télécommunications (ART) ; 
+- Monsieur LOUMOU Jean René du Cameroun Internet Exchange (CAMIX). 
+Les échanges se sont articulés autour de la couverture des zones rurales et enclavées, 
+de l’abordabilité des équipements et des services, de la qualité et de la résilience des 
+réseaux, du service universel, de l’accessibilité des personnes vulnérables, du 
+développement des compétences numériques, de la redynamisation des télécentres 
+communautaires ainsi que des mécanismes de mesure et de suivi de l’inclusion 
+numérique. 
+Dans son intervention consacrée à l’état des fractures numériques, Dr Denis NGAE 
+a souligné que celles-ci ne sauraient être appréciées sous le seul angle de la couverture
+
+[[page 25]]
+RAPPORT DES TRAVAUX - FORUM SUR LA GOUVERNANCE DE L’INTERNET AU CAMEROUN (FGI CAMEROUN 2026) DU 18 AU 20 AOUT 2026 
+25 | P a g e 
+des réseaux. Elles revêtent un caractère multidimensionnel, intégrant notamment les 
+disparités territoriales, l’abordabilité des terminaux et des services, la qualité de la 
+connectivité, les compétences numériques et la capacité des populations à tirer 
+effectivement profit du numérique. Il a ainsi proposé de distinguer trois niveaux : être 
+couvert, être connecté et être effectivement inclus numériquement, plaidant pour une 
+évolution des politiques publiques d’une logique de couverture vers une logique 
+d’inclusion effective. 
+Il a, dans cette perspective, recommandé une attention prioritaire aux zones rurales, 
+enclavées et frontalières ainsi qu’aux populations vulnérables, notamment à travers une 
+meilleure orientation des interventions du service universel. Il a également proposé de 
+faire évoluer les télécentres communautaires vers de véritables points territoriaux 
+d’inclusion numérique, associant connectivité, accompagnement aux services publics 
+numériques, alphabétisation numérique et appui aux activités socio-économiques. Pour 
+améliorer le pilotage des politiques publiques, il a préconisé la mise en place d’un 
+tableau de bord national de l’inclusion numérique, complété par une cartographie 
+dynamique des fractures numériques. 
+Pour sa part, le représentant de Huawei Technologies Cameroun, Monsieur 
+CHIMOGNE Herman, a mis l’accent sur les contraintes économiques du 
+déploiement des infrastructures dans les zones faiblement peuplées. Il a présenté l’intérêt 
+de solutions rurales intégrées et à moindre coût, associant infrastructures compactes, 
+alimentation solaire, connectivité alternative et services numériques de proximité. La 
+question de l’abordabilité des terminaux a également été évoquée, l’objectif étant de 
+rechercher une combinaison optimale entre réduction des coûts d’infrastructure, 
+disponibilité énergétique, terminaux accessibles et qualité de la connectivité. 
+La représentante de MTN Cameroon a insisté sur la nécessité de poursuivre la 
+modernisation et la densification des réseaux, notamment à travers l’évolution de la 3G 
+vers la 4G, la préparation de la 5G et le renforcement du cœur de réseau. Elle a 
+également relevé l’importance de la diversification des infrastructures de transport, de 
+la résilience énergétique des réseaux et de la mise en place d’un observatoire national 
+du numérique permettant de disposer d’indicateurs transparents sur la connectivité, la 
+disponibilité des plateformes et la qualité effective des services. 
+Le représentant de CAMTEL a, quant à lui, mis en avant le rôle structurant de la dorsale 
+nationale en fibre optique, dont l’extension devrait contribuer à améliorer la 
+couverture et l’interconnexion du territoire. Il a souligné que l’inclusion numérique 
+suppose une combinaison de plusieurs technologies ainsi qu’une meilleure 
+mutualisation des infrastructures entre l’État, les opérateurs et les Collectivités 
+Territoriales Décentralisées. Il a également insisté sur la nécessité d’intégrer
+
+[[page 26]]
+RAPPORT DES TRAVAUX - FORUM SUR LA GOUVERNANCE DE L’INTERNET AU CAMEROUN (FGI CAMEROUN 2026) DU 18 AU 20 AOUT 2026 
+26 | P a g e 
+l’accessibilité dès la conception des services numériques, plutôt que de la traiter comme 
+une fonctionnalité complémentaire. 
+Abordant la question de la qualité de service, le représentant de l’ART a rappelé que 
+l’existence d’un signal ne suffit pas à caractériser une couverture effective. La qualité 
+dépend notamment du dimensionnement des réseaux, des capacités disponibles, de la 
+boucle locale et des conditions d’interconnexion. Il a plaidé pour le renforcement des 
+contrôles du régulateur, l’amélioration des capacités du dernier kilomètre et le 
+renforcement des mécanismes de péréquation destinés au financement des 
+infrastructures dans les zones rurales et peu rentables. 
+Enfin, l’intervention du représentant du CAMIX a mis en évidence le rôle stratégique 
+des points d’échange Internet dans le développement d’un Internet local performant et 
+souverain. Le renforcement des interconnexions locales, la réduction des coûts 
+associés, le développement de l’IPv6, l’acquisition par les organisations de leurs propres 
+ressources d’adressage Internet ainsi que la diversification des moyens de connectivité 
+ont été identifiés comme des leviers de résilience et d’autonomie numérique. 
+Au terme des présentations et des échanges, les principales recommandations ont 
+porté sur la nécessité : 
+ d’adopter une approche multidimensionnelle de la fracture numérique, intégrant la 
+couverture, l’accès effectif, l’abordabilité, la qualité de service, les compétences et les 
+usages ; 
+ de renforcer les interventions en faveur des zones rurales, enclavées et frontalières ainsi 
+que des populations vulnérables, en orientant davantage le service universel vers des 
+résultats mesurables ; 
+ de réactiver et renforcer le Fonds Spécial des Télécommunications, notamment aux fins 
+du développement du service universel ; 
+ de poursuivre l’extension, la modernisation, le dimensionnement et la résilience des 
+infrastructures nationales de télécommunications, notamment la fibre optique et les 
+réseaux du dernier kilomètre ; 
+ de transformer progressivement les télécentres communautaires en points territoriaux 
+d’inclusion numérique offrant connectivité, formation, accompagnement aux services 
+publics numériques et appui aux activités socio-économiques ; 
+ d’intégrer systématiquement l’accessibilité universelle dès la conception des 
+infrastructures, plateformes et services numériques ;
+
+[[page 27]]
+RAPPORT DES TRAVAUX - FORUM SUR LA GOUVERNANCE DE L’INTERNET AU CAMEROUN (FGI CAMEROUN 2026) DU 18 AU 20 AOUT 2026 
+27 | P a g e 
+ de mettre en place un tableau de bord et un observatoire national du numérique, 
+adossés à une cartographie dynamique et territorialisée des fractures numériques ; 
+ de renforcer les points d’échange Internet et l’interconnexion locale, afin de maintenir 
+davantage de contenus et de flux nationaux sur le territoire et de favoriser le 
+développement des centres de données ; 
+ de promouvoir la mutualisation des infrastructures, la diversification des technologies 
+et des sources d’énergie ainsi que les partenariats entre l’État, les opérateurs et les 
+collectivités territoriales ; 
+ d’évaluer désormais la réussite de la transformation numérique non seulement à travers 
+les infrastructures déployées et les taux de couverture, mais également à travers la 
+capacité effective des citoyens à accéder au numérique, à l’utiliser et à en tirer des 
+bénéfices économiques et sociaux concrets. 
+II.6. 
+Atelier 5 : Contribution du Cameroun aux processus africains et 
+internationaux de gouvernance de l’Internet. 
+Les travaux de ce panel, modérés par Dr Hélène BILO’O, enseignante-chercheuse à 
+l’Université de Bertoua, ont porté sur la contribution du Cameroun aux processus 
+africains et internationaux de gouvernance de l’Internet. Ils ont réuni : 
+- M. Valery OTTOU, Ingénieur Général des Télécommunications Hors Echelle 
+et Inspecteur N°1 chargé des questions Technique (IPT1) au Ministère des 
+Postes et Télécommunications (MINPOSTEL) ; 
+- Dr Austin WAFFO KOUHOUE, Ingénieur et Docteur en Génie 
+Informatique, 
+Enseignant-Chercheur 
+à 
+l’Ecole 
+Nationale 
+Supérieure 
+Polytechnique de Yaoundé (ENSPY) ; 
+- M. NDZANA Louis Armand, Ingénieur Informaticien en service au MINREX 
+et membre du Secrétariat exécutif du Forum sur la gouvernance de l’internet au 
+Cameroun ; 
+- M. ZIBI FAMA Paul Alain, Président Coordonnateur régional de 
+l’Association des Acteurs de la Conformité Numérique en Afrique (RACNA) ; 
+- M. Gilles MBONG ETOUNDI, Journaliste et expert en communication 
+stratégique, Chef du Service Technologies et Numérique à la CRTV-Poste 
+National. 
+L’objectif de la session était d’identifier les conditions permettant au Cameroun de 
+renforcer sa participation, sa coordination et son influence dans les espaces africains et
+
+[[page 28]]
+RAPPORT DES TRAVAUX - FORUM SUR LA GOUVERNANCE DE L’INTERNET AU CAMEROUN (FGI CAMEROUN 2026) DU 18 AU 20 AOUT 2026 
+28 | P a g e 
+internationaux de gouvernance du numérique. Les échanges ont notamment porté sur 
+le suivi du SMSI/WSIS+20 et du Pacte numérique mondial, la participation aux Forums 
+africains et mondiaux sur la gouvernance de l’Internet, les initiatives de l’Union africaine, 
+de la CEMAC et de Smart Africa, la diplomatie numérique, la coopération technique, 
+le transfert de compétences ainsi que le suivi des engagements internationaux. 
+Dans son intervention, M. Valery OTTOU a souligné le caractère désormais 
+stratégique de l’Internet, tant pour le développement socio-économique que pour la 
+souveraineté nationale. Évoquant notamment les vulnérabilités des infrastructures de 
+connectivité, l’essor des constellations satellitaires, les enjeux liés aux ressources 
+Internet critiques et la progression de la cybercriminalité, il a insisté sur la nécessité pour 
+le Cameroun de renforcer ses compétences, de mieux anticiper les évolutions 
+technologiques et d’accélérer l’industrialisation du secteur des télécommunications et 
+des TIC, notamment dans les domaines de la fibre optique et du satellite. 
+Pour sa part, Dr Austin WAFFO KOUHOUE a plaidé pour la transformation du 
+potentiel numérique du Cameroun en une véritable capacité d’influence et de 
+souveraineté. Il a notamment préconisé le renforcement de l’expertise nationale en 
+diplomatie numérique, une meilleure coordination interministérielle des positions du 
+Cameroun, la promotion de l’accessibilité numérique ainsi qu’un transfert de 
+technologies permettant aux compétences nationales de maîtriser progressivement les 
+systèmes et savoir-faire stratégiques. Il a également proposé de mieux valoriser les 
+conclusions du FGI Cameroun dans les instances africaines et internationales. 
+M. NDZANA Louis Armand a mis l’accent sur le développement des compétences, 
+de la recherche et de l’innovation comme fondements d’une souveraineté numérique 
+durable. Il a notamment insisté sur la formation dans les domaines scientifiques et 
+technologiques, le développement de champions nationaux, le financement de la 
+recherche et de l’innovation, la coopération africaine ainsi que la mobilisation des 
+compétences de la diaspora. Il a également relevé l’importance d’une participation 
+active du Cameroun aux initiatives internationales pour promouvoir les innovations et 
+compétences nationales et favoriser le transfert de technologies. 
+Abordant plus spécifiquement la question de l’influence internationale, M. ZIBI FAMA 
+Paul Alain a estimé que l’enjeu pour le Cameroun était désormais de passer 
+progressivement de la présence à la participation, de la participation à la contribution, 
+puis de la contribution à l’influence. Malgré les acquis enregistrés, il a relevé la 
+persistance d’une fragmentation des initiatives, une coordination insuffisante des 
+positions nationales, une faible capitalisation des contributions camerounaises et une 
+participation encore limitée à l’élaboration des normes et standards techniques
+
+[[page 29]]
+RAPPORT DES TRAVAUX - FORUM SUR LA GOUVERNANCE DE L’INTERNET AU CAMEROUN (FGI CAMEROUN 2026) DU 18 AU 20 AOUT 2026 
+29 | P a g e 
+internationaux. Il a ainsi préconisé une coordination nationale des positions 
+numériques, la formation de négociateurs spécialisés, une plus forte implication des 
+experts, des universités et du secteur privé, ainsi qu’un suivi systématique des 
+engagements internationaux. 
+Enfin, M. Gilles MBONG ETOUNDI a insisté sur le rôle stratégique de la 
+communication et des médias dans l’appropriation des enjeux du numérique par les 
+populations et dans le rayonnement international des positions camerounaises. Il a 
+relevé la nécessité de rendre l’information sur les technologies et la gouvernance 
+numérique plus accessible, de renforcer les compétences des professionnels des médias 
+et de mieux valoriser, aux niveaux national et international, les initiatives, les 
+innovations et les solutions issues de la recherche camerounaise. 
+Au terme des présentations et des échanges, les participants ont notamment 
+recommandé : 
+ de mettre en place une coordination nationale permanente des positions du Cameroun 
+en matière de gouvernance du numérique, permettant de préparer les contributions 
+nationales, de coordonner la participation aux instances internationales et d’assurer le 
+suivi des engagements souscrits ; 
+ de renforcer la participation des experts et agents des administrations publiques aux 
+processus africains et internationaux de gouvernance du numérique, ainsi qu’aux 
+travaux d’élaboration des normes, standards et politiques publiques internationales ; 
+ de développer les compétences nationales en diplomatie numérique et en négociation 
+internationale, et de tirer davantage parti des programmes de renforcement des 
+capacités proposés notamment par l’UIT et les autres organisations partenaires ; 
+ de renforcer la coopération technique, le transfert de technologies, la recherche et 
+l’innovation, tout en favorisant la valorisation des compétences nationales, de la 
+diaspora et des solutions technologiques développées au Cameroun ; 
+ de promouvoir l’accessibilité numérique et une gouvernance de l’Internet inclusive 
+prenant en compte les dimensions éthique, juridique, institutionnelle, technique, 
+stratégique et opérationnelle ; 
+ de renforcer la communication et la diplomatie d’influence dans le domaine du 
+numérique, notamment à travers la formation des journalistes spécialisés, la
+
+[[page 30]]
+RAPPORT DES TRAVAUX - FORUM SUR LA GOUVERNANCE DE L’INTERNET AU CAMEROUN (FGI CAMEROUN 2026) DU 18 AU 20 AOUT 2026 
+30 | P a g e 
+vulgarisation des enjeux de gouvernance numérique et une meilleure médiatisation des 
+innovations et positions portées par le Cameroun ; 
+ de mieux préparer et porter les priorités nationales dans les grandes échéances 
+africaines et internationales, notamment celles relatives à l’accès universel, au haut 
+débit, à la gouvernance des données, à l’intelligence artificielle et à la souveraineté 
+numérique. 
+ 
+II.7. 
+Table ronde : Élaboration d’une feuille de route nationale pour la 
+gouvernance inclusive des infrastructures publiques numériques 
+Les travaux de cette table ronde, modérés par Pr NGUELE ABADA, Attaché dans 
+les Services du Premier Ministre, ont porté sur la définition des orientations devant 
+sous-tendre l’élaboration d’une feuille de route nationale pour une gouvernance 
+inclusive, coordonnée et durable des infrastructures publiques numériques au 
+Cameroun. 
+La session a réuni les responsables et représentants de plusieurs institutions 
+directement impliquées dans le développement et l’exploitation des infrastructures et 
+services publics numériques, notamment les Directeurs Généraux de la CNPS, de la 
+CAMTEL, du BUNEC, du GUCE et des représentant des Directeurs Généraux de 
+l’ART et de CAMPOST. 
+L’objectif général était de consolider les principaux enseignements et recommandations 
+issus des différentes sessions du Forum et d’identifier les mesures institutionnelles, 
+réglementaires, techniques et opérationnelles susceptibles d’accélérer la mise en place 
+d’un écosystème national d’infrastructures publiques numériques interopérables, 
+sécurisées, inclusives et durables. 
+De manière spécifique, les échanges visaient à identifier les mécanismes de coordination 
+nécessaires à la transformation numérique de l’État ; définir les conditions 
+d’interopérabilité entre les plateformes et registres publics ; examiner les 
+infrastructures et services susceptibles de constituer les briques communes de 
+l’écosystème numérique national ; renforcer la confiance, la sécurité et la souveraineté 
+numériques ; et identifier les mesures permettant d’accroître l’accès et l’usage effectif 
+des services publics numériques. 
+Après l’introduction du Modérateur, les échanges ont principalement porté sur la 
+gouvernance et la coordination institutionnelles ; l’identité numérique et 
+l’interopérabilité des systèmes publics ; la mutualisation et la résilience des
+
+[[page 31]]
+RAPPORT DES TRAVAUX - FORUM SUR LA GOUVERNANCE DE L’INTERNET AU CAMEROUN (FGI CAMEROUN 2026) DU 18 AU 20 AOUT 2026 
+31 | P a g e 
+infrastructures ; la souveraineté et la confiance numériques ; ainsi que l’inclusion, 
+l’accessibilité et le développement des usages numériques. 
+Sur le plan de la gouvernance institutionnelle, les échanges ont fait ressortir la nécessité de 
+disposer d’un mécanisme national permettant d’assurer une meilleure coordination des 
+initiatives de transformation numérique. Les participants ont relevé que la multiplication 
+des plateformes, projets et systèmes d’information développés de manière sectorielle 
+peut conduire à des duplications d’investissements et à une faible interopérabilité. La 
+mise en place d’une instance interministérielle et multi-acteurs de coordination a ainsi 
+été évoquée afin d’assurer la cohérence des politiques, d’arbitrer les priorités et de 
+favoriser une meilleure articulation entre l’État, le secteur privé et la société civile. 
+Concernant l’interopérabilité et l’identité numérique, les discussions ont souligné 
+l’importance de disposer de référentiels, de normes et de mécanismes communs 
+permettant aux administrations d’échanger des données de manière sécurisée. À cet 
+égard, le Numéro d’Identifiant Personnel Unique (NIPU) du BUNEC a été présenté 
+comme pouvant constituer un identifiant pivot de l’écosystème national d’identité 
+numérique, susceptible d’être associé, dans un environnement sécurisé, aux systèmes 
+d’information des administrations et services publics. Cette évolution devrait être 
+accompagnée d’un cadre national d’interopérabilité définissant notamment les standards 
+techniques, les référentiels, les modalités d’échange par API ainsi que les exigences de 
+sécurité et de confidentialité. 
+S’agissant des infrastructures numériques, les échanges ont insisté sur la nécessité de 
+privilégier la mutualisation et la réutilisation des capacités nationales existantes. Dans 
+cette perspective, la consolidation de l’hébergement des données publiques critiques 
+sur des infrastructures nationales sécurisées, notamment le Data Center de CAMTEL, 
+a été évoquée comme un moyen de rationaliser les investissements et de renforcer la 
+souveraineté numérique. Les participants ont également souligné l’importance de 
+poursuivre la densification de la dorsale nationale en fibre optique, d’exploiter les 
+possibilités de redondance offertes par les autres infrastructures nationales et 
+d'encourager le partage des infrastructures de télécommunications. 
+La question de la résilience des services numériques a également occupé une place 
+importante dans les échanges. Les participants ont notamment relevé la nécessité de 
+renforcer l’interconnexion locale et le recours au CAMIX, afin qu’une part plus 
+importante des échanges numériques nationaux puisse être effectuée localement et que 
+les services essentiels puissent disposer d’une meilleure résilience face aux 
+perturbations des liaisons internationales.
+
+[[page 32]]
+RAPPORT DES TRAVAUX - FORUM SUR LA GOUVERNANCE DE L’INTERNET AU CAMEROUN (FGI CAMEROUN 2026) DU 18 AU 20 AOUT 2026 
+32 | P a g e 
+Sur le plan de la confiance numérique, les échanges ont mis en évidence la nécessité 
+d’accompagner le développement des infrastructures publiques numériques par un cadre 
+juridique et réglementaire adapté aux nouveaux usages. L’effectivité de la protection des 
+données à caractère personnel, la sécurisation des échanges numériques et l’adaptation 
+progressive de la réglementation aux technologies émergentes, notamment la 5G, 
+l’Internet des objets, les systèmes satellitaires et l’intelligence artificielle, ont notamment 
+été évoquées. 
+Enfin, concernant l’inclusion et le développement des usages, les participants ont relevé 
+que l’existence d’infrastructures numériques ne suffit pas à garantir leur appropriation. 
+Le développement des paiements numériques, l’interopérabilité des moyens de 
+paiement, la réduction du coût des terminaux et des transactions ainsi que l’amélioration 
+de l’accès aux équipements dans les zones rurales et auprès des populations à faibles 
+revenus ont été identifiés comme des conditions importantes de généralisation des 
+services publics numériques. 
+Au terme des présentations et des échanges, les principales recommandations ont 
+porté sur la nécessité : 
+ de mettre en place une instance nationale de coordination interministérielle et 
+multiacteurs chargée d'assurer la cohérence des initiatives de transformation 
+numérique, de coordonner les priorités et de favoriser la participation du secteur privé 
+et de la société civile ; 
+ d’élaborer un cadre national unifié d’interopérabilité, précisant les normes, référentiels, 
+standards d’échange, mécanismes d’API ainsi que les règles relatives à la sécurité et à 
+la confidentialité des données publiques ; 
+ de consolider le cadre national de confiance numérique, notamment à travers la mise 
+en œuvre effective de la législation relative à la protection des données à caractère 
+personnel et l’adaptation du cadre réglementaire aux technologies émergentes ; 
+ de consacrer le NIPU du BUNEC comme identifiant pivot de l’identité numérique 
+nationale, et de favoriser son interconnexion sécurisée avec les registres et systèmes 
+d’information publics pertinents ; 
+ de rationaliser et mutualiser les capacités nationales d’hébergement des données 
+publiques, régaliennes et critiques, en privilégiant les infrastructures nationales 
+sécurisées et en évitant la multiplication d’infrastructures sectorielles redondantes ;
+
+[[page 33]]
+RAPPORT DES TRAVAUX - FORUM SUR LA GOUVERNANCE DE L’INTERNET AU CAMEROUN (FGI CAMEROUN 2026) DU 18 AU 20 AOUT 2026 
+33 | P a g e 
+ de poursuivre la densification de la dorsale nationale en fibre optique, de développer 
+les mécanismes de redondance et de renforcer la résilience des infrastructures critiques; 
+ de renforcer le CAMIX et l’interconnexion locale, afin de favoriser le maintien des 
+échanges numériques nationaux sur le territoire et d’améliorer la continuité des services 
+en cas de perturbation des liaisons internationales ; 
+ d’encourager la mutualisation des infrastructures de télécommunications, notamment 
+les infrastructures radio, tout en veillant au dimensionnement adéquat des capacités et 
+à la qualité de service sous le contrôle du régulateur ; 
+ de poursuivre la généralisation des paiements numériques et leur interopérabilité dans 
+la fourniture des services publics et les transactions économiques, notamment à travers 
+les mécanismes régionaux existants ; 
+ d’examiner les mesures susceptibles de réduire le coût d’accès aux terminaux et aux 
+services numériques, notamment les mesures fiscales et tarifaires pouvant favoriser 
+l’équipement des populations et l’adoption des usages numériques ; 
+ de promouvoir des solutions et terminaux numériques accessibles à moindre coût, 
+particulièrement au bénéfice des populations rurales, défavorisées et insuffisamment 
+desservies. 
+II.8. 
+Side Event1 : FGI Jeunes Cameroun 2026 : Jeunesse, innovation et 
+citoyenneté numérique : bâtir l’avenir de l’Internet au Cameroun 
+Dans le cadre du FGI Cameroun 2026, une table ronde consacrée aux jeunes s’est 
+tenue le 19 août 2026, sous le thème : « Jeunesse, innovation et citoyenneté numérique : 
+bâtir l’avenir de l’Internet au Cameroun ». 
+Organisée en format hybride, elle a réuni des jeunes leaders, des experts du numérique, 
+des représentants des secteurs public et privé ainsi que des acteurs de la société civile. 
+Les travaux étaient coordonnés par M. Sylvain William SOP TAHFO, 
+Coordonnateur national du FGI Jeunes Cameroun, et modérés par Mme Anne Emma 
+POKA. 
+L’objectif de cette session était d’examiner la place de la jeunesse dans l’innovation et 
+la citoyenneté numérique, d’identifier les principaux obstacles à son inclusion effective 
+dans l’écosystème numérique et de dégager des pistes permettant aux jeunes 
+camerounais de passer du statut de simples consommateurs à celui d’acteurs, de 
+créateurs et d’entrepreneurs du numérique.
+
+[[page 34]]
+RAPPORT DES TRAVAUX - FORUM SUR LA GOUVERNANCE DE L’INTERNET AU CAMEROUN (FGI CAMEROUN 2026) DU 18 AU 20 AOUT 2026 
+34 | P a g e 
+Les échanges se sont principalement articulés autour de trois problématiques : la 
+citoyenneté numérique et la responsabilité en ligne ; l’inclusion et les opportunités 
+offertes par le numérique ; ainsi que l’innovation et la transformation numérique. 
+Sur la première problématique, les intervenants ont insisté sur la nécessité de mieux 
+sensibiliser les jeunes à leurs droits et devoirs dans l’espace numérique, ainsi qu’à une 
+utilisation responsable d’Internet. Les débats ont notamment relevé que les usages 
+numériques d’une partie de la jeunesse demeurent fortement orientés vers le 
+divertissement, alors que les mêmes outils peuvent constituer de puissants leviers 
+d’apprentissage, de développement des compétences, d’insertion professionnelle et 
+d’entrepreneuriat. 
+Concernant l’inclusion et les opportunités économiques, les échanges ont mis en 
+évidence le potentiel des réseaux sociaux et des plateformes numériques pour la 
+création d’activités et la valorisation des compétences. L’éducation numérique a été 
+présentée comme un levier essentiel pour permettre aux jeunes d’identifier les besoins 
+de leur environnement, de développer des solutions et de transformer leurs savoirfaire 
+en opportunités économiques. 
+Abordant enfin l’innovation et la transformation numérique, les participants ont relevé 
+les mutations induites par les plateformes collaboratives, l’intelligence artificielle 
+générative et l’évolution des compétences professionnelles. Ils ont souligné que 
+l’innovation doit avant tout répondre à des besoins réels, demeurer accessible et 
+produire un impact concret. Les échanges ont également attiré l’attention sur les 
+transformations du marché du travail, induites par l’IA et sur la nécessité d’accompagner 
+les jeunes afin qu’ils puissent s’adapter à l’évolution des métiers et tirer parti des 
+nouvelles opportunités. 
+Les travaux ont, par ailleurs, permis d’identifier plusieurs contraintes à une participation 
+accrue de la jeunesse à l’économie numérique, notamment la persistance de la fracture 
+numérique, l’insuffisance des programmes de formation adaptés, l’accès limité au 
+financement ainsi que la faible valorisation économique de certains usages d’Internet. 
+Au terme des échanges, les participants ont notamment recommandé : 
+ de renforcer l’éducation à la citoyenneté numérique, notamment la sensibilisation des 
+jeunes à leurs droits et devoirs en ligne, à la protection des données et à une utilisation 
+responsable et productive d’Internet ;
+
+[[page 35]]
+RAPPORT DES TRAVAUX - FORUM SUR LA GOUVERNANCE DE L’INTERNET AU CAMEROUN (FGI CAMEROUN 2026) DU 18 AU 20 AOUT 2026 
+35 | P a g e 
+ de poursuivre l’extension des infrastructures de connectivité et d’examiner la 
+redynamisation des dispositifs d’accès communautaire au numérique, notamment au 
+bénéfice des jeunes des zones insuffisamment desservies ; 
+ de développer des programmes de formation et d’accompagnement adaptés aux 
+jeunes, y compris aux profils non techniques, dans les domaines du numérique, de 
+l’entrepreneuriat digital et des technologies émergentes ; 
+ de promouvoir une gouvernance éthique et inclusive de l’intelligence artificielle et de 
+préparer les jeunes aux transformations des compétences et des métiers induites par 
+son développement ; 
+ de renforcer les mécanismes de financement et d’accompagnement des PME 
+numériques, startups et initiatives portées par les jeunes, notamment à travers des 
+fonds de garantie et des partenariats public-privé ; 
+ de soutenir davantage les innovations, solutions et produits numériques développés 
+localement, afin de favoriser l’émergence de jeunes entrepreneurs et de créateurs 
+camerounais. 
+II.9. 
+Side Event FGI Femmes Cameroun 2026 : Femmes, données et 
+intelligence artificielle : construire un Internet inclusif, sûr et porteur 
+d’opportunités 
+Les échanges consacrés aux femmes, aux données et à l’intelligence artificielle ont mis 
+en évidence les opportunités offertes par la transformation numérique pour renforcer 
+l’autonomisation économique et sociale des femmes. Les intervenantes ont souligné 
+que l’enjeu ne consiste plus seulement à favoriser l’accès des femmes aux technologies, 
+mais à leur permettre de devenir de véritables actrices de leur conception, de leur 
+développement, de leur utilisation et de leur gouvernance. 
+Une attention particulière a été accordée à la donnée, considérée comme une 
+ressource stratégique pour le développement de solutions d’intelligence artificielle 
+adaptées aux réalités nationales. À cet égard, les échanges ont insisté sur l’importance 
+de disposer de données fiables, représentatives et sécurisées, prenant suffisamment en 
+compte les réalités, les besoins et les contributions des femmes. Ils ont également 
+relevé les opportunités que l’intelligence artificielle offre aux femmes entrepreneures, 
+notamment en matière de connaissance des marchés et des clients, de visibilité, 
+d’automatisation des tâches, de réduction des coûts et d’amélioration de la 
+productivité.
+
+[[page 36]]
+RAPPORT DES TRAVAUX - FORUM SUR LA GOUVERNANCE DE L’INTERNET AU CAMEROUN (FGI CAMEROUN 2026) DU 18 AU 20 AOUT 2026 
+36 | P a g e 
+Toutefois, plusieurs contraintes continuent de limiter la pleine participation des femmes 
+à l’économie numérique, notamment la fracture numérique, l’insuffisance des 
+compétences, le coût des équipements et de la connectivité, les déficits infrastructurels, 
+les risques liés à la protection des données ainsi que les biais susceptibles de reproduire 
+ou d’accentuer les inégalités de genre. Les échanges ont ainsi souligné la nécessité 
+d’accompagner le développement de l’intelligence artificielle par des politiques 
+d’inclusion, des cadres éthiques et juridiques adaptés et un renforcement des capacités 
+des femmes. 
+Au terme des travaux, il a notamment été recommandé de : 
+ renforcer l’alphabétisation et les compétences numériques des femmes et des jeunes 
+filles ; 
+ favoriser leur orientation vers les métiers du numérique et de l’intelligence artificielle ; 
+ accroître leur participation à la conception et à la gouvernance des technologies ; 
+ améliorer la disponibilité de données fiables et représentatives ; renforcer la protection 
+et l’utilisation éthique des données ; 
+ faciliter l’accès des femmes à Internet et aux équipements numériques ; 
+ soutenir l’entrepreneuriat et l’innovation numériques féminins ; 
+ développer les infrastructures nécessaires aux usages de l’IA ; 
+ renforcer les cadres juridiques relatifs aux données, à la propriété intellectuelle et à 
+l’intelligence artificielle ; 
+ et développer des programmes de mentorat et de partage d’expériences entre femmes. 
+ 
+III. DE LA CEREMONIE DE CLOTURE 
+La cérémonie de clôture a été structurée autour de la restitution des conclusions et 
+recommandations des concertations et de l’allocution de clôture de Madame le 
+Ministre des Postes et Télécommunications. 
+III.1. 
+Présentation des conclusions et des recommandations des 
+concertations 
+La présentation des conclusions des assises a été faite par Monsieur Jean Patrice 
+Koé, Directeur de la Communication, de la Documentation et des Archives 
+Diplomatiques au Ministère des Relations Extérieures (MINREX).
+
+[[page 37]]
+RAPPORT DES TRAVAUX - FORUM SUR LA GOUVERNANCE DE L’INTERNET AU CAMEROUN (FGI CAMEROUN 2026) DU 18 AU 20 AOUT 2026 
+37 | P a g e 
+La restitution générale a permis de mettre en évidence les convergences dégagées au 
+cours des différentes sessions et de présenter les principales recommandations. 
+Les recommandations formulées au terme des différentes sessions du FGI Cameroun 
+2026 et regroupées autour des sept (07) axes majeurs suivants, ont convergé vers la 
+nécessité de faire évoluer l’écosystème numérique national, encore marqué par la 
+fragmentation des infrastructures, des plateformes et des données, vers un 
+environnement cohérent, interopérable, sécurisé, inclusif et souverain. 
+À cet effet, les travaux ont préconisé : l’établissement d’un cadre national unifié de 
+gouvernance de la donnée, assorti de mécanismes institutionnels de coordination et de 
+référentiels communs ; la mise en œuvre du principe d’interopérabilité dès la conception des 
+services publics numériques ; le décloisonnement des registres et systèmes d’information 
+publics ; ainsi que le développement d’infrastructures publiques numériques reposant 
+notamment sur des identifiants fiables, des mécanismes sécurisés d’échange de données et la 
+réutilisation des infrastructures nationales existantes. 
+Les participants ont également recommandé de renforcer la cybersécurité, la résilience et la 
+souveraineté numériques, notamment par la sécurisation des infrastructures critiques, le 
+développement des capacités nationales de prévention et de réponse aux incidents, 
+l’hébergement souverain des données sensibles et la poursuite de la modernisation des 
+infrastructures de télécommunications. Une attention particulière a par ailleurs été 
+accordée à l’inclusion numérique et financière, à la réduction des coûts d’accès, au 
+développement du service universel, à l’accessibilité des services ainsi qu’à la réduction des 
+fractures territoriales et sociales. 
+S’agissant des technologies émergentes, les travaux ont préconisé l’adoption et la mise 
+en œuvre de la Stratégie Nationale de Développement de l’Intelligence Artificielle, 
+accompagnée d’un cadre de gouvernance responsable et proportionné aux risques, du 
+renforcement des capacités nationales en matière de données, de calcul, de recherche et 
+d’innovation, ainsi que du développement de solutions adaptées aux réalités camerounaises. 
+Ils ont également insisté sur une participation accrue des jeunes et des femmes à la 
+transformation numérique, à travers la formation, l’entrepreneuriat, l’innovation et la 
+citoyenneté numérique. 
+Enfin, il a été recommandé de consolider l’ensemble de ces orientations dans une feuille de 
+route nationale pour la gouvernance inclusive et le développement des infrastructures 
+publiques numériques, déclinant les actions prioritaires, les responsabilités, les échéances, les 
+ressources et les indicateurs de performance. Sa mise en œuvre devrait être accompagnée 
+d’un mécanisme multipartite permanent de suivi, coordonné par le MINPOSTEL avec 
+l’appui du MAG du FGI Cameroun, tandis que les positions et priorités nationales
+
+[[page 38]]
+RAPPORT DES TRAVAUX - FORUM SUR LA GOUVERNANCE DE L’INTERNET AU CAMEROUN (FGI CAMEROUN 2026) DU 18 AU 20 AOUT 2026 
+38 | P a g e 
+pertinentes devront être portées dans les instances sous-régionales, africaines et 
+internationales de gouvernance du numérique. 
+ 
+III.2. 
+Allocution de clôture de Madame le Ministre des Postes et 
+Télécommunications 
+Dans son allocution de clôture, Madame le Ministre des Postes et Télécommunications, 
+agissant en qualité de Représentante personnelle du Premier Ministre, Chef du 
+Gouvernement, a transmis aux participants les félicitations de ce dernier pour la qualité 
+des travaux et l’esprit de concertation ayant marqué les trois jours d’assises. Elle a 
+rappelé que la haute attention accordée au FGI Cameroun 2026 traduit l’importance 
+que le Gouvernement attache à la construction d’un environnement numérique 
+cohérent, interopérable, sécurisé, inclusif et souverain. 
+Revenant sur les principaux enseignements du Forum, elle a relevé que les différentes 
+sessions avaient permis d’approfondir les enjeux relatifs à la gouvernance et à la 
+valorisation de la donnée, à l’interopérabilité des systèmes d’information, aux 
+infrastructures publiques numériques, à la cybersécurité, à l’inclusion numérique et 
+financière ainsi qu’à la gouvernance responsable de l’intelligence artificielle. Elle a 
+souligné la nécessité de dépasser la logique de systèmes et de plateformes développés 
+en silos, au profit d’une vision d’ensemble reposant sur des référentiels partagés, des 
+échanges sécurisés de données et une coordination renforcée des acteurs. 
+À cet égard, Madame le Ministre a mis en exergue quatre orientations majeures issues 
+des travaux : l’établissement d’un cadre national unifié de gouvernance de la donnée ; le 
+développement d’infrastructures publiques numériques fiables, sécurisées, réutilisables 
+et conçues suivant le principe d’« interopérabilité dès la conception » ; le renforcement 
+de la cybersécurité, de la résilience et de la souveraineté numériques ; ainsi que la 
+promotion d’une transformation numérique inclusive, prenant notamment en compte 
+les jeunes, les femmes, les populations rurales et les personnes vivant avec un handicap, 
+tout en favorisant l’innovation locale et une intelligence artificielle responsable. 
+S’agissant des suites du Forum, elle a indiqué que le rapport général des travaux, assorti 
+des recommandations et propositions opérationnelles, sera consolidé et soumis à la 
+haute appréciation du Premier Ministre, Chef du Gouvernement. Les recommandations 
+retenues serviront également de base à l’élaboration d’une feuille de route nationale 
+pour la gouvernance inclusive et le développement des infrastructures publiques 
+numériques, précisant les actions prioritaires, les responsabilités, les échéances, les 
+ressources nécessaires et les indicateurs de résultats. Un mécanisme multipartite de
+
+[[page 39]]
+RAPPORT DES TRAVAUX - FORUM SUR LA GOUVERNANCE DE L’INTERNET AU CAMEROUN (FGI CAMEROUN 2026) DU 18 AU 20 AOUT 2026 
+39 | P a g e 
+suivi sera mis en place sous la coordination du MINPOSTEL, avec l’appui du MAG du 
+FGI Cameroun. 
+Elle a également indiqué que les orientations pertinentes issues des assises seront 
+portées dans les instances sous-régionales, africaines et internationales de gouvernance 
+de l’Internet, afin d’assurer une meilleure prise en compte des priorités et intérêts du 
+Cameroun. Dans cette perspective, le FGI Cameroun est appelé à s’affirmer comme 
+un cadre permanent de dialogue, de proposition, de suivi et d’évaluation de l’action 
+collective en matière de transformation numérique. 
+Pour conclure, Madame le Ministre a invité l’ensemble des parties prenantes à maintenir 
+la dynamique engagée et à œuvrer à la traduction effective des recommandations en 
+politiques, projets et services concrets au bénéfice des citoyens. Après avoir remercié 
+les partenaires ayant contribué au succès de l’évènement, elle a déclaré clos les travaux 
+de l’édition 2026 du Forum sur la Gouvernance de l’Internet au Cameroun. 
+ 
+ 
+CONCLUSION GÉNÉRALE 
+L’édition 2026 du Forum sur la Gouvernance de l’Internet au Cameroun aura constitué 
+un cadre de dialogue sur une question devenue centrale pour la transformation 
+numérique du pays : comment passer de la multiplication des systèmes numériques à la 
+construction d’un véritable écosystème numérique national intégré ? 
+Les travaux ont permis de replacer la donnée au centre de cette transformation et de 
+souligner les liens étroits entre gouvernance des données, interopérabilité, 
+infrastructures publiques numériques, cybersécurité, intelligence artificielle, inclusion et 
+souveraineté numérique. 
+Ils ont également rappelé qu’aucune administration, aucune entreprise et aucune 
+catégorie d’acteurs ne saurait, à elle seule, apporter une réponse durable à ces enjeux. 
+Comme cela ressort des orientations développées dans le projet, la construction 
+d’infrastructures publiques numériques constitue un projet collectif appelant une vision 
+partagée et une gouvernance claire. 
+Dès lors, le principal enjeu à l’issue du Forum réside dans le passage du dialogue à 
+l’action. 
+Les recommandations issues des différentes sessions devront être consolidées, 
+hiérarchisées et traduites dans une feuille de route assortie d’actions précises, de 
+responsabilités clairement identifiées, d’échéances et d’indicateurs permettant d’en 
+mesurer la mise en œuvre.
+
+[[page 40]]
+RAPPORT DES TRAVAUX - FORUM SUR LA GOUVERNANCE DE L’INTERNET AU CAMEROUN (FGI CAMEROUN 2026) DU 18 AU 20 AOUT 2026 
+40 | P a g e 
+Le FGI Cameroun devra également poursuivre son rôle d’espace permanent de 
+concertation multipartite et de passerelle entre les parties prenantes nationales et les 
+processus sous-régionaux, africains et mondiaux de gouvernance de l’Internet. 
+Ainsi, au-delà des trois journées d’échanges, le FGI Cameroun 2026 devrait marquer le 
+point de départ d’une dynamique structurée visant à faire de la donnée, de 
+l’interopérabilité et des infrastructures publiques numériques des leviers de 
+modernisation de l’État, de compétitivité de l’économie, d’innovation, d’inclusion et de 
+souveraineté numérique du Cameroun. 
+ 
+ANNEXES 
+A1- PROGRAMME DU FORUM 
+PROGRAMME DU FORUM SUR LA GOUVERNANCE DE L’INTERNET 
+AU CAMEROUN 
+FGI CAMEROUN 2026 
+THÈME GÉNÉRAL 
+« De la fragmentation à l’interopérabilité : faire de la donnée le socle des infrastructures 
+publiques numériques au Cameroun » 
+Dates : du 18 au 20 août 2026 
+Lieu : Yaoundé 
+Format : présentiel et en ligne 
+JOUR 1 - MARDI 18 AOÛT 2026 
+Horaire 
+Activité 
+Thème 
+08 h 00 - 
+09 h 00 
+Accueil, enregistrement 
+et installation des 
+participants 
+Mobilisation des participants 
+09 h 00 - 
+10 h 30 
+Cérémonie officielle 
+d’ouverture 
+Lancement institutionnel du FGI Cameroun 2026 
+Mot de bienvenue : M. François Joseph NEMETE BEYEME, Coordonnateur du MAG du FGI Cameroun 
+Allocution : Madame le Directeur Général de CAMTEL 
+Allocution : Mme Tahiry RAKOTOHERINIAINA, Représentante résidente de l’UIT pour la zone Afrique- 
+Madagascar 
+Discours d’ouverture : Mme Minette LIBOM LI LIKENG, Ministre des Postes et Télécommunications 
+10 h 30 - 
+11 h 00 
+Photo de famille + 
+pause-café 
+Pause et réseautage 
+11 h 00 - 
+12 h 30 
+Session plénière de 
+haut niveau 
+De la fragmentation à l’interopérabilité : quel cadre stratégique 
+national pour la gouvernance de la donnée et le développement 
+des infrastructures publiques numériques au Cameroun ?
+
+[[page 41]]
+RAPPORT DES TRAVAUX - FORUM SUR LA GOUVERNANCE DE L’INTERNET AU CAMEROUN (FGI CAMEROUN 2026) DU 18 AU 20 AOUT 2026 
+41 | P a g e 
+Modérateur : Pr NGUELE ABADA Marcellin 
+Intervenants : Mme Minette LIBOM LI LIKENG (MINPOSTEL) ; M. Louis Paul MOTAZE (MINFI) ; M. Joseph LE 
+(MINFOPRA) ; M. Georges ELANGA OBAM (MINDDEVEL) ; M. MANAOUDA MALACHIE (MINSANTE) ; M. 
+ATANGA NJI (MINAT) ; M. BASSILIKIN III Achille (MINPMEESA) 
+; M. TALBA MALLA (MINMAP) ; M. ALAMINE OUSMANE MEY (MINEPAT) ; M. NKOA AYISSI Pierre Emmanuel 
+(DN BEAC) ; Mme Tahiry 
+RAKOTOHERINIAINA, Représentante résidente de l’UIT pour la zone Afrique-Madagascar ; Directeur général de 
+Huawei Technologies ; Coordonnateur résident du Système des Nations Unies au Cameroun ; M. TSANGA 
+KEPEDEN Guy ; 
+12 h 30 - 
+13 h 30 
+Déjeuner 
+Pause et réseautage 
+13 h 30 - 
+14 h 00 
+Panel 1 
+La donnée comme socle de services publics numériques 
+interopérables, inclusifs et sécurisés 
+Modérateur : Directeur du CENADI 
+Intervenants : Dr Pierre KAMANOU (GTS INFOTEL) ; M. Felix SUMBELE (NSPI CAMPOST) ; M. NTAMACK 
+Serge ; Représentant de la DGI ; Commissaire NGUELE ; Représentant du MINFOPRA ; Représentant du MINFI 
+JOUR 2 - MERCREDI 19 AOÛT 2026 
+PROGRAMME PRINCIPAL - SALLE PRINCIPALE 
+Les panels et les autres séquences du programme principal sont maintenus aux horaires initialement 
+prévus. 
+ Horaire 
+Activité 
+Thème 
+08 h 30 - 
+09 h 00 
+Accueil et installation 
+des participants 
+Ouverture de la deuxième journée 
+09 h 00 - 
+10 h 30 
+Panel 2 
+Construire un cyberespace camerounais sûr et résilient 
+Modérateur : Pr Georges BELL BITJOKA 
+Intervenants : Dr EVINA Pierrette (DSR MINPOSTEL) ; M. Prosper PAGOU (CIRT ANTIC) ; M. Alain NONO (DG 
+Mobile Money) ; M. Gérard EYOUNG (Cyberix) ; Mme TCHENDJOU DJAWA Adeline 
+10 h 30 - 
+11 h 00 
+Pause-café et 
+réseautage 
+Échanges multipartites 
+11 h 00 - 
+12 h 30 
+Panel 3 
+Gouvernance responsable de l’intelligence artificielle : innovation, 
+éthique et souveraineté 
+Modérateur : Dr NLEND Raphael, CT1 MINPOSTEL 
+Intervenants : Dr TSAFAK Pauline, DRPT MINPOSTEL ; M. KOE Jean Patrice ; M. NGUETI Armand ; M. KANE 
+Gilles (Banque mondiale) ; Danielle MOUKOURI
+
+[[page 42]]
+RAPPORT DES TRAVAUX - FORUM SUR LA GOUVERNANCE DE L’INTERNET AU CAMEROUN (FGI CAMEROUN 2026) DU 18 AU 20 AOUT 2026 
+42 | P a g e 
+12 h 30 - 
+13 h 30 
+Déjeuner 
+Pause et réseautage 
+13 h 30 - 
+15 h 00 
+Panel 4 
+Réduire les fractures numériques et garantir un accès abordable, 
+inclusif et de qualité à Internet 
+Modérateur : Pr Paulin MELATAGIA, UY1 
+Intervenants : Dr IFRIKY SOKENG ; Dr NGAE Denis ; Représentant de l’ART ; Représentant de CAMTEL ; 
+Représentant de Huawei ; Représentant de MTNC ; LOUMOU Jean René (Camix)
+
+[[page 43]]
+PROGRAMMATION PARALLÈLE - SALLE A 
+Les deux side events se tiennent le mercredi en salle A, sans incidence sur le déroulement du 
+programme principal. 
+Horaire 
+Activité 
+Thème 
+09 h 00 - 
+10 h 30 
+Side Event FGI Jeunes 
+Cameroun 2026 
+Jeunesse, innovation et citoyenneté numérique : bâtir 
+l’avenir de l’Internet au Cameroun 
+10 h 30 - 
+11 h 00 
+Restitution du FGI 
+Jeunes 
+Synthèse des travaux du FGI Jeunes 
+15 h 00 - 
+16 h 30 
+Side Event FGI 
+Femmes Cameroun 
+2026 
+Femmes, données et intelligence artificielle : construire un 
+Internet inclusif, sûr et porteur d’opportunités 
+Modérateur : Mme LUM LIZ 
+Intervenants : Mme KINGSLEY Debora, Pr. MIMESE ME FAME Marie, ONU Femme 
+Rapporteurs : Dr. BEYALA OWONO Murielle, Mme ABANDA Elise Léopoldine 
+16 h 30 - 
+17 h 00 
+Restitution et clôture de 
+la deuxième journée 
+Synthèse des travaux du FGI Femmes 
+JOUR 3 - JEUDI 20 AOÛT 2026 
+Horaire 
+Activité 
+Thème 
+08 h 30 - 
+09 h 00 
+Accueil et installation 
+des participants 
+Ouverture de la troisième journée 
+09 h 00 - 
+10 h 30 
+Panel 5 
+Contribution du Cameroun aux processus africains et 
+internationaux de gouvernance de l’Internet 
+Modérateur : Dr Helène BILO’O 
+Intervenants : M. Valery OTTOU ; Dr WAFFO ; M. NDZANA Louis Armand ; M. ZIBI FAMA Paul Alain ; 
+M. Gilles MBONG Etoundi 
+11 h 00 - 
+12 h 30 
+Table ronde nationale 
+des parties prenantes 
+Élaboration d’une feuille de route nationale pour la 
+gouvernance inclusive des infrastructures publiques 
+numériques 
+Modérateur : Pr Jean Emmanuel PONDI 
+Intervenants : Directeur Général de la CNPS ; Directeur Général de l’ANTIC ; Directeur Général du 
+BUNEC ; Directeur Général des Impôts (DGI) 
+; Directeur Général de l’ART ; Directeur Général de CAMTEL ; Directeur Général de CAMPOST ; 
+Directeur Général du GUCCE 
+12 h 30 - 
+13 h 00 
+Cérémonie de clôture et 
+restitution générale des 
+travaux 
+Consolidation des conclusions du Forum
+
+[[page 44]]
+RAPPORT DES TRAVAUX - FORUM SUR LA GOUVERNANCE DE L’INTERNET AU CAMEROUN (FGI CAMEROUN 2026) DU 18 AU 20 AOUT 2026 
+42 | P a g e
+
+[[page 45]]
+RAPPORT DES TRAVAUX - FORUM SUR LA GOUVERNANCE DE L’INTERNET AU CAMEROUN (FGI CAMEROUN 2026) DU 18 AU 20 AOUT 
+2026 
+45 | P a g e

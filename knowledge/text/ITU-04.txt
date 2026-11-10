@@ -1,0 +1,74 @@
+[[page 1]]
+AI for Good Sandbox Hackathon – “Team Vishnu” – 
+Customer complaint handling
+Team leader: V
+Team:: 
+members: V and JiayingContact details: email and phone….
+Github link: github.com/
+Introduction
+- in different domains with customer interactions, we see complaints being raised in online platforms (such as engagement websites, chatbots, etc)
+- large number of complaints….
+- local languages.
+- complaints – coverage issues, call drops, bad signals, downloading issues, video quality, billing complaints.
+- routing to the correct department is important for handling.
+- providing the background context – any debugging information: for e.g. location of the user when she faced the call drop. The base station information, the number of the users at that time…..
+- solution recommendations. Questions to ask the customer: garage? Device model? The current subscription plan ?
+- recommendations
+- feedback.
+What is the role played by AI?
+- local language models
+- context to be provided by KB.
+- policy guidelines to be applied.
+Requirements
+- it is critical that the problem classification takes into account the problem domain and the background knowledge and asks minimal questions back to user.
+- it is critical that the user operations are not impacted.
+- it is expected that the solution is optimal in terms of number of steps to be executed by the user.
+- it is of added value that…
+Demo scenarios: 
+- scenario-1: step-1: The solution for telecom complaint resolution is online.
+- step-2: after a while, the customers feedback includes questions on why the approach for certain recommendations were not selected? E.g. why the device reboot was needed when it was working perfectly well according to the customer?
+- traceability and explainability.
+- step-3: there is conflicting suggestions in the solution recommendation. E.g. firstly the bot mentioned to restart the service whereas it also required the customer to report the problem, attaching the information from the device e.g. location of the user.
+- user privacy guidelines
+- step-4: the same solution was adopted by another ministry. The KB was different in this case, but the same interface and P rules applied. Swapping of the context KB, the reuse and cost reduction was achieved using the framework.
+- strategy to reduce the overall cost.
+Demo: 
+Highlight the scenarios.
+Standards, policies, gaps. 
+Description of the use case 
+NOTE: explain how your solution is supposed to solve the gaps identified in the existing solutions. 
+Use case requirement
+Mapping with ITU-T Y.3172 Readiness 2.0 Report, and domain-specific policies
+Use case (e.g. smart classroom, education domain)
+Readiness 2.0 Report
+Documents (e.g. policies, strategies, AI innovative regulations)
+SRC
+Smart pens/stylus used by students, and a writing board used by the students
+Data and model marketplace
+Usability guidelines (how these devices can be used by children in schools), SOP (standard operating procedures provided by the schools or government departments)
+C
+An edge compute platform deployed in the school
+Edge AI usage
+Reliability, availability guidelines, regulations of edge platforms.
+PP
+In the device used by the student OR in the edge compute platform
+Data harmonization standardized representation format
+M
+Anomaly detection models, handwriting analysis models, image analysis or classification models.
+Source of data input, source of model, metadata
+Benchmarking standards, privacy guidelines, guardrails. 
+P
+Any inference from the model has to be reviewed by trained student counsellors before discussing with the parent/student.
+Trustworthiness of the model, 
+Strategy alignment with other universities, industries developing the AI solution
+Human-in-loop, 
+Overriding conditions.
+D
+An analytics platform hosted in the provider cloud
+Energy considerations
+SINK
+Smart application which is hosted on the mobile of the parent / teachers.
+Collaboration with AI, human in the loop
+NOTE: for each node in the ML pipeline, you are supposed to find relevant policy documents that could support the requirements listed in section 3. The readiness report mapping should not be limited to data/model handling, but also include other dimensions, e.g., strategy alignment (with other institutions/domains), interface design (inclusion of the AI solution, AI techniques such as edge AI models), and collaboration between AI and human.
+Error scenarios.
+Policy gaps and standards gaps derived from the mapping exercise

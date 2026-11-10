@@ -1,0 +1,3739 @@
+[[page 1]]
+Republic of Cameroon: Mapping of Legal and Policy Arrangements for Disaster Risk Management, including Public Health Emergencies and International Disaster 
+Assistance 
+The below information seeks to map the Disaster Risk Management (DRM) Legal and Policy Frameworks, including for Public Health Emergencies (PHEs) and international 
+disaster assistance in the Republic of Cameroon (Cameroon) as provided in law, policy and agreements. 
+The questions below comprise of a combination of the questions from the IFRC’s: 
+o 
+Checklist on the Facilitation and Regulation of International Disaster Relief and Initial Recovery Assistance; 
+o 
+the Checklist on Law and Disaster Risk Reduction; 
+o 
+the Checklist on Law and Disaster Preparedness and Response; 
+o 
+Pilot Guidance on the role of Law in PHEs; and 
+o 
+ongoing research on the role of law in disaster recovery. 
+ 
+This document is the result of a desktop review of information publicly available. This document was prepared by Candela Navarro Casquete, under the supervision of 
+Jeanique Serradinho and Stella Ngugi. The information is up to date as at March 2022. 
+Note: In general, it is difficult to locate and determine the currency of Cameroonian laws and policies online, and therefore this mapping may be incomplete. While every 
+effort was taken to ensure that the information contained herein is as accurate as possible, gaps or discrepancies may remain. IFRC Disaster Law would be grateful for any 
+feedback or corrections relating to the contents of this document. 
+1. Institutional Roles and Responsibilities 
+DRM Specific Legislation 
+ 
+Is the approach of the relevant DRM law well-tailored to your country’s natural hazards risk profile and disaster risk governance 
+capacity, and are principles and priorities that guide your country’s approach to preparedness and response; risk reduction and 
+recovery set out? 
+The Republic of Cameroon (Cameroon) is exposed to a variety of natural (geological, climatic, hydrological, and ecological), health 
+(epidemics, epizootics and food poisoning), and human-induced (technological and social) risks.1 In order to address these risks, 
+ 
+ 
+ 
+ 
+National Contingency Plan 2011 
+ 
+ 
+ 
+1 
+National Contingency Plan (PNC) 2011, 6-7.
+
+[[page 2]]
+2 
+Cameroon has several laws and policies which, together, comprise the framework for disaster risk management (DRM). As a 
+starting point, the Constitution of Cameroon establishes in article 9 that the President of Cameroon may, when circumstances so 
+require, proclaim by decree, a state of emergency which shall confer upon him special powers under the conditions laid down by 
+law, including to take all measures he deems necessary.2 Law n° 90/47, relating to the state of emergency, provides that a state of 
+emergency may be proclaimed throughout the national territory or in any part thereof in the event of, among others, an 
+occurrence which, by its nature and gravity, is considered a national disaster.3 
+ 
+However, the main legislative document for DRM in Cameroon appears to be Law n° 86/016, providing the general reorganization 
+of civil protection and revoking the previous law on civil protection, Law n° 73/12. As provided in article 1, civil protection consists 
+of ensuring the permanent protection of people, property and the environment against the risks of serious accidents, disasters or 
+catastrophes, as well as against the effects of these disasters.4 Civil Protection includes measures of prevention, protection and 
+organization of assistance.5 It is the responsibility of the President of Cameroon to define the general policy on Civil Protection.6 
+In exercising these prerogatives, the President of Cameroon is assisted by a National Council for Civil Protection (CNPC) whose 
+composition and powers are determined by decree.7 As per article 6, civil protection uses the personnel of the Public Services in 
+charge of conducting Civil Protection activities, the required persons, the recruits of the contingent and the volunteers.8 In terms 
+of resources and Civil Protection Organizations are mobilized by decree in the event of a warning of a state of emergency.9 
+ 
+The National Contingency Plan (PNC) 2011 sets out a framework for disaster prevention, intervention, and rehabilitation 
+mechanisms in the country.10 More specifically, it constitutes a general common framework intended to guide the action of 
+institutional partners, organizations, and other civil protection stakeholders. It describes the synergistic and coordinated responses 
+to crisis situations that risks can generate. 11 The intervention mechanism set out by the PNC describes the process to be 
+implemented to better manage a crisis. It revolves around information management, implementation of the emergency plan, 
+monitoring/evaluation and closure report.12 However, it does not appear to outline general principles guiding action DRM. 
+ 
+ 
+ 
+Constitution of Cameroon 
+ 
+ 
+Law 90/47, Relating to the State of 
+Emergency 
+ 
+ 
+Law 86/016, General Reorganization 
+on Civil Protection 
+ 
+ 
+Decree 96/054, National Council for 
+Civil Protection 
+ 
+ 
+ 
+ 
+2 
+Law n° 96/06, Constitution of the Republic of Cameroon, article 9. 
+3 
+Law n° 90/47, Relating to the state of emergency, section 1. 
+4 
+Law n° 86/016, General Reorganization of Civil Protection, article 1. 
+5 
+Law n° 86/016, article 1. 
+6 
+Law n° 86/016, article 2. 
+7 
+Law n° 86/016, article 3. 
+8 
+Law n° 86/016, article 6. 
+9 
+Law n° 86/016, article 7. 
+10 
+PNC 2011, Part II. 
+11 
+PNC 2011, page 3. 
+12 
+PNC 2011, page 26.
+
+[[page 3]]
+3 
+ 
+Are links to relevant sectoral legislation set out? 
+ 
+From the documents reviewed, the DRM framework in Cameroon does not appear to set out links to relevant legislation. 
+ 
+ 
+Are links with relevant climate change law/policies and institutions established? 
+ 
+From the documents reviewed, the DRM framework in Cameroon does not appear to set out link to relevant climate change laws, 
+policies or institutions. 
+ 
+ 
+What constitutes a “disaster” under the DRM Law? 
+ 
+The DRM framework does not appear to provide a definition for “disaster”. However, the PNC outlines the concept of risk, which 
+refers to events which we can, or should expect, but whose occurrence and intensity are often difficult to predict.13 Identification 
+is the essential step in planning the response to crisis situations that these risks may generate. It integrates: 
+ 
+• 
+the probability of occurrence; 
+• 
+the geographic regions at risk; 
+• 
+the human, health, economic, and environmental impacts.14 
+ 
+How does the definition sit with international standards? 
+ 
+In terms of international standards drawn from the United Nations Office for Disaster Risk Reduction (UNDRR), “disaster” is defined 
+as “a serious disruption of the functioning of a community or a society at any scale due to hazardous events interacting with 
+conditions of exposure, vulnerability and capacity, leading to one or more of the following: human, material, economic and 
+environmental losses and impacts”.15 As stated above, the law does not appear to define the term “disaster”. The closest defined 
+term is “risk”, which is defined as “the potential loss of life, injury, or destroyed or damaged assets which could occur to a system, 
+society or a community in a specific period of time, determined probabilistically as a function of hazard, exposure, vulnerability 
+ 
+ 
+National Contingency Plan 2011 
+ 
+ 
+ 
+ 
+13 
+PNC 2011, page 6. 
+14 
+PNC 2011, page 6. 
+15 
+UNDRR Terminology, [online glossary] Available in: https://www.undrr.org/terminology
+
+[[page 4]]
+4 
+and capacity”.16 Therefore, the definition of “risk” provided in the Cameroonian DRM framework has some elements of the 
+definition, but there are clear differences between the two concepts. 
+ 
+Who is mandated on different types of hazards – tech/oil spills? 
+ 
+Although the PNC identifies different types of hazards, it does not clearly outline who is mandated on each type of hazard. It states, 
+more generally, that the PNC actors are made up of all civil protection actors, including State services, decentralized territorial 
+authorities, public and semi-public bodies, international organizations and NGOs.17 
+ 
+Is there flexibility in the definition to allow to adapt changing circumstances / different hazards 
+(ie technological/ oil spill) 
+ 
+Although there does not appear to be a consolidated definition of “disaster” or “hazard” provided in the Cameroonian DRM 
+framework, the PNC identifies different hazards, thus allowing for adaptability to changing circumstances. 
+ 
+Roles and responsibilities 
+ 
+Do your laws establish clear roles and responsibilities for all aspects of DRM from national to local level? 
+ 
+Laws in Cameroon establish the institutional structure for DRM from national to local level. As provided in Decree n° 96/054, the 
+CNPC is an advisory body that assists the President of Cameroon in the exercise of his prerogatives in the field of civil protection.18 
+The CNPC proposes appropriate preventive measures to the President, and it coordinates the means implemented for civil 
+protection, in particular relief, rescue, logistics and the use of auxiliary forces and auxiliary corps.19 In order to fulfil its missions, 
+the CNPC is assisted by a Permanent Technical Committee, which is the executive body, provincial technical committees and 
+departmental technical committees.20 The decree provides that the composition and the attributions of the provincial technical 
+committees and of the departmental technical committees will be fixed, as necessary, by specific texts.21 
+ 
+ 
+ 
+ 
+Decree 96/054, National Council for 
+Civil Protection 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+16 
+UNDRR Terminology, [online glossary] Available in: https://www.undrr.org/terminology 
+17 
+PNC 2011, page 33. 
+18 
+Decree n° 96/054, National Council for Civil Protection, article 1. 
+19 
+Decree n° 96/054, article 4. 
+20 
+Decree n° 96/054, article 7. 
+21 
+Decree n° 96/054, article 7.
+
+[[page 5]]
+5 
+Furthermore, Decree n° 98/031 establishes the organization of emergency and rescue plans in case of disaster or major risk (ORSEC 
+Plans). Article 4 provides that, in the event of a disaster or major risk, the crisis committees meet automatically at the 
+departmental, provincial and national levels.22 The Crisis Committees are responsible in particular for: 
+ 
+• 
+coordinating public relief actions; 
+• 
+directing relief operations; 
+• 
+preparing the means of rescue; 
+• 
+bringing help to the scene of the disaster; 
+• 
+determining the aid and assistance needs of victims; 
+• 
+assessing the immediate and long-term effects of the phenomenon; and 
+• 
+managing all the human, material and financial resources released for the occasion by the public authorities, international 
+organizations, public or private and, in general, all donations and bequests.23 
+ 
+Decree 98/031, Organization of 
+Emergency and Rescue Plans 
+ 
+ 
+ 
+Is there a national inter-ministerial/multi-sectoral committee established and does it meet frequently enough to be effective? 
+ 
+As stated above, the CNPC is an advisory body that assists the President of Cameroon in the exercise of his prerogatives in the field 
+of civil protection. 24 The CNPC proposes appropriate preventive measures to the President, and it coordinates the means 
+implemented for civil protection, in particular relief, rescue, logistics and the use of auxiliary forces and auxiliary corps.25 The CNPC 
+is chaired by the Secretary General of the Presidency of the Republic or, as necessary, his representative, and it comprises the 
+following members: 
+ 
+• 
+the Secretary General of the Prime Minister's Services or his representative; 
+• 
+the Minister in charge of Territorial Administration or his representative; 
+• 
+the Minister in charge of Defense or his representative; 
+• 
+the Minister in charge of Public Health or his representative; 
+• 
+the Minister in charge of External Relations or his representative; 
+• 
+the Minister in charge of Finance or his representative; 
+• 
+the Minister in charge of Justice or his representative; 
+ 
+ 
+Decree 96/054, National Council for 
+Civil Protection 
+ 
+ 
+ 
+ 
+22 
+Decree n° 98/031, Organizing Emergency and Rescue Plans in Case of Disaster or Major Risk article 4. 
+23 
+Decree n° 98/031, article 5. 
+24 
+Decree n° 96/054, article 1. 
+25 
+Decree n° 96/054, article 4.
+
+[[page 6]]
+6 
+• 
+the Minister in charge of Communication or his representative; 
+• 
+the Minister in charge of Transport or his representative; 
+• 
+the Minister in charge of Social Affairs or his representative; 
+• 
+the Minister in charge of the Environment or his representative; 
+• 
+the Secretary of State for Internal Security or his representative; 
+• 
+the Director General of External Research or his representative; and 
+• 
+the National President of the Cameroonian Red Cross or his representative.26 
+The Chairman of the CNPC may invite any natural or legal person to take part in the work, because of his competence on the items 
+on the agenda. 27 As per article 6, the CNPC meets at least once a year when convened by its Chairman. However, in the event of 
+a calamity or declared disaster, it meets and sets itself up as a crisis unit with a view to coordinating at national level the activities 
+of civil protection organizations.28 
+ 
+How does this committee function in preparedness, response, DRR and recovery? 
+ 
+The CNPC is in charge of the implementation of the general policy of civil protection, in normal times as well as in times of crisis, 
+as defined by the President of Cameroon, and can make any useful suggestion in this matter.29 For the accomplishment of its 
+missions, the CNPC is tasked to: 
+ 
+• 
+make a detailed national assessment of the risks of natural and technological disasters, serious accidents and calamities; 
+• 
+continuously update the inventory of supplies, materials, means and personnel that can be mobilized in case of an 
+emergency situation; and 
+• 
+conduct general studies on civil protection measures in peacetime and wartime.30 
+ 
+ 
+ 
+ 
+26 
+Decree n° 96/054, article 2. 
+27 
+Decree n° 96/054, article 2. 
+28 
+Decree n° 96/054, article 6. 
+29 
+Decree n° 96/054, article 3. 
+30 
+Decree n° 96/054, article 4.
+
+[[page 7]]
+7 
+The CNPC also proposes to the President the preventive measures designed, and coordinates the means implemented for civil 
+protection, in particular relief, rescue, logistics and the use of auxiliary forces and auxiliary corps.31 Lastly, the CNPC adopts, after 
+approval by the President of the Republic, a national plan for intervention and organization of relief.32 
+ 
+Does the national committee include membership from key agencies outside government (humanitarian, development, private, 
+scientific etc)? 
+ 
+Apart from the presidency of the Cameroonian Red Cross (CRC), the CNPC does not appear to include permanent membership 
+from key agencies outside government such as humanitarian and development partners, scientific institutions, or the private 
+sector. However, as stated above, the Chairman of the CNPC may invite any natural or legal person to take part in the work, 
+because of his competence on the items on the agenda.33 
+ 
+ 
+ 
+ 
+Decree 96/054, National Council for 
+Civil Protection 
+ 
+Does the law establish linkages between scientific, meteorological and hydrological institutions and disaster management 
+agencies and how does this link with local community early warning systems? 
+ 
+Although the CNPC includes the membership of the Director General of External Research,34 from the documents reviewed, laws 
+and plans in Cameroon do not appear to set out clear links between meteorological and hydrological institutions and disaster 
+management agencies. 
+ 
+Presidential Order n° 037/PM establishes the creation, organization and functions of the National Risk Observatory (the 
+Observatory). the Observatory is an entity dedicated to collect, manage and disseminate information on natural, technological, 
+industrial and anthropic risks,35 and article 2 highlights that it serves as a framework for consultation and collaboration between 
+the various administrations concerned, public or private, national and international organizations involved in preventive risk 
+management.36 The link between the Observatory and the CNPC is not, however, set out. 
+ 
+ 
+ 
+ 
+Decree 96/054, National Council for 
+Civil Protection 
+ 
+ 
+Presidential Order 037/PM, National 
+Risk Observatory 
+ 
+ 
+ 
+ 
+ 
+31 
+Decree n° 96/054, article 4. 
+32 
+Decree n° 96/054, article 5. 
+33 
+Decree n° 96/054, article 2. 
+34 
+Decree n° 96/054, article 2. 
+35 
+Presidential Order n° 37/PM, National Risk Observatory, article 1. 
+36 
+Presidential Order n° 37/PM, article 2.
+
+[[page 8]]
+8 
+Has a national focal point agency for DRM with sufficient institutional authority to exercise effective leadership been assigned? 
+ 
+Decree 2005/104 establishes the organization of the Ministry of Territorial Administration and Decentralization (MINATD). The 
+central administration of MINATD is composed by various bodies, including a Civil Protection Directorate (DPC).37 Placed under 
+the authority of a Director, the DPC is responsible for: 
+ 
+• 
+the general organization of civil protection throughout the territory, in conjunction with the administrations concerned; 
+• 
+studies on civil protection measures in peacetime and wartime, in conjunction with the administrations concerned; 
+• 
+relations with national and international civil protection organizations; 
+• 
+preparing training courses for civil protection personnel, in conjunction with the Human Resources Department; 
+• 
+examining requests for compensation and financial aid from victims of calamities; 
+• 
+control of the use of aid; 
+• 
+the coordination of the means implemented for civil protection, in particular relief, rescue, logistics, the use of auxiliary 
+and auxiliary forces; 
+• 
+body transfers; and 
+• 
+monitoring of aid management.38 
+The DPC is composed of the Studies and Prevention Unit and the Coordination and Interventions Sub-Directorate.39 It is the 
+responsibility of the Coordination and Interventions Sub-Directorate to organize and coordinate the assistance, and to liaise with 
+national and international civil protection organizations.40 Therefore, from the above, the MINATD, through the Civil Protection 
+Directorate, would be the focal point for coordinating disaster intervention means in Cameroon. 
+ 
+ 
+ 
+Decree 2005/104, Organization of the 
+Ministry of Territorial Administration 
+and Decentralization 
+ 
+Apply the same questions above to subnational committees (inter-ministerial and cross sectorial committees, including 
+membership outside government). 
+ 
+ 
+ 
+ 
+Decree 98/031, Organization of 
+Emergency and Rescue Plans 
+ 
+ 
+ 
+37 
+Decree 2005/104, Organization of the Ministry of Territorial Administration and Decentralization, article 7. 
+38 
+Decree n° 2005/104, article 52. 
+39 
+Decree n° 2005/104, article 52. 
+40 
+Decree n° 2005/104, article 55.
+
+[[page 9]]
+9 
+As established in Decree n° 98/031, the Crisis Committees, which are established at departmental, provincial and national levels, 
+are responsible for, among other things, managing all the human, material and financial resources made available for the 
+circumstance by the public authorities, international, public or private organizations and, in general, all donations and legacies.41 
+ 
+The Crisis Committees at departmental and provincial level are composed by a mix staff, involving any natural or legal person by 
+virtue of their competence. 42 However, the law does not appear to outline the membership or provide further details with respect 
+to the Crisis Committees. 
+ 
+ 
+How do such committees coordinate with other committees/processes, both in terms of horizontal coordination (across 
+different committees at the same level), and vertical coordination (across committees at different levels of government)? 
+ 
+The documents reviewed for the purpose of this mapping do not appear to set out coordination processes among the different 
+national and subnational Crisis Committees. 
+ 
+However, Decree n° 98/031 provides in terms of article 12 that the President of the National Crisis Committee regularly reports 
+on the Committee's activities to the President of the Republic.43 He draws up a general report on the disaster or the major risk 
+explaining all the measures to be taken, immediately and in the long term, to curb the effects or prevent their occurrence. 44 In 
+particular, he assesses the public aid and assistance measures that may be necessary in favour of certain categories of victims, in 
+particular minor children and displaced persons. 45 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Decree 98/031, Organization of 
+Emergency and Rescue Plans 
+ 
+Are national /subnational institutions consistently assigned clear responsibilities and authorities to carry out their mandate? 
+ 
+Specific roles and responsibilities of DRM institutions at the national and sub-national levels have been outlined above. 
+ 
+ 
+Are roles and responsibilities between civilian and military actors for disaster response clearly articulated in law/ 
+regulation/policy? 
+ 
+ 
+ 
+ 
+ 
+41 
+Decree n° 98/031, article 5. 
+42 
+Decree n° 98/031, article 6. 
+43 
+Decree n° 98/031, article 12. 
+44 
+Decree n° 98/031, article 12. 
+45 
+Decree n° 98/031, article 12.
+
+[[page 10]]
+10 
+Limited information could be located online relating to the specific responsibilities of civilian and military actors in disaster 
+response. From the documents reviewed, laws and policies in Cameroon do not appear to contain provisions on these specific 
+actors. 
+ 
+Funding 
+ 
+How does the law allocate funding distribution between risk reduction, preparedness and response? 
+ 
+Limited information could be located online relating to DRM funding. From the documents reviewed, laws and policies in 
+Cameroon do not contain provisions that establish clear procedures for fund allocation and distribution between the different 
+phases of DRM. 
+ 
+ 
+ 
+Decree 96/054, National Council for 
+Civil Protection 
+ 
+Does the legislation establish mechanisms to ensure that dedicated funding would be available in the event of a disaster? 
+ 
+Decree n° 96/054 provides in article 9 that the resources of the CNPC come from the State budget, specific interventions of the 
+State, and donations. The CNPC may also appeal to the public generosity for resources under the conditions set by the laws and 
+regulations in force.46 
+ 
+Furthermore, Decree n° 98/031 establishes that the resources available to the National Crisis Committee to intervene in the event 
+of a disaster or major risk come from: 
+ 
+• 
+allocations entered annually in the State budget; 
+• 
+public subsidies; 
+• 
+public or private aid and contributions of any kind; and 
+• 
+donations and bequests of all kinds.47 
+Lastly, as stated above, the National Crisis Committee also has a special advance fund, created by the Minister in charge of finance 
+and supplied as needed.48 
+ 
+ 
+ 
+National Contingency Plan 2011 
+ 
+ 
+ 
+ 
+46 
+Decree n° 96/054, article 9. 
+47 
+Decree n° 98/031, article 8. 
+48 
+Decree n° 98/031, article 11.
+
+[[page 11]]
+11 
+The PNC also states that a national emergency fund will be set up to respond quickly to the needs of the emergency response 
+phase.49 It further provides that procedures for requisitioning material and logistical resources, as well as for mobilizing resources 
+from partners will be put in place and disseminated.50 However, such procedures do not appear to be outlined in the DRM 
+framework. 
+ 
+Are financial reserves and/or insurance coverage in place? 
+ 
+Limited information could be located online relating to financial reserves for DRM. From the documents reviewed, laws and 
+policies in Cameroon do not appear to contain provisions that establish financial reserves and insurance coverage mechanisms 
+related to DRM. 
+ 
+Does the law set mechanisms for funding for early action based on forecasts (not impact)? 
+The National Crisis Committee has a special advance fund, created by the Minister in charge of finance and supplied as needed.51 
+Although this fund could potentially finance early action, there is little information available online on funding for early action and, 
+from the documents reviewed, the law does not appear to establish mechanisms for such funding. 
+ 
+ 
+ 
+Decree 98/031, Organization of 
+Emergency and Rescue Plans 
+ 
+Are resources allocated to enable sub-national authorities and civil society/communities to fulfil their responsibilities? 
+ 
+The National Crisis Committee is responsible for establishing an intervention plan accompanied by a project budget which is 
+enforceable upon approval by the President of Cameroon. The President of the National Crisis Committee allocates the necessary 
+resources at the local level, depending on the nature and extent of the disaster or major risk.52 The President of the National Crisis 
+Committee is the budget authorizing officer,53and the funds intended for interventions in the event of disaster or major risk are 
+paid into an account opened with an approved banking establishment.54 
+ 
+ 
+ 
+Decree 96/054, National Council for 
+Civil Protection 
+ 
+ 
+Decree 98/031, Organization of 
+Emergency and Rescue Plans 
+ 
+ 
+Are funding mechanisms for recovery mandated? 
+ 
+ 
+ 
+ 
+49 
+PNC 2011, page 28. 
+50 
+PNC 2011, page 28. 
+51 
+Decree n° 98/031, article 11. 
+52 
+Decree n° 98/031, article 9. 
+53 
+Decree n° 98/031, article 10. 
+54 
+Decree n° 98/031, article 11.
+
+[[page 12]]
+12 
+ 
+From the documents reviewed, laws and policies do not appear to specify whether funding mechanisms for recovery are mandated 
+in Cameroon. 
+ 
+2. Disaster Risk Reduction 
+Do your country’s relevant sectoral laws include provisions to reduce existing risks and prevent the creation of new risks? 
+ 
+Various sectoral laws and policies which contain provisions related to DRR have been found. These documents include mainly 
+environmental management laws, urban planning and infrastructure laws, and national adaptation plans. Although these 
+documents provide mechanisms for building resilience against the effects of climate change, there are no clear links made within 
+them to DRM specific laws/policies. Some sectoral laws will be presented in further detail below. 
+ 
+ 
+Are there provisions related to DRR in the DRM Law? 
+ 
+There are provisions on DRR in the DRM law, but they are very broadly stated. As stated above, Law n° 86/016 provides that Civil 
+Protection entails permanently ensuring the protection of people, property and the environment against the risks of serious 
+accidents, calamities or catastrophes, as well as against the effects of such disasters. Therefore, Civil Protection includes DRR 
+measures.55 
+ 
+However, from the documents reviewed, laws and policies in Cameroon do not appear to contain further provisions related to 
+DRR. 
+ 
+ 
+ 
+Law 86/016, General Reorganization 
+on Civil Protection 
+ 
+Is there duplication or conflicting provisions between laws on DRR? 
+ 
+From the information accessible online, laws and policies in Cameroon relating to DRR do not appear to conflict. 
+ 
+ 
+Environment 
+Are natural hazards and climate change risks addressed in laws related to the environment? 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+55 
+Law n° 86/016, article 1.
+
+[[page 13]]
+13 
+Law n° 96/12 establishes the framework related to environmental management. Article 70 is relevant to the prevention of natural 
+hazards, stating that a national map and surveillance plans for high-risk areas are drawn up at the initiative of each competent 
+Administration, in accordance with the other Administrations concerned, and under the coordination of the Administration 
+responsible for the environment, in particular areas with volcanic and/or seismic activity, areas prone to flooding, areas at risk of 
+landslides, areas at risk of marine and atmospheric pollution, areas with drought and desertification, as well as areas of magmatophreatic eruption.56 
+ 
+ 
+ 
+Law n° 96/12, Framework Law on 
+environmental management 
+ 
+Is DRR a criterion included in EIA for planned development? 
+ 
+A number of laws relevant to EIAs have been located. As a starting point, Decree n° 2013/0171 sets up the terms for carrying out 
+environmental and social impact studies. Article 7 states that any promoter of a project, establishment, program, or policy is 
+required to carry out an environmental and social impact study, an environmental impact notice or a strategic environmental 
+assessment, under penalty of sanctions, provided for by the laws and regulations in force.57 Decree n° 2013/0171 establishes 
+procedures for conducting environmental and social impact studies, as well as for the monitoring and surveillance of such studies 
+to ensure their adequate implementation, and legal sanctions in case of non-compliance. However, DRR does not appear to be 
+included as a specific element in EIAs. 
+ 
+In addition, Law n° 96/12 provides in article 40 that urban planning and public or private subdivision plans take into account the 
+imperatives of environmental protection in the choice of the sites planned for the zones of economic, residential and leisure 
+activities. These plans must, prior to their application, obtain the obligatory opinion of the Administration in charge of the 
+environment. 58 Furthermore, building permits are issued taking due account of the presence of classified establishments and 
+their impact on the environment, and may be refused or subject to special requirements jointly developed by the Administrations 
+responsible for the environment and town planning, if the planned constructions are likely to have harmful consequences for the 
+environment. 59 
+ 
+In addition, article 17 establishes that the promoter or contracting authority of any development, work, equipment or installation 
+project which risks, because of its size, nature or the impact of the activities planned therein on the natural environment, to harm 
+the environment is required to carry out, according to the requirements of the specifications, an impact study to assess the direct 
+ 
+Decree n° 2013/0171 establishing 
+the terms environmental and social 
+impact studies 
+ 
+ 
+ 
+ 
+Law n° 96/12, Framework Law on 
+environmental management 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+56 
+Law n° 96/12, Framework Law on Environmental Management, article 70. 
+57 
+Decree n° 2013/0171, article 7. 
+58 
+Law n° 96/12, article 40. 
+59 
+Law n° 96/12, article 41.
+
+[[page 14]]
+14 
+or indirect effects of the project on the ecological balance of the area of implantation or any other region, the framework and 
+quality of life of the populations and the impact on the environment in general.60 
+ 
+Law n° 2004/003 establishes the Urban Planning Code, which provides in article 10 that urban planning studies must integrate 
+environmental impact studies prescribed by legislation on environmental management.61 
+ 
+However, the documents available for review do not explicitly set DRR as a criterion for planned development, although a 
+presentation of measures to reduce or prevent negative impacts on the environment appears to be required. 
+ 
+ 
+ 
+Law n° 2004/003, Urban Planning 
+Code 
+ 
+Are eco- systems approaches to DRR adopted? 
+ 
+Although Law n° 96/12 contains provisions for the management of natural resources and the protection and the preservation of 
+ecosystems and biodiversity, 62 explicit provisions on eco-systems approaches to DRR could not be found. DRM related legislation 
+also does not appear to explicitly set out eco-systems approaches. 
+ 
+ 
+ 
+Law n° 96/12, Framework Law on 
+environmental management 
+ 
+Natural Resource Management and Fire Control 
+Are there provisions aimed at reducing the risk of water related hazards? 
+ 
+ 
+The PNC identifies flooding as one of the main hydrological risks faced in the country, mainly caused by heavy rainfall, dam bursts 
+or tsunamis, among other things.63 The influencing factors are topography, duration and intensity of rainfall, water status and 
+degree of soil impermeability, density of plant cover, agricultural practices, congestion of stream beds.64 The health impact of such 
+hazards involves drownings, epidemics and outbreaks of waterborne diseases due to difficulties in accessing drinking water, 
+malnutrition in the medium term.65 The economic impact is caused by the destruction of plantations and homes, access roads, 
+ 
+ 
+ 
+ 
+ 
+ 
+National Contingency Plan 2011 
+ 
+ 
+ 
+ 
+ 
+ 
+60 
+Law n° 96/12, article 17. 
+61 
+Law n° 2004/003, Urban Planning Code, article 10. 
+62 
+Law n° 96/12, chapter V. 
+63 
+PNC 2011, page 12. 
+64 
+PNC 2011, page 12. 
+65 
+PNC 2011, page 13.
+
+[[page 15]]
+15 
+engineering structures (bridges, breaches of dams or dykes), disruption of urban traffic, malfunctioning of services (water, 
+telecommunications, electricity).66 
+ 
+As stated above, Law n° 96/12 establishes the framework related to environmental management. Article 70 is relevant to the 
+prevention of natural hazards, stating that a national map and surveillance plans for high-risk areas are drawn up at the initiative 
+of each competent Administration, in accordance with the other Administrations concerned, and under the coordination of the 
+Administration responsible for the environment, in particular areas prone to flooding, areas at risk of landslides, drought and 
+desertification.67 
+ 
+Furthermore, Law n° 96/12 contains in section II provisions relating to the protection of continental waters and floodplains. 68 The 
+administration responsible for the management of water resources, article 26 states, draws up an inventory establishing the 
+degree of pollution of inland waters, according to physical, chemical, biological and bacteriological criteria. This inventory is revised 
+periodically or whenever exceptional pollution affects the state of these waters.69 As per article 27, flood plains are subject to 
+special protection taking into account their role and their importance in the conservation of biological diversity.70 
+ 
+ 
+ 
+ 
+Law n° 96/12, Framework Law on 
+environmental management 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Is forest or urban fire prevention and management linked with DRM laws and institutions? 
+ 
+From the documents reviewed in forest/urban fire prevention and management, including Law n° 94/01 which establishes the 
+regime regulating forests, fauna and fishing, laws in Cameroon do not appear to contain any links with DRM laws and institutions. 
+ 
+However, the PNC identifies urban fires as one of the main technological risks in Cameroon. The PNC states that these are violent 
+fires, often accidentally caused, that consume one or more buildings in an urban environment.71 Their main causes can be, for 
+instance, clandestine and anarchic electrical connections (line overload); voltage variations on the conventional electricity 
+network; use of palliative means during untimely cuts of electricity (candles, hurricane lamps); incorrect handling of flammable 
+products; or improper use of cooking and heating appliances. 72 As a result, these fires can have an impact on human health (direct 
+ 
+ 
+Law n° 94/01, Regulating forests, 
+fauna and fishing 
+ 
+ 
+National Contingency Plan 2011 
+ 
+ 
+ 
+ 
+66 
+PNC 2011, page 13. 
+67 
+Law n° 96/12, article 70. 
+68 
+Law n° 96/12, section II. 
+69 
+Law n° 96/12, article 26. 
+70 
+Law n° 96/12, article 27. 
+71 
+PNC 2011, page 18. 
+72 
+PNC 2011, page 18.
+
+[[page 16]]
+16 
+injuries or respiratory problems due to its toxicity), on the environment (pollution and destruction of the ecosystems), and on the 
+economy (material and financial losses, infrastructure degradation and destruction of buildings).73 
+ 
+The PNC outlines specific actions to be carried out, the main actors to be mobilized and their responsibilities, the means existing 
+at different levels and the resources to be acquired, if necessary, for three major stages: 74 the preparation of emergency 
+preparedness plans for preparedness or prevention for shocks, intervention or response to crises, and post-crisis rehabilitation. 
+All these essential measures are organized according to the different risks posed by fires.75 
+ 
+Land Use Planning and Urban Development and Building 
+Is coordination with DRM institutions and mechanisms promoted? 
+ 
+The National Climate Change Adaptation Plan of 2015 (PNACC) provides a framework for action and adaptation to the changing 
+climatic conditions in the country and sets out 20 different transversal or sectoral projects for climate change adaptation (CCA). 
+Project n° 7 is focused on improving the adaptation of codes and standards for the construction of infrastructure resilient to the 
+effects of climate change.76 
+ 
+The PNC highlights that infrastructure factors that pose a risk include bad condition of communication routes (roads, rail, bridges), 
+faulty navigation systems, construction faults, and poor infrastructure design.77 Although the PNCs Axis 3 is focused on activities 
+linked to recovery, including infrastructure rehabilitation, it does not appear to establish specific coordination mechanisms with 
+land use planning. 
+ 
+From the documents reviewed, DRM laws and strategies in Cameroon, and the Urban Planning Code do not appear to provide 
+specific mechanisms for coordination between DRM institutions and building, construction and land planning actors. 
+ 
+ 
+ 
+National Climate Change Adaptation 
+Plan 2015 
+ 
+ 
+ 
+ 
+National Contingency Plan 2011 
+Are building codes and land use planning regulations updated and priority given to critical infrastructure such as schools, 
+hospitals and other public buildings? 
+ 
+Article 9 of the Urban Planning Code establishes the following: 
+ 
+ 
+ 
+ 
+ 
+ 
+73 
+PNC 2011, page 19. 
+74 
+PNC 2011, page 19. 
+75 
+PNC 2011, page 19. 
+76 
+National Climate Change Adaptation Plan (PNACC) 2015, page 93. 
+77 
+PNC 2011, page 17.
+
+[[page 17]]
+17 
+ 
+1. land exposed to a natural risk (flood, erosion, landslide, earthquake, etc.) is unbuildable, except for special prescriptions; 
+parts of the public domain classified as such, and ecologically protected areas as defined by legislation on environmental 
+management; and 
+2. land exposed to an industrial risk or to serious nuisance (industrial pollution, noise, etc.) and those liable to harm public 
+health or local cultural values are unsuitable for habitat. 
+The areas in which these lands are located are specified in the urban planning documents or, failing that, by a municipal decree, 
+and the protection measures, as well as the security perimeters to be taken into account in the preparation of urban planning 
+documents, are specified by the competent administrations, in particular those in charge of mines, defence, the environment, 
+tourism and areas.78 
+ 
+As per article 31, municipalities or groups of municipalities carry out studies for the preparation of urban planning documents 
+under the responsibility of a town planner registered on the roll of the National Order of Town Planners.79 However, as needed, 
+the local town planning services or those responsible for urban issues, as the case may be, may be made available to the competent 
+municipalities or groups of municipalities to draw up, modify or revise urban planning documents.80 It does not appear to be clearly 
+specified how often these documents must be revised and/or updated. 
+ 
+As stated above, one of the projects set out by the PNACC aims at adapting the construction of infrastructure to the effects of 
+climate change. More specifically, the objectives of the project involves developing a harmonized methodology to carry out 
+diagnostics of infrastructure vulnerability to climate change; modifying technical standards and construction engineering by 
+adapting them to the context of climate change; strengthening the capacities in the quality control of construction materials, 
+whether imported or produced locally; and strengthening control and monitoring systems for the execution of construction 
+works.81 The project does not appear to prioritize specific public infrastructure such as schools or hospitals. 
+ 
+ 
+Law n° 2004/003, Urban Planning 
+Code 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+National Climate Change Adaptation 
+Plan 2015 
+ 
+Are incentives / legal sanctions established, where appropriate, in cases of non-compliance leading to unsafe buildings or 
+developments? 
+ 
+ 
+ 
+ 
+ 
+78 
+Law n° 2004/003, article 9. 
+79 
+Law n° 2004/003, article 31. 
+80 
+Law n° 2004/003, article 31. 
+81 
+PNACC 2015, page 106.
+
+[[page 18]]
+18 
+ 
+Article 124 of the Urban Planning Code establishes that non-compliance with the urban planning documents in force or the 
+General Urban Planning and Construction Rules is an offence in Cameroon. 
+ 
+ 
+Law n° 2004/003, Urban Planning 
+Code 
+ 
+Climate Change 
+Are links between NAPs and other climate related processes made with DRM framework? 
+ 
+DRM laws in Cameroon do not appear to contain any provisions creating links with NAPS or CCA processes. 
+ 
+However, Project n° 2 set out by the PNACC aims to update the National Contingency Plan in Cameroon and operationalization of 
+the emergency fund. Therefore, the objective of this project is to strengthen the intervention plan around the Directorate of Civil 
+Protection of MINADT to build resilience against the effects of climate change.82 
+ 
+ 
+ 
+ 
+National Climate Change Adaptation 
+Plan 2015 
+ 
+Are DRM national laws including elements relating to climate change adaptation? 
+ 
+From the documents available for review, DRM laws in Cameroon do not mention CCA. 
+ 
+ 
+Are DRM national laws formally endowing high-level governmental authorities and/or territorial administrations with the duty 
+to harmonize implementing activities and promote climate change adaptation-DRR coordination, policies and plans? 
+ 
+As stated above, DRM-related laws in Cameroon do not appear to establish links with CCA processes, coordination mechanisms, 
+or to specify whether there are governmental and territorial administrations charged with the duty of promoting information 
+sharing or coordination between DRR and CCA efforts. 
+ 
+The law makes provision for the development of ORSEC plans, which are essentially emergency and rescue plans, defined as the 
+is the set of rapid response measures that must be taken to deal with disasters or major risks occurring throughout the territory.83 
+In the event of a disaster or major risk, ORSEC plans are triggered by: the Prefect at the department level; the Governor at the 
+provincial level; and the Secretary General of the Presidency of the Republic at the national level.84 In response to the activation 
+ 
+ 
+ 
+National Climate Change Adaptation 
+Plan 2015 
+ 
+ 
+ 
+Decree 98/031, Organization of 
+Emergency and Rescue Plans 
+ 
+ 
+ 
+82 
+PNACC 2015, page 98. 
+83 
+Decree n° 98/031, article 2. 
+84 
+Decree n° 98/031, article 3.
+
+[[page 19]]
+19 
+of ORSEC plans, the inter-ministerial and inter-sectoral Crisis Committees meet at the department, the provincial and the national 
+level.85 These plans may be an opportunity to integrate climate change aspects into DRM processes. However, the PNACC 
+recognizes that the lack of integration of climate aspects into the ORSEC plans increases the country's vulnerability to climate 
+change.86 
+ 
+The PNACC recognizes that an appropriate and operational institutional framework in Cameroon is necessary for its effective 
+implementation.87 Within the Government, the Ministry of the Environment, Nature Protection and Sustainable Development 
+(MINEPDED) provides leadership of the process as the Political and Operational Focal Point of the United Nations Framework 
+Convention on Climate Change (UNFCCC).88 The MINEPDED works in close collaboration with the Prime Minister, the National 
+Assembly and other sectoral ministries so that adaptation is part of the country's development strategy.89 The institutional 
+structure for the implementation of the PNACC in Cameroon consists of a decision-making body at the national level (the steering 
+committee) and an operational body (the PNACC National Coordination). 90 The PNACC National Coordination ensures the 
+implementation of the PNACC through its branches at regional and departmental levels. 91 
+ 
+ 
+ 
+Are DRM national laws favouring complementarity between financial instruments relating to any thematic issue with some 
+relevance for DRM and climate adaptation? 
+ 
+ 
+The PNACC points out that disaster interventions are faced with a lack of appropriate financial, material and logistical resources, 
+and that during climatic disasters, the sprinkling of resources and actions severely limits the country's ability to absorb climatic 
+hazards.92 Although the PNACC emphasizes the relevance of improving the management of emergency funds, the documents 
+available for review do not appear to clearly establish complementarity between financial instruments for DRR and CCA. 
+ 
+ 
+ 
+ 
+National Climate Change Adaptation 
+Plan 2015 
+ 
+ 
+ 
+ 
+85 
+Decree n° 98/031, article 3. 
+86 
+PNACC 2015, page 98. 
+87 
+PNACC 2015, page 86. 
+88 
+PNACC 2015, page 86. 
+89 
+PNACC 2015, page 86. 
+90 
+PNACC 2015, page 86. 
+91 
+PNACC 2015, page 86. 
+92 
+PNACC 2015, page 98.
+
+[[page 20]]
+20 
+Furthermore, the PNACC highlights that the Government of Cameroon counts on the dynamics of its international and regional 
+cooperation to obtain multilateral and bilateral funding for the implementation of the plan.93 Although the PNACC focuses on 
+activities for prevention and mitigation of the effects of climate change, rather than on disaster response operations, it reflects 
+the relevance of international actors during the disaster prevention and preparedness phases. 
+ 
+Are DRM national laws creating or tasking specific advisory bodies with climate change adaptation competence supporting the 
+work of DRR national committees or authorities? 
+ 
+DRM laws in Cameroon do not appear to outline roles and responsibilities of climate change actors in support to DRR actors. 
+ 
+ 
+Are sectoral laws and policies with relevance for DRR/M favouring institutional and cross-sectoral coordination with 
+institutions, agencies and stakeholders responsible for climate change? 
+ 
+The SND30 highlights that the resurgence of humanitarian crises and natural and industrial disasters requires the strengthening of 
+the civil protection system. Thus, the Government intends to, among other things, strengthen the mechanism for coordination 
+and management of crises and disasters at the national, regional and local levels.94 However, the SND30 does not explicitly set out 
+coordination mechanisms with climate change actors. 
+ 
+Although not directly related to institutional coordination among DRM and climate change actors, Decree n° 2009/410 establishes 
+the National Climate Change Observatory (ONACC). The ONACC is a public institution, placed under the technical authority of the 
+Ministry responsible for the environment,95 with the following missions: 
+ 
+• 
+to establish relevant climate indicators for monitoring the environmental policy; 
+• 
+to carry out prospective analysis aimed at proposing a vision of the evolution of the climate in the short, medium and 
+long terms; 
+• 
+to follow the evolution of the climate, to provide meteorological and climatic data to all the sectors of human activity 
+concerned and to draw up the annual climatic assessment of Cameroon; 
+• 
+to initiate and promote studies on the identification of indicators, impacts and risks related to climate change; 
+ 
+ 
+ 
+National Development Strategy 
+2020-2030 
+ 
+ 
+Decree n° 2009/410, National 
+Climate Change Observatory 
+ 
+ 
+ 
+ 
+ 
+ 
+93 
+PNACC 2015, page 93. 
+94 
+National Development Strategy 2020-2030 (SND30), page 96. 
+95 
+Decree n° 2009/410, National Climate Change Observatory, article 3.
+
+[[page 21]]
+21 
+• 
+to collect, analyze and make available to public and private decision-makers as well as various national and international 
+organizations, reference information on climate change in Cameroon; 
+• 
+to initiate any awareness-raising and preventive information action on climate change; 
+• 
+to serve as an operational instrument within the framework of other greenhouse gas reduction activities; 
+• 
+to propose to the government preventive measures to reduce greenhouse gas emissions, as well as measures to mitigate 
+and/or adapt to the adverse effects and risks associated with climate change; 
+• 
+to serve as an instrument of cooperation with other regional or international observatories operating in the climate 
+sector; 
+• 
+to facilitate the obtaining of compensation due to the services provided to the climate by forests through the 
+development, conservation and restoration of ecosystems; and 
+• 
+to build the capacities of the institutions and organizations responsible for collecting data on climate change, so as to 
+create, at the national level, a reliable network for the collection and transmission of said data.96 
+ 
+Are laws and policies with relevance for DRR/M built on available science and practice on both present and future climate risk 
+trends and patterns (i.e. climate-smart)? 
+ 
+The PNC highlights the importance of managing lessons learned from each disaster in order to prevent future risks97 and climate 
+risks appear to be one of the central risks identified in the PNC. 
+ 
+In addition , the PNACC is a national strategy document that aims to support the government and stakeholders in their approach 
+to adapting to climate change.98 For the development of the PNACC, basic studies drawn up by multidisciplinary teams of experts 
+were carried out and then used, as well as the most relevant and current scientific documents in the country.99 Based on this 
+knowledge, consultation workshops were conducted in the five agro-ecological zones of the country following a "bottom up" 
+approach, making it possible to collect relevant and specific data and recommendations to be taken into account in the drafting 
+of the PNACC.100 The various proposals resulting from these workshops were the subject of a systematic analysis and summary 
+aiming to retain only the measures that are sustainable, relevant and in accordance with international agreements and texts on 
+ 
+ 
+ 
+National Contingency Plan 2011 
+ 
+ 
+ 
+National Climate Change Adaptation 
+Plan 2015 
+ 
+ 
+ 
+ 
+96 
+Decree n° 2009/410, article 4. 
+97 
+PNC 2011, page 24. 
+98 
+PNACC 2015, page 13. 
+99 
+PNACC 2015, page 14. 
+100 
+PNACC 2015, page 14.
+
+[[page 22]]
+22 
+adaptation to climate change. 101 Both the development process and the drafting of the document were carried out by a 
+multidisciplinary team of experts.102 
+ 
+In terms of future risk trends, the PNACC addresses the following: 
+ 
+- 
+future precipitation: a drier climate in the North and hotter and wetter in the South, with, however, high variability over 
+the whole of Cameroon; 
+- 
+future temperatures, the scenarios predict a warmer climate throughout the country but particularly in the North; 
+- 
+future extreme events, climate projections in Cameroon show an increase in the frequency and amplitude of droughts, 
+erosion, flooding, rainfall and landslides.; and 
+- 
+sea level rise: the projections give a rise between 9 to 38 cm in 2050 and 86 cm in 2100.103 
+ 
+Are national DRR strategies and planning activities considering climate change adaptation perspectives, especially in terms of 
+infrastructure and human settlements, and the development of a methodology to identify risks drivers which consider climate 
+change patterns? 
+ 
+DRM related laws and plans in Cameroon do not appear to clearly include CCA perspectives Decree n° 96/054 and Decree n° 
+98/031 only appear to establish the institutional framework for civil protection and for the organisation of emergency and rescue 
+plans. The PNC also does not include CCA perspectives. 
+ 
+ 
+Disaster Risk Assessments 
+Do your country’s laws establish clear procedures and responsibilities for conducting risk assessments and ensuring that risk 
+information is considered in development processes? 
+ 
+Limited information on disaster risk assessments could be located online. Decree n° 96/054 establishes in article 4 that, for the 
+accomplishment of its missions, the CNPC is responsible for, among others, conducting a detailed national risk assessment of 
+natural and technological disasters, serious accidents and calamities.104 However, the law does not appear to clearly set out 
+procedures for conducting risk assessments. 
+ 
+ 
+ 
+Decree 96/054, National Council for 
+Civil Protection 
+ 
+ 
+ 
+ 
+101 
+PNACC 2015, page 14. 
+102 
+PNACC 2015, page 14. 
+103 
+PNACC 2015, page 15. 
+104 
+Decree n° 96/054, article 4.
+
+[[page 23]]
+23 
+ 
+Are regular hazard and vulnerability mapping and risk assessments required, including both disaster and climate risks and are 
+these tasks clearly assigned to appropriate authorities? 
+ 
+As stated above, hazard and risk assessments are clearly tasked to the CNPC. However, it is not clearly stated whether such 
+assessments are “required” by law or how often they should be conducted. 
+ 
+ 
+Are at risk communities, civil society as well as private sector involved in the risk assessment process and informed of the 
+outcomes? 
+ 
+Limited information could be located online relating to the involvement of civil society and private sector actors in risk assessment 
+processes. From the documents reviewed, laws and policies in Cameroon do not appear to contain provisions on risk assessments 
+conducted by civil society/private sector, or about information-sharing on risks and vulnerabilities with such actors. 
+ 
+ 
+Do laws/regulations require sex and age disaggregated data (SADD) to be collected to inform risk and needs assessment? 
+ 
+As stated above, no clear procedures or methodologies for undertaking hazard, vulnerability and risk assessments are provided. 
+Therefore, limited information could be located online relating to the collection of SADD. From the documents reviewed, laws and 
+policies in Cameroon do not appear to contain provisions on the collection of SADD (or any other type of data) to inform risk and 
+needs assessment processes. 
+ 
+ 
+Is it mandatory to consider risk information in development planning, budgetary allocation and construction? 
+ 
+As stated above, the Urban Planning Code provides in article 9 establishes the following provisions: 
+ 
+1. land exposed to a natural risk (flood, erosion, landslide, earthquake, etc.) is unbuildable, except with special prescriptions; 
+and 
+2. land exposed to an industrial risk or to serious nuisance (industrial pollution, noise, etc.) and those liable to harm public 
+health or local cultural values is unsuitable for habitat. 
+The areas in which these lands are located are specified in the urban planning documents or, failing that, by a municipal decree. 
+The protection measures, as well as the security perimeters to be taken into account in the preparation of urban planning 
+ 
+ 
+ 
+Law n° 2004/003, Urban Planning 
+Code
+
+[[page 24]]
+24 
+documents, are specified by the competent administrations, in particular those in charge of mines, defence, the environment, 
+tourism and areas.105 
+ 
+No further information on this point could be located. 
+ 
+3. Preparedness and Response 
+Early Warning Systems (EWS) 
+Check laws and regulations on: DRM 
+/emergency response/civil defence / 
+disaster management and response 
+plans / contingency plans and 
+climate change 
+Are responsibilities for all steps of the early warning process from assessing the hazard, to making decisions to issue warnings, 
+to initiating early action, clearly assigned in law? 
+ 
+Limited information relating to early warning systems could be located online. From the documents available for review, laws in 
+Cameroon do not appear to define roles and responsibilities for all steps of the early warning process, from assessing the hazard 
+to decision-making and early action. The laws reviewed establish civil protection bodies and do not appear to contain specific 
+provisions for each phase of the early warning phase, or for the rest of the DRM phases for that matter (including preparedness, 
+response and recovery). 
+ 
+Nevertheless, the PNC highlights the role of the National Risk Observatory (ONR) as a forward-looking risk management tool whose 
+mission involves the collection of all information relating to natural, sanitary and anthropic risks; the analysis, processing and 
+dissemination of information relating to said risks; the exchange of information between the various stakeholders; decentralization 
+through the creation of peripheral sentinel sites for collecting information and monitoring indicators; the provisions of preventive 
+measures; the management of lessons learned from each disaster in order to prevent future risks; and the publication of an 
+economic risk bulletin.106 In addition, the axes of the information management strategy established in the PNC comprise the 
+distribution of information to the population, the activation of the alert system, and the diffusion of the alert done by 
+administrative authorities and the DPC.107 No further details on the alert system are provided. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+National Contingency Plan 2011 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+105 
+Law n° 2004/003, article 9. 
+106 
+PNC 2011, page 22-23. 
+107 
+PNC 2011, page 26.
+
+[[page 25]]
+25 
+ 
+In addition, Decree n° 051/PM establishes the Public Health Emergency Operations Coordination Center (CCOUSP) as a body for 
+coordinating response operations to public health emergencies (PHEs), serving as a framework for consultation between the 
+various national and international actors involved in the management of PHEs and the coordination of related interventions.108 
+The CCOUSP operates in three modes: standby, alert mode and activation or response mode.109 Standby mode is a latent situation 
+or the centre's operating at minimum, outside of any PHE.110 The alert mode consists of the preparation by the Coordinator of the 
+Center of the necessary elements to submit to the appreciation of the Minister in charge of public health, with a view to triggering 
+by the latter, the alert on an imminent PHE.111 The activation mode consists of the implementation of response mechanisms to a 
+PHE by a decision of the Minister responsible for public health.112 
+ 
+Decree n° 051/PM, establishing the 
+Public Health Emergency Operations 
+Coordination Center 
+ 
+ 
+Are roles for technical ministries as well as communities, local authorities, scientific institutions, private media companies and 
+civil society organizations in early warning systems set out? 
+ 
+Presidential Order n° 037/PM establishes the creation, organization and functions of the ONR. The ONR is an entity dedicated to 
+collect, manage and disseminate information on natural, technological, industrial and anthropic risks,113 and article 2 highlights 
+that it serves as a framework for consultation and collaboration between the various administrations concerned, public or private, 
+national and international organizations involved in preventive risk management.114 
+ 
+Furthermore, Project n° 1 of the PNACC aims to establish an observation, information management and warning system on climate 
+risks in Cameroon. 115 The action pilot for this project is the Ministry of Transport (MINTRANSPORT), responsible for the 
+establishment of an observation system, the MINATD who is responsible for the alert, and the MINEPDED, responsible for 
+information management.116 Some relevant partners for the implementation of this project are the private sector, other sector 
+ 
+ 
+ 
+Presidential Order 037/PM, National 
+Risk Observatory 
+ 
+ 
+National Climate Change Adaptation 
+Plan 2015 
+ 
+ 
+ 
+ 
+ 
+108 
+Decree n° 051/PM, establishing the Public Health Emergency Operations Coordination Center, article 2. 
+109 
+Decree n° 051/PM, article 9. 
+110 
+Decree n° 051/PM, article 10. 
+111 
+Decree n° 051/PM, article 11. 
+112 
+Decree n° 051/PM, article 12. 
+113 
+Presidential Order n° 37/PM, National Risk Observatory, article 1. 
+114 
+Presidential Order n° 37/PM, article 2. 
+115 
+PNACC 2015, page 96. 
+116 
+PNACC 2015, page 96.
+
+[[page 26]]
+26 
+ministries, urban communities and the media.117 However, it is not clear whether this project has taken place or is currently being 
+implemented. 
+ 
+Are EWS established for the most frequent and serious hazards? 
+ 
+As stated above, limited information could be located online relating to early warning systems (EWS). 
+ 
+ 
+Information Sharing 
+Check laws and regulations on: DRM 
+/emergency response/civil defence / 
+disaster management and response 
+plans / contingency plans and 
+climate change 
+Are there procedures in place to facilitate the expeditious sharing of information about disasters, including emerging hazards 
+that are likely to cause disasters, with communities, relief actors and assisting humanitarian organizations as appropriate? 
+ 
+The PNC outlines that, in terms of information management, the guiding principles are: 
+ 
+• 
+information sharing by PNC actors is mandatory; 
+• 
+the strategy of advocacy and communication towards the local and international media is common and is placed under 
+the responsibility of the government; and 
+• 
+advocacy for the mobilization of resources is common and placed under the responsibility of the government.118 
+As stated above, the axes of the information management strategy established in the PNC comprise the distribution of information 
+to the population, the activation of the alert system, and the diffusion of the alert done by administrative authorities and the 
+DPC.119 Communication with the media and with other PNC stakeholders is also key, as provided in the PNC. Such communication 
+includes developing a media plan and briefing the spokesperson; distributing the information to the President of the Republic; 
+distributing the information to the competent authorities; referring to specialized structures (Community Surveillance System); 
+referring to the competent structures; disseminating information to partners; establishing a database; and undertaking general 
+communication, monitoring and evaluation.120 Further information on this system could not be located. 
+ 
+ 
+ 
+National Contingency Plan 2011 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+117 
+PNACC 2015, page 96. 
+118 
+PNC 2011, page 26. 
+119 
+PNC 2011, page 26. 
+120 
+PNC 2011, page 26.
+
+[[page 27]]
+27 
+ 
+Furthermore, as stated above, the ONR’s mission includes to collect, manage and disseminate information on natural, 
+technological, industrial and anthropogenic risks. As such, it ensures in particular the establishment at the national level of an 
+observation system for sites and other installations at risk, together with a reliable system for collecting and transmitting data and 
+information on risks; and the publication of a situational risk bulletin, and the implementation of any other awareness-raising and 
+preventive information on risks.121 
+ 
+ 
+ 
+ 
+Presidential Order 037/PM, National 
+Risk Observatory 
+Contingency Planning 
+ 
+Does the country’s legislation set out a process and framework for contingency planning, and does such contingency planning 
+have to address multiple hazards? Does the legislation require periodic updates of contingency plans, call for inclusiveness of 
+public authorities and other civil society actors in contingency planning, or establish linkages between forecast information and 
+climate services in contingency planning? 
+ 
+Decree n° 98/031 establishes the organization of the emergency and rescue plans in case of disaster or major risk (ORSEC Plans).122 
+As per article 2, the emergency plan is the set of rapid intervention measures that must be taken to face disasters or major risks 
+occurring on the territory of Cameroon.123 The activation of the emergency plan in case of disaster or major risk is done: 
+ 
+• 
+by the Prefect, at the level of the department; 
+• 
+by the Governor, at the level of the province; and 
+• 
+by the Secretary General of the Presidency of the Republic, at the national level.124 
+The emergency plan may only be activated when the competent authority is in possession of reliable information, giving no cause 
+for doubt, on the nature and extent of the disaster or major risk. The action of the competent authority shall include: 
+ 
+• 
+dissemination of the warning; 
+• 
+the immediate provision of emergency assistance; 
+• 
+informing the hierarchical authorities; 
+• 
+the mobilization of human, material and financial resources; 
+ 
+ 
+ 
+ 
+ 
+Decree 98/031, Organization of 
+Emergency and Rescue Plans 
+ 
+ 
+ 
+ 
+121 
+Presidential Order n° 37/PM, article 1. 
+122 
+Decree n° 98/031, article 1. 
+123 
+Decree n° 98/031, article 2. 
+124 
+Decree n° 98/031, article 3.
+
+[[page 28]]
+28 
+• 
+the immediate convening of the Crisis Committee; and 
+• 
+informing the public.125 
+Further than that, the country’s legislation does not appear to set out a clear framework for contingency planning, specifying 
+whether periodic updates are required, or calling for inclusiveness. 
+ 
+Does the country’s legislation set out procedures and framework for evacuation? 
+ 
+There do not appear to be any evacuation procedures outlined in the PNC or other relevant legislation. 
+ 
+Does DM law require that disaster contingency plans set out comprehensive procedures for evacuation, assigning roles and 
+responsibilities, and dos it provide for the evacuation of livestock or domestic animals? 
+ 
+From the documents available for review, laws do not appear to establish a framework and clear procedures for evacuation. 
+ 
+Does it require that all endangered people be evacuated without discrimination, that the rights and dignity of evacuated 
+persons be respected in situations of compulsory evacuation? 
+ 
+As stated above, limited information could be located online relating to procedures, requirements and principles for evacuation. 
+ 
+ 
+Does the country’s legislation establish requirements for trainings, drills and simulations for people likely to be involved in 
+responding to disasters (e.g. frequency, scope, testing means), and does the law set clear standards and responsibilities for 
+prior training for disaster rescue and relief personnel (including volunteers)? 
+ 
+Although not exclusively related to disaster management trainings, Decree n° 2005/104 establishes that the DPC is responsible 
+for, among other things, preparing training courses for civil protection personnel, in conjunction with the Human Resources 
+Department. 126 Furthermore, the Sub-Directorate of Assistance to Decentralized Territorial Authorities consists of an 
+Administrative Assistance Service; the Economic and Financial Assistance Service; the Technical Assistance Service; and the 
+Training Department.127 The Training Department is responsible for: 
+ 
+ 
+ 
+Decree 2005/104, Organization of the 
+Ministry of Territorial Administration 
+and Decentralization 
+ 
+ 
+ 
+ 
+ 
+ 
+125 
+Decree n° 98/031, article 3. 
+126 
+Decree n° 2005/104, article 52. 
+127 
+Decree n° 2005/104, article 46.
+
+[[page 29]]
+29 
+ 
+• 
+institutional or educational issues relating to staff training; 
+• 
+the information of the Decentralized Territorial Collectivities (local authorities) and the coordination of their initiatives in 
+the field of training; 
+• 
+monitoring of short-term training modules intended for staff of Decentralized Territorial Authorities and local elected 
+officials; and 
+• 
+the evaluation of the training programs and methods of specialized training establishments.128 
+In addition, the PNC states that public awareness and education will be carried out through communication plans to be included 
+in: the disaster preparation plans and the tests of said plans through simulation exercises, among other things.129 Simulation 
+exercises are also identified as key elements for capacity building of actors,130 although no details on the development and 
+execution of such exercises are provided. 
+ 
+As stated above, Decree n° 051/PM establishes the Public Health Emergency Operations Coordination Center as a body for 
+coordinating response operations to PHEs, serving as a framework for consultation between the various national and international 
+actors involved in the management of PHEs and the coordination of related interventions.131 As such, it is responsible for, among 
+others, developing, implementing and updating the program of simulation exercises for the preparation of the response to PHEs.132 
+ 
+However, the law does not appear to set out clear standards for prior training for disaster rescue and relief personnel. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+National Contingency Plan 2011 
+ 
+ 
+ 
+ 
+Decree n° 051/PM establishes the 
+Public Health Emergency Operations 
+Coordination Center 
+ 
+ 
+ 
+ 
+Legal Facilities (Preparedness and Response) 
+Treatment and care of the victims (including the dead): 
+Does the law give special attention to procedures for handling large numbers of casualties after a disaster? 
+ 
+Decree n° 2005/104 states in article 52 that body transfers are the responsibility of the DPC.133 However, is does not specify the 
+procedures for handling large numbers of casualties. 
+ 
+ 
+ 
+ 
+ 
+ 
+128 
+Decree n° 2005/104, article 50. 
+129 
+PNC 2011, page 25-26. 
+130 
+PNC 2011, page 33. 
+131 
+Decree n° 051/PM, article 2. 
+132 
+Decree n° 051/PM, article 2. 
+133 
+Decree n° 2005/104, article 52.
+
+[[page 30]]
+30 
+ 
+The PNC highlights that the management of deceased persons will be strictly supervised. Procedures will be put in place to 
+organize: the identification and preservation of bodies; autopsies; the establishment of death certificates for medico-legal 
+purposes; under certain circumstances, the treatment of bodies will be decided by the coordination structure. 134 
+ 
+Does the law forbid or at least discourage mass burials in such circumstances, does the law require authorities to make best 
+efforts to identify the remains and notify next of kin, and does the law require authorities to take into account cultural and 
+religious rights with respect to the disposal of human remains? 
+ 
+Limited information could be located in the documents reviewed in terms of procedures for handling human remains, aside from 
+what has been set out above. 
+ 
+Decree 2005/104, Organization of the 
+Ministry of Territorial Administration 
+and Decentralization 
+ 
+Volunteering: 
+Does the law provide for a clear definition of the term “volunteer”, including the scope of volunteering activities, restrictions 
+regarding volunteering and a clear distinction from the status of employees? 
+ 
+Although not directly related to DRM, Law n° 2021/015 establishes the organization and promotion of volunteering in Cameroon 
+generally, including conditions, requirements and procedures to become a volunteer. Article 2 states that volunteering aims to 
+mobilize and promote social skills and human resources for carrying out work of general interest and initiation into the 
+management of public affairs in the fields of activities relating to the public and private sector, with a view in particular to 
+economic, social, health, educational, cultural, sporting, tourist development and sustainable development. 135 Volunteering 
+activities are organized within structures, associations and non-profit organizations recognized in accordance with the legislation 
+in force.136 
+ 
+Furthermore, volunteering activities are carried out in accordance with the principle of solidarity between the different 
+components of society, with a view to promoting the values of peace, citizenship, humanitarian cooperation and the achievement 
+of works of public utility.137 Therefore, volunteering must be inclusive, to guarantee gender equality, people living with a disability, 
+indigenous peoples, and socially vulnerable populations.138 
+ 
+ 
+ 
+ 
+Law n° 2021/015, organization and 
+promotion of volunteering 
+ 
+ 
+ 
+134 
+PNC 2011, page 27. 
+135 
+Law n° 2021/015, Organization and promotion of volunteering, article 2. 
+136 
+Law n° 2021/015, article 2. 
+137 
+Law n° 2021/015, article 3. 
+138 
+Law n° 2021/015, article 3.
+
+[[page 31]]
+31 
+ 
+In terms of this law, the term “volunteer” is defined as a “natural person, who freely and unselfishly exercises a contractual, unpaid, 
+full-time activity or according to a predefined schedule, for the common good or for a social cause, and can benefit from lumpsum allowances, regular or one-off, for subsistence needs”.139 
+ 
+Is there specific DM legislation that applies to volunteers and voluntary organizations? 
+ 
+DRM-related legislation in Cameroon does not appear to contain provisions on volunteer work in DRM specifically. 
+ 
+Cash programming: 
+Are there legal facilities in place to facilitate cash programming in disaster preparedness and response operations, including the 
+opening of bank accounts, monetary transfers, identify verification “know your customer” and other exigencies of financial 
+service providers, and is there a legally defined procedure in place for loss of records or documentation? 
+ 
+Limited information could be located online relating to cash programming facilities. From the documents reviewed, laws and 
+policies in Cameroon do not appear to contain specific provisions on legal facilities or simplified procedures for cash programming 
+in DRM. 
+ 
+ 
+Drones in disasters response operations: 
+Is there legislation in place regarding the use of drones in disaster response operations, including registration, flight operations 
+certificates, use of airspace, and insurance? 
+ 
+Regarding the use of drones, a regulatory framework is still being developed by the Cameroon Civil Aviation Authority (CCAA).140 
+But, while waiting for the law, the director general of the CCAA, signed in 2016 an instruction setting out the terms and conditions 
+for requesting authorization to use remotely piloted aircraft in the airspace and on the Cameroonian territory for occasional aerial 
+work operations. This is Instruction n° 000012/C/CCAA/DG/DRCA of November 18, 2016.141 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+139 
+Law n° 2021/015, article 5. 
+140 
+DJOYUM, B.O., (2021) “Utilisation des drones au Cameroun: ce qu’il faut savoir et ce qu’exige le gouvernement” [online] Available in: https://www.digitalbusiness.africa/utilisationdes-drones-au-cameroun-ce-quil-faut-savoir-et-ce-quexige-le-gouvernement/ 
+141 
+DJOYUM, B.O., (2021) “Utilisation des drones au Cameroun: ce qu’il faut savoir et ce qu’exige le gouvernement” [online] Available in: https://www.digitalbusiness.africa/utilisationdes-drones-au-cameroun-ce-quil-faut-savoir-et-ce-quexige-le-gouvernement/
+
+[[page 32]]
+32 
+However, Instruction n° 000012/C/CCAA/DG/DRCA does not appear to set out exemptions or special procedures to request 
+authorization for the use of drones in the context of a disaster. 
+Instruction n° 
+000012/C/CCAA/DG/DRCA 
+ 
+ 
+ 
+ 
+Are appropriate tax exemptions provided to relief providers (government and civil society)? Are tax exemptions available for 
+preparedness actions (eg. prepositioning of stock)? 
+ 
+The General Tax Code list of types of entities exempted from the corporate income tax in article 4, including certain nongovernmental organisations. Furthermore, the General Tax Code states that the net taxable profit is established after deduction 
+of all expenses directly required by the exercise of the taxable activity in Cameroon. Such activities include, among others, 
+donations made on the occasion of disasters, deductible in the forms and conditions laid down by order of the Minister of Finance. 
+In addition, the Code makes provision for diplomatic and consular missions to benefit from a wide range of tax exemptions, as well 
+as for international organisations to benefit from a wide range of tax exemptions in terms of headquarters agreements entered 
+into between the organisation and the Government of Cameroon. 
+ 
+Law n° 99/014 provides the regulations governing NGOs. NGOs are defined as organizations operating for the general interest.142 
+The missions of general interest are defined in article 3 according to the priorities set by the public authorities, particularly in the 
+legal, economic, social, cultural, health, sports, educational, humanitarian fields, in terms of protection of the environment or 
+promotion of human rights. 143 Article 4 establishes that any regularly declared association or any duly authorized foreign 
+association justifying an effective contribution of at least three years in one of the fields referred to in article 3, can be approved 
+for NGO status. To this end, it must produce a file comprising: 
+ 
+a) a stamped application at the current rate; 
+b) a copy of the receipt for the declaration or the authorization document, as the case may be; 
+c) the evaluation report of the activities of at least three years and the program of activities; 
+d) the minutes of the extraordinary general assembly in lieu of the constituent assembly of the NGO; 
+e) four copies of the statutes of the NGO; and 
+ 
+ 
+ 
+ 
+ 
+General Tax Code 2022 
+ 
+ 
+ 
+ 
+Law 99/014 
+ 
+ 
+ 
+ 
+142 
+Law n° 99/014, article 2. 
+143 
+Law n° 99/014, article 3.
+
+[[page 33]]
+33 
+f) 
+the name, object, headquarters of the NGO as well as the names, professions and domiciles of those who, in any capacity, 
+are responsible for its administration or management. 
+In terms of tax exemptions, article 18 states that duly approved NGOs benefit from tax exemptions, registration fees in accordance 
+with the General Tax Code and the Registration Code. They are also exempt from Value Added Tax, in accordance with the 
+legislation in force, and the tax and customs regime applicable to NGOs is specified, as necessary, by the finance law.144 
+ 
+Are there laws on data privacy that would apply to the gathering, storing and sharing of information (in relief distribution, 
+restoring family links or cash programmes as examples)? If so, are exceptions provided, as appropriate, for tracing activities by 
+RC National Societies in disaster settings? 
+ 
+Limited information could be located online relating to data privacy. As of today, Cameroon does not appear to have a specific law 
+on data privacy. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Are there legal barriers in particular sectoral laws that may inhibit disaster rescue and relief personnel (including volunteers) in 
+emergencies? 
+ 
+Generally, sectoral laws in Cameroon do not appear to take into account disaster scenarios – e.g. the use of specialised equipment 
+such as the use of drones or simplified cash programming procedures. This may result in disaster relief personnel facing some 
+barriers in emergency response, or it may pose challenge in the coordination of relief. 
+ 
+ 
+Are there provisions in the law to ensure that State-operated offices and services essential to the relief be provided are open 
+/operate outside of normal business hours? 
+ 
+From the documents reviewed, DRM laws in Cameroon do not appear to contain any provisions outlining the opening hours of 
+state-operated offices and services essential to disaster response. 
+ 
+ 
+Stakeholder Engagement 
+ 
+Do your country’s laws ensure the engagement of all relevant stakeholders including civil society, private sector, scientific 
+institutions and communities in DRM decision making and activities? 
+ 
+National Contingency Plan 2011 
+ 
+ 
+ 
+ 
+144 
+Law n° 99/014, article 18.
+
+[[page 34]]
+34 
+As stated above, a number of actors play a role in DRM in Cameroon, and the PNC recognizes that everyone must be able to carry 
+out the missions assigned to them before, during and after crisis situations.145 As such, a 24-hour monitoring and alert system will 
+be put in place. Also, all actors must prepare and disseminate their own contingency plan at the level of the national PNC 
+coordination mechanism.146 These actors consist of State services, decentralized territorial authorities, public and semi-public 
+bodies, international organizations and NGOs.147 
+ 
+Although the CNPC includes representation from the Directorate of External Research,148 the documents reviewed, including 
+Decree n° 2005/104, Law n° 86/016, Decree n° 96/054, Decree n° 98/031 and Order n° 037/PM, do not appear to ensure the 
+engagement of civil society actors or the private sector. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Decree 96/054, National Council for 
+Civil Protection 
+ 
+ 
+Is there representation (seat at table) of (a) Red Cross (b) civil society (c) private sector (d) communities (e) specialised agencies 
+i.e. academic/ scientific etc in decision making institutions and processes required? 
+ 
+As stated above, the CNPC includes representation of the Cameroon Red Cross (CRC). More specifically, the President of the CRC 
+or his/her representative has a sit at the board of the CNPC, as provided in Decree n° 96/054.149 Although article 2 also states that 
+the Chairman of the CNPC may invite any natural or legal person to take part in the work, due to his competence on the items on 
+the agenda,150 the law does not appear to include representation of civil society, private sector, communities or scientific 
+institutions in the CNPC. 
+ 
+As per Decree n° 98/031, the President of the CRC is also part of the composition of the National Crisis Committee.151 However, 
+similar representation as the one of the CNPC is provided for the National Crisis Committee – i.e. there is no clear representation 
+of civil society, private sector or academic/scientific institutions. 
+ 
+ 
+ 
+ 
+Decree 96/054, National Council for 
+Civil Protection 
+ 
+ 
+ 
+Decree 98/031, Organization of 
+Emergency and Rescue Plans 
+ 
+Are specific roles and duties of (a) Red Cross (b) civil society (c) private sector (d) communities (e) specialised agencies academic/ 
+scientific etc clearly assigned? 
+ 
+ 
+ 
+ 
+ 
+145 
+PNC 2011, page 33. 
+146 
+PNC 2011, page 33. 
+147 
+PNC 2011, page 33. 
+148 
+Decree n° 96/054, article 2. 
+149 
+Decree n° 96/054, article 2. 
+150 
+Decree n° 96/054, article 2. 
+151 
+Decree n° 98/031, article 7.
+
+[[page 35]]
+35 
+ 
+Aside from what has been stated above, limited information could be located online relating to roles and duties of stakeholders 
+other than the main DRM institutions. From the documents reviewed, laws and policies in Cameroon do not appear to contain 
+provisions that clearly assign specific roles and responsibilities to such stakeholders. 
+ 
+ 
+ 
+ 
+ 
+Is the special role of Red Cross as auxiliary to its authorities in the humanitarian field formally acknowledged in DRM Legislation? 
+Does it set out expectations about NS’s activities? 
+ 
+The CRC and its Statutes were created in 1960. However, it was not until 1963 that the Cameroonian Government, through Decree 
+63/DF/6, officially recognized the CRC as an association of public utility, and as a voluntary as well as auxiliary relief organization 
+of the public authorities.152 More specifically, the official decree establishes in article 3 that in times of war, its personnel will be 
+exclusively assigned to the treatment and transport of the wounded and sick, as well as to the administration of health facilities. 
+The Decree further establishes that the CRC will be subject to military laws and regulations within the meaning of article 10 of the 
+Geneva Conventions.153 
+In 2020, the Cameroonian Government renewed the recognition of public utility of the CRC through Decree 2020/143. More 
+concretely, it provided that on the date of signature of this decree, the association "Croix-Rouge Camerounaise", whose head 
+office is located in Yaoundé, Mfoundi department, is recognised as being of public utility,154 and that this decree shall be registered, 
+published according to the emergency procedure, then inserted in the Official Gazette in French and English.155 However, this 
+recent decree does not add any new provisions on the auxiliary role of the CRC. 
+Although the CRC representation at the CNPC,156 DRM laws and policies in Cameroon do not appear to formally recognize the 
+auxiliary role of the CRC to the authorities or contain any other general provisions relating the CRC. 
+ 
+ 
+ 
+ 
+Decree 63/DF/6 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Decree 2020/143 
+ 
+Does the law provide for financial support and/or tax exemptions for Red Cross-National Society when acting it its auxiliary role 
+to assist persons affected by disaster? 
+ 
+ 
+ 
+ 
+General Tax Code 2022 
+ 
+ 
+ 
+152 
+Decree 63/DF/6, Recognition of the Cameroonian Red Cross as an Association of Public Utility, article 2. 
+153 
+Decree 63/DF/6, article 2. 
+154 
+Decree 2020/143, article 1. 
+155 
+Decree 2020/143, article 2. 
+156 
+Decree n° 96/054, article 2.
+
+[[page 36]]
+36 
+The Statutes of the CRC do not provide any specifications on legal facilities granted to the National Society. The tax laws also do 
+not mention the National Society explicitly. 
+ 
+The Customs Tariff Code of the Economic Community of Central African States (CEMAC) establishes in article 276 that the following 
+shall be admitted free of import duties and taxes, by decision of the Director of Customs and Excise of the State concerned: 
+donations offered to Heads of State, materials and products provided free of charge to Member States by foreign States or 
+international organizations, shipments intended for Ambassadors, diplomatic and consular services and foreign members of 
+certain official international organizations sitting in them Member States, and products intended for the Red Cross and similar 
+works of assistance or national relief specially designated by the Minister of Public Health of the State concerned.157 Goods 
+exported by the Red Cross or other solidarity works of national character can also be exempted from exit duties. 
+ 
+ 
+ 
+ 
+ 
+CEMAC Customs Tariff Code 
+ 
+Is meaningful engagement of (a) women, (b) minorities, (c) people with disabilities (d) displaced/migrant groups and (e) older 
+persons (f) indigenous groups (g) youth ensured? 
+ 
+Limited information could be located online relating to the engagement of especially vulnerable groups in DRM activities. From 
+the documents reviewed, laws and policies in Cameroon do not appear to clearly outline the engagement of women, minorities, 
+people with disabilities, displaced or migrant groups, the elderly, indigenous or youth groups. 
+ 
+ 
+Is there minimum mandated proportional representation of (a) women, (b) minorities, (c) people with disabilities (d) 
+displaced/migrant groups and (e) older persons ensured in DRM Decision Making (i.e. quotas) (f) indigenous groups? 
+ 
+As stated above, the law does not appear to set out clear guidelines for engagement and representation of especially vulnerable 
+groups in DRM activities and decision-making processes. 
+ 
+ 
+Education/ Training and Awareness 
+Is DRM training mandatory in the school curriculum? 
+ 
+From the documents reviewed, laws in Cameroon do not appear to specify whether DRM training is mandatory in the school 
+curriculum. 
+ 
+ 
+Is training for public officials and relevant professionals promoted for (i) DRR (iii) Response and Preparedness? 
+ 
+ 
+ 
+ 
+157 
+CEMAC Customs Tariff Code, article 276.
+
+[[page 37]]
+37 
+ 
+As stated above, Decree n° 2005/104 establishes that the DPC is responsible for, among other things, preparing training courses 
+for civil protection personnel, in conjunction with the Human Resources Department.158 Furthermore, the MINATD is composed 
+by different technical departments and offices at national and local level. At the local level, the Decentralized Territorial Authorities 
+Directorate is the main executive office,159 consisting of a Studies Unit, a Development and Decentralized Cooperation Unit, a SubDirectorate of Assistance to Decentralized Territorial Authorities, and a Decentralized Territorial Collectivities Control Brigade.160 
+ 
+The Sub-Directorate of Assistance to Decentralized Territorial Authorities consists of an Administrative Assistance Service; the 
+Economic and Financial Assistance Service; the Technical Assistance Service; and the Training Department. 161 The Training 
+Department is responsible for: 
+ 
+• 
+institutional or educational issues relating to staff training; 
+• 
+the information of the Decentralized Territorial Authorities and the coordination of their initiatives in the field of training; 
+• 
+monitoring of short-term training modules intended for staff of Decentralized Territorial Authorities and local elected 
+officials; and 
+• 
+the evaluation of the training programs and methods of specialized training establishments.162 
+ 
+Decree 2005/104, Organization of the 
+Ministry of Territorial Administration 
+and Decentralization 
+ 
+Are there specific provisions on promoting public awareness and understanding of rights, roles and responsibilities in (i) DRR) 
+(ii) preparedness and response? 
+ 
+The PNC consists of three strategic axes. Axis n° 1 is focused on prevention and preparedness, and two of the strategic objectives 
+of this axis are the promotion of disaster prevention through public information, and the sensitization and education of the 
+masses.163 The PNC states that public awareness and education will be carried out through communication plans to be included 
+in: the disaster preparation plans and the tests of said plans through simulation exercises; sectoral contingency plans; updating of 
+ORSEC plans at department and district levels; and specific emergency plans.164 
+ 
+ 
+ 
+ 
+National Contingency Plan 2011 
+ 
+ 
+ 
+ 
+158 
+Decree n° 2005/104, article 52. 
+159 
+Decree n° 2005/104, chapter IV. 
+160 
+Decree n° 2005/104, article 43. 
+161 
+Decree n° 2005/104, article 46. 
+162 
+Decree n° 2005/104, article 50. 
+163 
+PNC 2011, page 23. 
+164 
+PNC 2011, page 25-26.
+
+[[page 38]]
+38 
+Protection, Dignity and Safety 
+Does the law clearly provide a right to humanitarian assistance based on clear and specific needs? 
+ 
+From the documents reviewed, laws and policies in Cameroon do not appear to provide a right to humanitarian assistance based 
+on clear and specific needs. 
+ 
+ 
+Does the DRM law explicitly forbid discrimination in preparation and relief efforts, both by government and other actors? 
+ 
+From the documents reviewed, laws and policies in Cameroon do not appear to explicitly set out non-discriminatory approaches 
+in DRM. 
+ 
+ 
+Does the DRM law ensure that needs assessments and relief operations look for and address the potential for specific needs (a) 
+women, (b) minorities, (c) people with disabilities (d) displaced/migrant groups and (e) older persons (f) indigenous groups (g) 
+youth? 
+ 
+While not mentioning vulnerable groups, the PNC highlights generally that for crisis response or intervention, specific actions are 
+rescue and assistance to victims to meet their essential and immediate survival needs.165 To better illustrate these support 
+measures, the PNC has defined a scenario for each type of risk and identified the specific tasks to be taken to supply the victims 
+with water, food, shelter, care and all the support measures such as administration, finance, logistics, security and human and 
+material resources.166 Such activities include: 
+ 
+• 
+the triggering of the medical chain of relief and care to allow the provision of care to victims, the prevention of epidemics, 
+and the improvement of degraded health facilities; 
+• 
+the use of existing infrastructure to ensure emergency shelter; 
+• 
+the correct management of food and water supplies, maintaining a database of food input suppliers and keeping the 
+population informed of the possibilities for access to food and water; 
+• 
+the establishment of a system to manage separated people, in particular unaccompanied children; 
+• 
+the implementation of operating measures to restore water and electricity networks, ensuring a relative balance between 
+supply and demand in a degraded situation; 
+• 
+the activation of an emergency fund to facilitate rapid response to the needs of the affected population; 
+ 
+ 
+ 
+ 
+National Contingency Plan 2011 
+ 
+ 
+ 
+165 
+PNC 2011, page 31. 
+166 
+PNC 2011, page 31.
+
+[[page 39]]
+39 
+• 
+maintain hangars and warehouses in each region to keep security stocks in sensitive sectors (food, water, hydrocarbons), 
+among other material and logistical resources; and 
+• 
+train actors in different areas of intervention.167 
+However, the PNC and the DRM laws do not appear to explicitly address specific needs of especially vulnerable groups. 
+ 
+Unaccompanied children: 
+Are roles/responsibilities clear for ensuring the placement, shelter and aftercare of unaccompanied children in disaster 
+settings? 
+ 
+From the documents reviewed, DRM laws and policies in Cameroon do not appear to outline roles and responsibilities for ensuring 
+adequate support and protection for unaccompanied children in disaster settings. However, as stated above, the PNC highlights 
+the need to set up a system to manage separated people, and in particular unaccompanied children.168 
+ 
+Does the DRM law, policy or planning set out specific measures to combat heightened risks of trafficking and child exploitation 
+in post-disaster settings? 
+ 
+Law n° 2005/015, relating to the fight against child trafficking and smuggling, while Law n° 2011/024, relating to the fight against 
+human trafficking and smuggling, provides updated provisions in terms of incriminations and sanctions, referring to the provisions 
+established in the Criminal Code. Furthermore, the Labour Code contains some provisions intended to prevent child labour.169 
+ 
+However, none of the above-mentioned laws appear to set out specific measures for child protection in the event of a disaster. 
+ 
+Are special protections included in laws about adoptions (particularly international adoptions) in the aftermath of major 
+disasters? 
+ 
+Laws regulating adoptions in Cameroon could not be located online for the purposes of this research. 
+ 
+ 
+ 
+ 
+National Contingency Plan 2011 
+ 
+ 
+ 
+ 
+ 
+Law n° 2005/015, relating to the 
+fight against child trafficking and 
+exploitation 
+ 
+ 
+ 
+ 
+ 
+Law n° 2011/024, relating to the 
+fight against human trafficking and 
+smuggling 
+ 
+Law 92/007, Labor Code 
+ 
+ 
+ 
+ 
+167 
+PNC 2011, page 27-29. 
+168 
+PNC 2011, page 27. 
+169 
+Law n° 92/007, Labour Code, article 86.
+
+[[page 40]]
+40 
+Sexual and Gender Based Violence: 
+Are there laws or policies that assign roles/ responsibilities to carry out (a) education, awareness-raising, (b) advocacy, and (c) 
+prevention of gender discrimination and/or SGBV? 
+ 
+The National Strategy to Combat Gender-Based Violence 2017-2020 (NSCGBV) has as a main objective to ensure that the social 
+role and autonomy of women are strengthened for a united and solidary Cameroonian nation.170 The fundamental concern is to 
+fight against gender inequalities at the root of marginalization, impoverishment, vulnerability of women and gender-based 
+violence (GBV) often exacerbated in contexts of crisis and conflict.171 The strategic plan to combat GBV for the period 2017-2020 
+intends to cover the following strategic lines of intervention: (i) strengthening of the prevention system, (ii) support, (iii) improved 
+knowledge, and (iv) partnership and coordination.172 
+ 
+The main actors involved in the fight against GBV are the following: 
+ 
+• 
+the Ministry for the Promotion of Women and the Family, responsible for the development and implementation of 
+measures relating to respect for women's rights and the protection of the family, as well as prevention of domestic and 
+family violence; 
+• 
+the Ministry of Social Affairs, responsible for, among other things, social protection of children, the elderly and persons 
+with disabilities; 
+• 
+the Ministry of Justice, whose jurisdiction ensures the application of laws punishing conjugal, domestic and family 
+violence; 
+• 
+the Ministry of Public Health, whose health facilities provide care for survivors of GBV; 
+• 
+the National Commission for Human Rights and Freedoms, which can be seized by all citizens in cases of violation of 
+human rights; 
+• 
+the National Civic Service Agency for Participation in Development, which provides civic and moral training for young 
+people in rural and urban areas with a view to seeking social peace; 
+• 
+the State Secretariat for Defense in charge of the Gendarmerie, whose services conduct judicial inquiries in the event of 
+violence against a citizen and are responsible for the physical protection of survivors; 
+• 
+the General Delegation for National Security, which hears complaints relating, among other things, to domestic, conjugal 
+and family violence, including the physical protection of individuals; 
+ 
+ 
+ 
+ 
+The National Strategy to Combat 
+Gender-Based Violence 2017-2020 
+ 
+ 
+ 
+ 
+170 
+National Strategy to Combat Gender-Based Violence (NSCGBV) 2017-2020, page 1. 
+171 
+NSCGBV 2017-2020, page 1. 
+172 
+NSCGBV 2017-2020, page 16.
+
+[[page 41]]
+41 
+• 
+development partners who support government efforts, such as UNDP, UNFPA, UNICEF, UN Women, UNHCR, etc.; and 
+• 
+civil society organizations who generally work to protect human rights, and in particular those of the most vulnerable.173 
+Cameroon does not appear to have a specific law to combat GBV. Only the NSCGBV could be found. 
+ 
+Does the legal framework (DRM framework and laws applicable “in normal time”) provide special measures to guard against 
+and/or sanction sexual and gender violence and how does it apply in disaster circumstances? 
+ 
+No specific information could be found on special measures to combat GBV in disaster settings. 
+ 
+How do “normal time laws and systems related to GBV” work in times of disasters, are there coordination mechanisms 
+established with DRM system? 
+ 
+As stated above, no legal framework for GBV could be located online, and therefore it is difficult to define the coordination 
+mechanism with the DRM system. Furthermore, DRM-related legislation does not appear to contain any provisions relating to 
+GBV. 
+ 
+Security: 
+Does the legal framework provide special measures to guard against looting? Are mechanisms in place to assure the safety and 
+security of relief personnel? 
+ 
+The law does not appear to contain specific provisions on the safety and security of relief personnel. However, the Civil Protection 
+Law provides in article 8 that the use of civil protection resources is left to the discretion of the administrative authorities and that, 
+when required, the Civil Protection organizations are supported by the army, the Gendarmerie or the Police, upon request of the 
+competent authority.174 
+ 
+ 
+ 
+ 
+ 
+Law 86/016, General Reorganization 
+on Civil Protection 
+ 
+ 
+Displacement: 
+Are human mobility dimensions taken into consideration as part of DRM planning and DRM decision making (including both 
+internal and cross-border displacement)? Does the law and/or policy mandate or facilitate practical measures to reduce the risk 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+173 
+NSCGBV 2017-2020, page 11-12. 
+174 
+Law n° 86/016, General Reorganization of Civil Protection, article 8.
+
+[[page 42]]
+42 
+of disaster and climate related displacement, explicitly addressing the following points on disaster and climate related internal 
+displacement? 
+ 
+• 
+protecting communities against displacement; 
+• 
+preparing for unavoidable displacement; 
+• 
+responding to displacement; and 
+• 
+finding durable solutions. 
+Limited information could be located online relating to the support and protection mechanisms for displaced persons. However, 
+the PNC recognizes population displacement as one of the main social impacts caused by natural hazards.175 
+ 
+In addition, the SND30 highlights that, in terms of prevention and mitigation of the devastating effects of social crises and natural 
+hazards, the authorities are committed to strengthening the humanitarian response and promoting the reintegration of internally 
+displaced persons.176 Thus, the Government intends to: (i) develop and implement a disaster prevention and management 
+strategy; (ii) strengthen the mechanism for coordination and management of crises and disasters at the national, regional and 
+local levels; and (iii) develop information and mass education programs in civil protection.177 
+ 
+Are there legal guarantees for the provision of shelter in case of displacement due to disasters, or does it set out alternatives 
+to using schools as shelter or other mechanisms for undertaking necessary relocations? 
+ 
+There do not appear to be any legal guarantees for the provision of shelter in the case of displacement due to disasters. 
+ 
+Is there a legally defined procedure in case of loss of records or documentation? 
+ 
+From the documents reviewed for the purposes of this research, the law does not appear to provide special procedure for support 
+to displaced persons in case of loss of documentation. 
+ 
+Is there equity in the assistance provided to persons with and without land title, and are there procedures in place to take into 
+account legal disputes with regard to land titles and property? Are there preparedness arrangements to reduce legal issues 
+regarding housing, land and property irregularities and disputes? 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+National Contingency Plan 2011 
+ 
+ 
+ 
+ 
+National Development Strategy 
+2020-2030 
+ 
+ 
+ 
+ 
+ 
+ 
+175 
+PNC 2011, page 9. 
+176 
+SND30, page 96. 
+177 
+SND30, page 96.
+
+[[page 43]]
+43 
+ 
+No information could be found in the documents reviewed relating to assistance and procedures to displaced persons with regard 
+to potential disputes due to land titles and property. 
+ 
+Do gender-specific needs or considerations exist in DRM law, including gender-sensitive needs assessments, standards for 
+planning and construction of post-disaster accommodation and other arrangements for displaced communities? 
+ 
+From the documents reviewed, DRM legislation in Cameroon does not appear to include gender-sensitive needs assessments in 
+shelter planning and construction for displaced communities 
+ 
+International Assistance 
+ 
+Does your country’s legal framework include procedures related to international disaster assistance? 
+ 
+Cameroon has several laws and policies which, together, comprise the framework for DRM. However, none of these documents 
+include detailed procedures relating to international disaster assistance. 
+ 
+ 
+Do relevant sectoral laws contain any provisions related to international disaster assistance? 
+ 
+From the documents available for review, sectoral laws in Cameroon do not appear to contain provisions explicitly related to 
+international disaster assistance. 
+ 
+Do your country’s laws and regulations set out a focal point for coordinating international assistance? 
+ 
+From the desktop research conducted, several bodies play a role in the coordination of DRM activities in Cameroon, including 
+international disaster assistance. 
+ 
+For example, Decree n° 96/054 provides in article 6 that the CNPC meets at least once a year upon convocation by its President. 
+However, in the event of a declared calamity or disaster, it holds the right to meet and be set up as a crisis unit for the coordination 
+of the activities of civil protection organizations at the national level.178 As stated above, the CNPC coordinates the means 
+implemented for civil protection, in particular relief, rescue, logistics and the use of auxiliary forces and auxiliary corps.179 However, 
+ 
+ 
+ 
+Decree 96/054, National Council for 
+Civil Protection 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+178 
+Decree n° 96/054, article 6. 
+179 
+Decree n° 96/054, article 4.
+
+[[page 44]]
+44 
+no specific procedures appear to be provided to ensure efficient coordination among international and domestic efforts in disaster 
+response activities. 
+ 
+Decree n° 98/031 provides in article 5 that the Crisis Committees (at departmental, provincial and national level) are responsible 
+for: 
+ 
+o 
+coordinating public relief actions; 
+o 
+directing relief operations; 
+o 
+preparing the rescue means; 
+o 
+directing rescue operations; 
+o 
+transporting the rescue to the site of the disaster; 
+o 
+determining the need for aid and assistance to victims; 
+o 
+evaluating the immediate and long-term effects of the phenomenon; 
+o 
+managing all the human, material and financial resources made available for the circumstance by the public 
+authorities, international, public or private organizations and, in general, all donations and legacies.180 
+In addition, Decree n° 2005/104 establishes the organization of the Ministry of Territorial Administration and Decentralization 
+(MINATD). The central administration of MINATD is composed by various bodies, including a Civil Protection Directorate (DPC).181 
+Placed under the authority of a Director, the DPC is responsible for: 
+ 
+• 
+the general organization of civil protection throughout the territory, in conjunction with the administrations concerned; 
+• 
+studies on civil protection measures in peacetime and wartime, in conjunction with the administrations concerned; 
+• 
+relations with national and international civil protection organizations; 
+• 
+preparing training courses for civil protection personnel, in conjunction with the Human Resources Department; 
+• 
+examining requests for compensation and financial aid from victims of calamities; 
+• 
+control of the use of aid; 
+• 
+the coordination of the means implemented for civil protection, in particular relief, rescue, logistics, the use of auxiliary 
+and auxiliary forces; 
+• 
+body transfers; and 
+Decree 98/031, Organization of 
+Emergency and Rescue Plans 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Decree 2005/104, Organization of 
+the Ministry of Territorial 
+Administration and Decentralization 
+ 
+ 
+ 
+ 
+180 
+Decree n° 98/031, article 5. 
+181 
+Decree n° 2005/104, article 7.
+
+[[page 45]]
+45 
+• 
+monitoring of aid management.182 
+The DPC is composed by the Studies and Prevention Unit and the Coordination and Interventions Sub-Directorate.183 It is the 
+responsibility of the Coordination and Interventions Sub-Directorate to organize and coordinate the assistance, and to liaise with 
+national and international civil protection organizations.184 
+ 
+Therefore, from the above, the MINATD, through the Civil Protection Directorate, appears to be the focal point for international 
+disaster assistance in Cameroon. In fact, Decree n° 2005/104 provides that the MINADT is responsible for monitoring the activities 
+of associations, organizations and non-profit movements, and for coordinating national and international actions in the event of 
+a natural disaster.185 
+ 
+Are there adequate and efficient procedures in place to ensure coordination of international and domestic efforts at national 
+and subnational levels and across all government agencies? 
+ 
+Although the MINATD appears to be the focal point for coordination between international and domestic efforts, the law does not 
+appear to contain any provisions establishing clear procedures to ensure such coordination. 
+ 
+Who is responsible for developing and implementing the rules and procedures related to international assistance? 
+ 
+As stated above, Decree n° 2005/104 establishes that the MINATD is responsible for, among many other things, the development 
+and implementation of regulations and standards for the prevention and management of risks and natural disasters, in conjunction 
+with the other administrations concerned.186 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Decree 2005/104, Organization of 
+the Ministry of Territorial 
+Administration and Decentralization 
+ 
+Do your country’s laws/ regulations outline a process for requesting/ welcoming offers of international disaster assistance ad 
+for terminating international assistance? 
+ 
+Current laws on disaster management in Cameroon do not appear to provide specific procedures for welcoming/terminating 
+international disaster assistance. 
+ 
+Decree 96/054, National Council for 
+Civil Protection 
+ 
+ 
+ 
+ 
+182 
+Decree n° 2005/104, article 52. 
+183 
+Decree n° 2005/104, article 52. 
+184 
+Decree n° 2005/104, article 55. 
+185 
+Decree n° 2005/104, article 1. 
+186 
+Decree n° 2005/104, article 1.
+
+[[page 46]]
+46 
+ 
+However, as stated above, Decree n° 96/054 provides in article 9 that the CNPC may appeal to public generosity under the 
+conditions set by the laws and regulations in force.187 Given that the CNPC is an advisory body that assists the President of 
+Cameroon, the request for international assistance may fall to the President and his Secretary General under the advice of the 
+CNPC. 
+ 
+In addition, Decree n° 2005/104 provides in article 56 that the Coordination and Interventions Sub-Directorate is in charge of the 
+mobilization and management of aid, although it does not provide any procedures for the request or welcoming of international 
+aid.188 
+ 
+Law 96/06, Constitution of the 
+Republic of Cameroon 
+ 
+ 
+Decree 2005/104, Organization of 
+the Ministry of Territorial 
+Administration and Decentralization 
+ 
+Do your country’s laws and regulations provide for necessary legal facilities to be provided for international assisting actors? 
+(i) 
+Landing rights and general customs arrangements 
+ 
+Cameroon is a party to the Chicago Convention, Annexe 9 of which provides procedural guidance with respect to aircrafts 
+containing humanitarian assistance in response to disasters; as well as the Convention on the Facilitation of International Maritime 
+Traffic which mandates parties to facilitate the entry and exit of vessels engaged in natural disaster relief work and facilitate the 
+entry of persons and cargo related to natural disaster relief work.189 This may facilitate the entry of international disaster assistance 
+in Cameroon. 
+ 
+In terms of domestic law, the Civil Aviation Law provides the civil aviation regime in Cameroon, applying to all areas of civil aviation 
+in accordance with international conventions, treaties and agreements ratified by Cameroon.190 The law does not appear to 
+include specific provisions on the landing rights of international flights carrying humanitarian assistance. 
+ 
+In terms of customs, the General Tax Code does not appear to set out exemptions or special customs procedures for the import 
+or export or humanitarian relief consignments. However, Cameroon is a party to the revised Kyoto Convention,191 and its annexes. 
+Annexe B3 recommends as practice that states exempt goods, including “foodstuffs, medicaments, clothing and blankets sent as 
+gifts to an approved charitable or philanthropic organisation for distribution free of charge to needy persons by the organisation 
+ 
+ 
+ 
+Law 2013/010, Civil Aviation Regime 
+ 
+ 
+ 
+Regional Strategy for Central Africa 
+for risk prevention, disaster 
+management and climate change 
+adaptation 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+187 
+Decree n° 96/054, article 9. 
+188 
+Decree n° 2005/104, article 56. 
+189 
+See article 5.11 and 5.12 of Annexe 1 of the Convention on the Facilitation of International Maritime Traffic, 9 April 1965, 591 U.N.T.S. 265. 
+190 
+Law n° 2013/010, Civil Aviation Regime, article 1. 
+191 
+Protocol of Amendment to the International Convention on the Simplification and Harmonization of Customs Procedures of 18 May 1973, 26 June 1999.
+
+[[page 47]]
+47 
+or under its control”;192 and Annexe J5 provides guidelines to expedite the clearance of relief consignments intended to assist 
+those affected by disasters. 
+ 
+In terms of other customs arrangements, the Customs Tariff Code of the Economic Community of Central African States (CEMAC) 
+establishes in article 276 that the following shall be admitted free of import duties and taxes, by decision of the Director of Customs 
+and Excise of the State concerned: donations offered to Heads of State, materials and products provided free of charge to Member 
+States by foreign States or international organizations, shipments intended for Ambassadors, diplomatic and consular services and 
+foreign members of certain official international organizations sitting in them Member States, and products intended for the Red 
+Cross and similar works of assistance or national relief specially designated by the Minister of Public Health of the State 
+concerned.193 
+ 
+CEMAC Customs Tariff Code 
+ 
+(ii) 
+customs arrangements for specialised goods and equipment 
+ 
+The General Tax Code provides that the following may import passenger vehicles duty and tax free: 
+ 
+• 
+diplomatic missions, consular posts and international organizations for the needs of their services; and 
+• 
+members of their diplomatic, administrative and technical staff who are not Cameroonian for their private use.194 
+Although not directly related to international disaster assistance, this provision may be of relevance to international assisting 
+actors who enjoy privileges and immunities under Cameroonian law. 
+ 
+Furthermore, the General Tax Code outlines the goods and services exempted of VAT. These include, among others, operations 
+related to international traffic concerning rescue and assistance boats and, subject to reciprocity, headquarters agreement and 
+quotas set by the Cameroonian authorities, goods and services intended for the official use of foreign diplomatic or consular 
+missions and international organizations.195 
+ 
+With regards to communications equipment, Decree n° 2005/124 establishes the organization of the Ministry of Posts and 
+Telecommunications. Article 58 establishes that placed under the authority of a Head of Service, the Emergency 
+Telecommunications Service is responsible for: taking all necessary measures to acquire the telecommunications equipment and 
+ 
+ 
+General Tax Code 2022 
+ 
+ 
+ 
+Decree 2005/124, Organizations of 
+the Ministry of Posts and 
+Telecommunications 
+ 
+ 
+ 
+ 
+192 
+Annexe B.3 to the Kyoto Convention, recommendation 7. 
+193 
+CEMAC Customs Tariff Code, article 276. 
+194 
+General Tax Code 2022, page 715. 
+195 
+General Tax Code 2022, article 128, page 78.
+
+[[page 48]]
+48 
+services required for emergency response operations; defining the role of telecommunications operators in emergency 
+telecommunications, in liaison with the administrations concerned; the design and implementation of telecommunications 
+emergency plans, in liaison with the relevant departments of the administrations in charge of disaster prevention and crisis 
+situations; and the training of the various committees with regard to emergency telecommunications.196 However, no provisions 
+are provided on simplified procedures for the import of telecommunications equipment as part of international disaster assistance. 
+ 
+(iii) 
+immigration 
+ 
+Law n° 97/012 determines the conditions of entry, stay and exit of foreigners in Cameroon.197 Although there are no provisions 
+explicitly related to international disaster assistance, a number of provisions were found to be indirectly relevant. Article 4 
+highlights that the provisions of the Act do not apply to career diplomatic agents and consuls,198 recognizing their privileges in 
+terms of the Vienna Convention on Diplomatic Relations and the Vienna Convention on Consular Relations. This could potentially 
+facilitate the entry of any disaster assistance actors which enjoy diplomatic privileges and immunities in Cameroon. In general, 
+however, any foreigner wishing to reside in the national territory in order to carry out a salaried professional activity must prove 
+possession of 1) a medical certificate issued by any approved doctor, in agreement with the authorities of the country of origin, 
+by the representation of Cameroon territorially competent and endorsed by its consular services; and 2) an employment contract 
+approved by the Ministry of Labor under the conditions provided for by the legislation in force.199 
+ 
+Although there do not appear to be specific provisions included in this law regarding visa types that might apply to international 
+assisting actors, such as temporary stay visas, courtesy visas or diplomatic visas, Decree n° 2007/252 prescribes the manner in 
+which Law n° 97/012 above is to be implemented. Article 2 states that apart from foreigners in transit, the categories of temporary 
+visitors include, among others, people on mission.200 This category is defined as foreigners who come to Cameroon in an official 
+capacity as part of their professional activities.201 Although the law does not explicitly refer to international assisting actors in 
+disaster situations, the category of people of mission could potentially apply to international relief personnel. As per article 20, 
+there are four categories of entry visas: 
+ 
+1) the transit visa; 
+ 
+ 
+Law 97/012, Conditions of entry, 
+stay and exit of foreigners in 
+Cameroon 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Decree 2007/252 
+ 
+ 
+ 
+ 
+ 
+196 
+Decree n° 2005/124, Organization of the Ministry of Posts and Telecommunications, article 58. 
+197 
+Law n° 97/012, Conditions of entry, stay and exit of foreigners in Cameroon, article 1. 
+198 
+Law n° 97/012, article 4. 
+199 
+Law n° 97/012, article 13. 
+200 
+Decree n° 2007/252, article 2. 
+201 
+Decree n° 2007/252, article 5.
+
+[[page 49]]
+49 
+2) the temporary visa; and 
+3) the long stary visa.202 
+A temporary visa may be valid for one or multiple entries, and may be granted to a foreigner whose stay in Cameroon does not 
+exceed three months.203 The issuance of a temporary visa is subject to the production of, as the case may be, a passport or any 
+other travel document valid for at least six months; an airplane ticket or a round-trip ticket or, if applicable, a customs clearance 
+booklet; the required international vaccination certificates; proof of the purpose of the visit, as well as proof of adequate living 
+conditions and means of support for the duration of the stay; a certificate of accommodation issued by the person who undertakes 
+to accommodate the visitor, bearing the visa of the mayor of the territory concerned, or an invitation to an event organized on 
+the national territory, or a firm hotel reservation for the planned duration of the stay; and/or a mission order.204 
+ 
+(iv) 
+Registration of international assisting actors 
+ 
+The law does not appear to provide expedited procedures for international actors to register in Cameroon and therefore it appears 
+that the normal rules and procedures would apply. 
+ 
+However, the General Tax Code does provide in article 337 a list of entities which can be registered in Cameroon free of charge, 
+which includes, generally, international organizations as well as all actors whose registration is the responsibility of the State.205 
+Furthermore, Law n° 99/014 establishes the regulations governing non-governmental organizations in Cameroon. Article 3 states 
+that the missions of general interest of non-governmental organizations are defined according to the priorities set by the public 
+authorities, in particular in the legal, economic, social, cultural, health, sports, educational and humanitarian fields in 
+environmental protection or human rights promotion.206 As per article 4, any duly declared association or any duly authorized 
+foreign association justifying an effective contribution of at least three years in one of the fields referred to in article 3, may be 
+approved for the status of NGO. It must produce a file for this purpose including: 
+ 
+a) a stamped application at the current rate; 
+b) a copy of the receipt of the declaration or the act of authorization, as the case may be; 
+ 
+ 
+Law 99/014 
+ 
+ 
+General Tax Code 2022 
+ 
+ 
+ 
+ 
+202 
+Decree n° 2007/252, article 20. 
+203 
+Decree n° 2007/252, article 23. 
+204 
+Decree n° 2007/252, article 29. 
+205 
+General Tax Code 2022, article 337. 
+206 
+Law n° 99/014, Governing non-governmental organizations, article 3.
+
+[[page 50]]
+50 
+c) the evaluation report of the activities of at least three (3) years and the program of activities; 
+d) the minutes of the extraordinary general meeting in lieu of the constitutive meeting of the NGO; 
+e) four copies of the statutes of the NGO; and 
+f) 
+the name, purpose, headquarters of the NGO as well as the names, professions and addresses of those who in any 
+capacity are responsible for its administration or management.207 
+(v) 
+Recognition of professional qualification of foreign personnel 
+ 
+The Labor Code of Cameroon does not appear to establish specific procedures for the recognition of foreign professional 
+qualifications of international disaster assistance personnel, and no other relevant laws could be located for the purposes of this 
+review. 
+ 
+ 
+Law 92/007, Labor Code 
+ 
+(vi) 
+Tax and currency exchange for disaster relief activities 
+ 
+Cameroon has a residence-based tax system, in terms of which residents are subject to tax on their world-wide income, whereas 
+non-residents are subject to tax only on their Cameroon-sourced income.208 The tax law of Cameroon does not define the term 
+“resident”. However, it has established a territoriality rule in terms of which companies “operating” in Cameroon are subject to 
+tax in Cameroon.209 An entity is deemed to be operating in Cameroon if has its headquarters, place of effective management, a 
+permanent establishment or dependent agent in Cameroon or if it carries out activities that form a full commercial cycle in 
+Cameroon.210 
+ 
+The General Tax Code list of types of entities exempted from the corporate income tax in article 4, including certain nongovernmental organisations, but international disaster assistance is not specifically mentioned. The General Tax Code does, 
+however, state that the net taxable profit is established after deduction of all expenses directly required by the exercise of the 
+taxable activity in Cameroon. Such activities include, among others, donations made on the occasion of disasters, deductible in 
+the forms and conditions laid down by order of the Minister of Finance. In addition, the Code makes provision for diplomatic and 
+consular missions to benefit from a wide range of tax exemptions, as well as for international organisations to benefit from a wide 
+ 
+ 
+ 
+ 
+207 
+Law n° 99/014, article 4. 
+208 
+ENS, Doing Business in Cameroon, available at https://www.ensafrica.com/doing-business/download?termId=17. 
+209 
+ENS, Doing Business in Cameroon, available at https://www.ensafrica.com/doing-business/download?termId=17. 
+210 
+ENS, Doing Business in Cameroon, available at https://www.ensafrica.com/doing-business/download?termId=17.
+
+[[page 51]]
+51 
+range of tax exemptions in terms of headquarters agreements entered into between the organisation and the Government of 
+Cameroon. 
+ 
+Law n° 99/014 provides in article 18 that duly approved NGOs benefit from tax exemptions, registration fees, in accordance with 
+the General Tax Code and the Registration Code. They are also exempt from Value Added Tax, in accordance with the legislation 
+in force, and the tax and customs regime applicable to NGOs is specified, as necessary, by the finance law.211 
+ 
+(vii) 
+Freedom of movement of international assisting actors during a disaster response 
+ 
+There do not appear to be any provisions that explicitly facilitate the free movement and access of international assisting actors 
+in Cameroon. 
+ 
+(viii) 
+Safety and Security of international assisting actors 
+ 
+The law does not appear to contain specific provisions on the safety and security of international assisting actors. However, as 
+stated above, the Civil Protection Law provides in article 8 that the use of civil protection resources is left to the discretion of the 
+administrative authorities and that, when required the Civil Protection organizations are supported by the army, the Gendarmerie 
+or the Police, upon request of the competent authority.212 
+ 
+ 
+(ix) 
+Additional facilities for international disaster relief 
+ 
+There do not appear to be additional facilities related to international disaster relief operations. 
+ 
+ 
+Please include other applicable information relating to legal facilities here. 
+ 
+Legal facilities under international law 
+ 
+Cameroon subscribes to the monist approach to international law, according to which international agreements automatically 
+become part of domestic law as soon as they are ratified and published. This is provided for in terms of Article 45 of the 
+Constitution of Cameroon, which states that approved or ratified treaties and international agreements shall, following their 
+ 
+ 
+ 
+ 
+211 
+Law n° 99/014, article 18. 
+212 
+Law n° 86/016, General Reorganization of Civil Protection, article 8.
+
+[[page 52]]
+52 
+publication (in the official national gazette), override national laws, provided the other party implements the said treaty or 
+agreement. 
+ 
+There are a number of international agreements of relevance to international disaster assistance. Most relevant to this study are 
+those instruments that expedite and facilitate the provision of international humanitarian assistance. The Tampere Convention on 
+the Provision of Telecommunication Resources for Disaster Mitigation and Relief Operations (Tampere Convention) provides legal 
+facilities for the importation of telecommunications equipment and resources during emergencies, specifically requiring state 
+parties to reduce or remove regulatory barriers to the use of telecommunication resources for disaster relief.213 With regards to 
+transport, of most relevance is Annexe 9 of the Chicago Convention on Civil Aviation (Chicago Convention) which provides 
+procedural guidance the clearance of aircrafts containing humanitarian assistance in response to disasters. Further, the 
+Convention on the Facilitation of International Maritime Traffic mandates parties to facilitate the entry and exit of vessels engaged 
+in natural disaster relief work and facilitate the entry of persons and cargo related to natural disaster relief work.214 
+ 
+In terms of customs, the International Convention on the Simplification and Harmonisation of Customs Procedures (Kyoto 
+Convention), 215 which was adopted in 1973 and revised in 1999, and the Convention on Temporary Admission (Istanbul 
+Convention),216 simplify and harmonise customs clearance procedures for the importation of goods. Specifically, Annexe B3 of the 
+Kyoto Convention recommends as practice that states exempt goods, including “foodstuffs, medicaments, clothing and blankets 
+sent as gifts to an approved charitable or philanthropic organisation for distribution free of charge to needy persons by the 
+organisation or under its control”.217 Annexe J5 provides guidelines to expedite the clearance of relief consignments intended to 
+assist those affected by disasters. Annexe B2 to the Istanbul Convention regulates the importation of professional and 
+communication equipment for practitioners of various disciplines in support to relief efforts. The measures and exemptions for 
+temporary admission of goods for humanitarian purposes in response to natural disasters and other catastrophes are stipulated 
+in Annexe B9. In addition, Annexe C of the Istanbul Convention allows for the temporary admission of means of transport used by 
+a foreign entity and Annexe D allows for temporary admission of animals, including those involved in rescue operations. 
+ 
+ 
+ 
+ 
+213 
+See article 9 of the Tampere Convention on the Provision of Telecommunication Resources for Disaster Mitigation and Relief Operations, June 18, 1998, UN depositary notification 
+C.N.608.1998.TREATIES-8 of Dec. 4 1998 (entered into force Jan. 8, 2005) (Tampere Convention). 
+214 
+See article 5.11 and 5.12 of Annexe 1 of the Convention on the Facilitation of International Maritime Traffic, 9 April 1965, 591 U.N.T.S. 265. 
+215 
+Protocol of Amendment to the International Convention on the Simplification and Harmonization of Customs Procedures of 18 May 1973, 26 June 1999. 
+216 
+Convention on Temporary Admission, 26 June 1990. 
+217 
+Annexe B.3 to the Kyoto Convention, recommendation 7.
+
+[[page 53]]
+53 
+It is also relevant to note treaties related to privileges and immunities law. The doctrine of privileges and immunities is not directly 
+linked to disasters.218 However, it is essential for those entities involved in disaster response to which it applies, as it addresses 
+many of the access and operations related issues identified as problematic in field operations, as it typically allows the holder of 
+privileges and immunities to easily enter, exit and operate in a foreign country with minimum interference from domestic 
+authorities.219 Much of the customary law in the area of privileges and immunities has been codified in the Vienna Convention on 
+Diplomatic Relations220 and the Vienna Convention on Consular Relations.221 However, personal diplomatic and consular privileges 
+and immunities generally do not extend outside the scope of mission staff and their families, and therefore civil protection, military 
+and other disaster responders generally do not benefit from them.222 Intergovernmental organisations have also traditionally been 
+granted privileges and immunities to enable them to carry out their functions without undue interference, but in general NGOs do 
+not benefit from privileges and immunities under international law.223 
+ 
+In addition, the Framework Convention on Civil Defence Assistance provides a legal framework to reduce obstacles for effective 
+international cooperation between states in disaster settings. It is also worth mentioning the Convention on the Safety of UN and 
+Associated Personnel (UN Safety Convention) and the Optional Protocol thereto, which imposes an obligation on a state hosting a 
+UN operation to protect UN personnel and property to prevent or reduce any impunity for those who attack UN or associated 
+personnel or property.224 
+ 
+In terms of human rights treaties, the Convention on the Rights of Persons with Disabilities references disaster assistance the most 
+directly. State parties are required to take all necessary measures to ensure the protection and safety of persons with disabilities 
+in situations of risk, including humanitarian emergencies and natural disasters.225 In addition, there are a number of global human 
+rights treaties, such as the International Covenant on Civil and Political Rights226 and the International Covenant on Economic, 
+Social and Cultural Rights227 that set out rights closely linked to disaster relief and recovery assistance. These include the rights to 
+life, food and water, housing, clothing, health, livelihood, and freedom from discrimination.228 
+ 
+ 
+ 
+218 
+2007 IDRL Study, page 39. 
+219 
+2007 IDRL Study, page 39. 
+220 
+Vienna Convention on Diplomatic Relations, April 18, 1961, 500 U.N.T.S. 95. 
+221 
+Vienna Convention on Consular Relations, April 24, 1963, 596 U.N.T.S. 261. 
+222 
+2007 IDRL Study, page 40. 
+223 
+2007 IDRL Study, page 40. 
+224 
+UN Safety Convention, articles 7 and 11. 
+225 
+See article 11 of the Convention on the Rights of Persons with Disabilities. 
+226 
+International Covenant on Civil and Political Rights, 16 December 1966, 999 U.N.T.S. 171. 
+227 
+International Covenant on Economic Social and Cultural Rights, 16 December 1966, 999 U.N.T.S. 3. 
+228 
+2007 IDRL Study, page 34.
+
+[[page 54]]
+54 
+ 
+There are also instruments which regulate the management of specific types of disasters or emergencies. For example, the 
+International Health Regulations (the IHR)229 regulate health emergencies with potential transboundary effects, defining the rights 
+and responsibilities for state parties in handling outbreaks and providing public health measures for international traffic and travel. 
+Another example is the Convention on Assistance in the Case of a Nuclear Accident or Radiological Emergency, which sets out 
+rules for the initiation, coordination, and operation of international assistance operations in case of nuclear or radiological events 
+as well as for legal facilities to be granted for the effective administration of assistance.230 A third example is the International 
+Convention on Oil Pollution Preparedness, Response and Cooperation 231 and its Protocol on Preparedness, Response and 
+Cooperation to Pollution Incidents by Hazardous and Noxious Substances232 which require state parties to cooperate and provide 
+advisory services, technical support, and equipment when necessary and within their capabilities and resources, to respond to an 
+oil pollution incident, as well as to take the legal or administrative measures necessary to facilitate the arrival and utilisation of 
+vessels and the expeditious movement of personnel, cargoes, materials and equipment.233 
+ 
+In terms of regional instruments, article 23 of the African Charter on the Rights and Welfare of the Child234 (ACRWC) provides that 
+states shall take all appropriate measures to ensure that refugee children as well as children who have been internally displaced, 
+including by disasters, receive appropriate humanitarian assistance. In addition, the African Union Convention for the Protection 
+and Assistance of Internally Displaced Persons in Africa (Kampala Convention), provides in article 5(7) that state parties are 
+obligated to facilitate the coordination of international relief and allow rapid and unimpeded passage of humanitarian relief to 
+internally displaced persons. Further, states shall enable and facilitate the role of local and international organisations and 
+humanitarian agencies, as well as other relevant actors, to provide protection and assistance to IDPs. 
+ 
+The tables below examine which of the above-mentioned agreements Cameroon is a state party to: 
+ 
+Convention 
+State party 
+Tampere Convention235 
+No 
+ 
+ 
+ 
+229 
+World Health Assembly, Revision of the International Health Regulations, Doc. No. WHA58.3 (23 May 2005). 
+230 
+Convention on Assistance in the Case of a Nuclear Accident or Radiological Emergency Sept. 26, 1986, 1439 U.N.T.S. 275, articles 1, 2, 3, 4, 7, 8, 9, 10, and 11. 
+231 
+International Convention on Oil Pollution Preparedness, Response and Cooperation, 30 November 1990, 30 I.L.M. 733 (1990). 
+232 
+Protocol on Preparedness, Response and Co-operation to Pollution Incidents by Hazardous and Noxious Substances, 15 March 2000. 
+233 
+See article 7 on the Convention on Oil Pollution Preparedness, Response and Cooperation and article 5 of the Protocol on Preparedness, Response and Cooperation to Pollution 
+Incidents by Hazardous and Noxious Substances. 
+234 
+African Charter on the Rights and Welfare of the Child, 11 July 1990, OAU Doc. CAB/LEG/24.9/49 (1990). 
+235 
+Information obtained from the UN Treaty Collection (UNTC) available at https://treaties.un.org/pages/ViewDetails.aspx?src=TREATY&mtdsg_no=XXV-4&chapter=25.
+
+[[page 55]]
+55 
+Chicago Convention236 
+Yes 
+Convention on the Facilitation of International Maritime Traffic237 
+Yes 
+Annexe B.3 to the Kyoto Convention238 
+Yes 
+Annexe J-5 to the Kyoto Convention239 
+Yes 
+Annexe B9 to the Istanbul Convention240 
+No 
+Annexe D to the Istanbul Convention241 
+No 
+Vienna Convention on Diplomatic Relations242 
+Yes 
+Vienna Convention on Consular Relations243 
+Yes 
+Framework Convention on Civil Defence Assistance244 
+No 
+UN Safety Convention and Optional Protocol245 
+No 
+Convention on the Rights of Persons with Disabilities246 
+Signed, but not ratified. 
+IHR247 
+Yes 
+Convention on Assistance in the Case of a Nuclear Accident or Radiological 
+Emergency248 
+Yes 
+International Convention on Oil Pollution Preparedness, Response and 
+Cooperation249 
+No 
+ 
+ 
+ 
+236 
+Information obtained from ICAO available at https://www.icao.int/publications/Pages/doc7300.aspx. 
+237 
+Information obtained from the UNTC available at https://treaties.un.org/Pages/showDetails.aspx?objid=0800000280129d04. 
+238 
+Information obtained from the World Customs Organization (WCO) available at 
+http://www.wcoomd.org/en/Topics/Facilitation/Instrument%20and%20Tools/Conventions/pf_revised_kyoto_conv/Instruments. 
+239 
+Information obtained from the WCO available at http://www.wcoomd.org/en/Topics/Facilitation/Instrument%20and%20Tools/Conventions/pf_revised_kyoto_conv/Instruments. 
+240 
+Information obtained from the UNTC available at https://treaties.un.org/Pages/showDetails.aspx?objid=08000002800b2770&clang=_en. 
+241 
+Information obtained from the UNTC available at https://treaties.un.org/Pages/showDetails.aspx?objid=08000002800b2770&clang=_en. 
+242 
+Information obtained from https://treaties.un.org/pages/ViewDetails.aspx?src=TREATY&mtdsg_no=III-3&chapter=3&clang=_en. 
+243 
+Information obtained from the UNTC https://treaties.un.org/pages/ViewDetails.aspx?src=TREATY&mtdsg_no=III-6&chapter=3 . 
+244 
+Information obtained from the UNTC available at https://treaties.un.org/Pages/showDetails.aspx?objid=0800000280086ecb&clang=_en. 
+245 
+Information obtained from the UNTC available at https://treaties.un.org/pages/ViewDetails.aspx?src=TREATY&mtdsg_no=XVIII-8&chapter=18 and 
+https://treaties.un.org/Pages/ViewDetails.aspx?src=TREATY&mtdsg_no=XVIII-8-a&chapter=18&clang=_en. 
+246 
+Information obtained from the UNTC available at https://treaties.un.org/Pages/ViewDetails.aspx?src=IND&mtdsg_no=IV-15&chapter=4. 
+247 
+Information obtained from World Health Organisation available at https://www.who.int/ihr/legal_issues/states_parties/en/ . 
+248 
+Information obtained from the International Atomic Energy Agency available at https://www.iaea.org/topics/nuclear-safety-conventions/convention-assistance-case-nuclearaccident-or-radiological-emergency#:~:text=The%20Convention%20on%20Assistance%20in,in%20the%20event%20of%20nuclear. 
+249 
+Information obtained from the UNTC https://treaties.un.org/Pages/showDetails.aspx?objid=08000002800aada6.
+
+[[page 56]]
+56 
+ACRWC250 
+Yes 
+Kampala Convention251 
+Yes 
+ 
+At sub-regional level, the Regional Strategy for Central Africa for risk prevention, disaster management and climate change 
+adaptation (June 2012) is based in the framework of the Hyogo Framework for Action, and has the objective to “contribute to the 
+achievement of sustainable development and the reduction of poverty through the substantial reduction of the social, economic 
+and environmental impacts of disasters in accordance with the African Regional Strategy and the Hyogo Framework for Action.” It 
+does not contain any provisions directly related to international disaster assistance. 
+ 
+Do your country’s laws and regulations set out quality standards for international assisting actors? 
+ 
+Current law on civil protection and disaster management in Cameroon do not appear to provide minimum quality standards for 
+international humanitarian assistance. 
+ 
+ 
+ 
+Statutes of the Cameroon Red Cross 
+Society 
+ 
+Do your country’s laws and regulations set out eligibility requirements for international assisting actors to receive legal 
+facilities? 
+ 
+There do not appear to be eligibility requirements set specifically for international assisting actors to receive legal facilities in 
+Cameroon. 
+ 
+ 
+ 
+Do your country’s laws and regulations establish a specialised unit for expediting the entry of international disaster assistance? 
+ 
+Current laws on civil protection and disaster management in Cameroon do not appear to establish a specialized unit for expediting 
+the entry of international assistance. 
+ 
+ 
+Do your country’s laws and regulations provide adequate transparency safeguards and accountability mechanisms governing 
+international disaster assistance? 
+ 
+ 
+Law 2016/007, Criminal Code 
+ 
+ 
+ 
+ 
+250 
+Information obtained from the AU available at https://au.int/en/treaties/african-charter-rights-and-welfare-child. 
+251 
+Information obtained from the AU available at https://au.int/sites/default/files/treaties/36846-slAFRICAN%20UNION%20CONVENTION%20FOR%20THE%20PROTECTION%20AND%20ASSISTANCE%20OF%20INTERNALLY%20DISPLACED%20PERSONS%20IN%20AFRICA%20%28KAM
+PALA%20CONVENTION%29.pdf.
+
+[[page 57]]
+57 
+The law does not appear to contain explicit transparency, safeguards and accountability mechanisms governing international 
+disaster relief and initial recovery assistance, although in most instances international actors would be subject to the normal laws 
+applicable in the country, including criminal laws. 
+ 
+However, a number of provisions may be indirectly relevant. The Civil Protection Law states in article 10 that faults and offences 
+committed by the personnel used in the execution of Civil Protection tasks are normally the responsibility of the disciplinary bodies 
+of the corps of origin of these personnel and of the ordinary law courts. In times of alert, state of emergency or exception, or 
+mobilization, the same faults and offences are the responsibility of the disciplinary bodies and military courts.252 As per article 11, 
+any person who, being the subject of a regular requisition, refuses or refrains, without a health reason, from fulfilling the duties 
+incumbent upon him in matters of Civil Defense, shall be punished by imprisonment for a period of one month to two years and a 
+fine of 25,000 to 500,000 francs or by one of these two penalties only. The penalties provided for in this article shall also apply to 
+any volunteer who refuses to comply with the obligations arising from his commitment. The same shall apply to any individual 
+who obstructs the performance of Civil Defense duties.253 
+ 
+ 
+ 
+ 
+ 
+Law 86/016, General Reorganization 
+on Civil Protection 
+ 
+ 
+ 
+ 
+ 
+ 
+Do your country’s laws and regulations outline rules and procedures for international disaster assistance sent from, or transiting 
+through your country? 
+ 
+The law does not appear to contemplate special procedures for the transit of international assistance personnel sent from and 
+transiting through Cameroon. 
+ 
+The domestic law in Cameroon also does not appear to provide a special regime for international disaster relief goods and 
+equipment sent from, or transiting through Cameroon. 
+ 
+However, the CEMAC Customs Tariff Code provides in article 276 that goods and services that may be exempt from exit duties and 
+taxes include: 
+ 
+a) goods exported by the Red Cross or other works of solidarity of a national character; and 
+b) exceptional consignments devoid of any commercial character.254 
+ 
+ 
+Law 97/012, Conditions of entry, 
+stay and exit of foreigners in 
+Cameroon 
+ 
+General Tax Code 2022 
+ 
+CEMAC Customs Tariff Code 
+ 
+ 
+ 
+ 
+252 
+Law n° 86/016, article 10. 
+253 
+Law n° 86/016, General Reorganization of Civil Protection, article 11. 
+254 
+CEMAC Customs Tariff Code, article 276.
+
+[[page 58]]
+58 
+4. Recovery 
+Are there clear institutional mandates that specify the role of each agency, and clarify the responsibilities of the various 
+stakeholders, in the recovery? 
+ 
+There do not appear to be detailed provisions defining the different phases of DRM, including recovery and rehabilitation, or the 
+institutional mandates of the various stakeholders with respect to each phase. 
+ 
+However, the PNC focuses its third strategic axis on activities linked to rehabilitation and, more specifically, on the adoption and 
+execution of support measures for victims aimed at restoring them in their dignity; and rehabilitation of infrastructure.255 Some 
+recovery mechanisms provided in the PNC are the following: 
+ 
+• 
+at the environmental level: to determine and put in place the technical means to assess and deal with the consequences 
+in terms of manifestations, severity and duration; 
+• 
+at the health and social level: identify health and social repercussions and put in place follow-up procedures; and ensure 
+the psychological follow-up of the involved and the actors; 
+• 
+at the economic level: take charge of the repercussions in terms of job loss, destruction of the economic fabric; 
+rehabilitate degraded homes, sites and infrastructure; 
+• 
+feedback: each PNC actor takes stock of their action by highlighting the missions carried out, the resources committed, 
+the difficulties encountered and the proposals; and 
+• 
+needs: the needs in human, material, logistical and financial resources will be determined according to the type of 
+rehabilitation to be implemented. 256 
+ 
+ 
+ 
+ 
+ 
+ 
+National Contingency Plan 2011 
+ 
+Is early involvement of line ministries provided for? 
+ 
+As stated above, limited information could be located online relating to the engagement of various stakeholders in the recovery 
+phase, including that of relevant ministries. From the documents reviewed, laws and policies in Cameroon do not appear to contain 
+provisions on early involvement of line ministries. 
+ 
+ 
+Are authorities and mandates for recovery from local to national clear? 
+ 
+ 
+ 
+ 
+ 
+255 
+PNC 2011, page 9. 
+256 
+PNC 2011, page 29-30.
+
+[[page 59]]
+59 
+Following what has been stated above, mandates for recovery, from the local to the national level, do not appear to be clearly 
+outlined either in the DRM-related laws reviewed for the purpose of this mapping. 
+ 
+Is community participation mandated in recovery decision making? 
+ 
+Community engagement does not appear to be explicitly mandated in recovery decision making as per the documents reviewed. 
+ 
+ 
+5. Liability and Accountability 
+ 
+Are there public reporting or parliamentary oversight mechanisms for government agencies tasked with DRM, DRR, Response 
+and Recovery established and is such information made publicly available, and is there a role for the judiciary in enhancing 
+accountability for DRM? 
+ 
+With regards to reporting, Decree n° 98/031 establishes in terms of article 12 that the President of the National Crisis Committee 
+regularly reports on the Committee's activities to the President of the Republic.257 The Crisis Committee draws up a general report 
+on the disaster or the major risk explaining all the measures to be taken, immediately and in the long term, to curb the effects or 
+prevent their occurrence.258 In particular, it assesses the public aid and assistance measures that may be necessary in favour of 
+certain categories of victims, in particular minor children and displaced persons.259 
+ 
+Furthermore, the coordinator of the ONR presents each quarter to the Minister responsible for Territorial Administration and 
+Decentralization, a report on the functioning of the ONR, and any difficulties encountered.260 A semi-annual report is sent to the 
+Prime Minister, Head of Government.261 
+ 
+As per Decree n° 2005/104, the MINADT also has an internal oversight mechanism. More specifically, the oversight mechanism 
+operates at the national and local level. At the national level, there is the General Inspection, responsible for the following: 
+ 
+• 
+the evaluation of the performance of the services in relation to the objectives set, in liaison with the Secretary General; 
+• 
+internal control and evaluation of the functioning of the Ministry's services; 
+ 
+ 
+ 
+ 
+Decree 98/031, Organization of 
+Emergency and Rescue Plans 
+ 
+ 
+ 
+ 
+Presidential Order 037/PM, National 
+Risk Observatory 
+ 
+ 
+Decree 2005/104, Organization of the 
+Ministry of Territorial Administration 
+and Decentralization 
+ 
+ 
+ 
+ 
+ 
+257 
+Decree n° 98/031, article 12. 
+258 
+Decree n° 98/031, article 12. 
+259 
+Decree n° 98/031, article 12. 
+260 
+Presidential Order n° 37/PM, article 9. 
+261 
+Presidential Order n° 37/PM, article 9.
+
+[[page 60]]
+60 
+• 
+information from the Minister and the Minister Delegate on the quality of the functioning of the performance of the 
+services; 
+• 
+the evaluation, the application of organizational techniques and methods as well as the simplification of administrative 
+work, in conjunction with the departments responsible for administrative reform; and 
+• 
+the implementation of the anti-corruption strategy, in liaison with the Ministerial Unit for the Fight against Corruption.262 
+The General Inspection consists of three General Inspectors, responsible for the Territorial Administration, the Decentralized 
+Territorial Authorities, and electoral matters, respectively.263 At the local level, the oversight mechanism operates through the 
+Decentralized Territorial Authority Control Brigade264 This brigade is responsible for monitoring, and evaluating the operation and 
+management of Decentralized Territorial Authorities.265 It includes, in addition to the Chief of Brigade, five Controllers who, in the 
+accomplishment of their missions, have access to the documents of the communities controlled, in compliance with the texts in 
+force.266 At the end of each control or evaluation mission, a report shall be sent to the Minister, with a copy to the Minister 
+Delegate and to the Secretary General.267 
+ 
+However, it is not clear whether these documents are made publicly available. 
+ 
+Are there legal and/or administrative sanctions (as appropriate) established for public officials, individuals and businesses for 
+a gross failure to fulfil their duties on (i)DRR (ii) preparedness and response and (iii) Recovery? 
+ 
+As stated above, the Civil Protection Law states in article 10 that faults and offences committed by the personnel used in the 
+execution of Civil Protection tasks are normally the responsibility of the disciplinary bodies of the corps of origin of these personnel 
+and of the ordinary law courts. In times of alert, state of emergency or exception, or mobilization, the same faults and offences 
+are the responsibility of the disciplinary bodies and military courts.268 As per article 11, any person who, being the subject of a 
+regular requisition, refuses or refrains, without a health reason, from fulfilling the duties incumbent upon him in matters of Civil 
+Defense, shall be punished by imprisonment for a period of one month to two years and a fine of 25,000 to 500,000 francs or by 
+one of these two penalties only. The penalties provided for in this article also apply to any volunteer who refuses to comply with 
+ 
+ 
+ 
+Law 86/016, General Reorganization 
+on Civil Protection 
+ 
+ 
+ 
+ 
+262 
+Decree n° 2005/104, article 5(1). 
+263 
+Decree n° 2005/104, article 5(2). 
+264 
+Decree n° 2005/104, section IV. 
+265 
+Decree n° 2005/104, article 51. 
+266 
+Decree n° 2005/104, article 51. 
+267 
+Decree n° 2005/104, article 51. 
+268 
+Law n° 86/016, article 10.
+
+[[page 61]]
+61 
+the obligations arising from his commitment. The same shall apply to any individual who obstructs the performance of Civil Defense 
+duties.269 
+ 
+Are rights relevant to DRM established, including the right to disaster information, and enforcement mechanisms provided? 
+ 
+From the documents reviewed, laws in Cameroon do not appear to clearly establish rights relevant to DRM. 
+ 
+ 
+Are there incentives for compliance with laws and regulations for DRM (i) DRR and (ii) Response and Preparedness, and 
+Recovery? 
+ 
+There do not appear to be any incentives for compliance with laws and regulations for DRM included in the documents available 
+for review. 
+ 
+ 
+Does the law provide liability protections to disaster rescue and relief personnel (including volunteers), governments, National 
+Societies and civil society organisations? 
+ 
+There do not appear to be any clear procedures in domestic law for ensuring liability protections for volunteers, the CRCo and civil 
+society organizations. 
+ 
+ 
+Are mechanisms in place to prevent unlawful diversion, misappropriation, or fraud concerning disaster relief operations? 
+ 
+The Criminal Code provides in its article 134 that it is a crime for any national, foreign or international civil servant or official who, 
+for himself or for a third party, solicits, approves or receives offers, promises, gifts or presents to do, refrain from doing or postpone 
+an act of his office.270 This is punishable by imprisonment of five to ten years and one fine of two hundred thousand to two million 
+francs. 
+ 
+Furthermore, article 160 provides that it is a crime to assault or threats, determines a civil servant to act or abstain irregularly, 
+punishable by imprisonment of two to ten years and a fine of twenty thousand to one million francs.271 Article 160 states that is 
+punished by the penalties of article 160 of the present code, whoever, by means of assault, threats, gifts or promises, corrupts a 
+ 
+ 
+Law 2016/007, Criminal Code 
+ 
+ 
+ 
+ 
+269 
+Law n° 86/016, article 11. 
+270 
+ Law n° 2016/007, Criminal Code, article 134. 
+271 
+ Law n° 2016/007, article 160.
+
+[[page 62]]
+62 
+person with real or supposed influence in order to obtain any advantage from the public or private authority.272 The civil servant 
+or public agent who, for himself or for another person, solicits, accepts or receives offers, promises or gifts in order to obtain any 
+advantage granted by the public authority or by an organization under the control of the public authority, contracts, businesses 
+or other benefits resulting from agreements concluded with the public authority or an organization under the control of the public 
+authority, thus abusing the real or supposed influence given to him by his position or mandate, shall be punished by the same 
+penalties.273 
+ 
+6. Public Health Emergencies 
+What are the main laws, policies and plans which govern preparedness and response to public health emergencies? 
+ 
+Decree n° 2002/209 establishes the organization of the Ministry of Public Health. Article 29 states that, under the authority of a 
+Deputy Director, the Sub-Directorate of Health Care Organization is responsible for, among others, the coordination of care for 
+disaster victims and non-epidemic emergencies.274 Furthermore, article 107 provides that under the authority of a Head of 
+Division, the Cooperation Division is responsible for: 
+ 
+• 
+monitoring technical cooperation with foreign countries and international organizations; 
+• 
+the elaboration, coordination and follow-up of partnership agreements with national and international nongovernmental organizations, in conjunction with the Legal Affairs and Legal Affairs and Litigation Division and the other 
+departments concerned; 
+• 
+the examination of partnership files and the maintenance of the file of Nongovernmental organizations and other 
+associations working in the field of health; 
+• 
+the follow-up of decentralized cooperation in the health sector, in liaison with the administrations concerned; 
+• 
+the development and monitoring of the implementation of the partnership with the private health sector, in liaison with 
+the Legal Affairs and Litigation Division and the other departments concerned; 
+• 
+preparation and follow-up of negotiations in the health sector, in liaison with the Ministries concerned; 
+• 
+monitoring the implementation of bilateral and multilateral agreements in the health sector; 
+• 
+the follow-up of technical assistance files; 
+• 
+maintaining the file of cooperating personnel; 
+ 
+ 
+Decree 2002/209, Ministry of Public 
+Health 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+272 
+ Law n° 2016/007, article 161. 
+273 
+ Law n° 2016/007, article 161. 
+274 
+Decree n° 2002/209, Ministry of Public Health, article 29.
+
+[[page 63]]
+63 
+• 
+researching and centralizing offers of scholarships from international organizations or foreign countries for transmission 
+to the Human Resources Department Human Resources; and 
+• 
+the evaluation of the partnership in the health sector.275 
+The Sectoral Health Strategy 2016-2027 (SHS) provides a framework for guiding government action in the area of health. The main 
+objective of the SHS 2016-2027, is to contribute to a development of healthy, productive human capital capable of supporting 
+strong, inclusive and sustainable growth.276 The SHS highlights that the occurrence of epidemics and / or disasters is always a public 
+health problem. To cope with this, it establishes a framework for strengthening the epidemic surveillance system, as well as to 
+reinforce preparedness for response to epidemics and other PHEs, to promote research, awareness among the population, and to 
+contribute to an improved coordination system, among other things. 277 For this, it will be necessary to: (i) carry out a permanent 
+analysis of the factors that determine the occurrence and distribution of diseases or other public health events (surveillance); (ii) 
+prepare accordingly to provide an early and timely response based on quality information.278 
+ 
+Lastly, the PNC recognizes health risks within its framework, outlining their different types of impact (health impact and economic 
+impact) and some general guidelines for action. Health risks include epidemics (diseases with epidemic potential or epidemic 
+influenza), epizootics (animal plagues), and food poisoning.279 
+ 
+In February 2020, in the beginning of the global outbreak of the Covid-19 pandemic, the government of Cameroon developed a 
+Covid-19 Preparedness and Response Plan with the general objective to detect early a possible imported case of the virus in the 
+country, and to provide an effective response if necessary.280 The more specific objectives included early detection of any imported 
+case; immediately take charge of any eventual case; ensuring the implementation of control measures; ensuring good multisectoral coordination of preparedness and response activities; ensuring good information of the population and of the various 
+holders of national and international stakes; and providing the necessary logistics for the effective management of a possible 
+importation of cases of pneumonia with the new coronavirus 2019 in Cameroon.281 The different intervention strategies provided 
+in the plan are: 
+ 
+ 
+ 
+ 
+The Sectoral Health Strategy 20162027 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+National Contingency Plan 2011 
+ 
+ 
+Covid-19 Preparedness and 
+Response Plan in Cameroon 2020 
+ 
+ 
+ 
+ 
+ 
+275 
+Decree n° 2002/209, article 107. 
+276 
+Sectoral Health Strategy (SHS) 2016-2027, page 19. 
+277 
+SHS 2016-2027, page 129-131. 
+278 
+SHS 2016-2027, page 129. 
+279 
+PNC 2011, page 7. 
+280 
+Cameroon Covid-19 Preparedness and Response Plan 2020, chapter II, section 1. 
+281 
+Cameroon Covid-19 Preparedness and Response Plan 2020, chapter II, section 2.
+
+[[page 64]]
+64 
+a) multisectoral and international coordination; 
+b) surveillance for early case detection; 
+c) investigation teams and rapid intervention; 
+d) strengthened capacities of laboratories; 
+e) infection prevention and control measures in hospitals and in the community; 
+f) 
+adequate case management; 
+g) risk communication and community engagement; and 
+h) strengthened logistics.282 
+ 
+Which government and non-government actors do laws, policies and plans identify as responsible for responding to public 
+health emergencies? Please list each relevant actor and describe their roles and responsibilities. 
+ 
+As stated above, the main actor responding to PHEs appears to be the Ministry of Public Health. 
+ 
+In 2020, the Government adopted Decree n° 051/PM, establishing the Public Health Emergency Operations Coordination Center 
+(CCOUSP), placed under the Minister in charge of public health.283 The CCOUSP is a body for coordinating response operations to 
+PHEs, serving as a framework for consultation between the various national and international actors involved in the management 
+of PHEs and the coordination of related interventions.284 As such, the CCOUSP is responsible in particular for: 
+ 
+• 
+ensuring the implementation of response plans to PHEs; 
+• 
+developing, implementing and updating the program of simulation exercises for the preparation of the response to PHEs; 
+• 
+ensuring the immediate availability of the resources necessary for PHE interventions; 
+• 
+preparing the alert, health monitoring and response system; 
+• 
+ensuring capacity building for actors involved in the management of PHEs; 
+• 
+developing, disseminating and implementing standard operating procedures for the health management of PHEs; 
+• 
+liaising with civil protection, in the event of a PHE; 
+• 
+ensuring the emergency supply of medical and sanitary equipment.285 
+ 
+ 
+The Sectoral Health Strategy 20162027 
+ 
+ 
+ 
+ 
+ 
+Decree n° 051/PM, establishing the 
+Public Health Emergency Operations 
+Coordination Center 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+282 
+Cameroon Covid-19 Preparedness and Response Plan 2020, chapter IV. 
+283 
+Decree n° 051/PM, article 3. 
+284 
+Decree n° 051/PM, article 2. 
+285 
+Decree n° 051/PM, article 2.
+
+[[page 65]]
+65 
+ 
+Is there a coordination mechanism for the actors that are involved in responding to public health emergencies and, if so, which 
+actors are included in the coordination mechanism? Who has overall command and control for the response? 
+ 
+As stated above, the CCOUSP is a body for coordinating response operations to PHEs, serving as a framework for consultation 
+between the various national and international actors involved in the management of PHEs and the coordination of related 
+interventions.286 More specifically, it is composed by the Coordinating body, the Operational Units and the Incident Managers.287 
+The Coordinating body is responsible for: 
+ 
+• 
+coordinating the interventions of the various actors involved in the management of PHEs; 
+• 
+defining the working framework of the Centre; 
+• 
+drawing up a guide to the Centre's operations, in conjunction with the Incident Managers; 
+• 
+developing standard operating procedures and protocols; 
+• 
+ensuring the mobilization of the resources necessary for the interventions, 
+• 
+ensuring the proper functioning of the Centre.288 
+The CCOUSP operates in three modes: standby, alert mode and activation or response mode.289 Standby mode is a latent situation 
+or the centre's operating at minimum, outside of any PHE.290 The alert mode consists of the preparation by the Coordinator of the 
+Center of the necessary elements to submit to the appreciation of the Minister in charge of public health, with a view to triggering 
+by the latter, the alert on an imminent PHE.291 Lastly, the activation mode consists of the implementation of response mechanisms 
+to a PHE by a decision of the Minister responsible for public health.292 Depending on the severity of the emergency and the 
+importance of the measures to be implemented, there are three levels of activation of the response to a public health emergency: 
+i) the basic level or level 3; ii) the intermediate level or level 2; and iii) the maximum level or level 1.293 However, the coordination 
+mechanisms in the different levels of intervention are not clearly defined in the law. 
+ 
+ 
+ 
+ 
+Decree n° 051/PM, establishing the 
+Operations Coordination Center 
+Public Health Emergencies 
+ 
+ 
+ 
+ 
+ 
+286 
+Decree n° 051/PM, article 2. 
+287 
+Decree n° 051/PM, article 3. 
+288 
+Decree n° 051/PM, article 4. 
+289 
+Decree n° 051/PM, article 9. 
+290 
+Decree n° 051/PM, article 10. 
+291 
+Decree n° 051/PM, article 11. 
+292 
+Decree n° 051/PM, article 12. 
+293 
+Decree n° 051/PM, article 12.
+
+[[page 66]]
+66 
+Are public health emergencies governed by the same legal and institutional framework as other types of disasters (e.g. floods, 
+storms)? (That is, are they regulated by the same laws and managed by the same actors?) If public health emergencies are 
+governed by a separate, specialised legal and institutional framework, are there any linkages between that framework and the 
+framework for other types of disasters? 
+ 
+Although some DRM actors could be involved in the surveillance and management of PHEs, as stated above, thus establishing 
+some links between PHEs and DRM, the legal framework for the management PHEs appears to be codified in Decree 2002/209 
+and elaborated in the SHS 2016-2027. Also, in terms of coordination, the CCOUSP appears to be an operational center exclusively 
+working in the coordination of PHEs, including coordinating the interventions of the various actors involved in the management of 
+PHEs. While clear links to DRM actors are not set out, this may occur in practice. 
+ 
+In terms of linkages, the SHS provides in various sections links between PHEs and DRM, acknowledging the risks that natural 
+hazards pose to public health, and their potential to lead to PHEs. It also aims to contribute to the development of good practices 
+to build resilience against the effects of climate change on human health by (i) advocating to reduce the effects of deforestation 
+on health, promoting reforestation, promoting the use of improved stoves, the establishment of a “health” tax on the import and 
+use of high CO2 emission devices and the popularization of non-polluting alternative sources of energy; and (ii) strengthening 
+awareness of the harmful effects of climate change on the environment and health.294 
+ 
+ 
+ 
+ 
+ 
+ 
+The Sectoral Health Strategy 20162027 
+ 
+ 
+ 
+ 
+ 
+294 
+SHS 2016-2027, page 120.

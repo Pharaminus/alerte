@@ -1,0 +1,1340 @@
+[[page 1]]
+REPUBLIQUE DU CAMEROUN PAIX - TRAVAIL - PATRIE
+
+CET D me 0m De me mu me mn me
+
+PRESIDENCEDELAR
+PRESIDENCY OF
+SECRE AT GEHNERA
+SERVICE DUSIHIER LEGISLATIF ET RÉGLEMENTAIRE
+LEGISLARTE AND STATUTORY AFAIRS CARD IRDER SERVICE
+OPIE CERTIFIEE CONFORME
+_1TŸ CERTIFIED TRUE COPY
+
+ONE LE Du +2 #DEC 202
+
+RELATIVE A LA PROTECTION DES DONNEES A CARACTERE
+PERSONNEL AU CAMEROUN
+
+Le Parlement a délibéré et adopté, le Président
+de la République promulgue la loi dont la teneur
+suit :
+
+[[page 2]]
+PRÉSIDENCE DE LA REPUBLI
+PRESIDENCY OF TH
+
+R
+DER SLATIE ET RÉGLEMENTAIRE
+
+SERVICE DU FE 1RS CAR INDEX SERVICE
+TITRE 1 LEGISLA STATUTORT AFFAIRS CAR MOETSRUE
+
+DISPOSITIONS GENERALES, © = © 10 Rue cor *
+
+7 R
+
+F4
+
+CHAPITRE |
+DE L'OBJET ET DU CHAMP D'APPLICATION
+
+ARTICLE 1. La présente loi est relative à la protection des données à caractère
+personnel au Cameroun. A ce titre, elle a pour objet de garantir les droits et
+libertés fondamentaux des personnes en matière de traitement de leurs données
+à caractère personnel, quels qu'en soient la nature, le mode d'exécution ou les
+responsables.
+
+ARTICLE 2. Sont soumis aux dispositions de la présente loi :
+
+- tout traitement des données à caractère perso ué par l'Etat,
+les collectivités territoriales décentralisées où tout re personne
+physique ou morale ;
+
+- tout traitement de données à caractè songe de toute personne
+
+établie, résidant ou en transit au Cameroun
+
+- tout traitement de données à ct onnel, effectué par un
+responsable du traitement ou un sôübs-traitant établi au Cameroun ;
+
+- tout traitement de données ctère personnel effectué dans un
+territoire où le droit came s s'applique en vertu du droit
+international ou des cenventionSinternationales dûment ratifiées.
+
+ARTICLE 3- Sont exclus d d'application de cette loi :
+- les traitementäde
+personne
+ou d
+
+nées à caractère personnel effectués par une
+e dans le cadre exclusif de ses activités personnelles
+condition toutefois que les données ne soient pas
+ne communication systématique, à un tiers ou à la
+
+temporaires faites dans le cadre des activités techniques de
+ission et de fourniture d'accès utilisant un réseau de
+communications en vue du stockage intermédiaire et transitoire des
+données, afin de permettre à d’autres destinataires du service, le
+meilleur accès possible aux informations transmises ;
+
+- les traitements des données à caractère personnel effectués à des
+seules fins littéraires ou artistiques, archivistiques dans l'intérêt public,
+de recherche scientifique ou historique, statistique, ou de journalisme
+quel que soit le média utilisé dans le respect des règles déontologiques
+et éthiques de ces professions, notamment les mesures de sécurité
+garantissant le secret des sources journalistiques, ainsi que les règles
+
+2
+
+[[page 3]]
+de modération applicables aux fora de discussion mis en œuvre par les
+éditeurs d'information journalistique.
+
+ARTICLE 4.- Tout traitement des données à caractère personnel effectué par les
+autorités compétentes en matière de sécurité et de défense est régi par des
+textes particuliers.
+
+CHAPITRE II
+DES DEFINITIONS
+ARTICLE 5- Au sens de la présente loi et des textes réglementaires pris pour
+son application, les définitions ci-après sont admises :
+
+Anonymisation : processus de modification ou de suppressi ations à
+caractère personnel identifiables dans un ensemble de 3e
+ces données non attribuables à des individus spécifiqu
+
+Autorité : organisme public indépendant en chargede la protection des données
+à Caractère personnel.
+
+Certification : outil de conformité permétlent pondre aux besoins des
+professionnels qui souhaitent comm r le niveau de protection des
+ssus ou systèmes de données
+au regard des critères d’un référent uvé au préalable par l'Autorité de
+
+4
+
+qui consiste à transformer les données
+le en employant les moyens de cryptologie.
+
+Chiffrement : toute tec
+numériques en un fo j
+
+Communication
+transmission d'i
+dans un cadre “ro
+
+atique : processus organisé et structuré de
+de manière cohérente et efficace, généralement
+nnel ou institutionnel.
+
+ute manifestation de volonté expresse, non équivoque, non
+et éclairée par une information claire, précise et complète, par
+laquelle la personne concernée, ou son représentant légal, accepte que ses
+données à caractère personnel fassent l'objet d’un traitement.
+
+Copies temporaires : toutes données copiées momentanément dans un
+espace dédié, pour une durée limitée ou pour les besoins de fonctionnement du
+logiciel de traitement.
+
+Clauses contractuelles types : clauses des contrats types élaborés et publiés
+par l'Autorité de protection des données à caractère personnel pour encadrer
+juridiquement tout transfert de données à caraeté onnel-entre.de aurs
+
+ER
+ARIAT GENERAL
+
+; Û U FICHIER LEGISLATIF ET EGLEMENTAIRE
+EGISLATIVE AND STATUTORY AFFAIRS CARD INDEX SERVICE
+
+COPIE CERTIFIRE CONFORME
+CERTIFIEN TouE nnov
+
+[[page 4]]
+situés sur le territoire camerounais d’une part et, d'autre part, un acteur situé en
+dehors du territoire camerounais, dont le contenu ne peut être modifié que pour
+prévoir une protection plus importante des données à caractère personnel
+transférées.
+
+Destinataire : toute personne physique ou morale, habilitée à recevoir une
+communication des données à caractère personnel.
+
+Destinataire d’un traitement de données à caractère personnel : personne
+physique ou morale, autorité publique ou tout autre organisme habilitée à
+recevoir des communications des données qu'il s'agisse ou non d’
+
+Donnée : représentation de faits, d'informations ou de notion uné”forme
+susceptible d'être traitée par un équipement terminal ou un p
+Donnée sensible : information relative notamment a ns et activités
+religieuses, philosophiques, politiques, syndicales, aux ions bancaires,
+à l'origine raciale ou ethnique, linguistique ou régienale, à là vie sexuelle, à la
+génétique, à la biométrie, à la santé, aux poursfites ; Qires et aux sanctions
+pénales.
+
+Donnée à caractère personnel : in
+permettant de l'identifier directement ent, notamment par référence
+à toute forme d'identifiant ou à un ou éléments, propres à son identité
+physique, psychologique, généti rique, culturelle, socio-professionnelle
+ou économique, notamment u oto, une empreinte, une adresse
+postale, une adresse mail, éro de téléphone, un numéro de sécurité
+sociale, un matricule ji dentifiant numérique, une adresse IP, un
+identifiant de connexio ique, un enregistrement vocal.
+
+la protection des données : procédure visant à
+la gravité des risques encourus par les droits et libertés
+ltant du traitement de données à caractère personnel.
+
+Évaluation d'i
+analyser la pr
+des individ
+
+Fichier : ble de données structurées et à caractère personnel accessibles
+selon des critéres déterminés, que cet ensemble soit centralisé, décentralisé ou
+réparti de manière fonctionnelle ou géographique.
+
+Interconnexion des fichiers : mécanisme de connexion consistant en la mise
+en relation de données à caractère personnel traitées pour une finalité
+déterminée avec d’autres données traitées, pour des finalités identiques ou non,
+ou liées par un ou plusieurs responsables de traitement.
+
+UE
+€
+LR FueRE yauic
+
+RAT GE
+CE OÙ FICHIER LEGISLATIF Et GLEN Re
+A EGISLATIMERND STATUTORY AFFMRS EARD IND
+
+‘ ORME
+E CERTIFIEE CONF
+. CO RTIFIEO TRUE COPY
+
+[[page 5]]
+Offre directe de services de la société de l'information : tout service presté
+normalement contre rémunération ou, le cas échéant, gratuitement, à distance,
+par voie électronique et à la demande individuelle d'un destinataire de services.
+
+Personne concernée : toute personne dont les données à caractère personnel
+font l'objet d'un traitement.
+
+Portabilité des données : possibilité pour une personne de récupérer une partie
+de ses données à caractère personnel dans un format ouvert et lisible par
+machine et de pouvoir stocker lesdites données sur un espace personnel ou de
+les transmettre à un autre responsable de traitement en vue de leurtéutilisation.
+
+Profilage : traitement automatisé de données à caractère pe
+à les utiliser pour évaluer certains aspects personnels relati
+physique, notamment sa santé, ses préférences, sa loc
+économique.
+
+Sa Situation
+
+Prospection directe : sollicitation effectuée aup ‘une personne concernée,
+quel qu'en soit le support ou la nature notamffient comfherciale, politique ou
+caritative, destinée à promouvoir directem inditéctement des biens, des
+services ou l’image d’une personne.
+
+ur remplacer des données
+Hiciels dans le but de protéger la vie
+
+Pseudonymisation : technique
+d'identification directe par des identifi
+privée des individus.
+
+Responsable du traitem rsonne physique ou morale qui, seule ou
+conjointement, collect traite “des données à caractère personnel et en
+détermine les moyens 8bles ités.
+
+: ensemble explicite d'exigences, de critères ou de
+ue doit satisfaire un service de traitement des données.
+
+politiques. Cétte société se caractérise notamment par l'utilisation de
+technologies de l'information et de la communication (TIC) telles que l'Internet,
+les réseaux sociaux, les ordinateurs, les téléphones mobiles et les systèmes
+d'information géographique.
+
+Sous-traitant : toute personne physique ou morale qui traite des données à
+caractère personnel pour le compte du responsable du traitement et sous ses
+
+: = E
+instructions. RÉSIDENCE DE LA
+
+; E REPUB C
+PRES RETARIAT GENERAL une
+D FICHIER LEGISLATIF ET R Le VENTARE
+BASLATVE AND STATUTORT AFFAIRS CARS IROENOEU
+COPIE CERTIFIEE CONFORS
+. CERTIFIEU TRU
+
+[[page 6]]
+Système d’information : ensemble de ressources et de dispositifs,
+interconnectés ou isolés, permettant de traiter les informations nécessaires au
+fonctionnement d'une organisation.
+
+Traitement : opération ou ensemble d'opérations effectuées ou non à l'aide de
+procédés entièrement ou partiellement automatisés ou non automatisés et
+appliqués à des données à caractère personnel, notamment la collecte,
+l'enregistrement, l'organisation, la conservation, l'adaptation ou la modification,
+l'extraction, la consultation, l'utilisation, la communication par transmission,
+diffusion ou toute autre forme de mise à disposition, le rapprochement, ainsi que
+le verrouillage, l'effacement ou la destruction.
+
+Transfert international de données : acheminement des do caractère
+personnel au-delà des frontières d'un pays vers un autre, qûè ce $@it vers un
+Etat tiers ou une organisation internationale.
+
+Violation de données à caractère personnel : toute attêi la Sécurité des
+données à caractère personnel entraînant, de mamière accidentelle ou illicite, la
+destruction, la perte, l’altération, la divulgation fon autori$ée desdites données
+transmises, conservées ou traitées d’une a nièré, ou l'accès non autorisé
+à de telles données.
+
+DU REGIME JURIDIQUE DU TRAITE DES DONNEES A CARACTERE
+
+ARTICLE 6.-
+le respect privée de la personne.
+
+ARTICLE 7. te personne procédant au traitement des données à caractère
+personnel est tenue d'en garantir la confidentialité à travers les réseaux de
+communications numériques ou tout autre support.
+
+ARTICLE 8. Toute personne doit veiller à la licéité et à la probité des contenus
+des données à caractère personnel véhiculés par son réseau, notamment
+lorsque ces contenus portent atteinte à la dignité humaine, à l'honneur et à la vie
+privée.
+
+| PRÉSIDENCE DE LA
+“A “sec Re À AE Loic ENTAIRE
+
+ICHIER LEGISLATI =
+DEOMSLATINE au9 STATUTORT AFFAIRS CARD INDEX SERVICE
+
+ME
+CERTIFIEE CONFDR
+6 pe CO ERTIFIED TRUE COPY
+
+[[page 7]]
+ARTICLE 9.- (1) Le traitement des données à caractère personnel est
+subordonné au consentement préalable, libre, éclairé, spécifique et univoque de
+la personne concernée.
+
+(2) Toutefois, il peut être dérogé à cette exigence du
+consentement préalable lorsque le traitement est nécessaire :
+
+- au respect d'une obligation légale à laquelle le responsable du
+traitement est soumis :
+
+- à l'exécution d’une mission d'intérêt public ou relevant de l'exercice de
+l'Autorité de protection des données à caractère perso dont est
+investi le responsable du traitement ou le tiers auquel
+communiquées ;
+
+- à la préservation de la santé de la personne co
+personne physique.
+
+u d'une autre
+
+(3) Le consentement d'une personne mineur. dix-huit (18) ans
+n'est valable que s'il est appuyé par celui def$es pèr&et mère, ou de son
+
+représentant légal.
+ARTICLE 10.- Le traitement des donné Se personnel doit être licite,
+
+loyal et non frauduleux.
+
+ARTICLE 11.- Les données à caractère onnel doivent être collectées pour
+des finalités déterminées, explicites et légitimes. Elles ne peuvent pas être
+ultérieurement traitées de ière incompatible avec ces finalités.
+
+ARTICLE 12.- Les données
+et tenues à jour.
+caractère personne
+inexactes ou i
+
+ctère personnel doivent être complètes, fiables
+personne procédant au traitement de données à
+ligation de corriger ou d'effacer toutes données
+
+S données à caractère personnel doivent être conservées
+qui n'excède pas la période nécessaire à leur traitement.
+
+(2) La période de conservation des données à caractère personnel
+visée à l'alinéa 1 ci-dessus est précisée dans l'autorisation de traitement des
+données et suivant les modalités fixées par voie réglementaire.
+
+(3) Au-delà de la période visée à l'alinéa 1 ci-dessus, les données
+à caractère personnel ne peuvent être conservées qu'en vue de répondre
+spécifiquement à un traitement à des fins historiques, statistiques ou de
+recherche conformément aux dispositions légales en viguetrssere
+
+ÉFUBLIQUE |
+
+PRESIDENGY OF THWREPUBLIC
+
+CERTIFIE
+
+RETARIATOENERAL
+
+RYICE DU FICHIER LEGISLATIF ET REGLEMENTAIRE
+
+LEGISLATIVE AND STATUTORY AFFAIRS CARD INDEX SERVICE
+
+COPIE CERTIFPIEE CONFORME
+TRUE COPY
+
+[[page 8]]
+ARTICLE 14.- Les données à caractère personnel traitées doivent faire l’objet
+d'une information claire et transparente de la personne concernée, par le
+responsable du traitement.
+
+ARTICLE 15.- Les données à caractère personnel sont traitées de manière
+confidentielle et protégées par le responsable du traitement, notamment lorsque
+le traitement inclut des transmissions de données.
+
+ARTICLE 16.- (1) Tout sous-traitant procédant au traitement des données à
+Caractère personnel pour le compte d'un responsable du traitement est tenu
+d'apporter des garanties suffisantes au respect des mesures de sécurité définies
+dans la présente loi.
+
+(2) Le responsable du traitement des données e auespect de
+leur l'application par le sous-traitant.
+
+ARTICLE 17.- Le responsable du traitement ou le sous-tr t tenu de traiter
+les données à caractère personnel sans tenir te de la classe sociale, de
+l'origine ethnique ou régionale, de l'appartéhances sfñdicale, de l'opinion
+politique ou de la conviction religieuse de | nne£oncernée.
+
+ARTICLE 18.- Tout traitement de donné
+mineures, en vue d'une offre de serv
+ce qui est nécessaire au regard des
+
+ctère personnel de personnes
+es dit être adéquat, pertinent et limité à
+alités/pour lesquelles elles sont traitées.
+
+Il
+ES AU TRAITEMENT DES DONNEES A
+RE PERSONNEL
+
+nt des données à caractère personnel est soumis à
+ne autorisation délivrée par l'Autorité de protection des
+
+ARTICLE 19.- (1
+l'obtention pré
+données à
+
+Tout processus d’interconnexion et d’interopérabilité des fichiers
+de données sensibles, relatives aux mineurs, est soumis à l'obtention préalable
+d'une autorisation délivrée par l'Autorité de protection des données à caractère
+personnel.
+
+(3) Les modalités de délivrance de l'autorisation visée aux alinéas
+1 et 2 ci-dessus sont fixées par voie réglementaire.
+
+ÉPUBL =
+: 8
+
+PRÉSIDENCE DE LA FAle
+
+VOFT
+PRESIRET TT
+r REGISLANF ET REGUEMENTAIRE
+SERRE nu TOR AFFAIRS CARD joe x
+ERTIFIEE CO C
+wi PE TIFIE D TRUE/COP
+
+[[page 9]]
+CHAPITRE III
+
+DES OBLIGATIONS DU RESPONSABLE DU TRAITEMENT DES DONNEES
+
+ET DU SOUS-TRAITANT
+
+ARTICLE 20.- Le responsable du traitement et le sous-traitant sont assujettis aux
+mêmes obligations au titre de l’activité de traitement des données à caractère
+personnel.
+
+ARTICLE 21.- Le responsable du traitement doit fournir à la personne concernée,
+au plus tard, lors de la collecte et quels que soient les moyens employés, les
+
+informations suivantes :
+
+- Son identité ;
+
+les finalités déterminées du traitement auq
+destinées ;
+
+les catégories des données concernées ;
+
+les destinataires auxquels les dondée onb susceptibles d'être
+communiquées ;
+e
+
+la possibilité de refuser de figurefæur | r en cause ;
+l'existence d'un droit :
+
+e d'accès aux données à
+dispositions de la fiésente |
+
++ de rectificatio cement, d'opposition, de limitation et de
+portabilité :
+
+e d'informati s de traitement à des fins de prospection
+
+ère personnel conformément aux
+
+faire l’objet d'une décision individuelle automatisée, y
+rofilage ;
+
+ation sur la prise d'une décision automatisée, la logique
+s-jacente et les conséquences prévues du traitement ;
+
++ de refuser la communication de ses données à caractère personnel
+à un tiers ;
+
++ de déterminer des directives de traitement post-mortem ;
+
++ d'introduire une réclamation auprès de l'Autorité de protection des
+données à caractère personnel ;
+
+- la durée de conservation des données : PRE QU NCY O
+
+EGLEMENTAIRE
+IRSCARD INDEX SERVICE
+ONFORME
+E COPY
+
+[[page 10]]
+- l'éventualité de tout transfert de données à destination d'un Etat
+étranger.
+
+ARTICLE 22.- (1) Dès connaissance de toute violation des données à caractère
+personnel, le responsable du traitement ou le sous-traitant est tenu d'informer
+sans délai, l'Autorité de protection des données à caractère personnel et la
+personne concernée.
+
+(2) En tout état de cause, et sans préjudice des dispositions de
+l'alinéa 1 ci-dessus, le responsable du traitement ou le sous-traitant est tenu
+de mettre en œuvre les mesures de protection techniques et orga ionnelles
+appropriées, telles que le chiffrement, l'instauration des autorisati
+d'accès aux données.
+
+ARTICLE 23.- (1) Le responsable du traitement des à caractère
+personnel ou le sous-traitant prend toutes les mesurés né Ires, en vue
+d'informer toutes les personnes concernées d'une dem ffacement des
+données.
+
+®
+
+(2) Dans le cas prévu à l’ali ci-déSsus, le responsable du
+traitement ou le sous-traitant met en vre mécanismes appropriés
+garantissant le droit à l'oubli nu u l'effacement des données
+concernées.
+
+le du ement des données à caractère
+sont SONgairement responsables de toute
+ère personnel effectuée en l'absence du
+rnée.
+
+(3) Le respon
+personnel et son sous-traita
+publication de données à
+consentement de la pe
+
+nsable du traitement ou le sous-traitant traite les
+nel de manière confidentielle.
+
+ARTICLE 24.- (1) L
+données à car
+
+e traitement des données à caractère personnel est effectué
+exclusivem es personnes qui agissent sous l’autorité du responsable du
+traiteme ulement sur ses instructions.
+
+(3) Le responsable du traitement met en œuvre, tant au moment
+de la détermination des moyens du traitement qu'au moment du traitement luimême, des mesures techniques et organisationnelles consignées dans le
+référentiel défini par l'Autorité de protection des données à caractère personnel.
+
+ARTICLE 25.- (1) Le responsable du traitement et le sous-traitant effectuent
+l'évaluation du risque présenté par le traitement des données à caraciere
+personnel, suivant les critères d'évaluation, ainsrtée tes Es
+
+de validation fixées par voie règlementaire.
+
+SE CRETAS se en
+DORTER LEGISLATIF ET RÉGLEMENTAIRE
+LEDIEH EAND STUTORT AFFAIRS CARD Ex SERGE
+PIE CERTIFISE CONF
+CO ERTIFIED TRUE COPY
+
+10
+
+[[page 11]]
+(2) Le responsable du traitement et le sous-traitant prennent toute
+mesure appropriée pour empêcher notamment que :
+
+- les données soient déformées, endommagées, indisponibles ;
+- des tiers non autorisés y aient accès.
+
+(3) Le responsable du traitement et le sous-traitant s'assurent que
+toute personne agissant sous leur autorité respective et qui a accès à des
+données à caractère personnel, les traite conformément aux instructions et aux
+finalités fixées.
+
+ARTICLE 26.- Tout sous-traitant est tenu d'apporter des garantie isantes aux
+mesures de sécurité technique et organisationnelle relatives au aitement à
+effectuer.
+
+ARTICLE 27.- (1) Le responsable du traitement et le sou itanb des données à
+caractère personnel sont tenus :
+
+- de garantir la disponibilité des
+notamment grâce à la mise en œufre
+résilience des systèmes d’information
+caractère personnel ;
+
+- de garantir que lors de
+automatisé de données
+
+Caractère personnel
+ures visant à garantir la
+ontenant les données à
+
+on d'un système de traitement
+es autorisées ne puissent accéder
+orisation ;
+
+- de garantir la véñfiéati@n et la constatation de l'identité des tiers
+auxquels des dünnéés pétivent être transmises ;
+
+: être vérifiée et constatée a posteriori l'identité
+ayant accès au système d'information contenant des
+
+, Modifiées, altérées, copiées, effacées ou lues dans le
+ainsi que la période de manipulation de ces données :
+
+er toute personne non autorisée à accéder aux installations
+S pour le traitement des données ;
+
+- d'empêcher que des supports de données puissent être lus, copiés,
+modifiés ou déplacés par une personne non autorisée ;
+
+- d'empêcher l'introduction non autorisée de toute donnée dans le
+Système d'information, ainsi que toute prise de connaissance, toute
+modification ou tout effacement non autorisé de données enregistrées ;
+
+- d'empêcher que des systèmes de traitement de données puissent être
+utilisés par des personnes non autorisées-à=tai
+transmission de données ;
+
+CSOUFIL ER LEGISLATIF ET R L
+
+Hi. ATIVE ANO SANTE
+PiE-CERT
+
+COR IFIE O TR
+
+11
+
+[[page 12]]
+- de sauvegarder les données par la constitution de copies de sécurité
+protégées ;
+
+- de prendre toute autre mesure appropriée requise par la
+réglementation en vigueur.
+
+(2) Le responsable du traitement adresse à l'Autorité de protection
+des données à caractère personnel un rapport annuel sur l'état de mise en
+œuvre des mesures de sécurité contenues dans le référentiel des mesures
+techniques et organisationnelles.
+
+ARTICLE 28.- Le délai maximum de conservation des donnée
+personnel est fixé dans le référentiel prévu à l'article 27 ci-des
+l'Autorité de protection des données à caractère personnel ion ‘de ce
+délai tient compte de la finalité du traitement ou de la onnées
+collectées, conformément à la législation et la réglementétion e
+
+ARTICLE 29.- (1) Le responsable du traitement ou le sous-t tient un registre
+physique ou numérique des activités de traifément £fiectuées sous leur
+responsabilité.
+
+(2) Le registre visé à l'alinéa ci-dessus comporte les
+informations ci-après :
+
+le nom et les coordonnées
+
+onsable du traitement et, le cas
+
+à Caractère personne! ;
+destinataires auxquels les données à caractère
+
+ents attestant de l'existence de garanties appropriées ou le
+e l'autorisation de l'Autorité de protection des données à
+ère personnel.
+
+ARTICLE 30.- (1) Lorsque le responsable du traitement recourt à un sous-traitant,
+il s'assure que celui-ci dispose des garanties suffisantes quant à la mise en
+œuvre des mesures techniques et organisationnelles appropriées de manière à
+ce que le traitement respecte les exigences de la présente loi.
+
+(2) Le traitement par un sous-traitant est régi par un contrat qui lie .
+le sous-traitant au responsable du traitement.
+
+PRESIDENCE DE LA REPUBLI
+PREBIDENCY OF TH
+
+PIE CERTIFIEE CONFORME
+12 LA CERTIFIED TRUE COPY
+
+h
+
+[[page 13]]
+(3) Le contrat visé à l'alinéa 2 ci-dessus définit, notamment, le type
+de données à caractère personnel et les catégories de personnes concernées,
+les obligations et les droits du responsable du traitement, ainsi que du soustraitant.
+
+ARTICLE 31.- (1) En cas de traitement conjoint, les responsables déterminent les
+finalités, ainsi que les moyens du traitement et en sont solidairement
+responsables.
+
+(2) Les responsables conjoints du traitement définissent de
+manière transparente, par une convention rendue publique, leur. ligations
+
+notamment en ce qui concerne leurs rôles respectifs, leurs rel
+la personne concernée, l'exercice des droits de la personn ée, ainsi
+que leurs obligations respectives quant à la communi informations
+visées à l'article 21 ci-dessus.
+
+(3) Nonobstant les termes de la ntion visée à l'alinéa 2 cidessus, la personne concernée exerce les droifé que ui 6onfère la présente loi
+à l'égard des responsables du traitement.
+
+ARTICLE 32.- (1) Le transfert de don actère personnel vers un Etat
+étranger, ou à une organisation inté alë, est subordonné à l'obtention
+d'une autorisation préalable délivrée * orité de protection des données à
+
+caractère personnel dans les iti bermettant de garantir l'exercice des
+
+(2) Al
+protection des donnée
+
+élivrance de ladite autorisation, l'Autorité de
+ère personnel doit préalablement s'assurer :
+
+- d e en vigueur préalable d'un instrument juridique signé avec le
+stination des données à caractère personnel transférées, en
+li avec les administrations et organismes compétents :
+
+- de l’assujettissement de l'entité sollicitant l'importation des données à
+caractère personnel aux règles contraignantes de sécurité en matière
+de protection desdites données ;
+
+- de la Souscription préalable, par les entités importatrices et
+exportatrices concernées, de clauses contractuelles types en matière
+de transfert à l'international des données à caractère personnel,
+édictées et publiées par l'Autorité de protection des données à
+caractère personnel.
+
+PRESIDENCE DE LA R QUE
+PRESIDENCY REPHBLIC
+SEC RIAT DENPAÉAL
+
+SER ICHIER LEGISLATIF EYRECLEMENTAIRE
+LATIVE-AND STATUTORY AFFAIRS CARD INDEX SERVICE
+
+COPIE CERTIFIEE ÉONFORME
+CERTIFIED TRUE COPY
+
+[[page 14]]
+(3) Les modalités de délivrance de l'autorisation prévue à l'alinéa 1
+ci-dessus sont fixées par voie réglementaire.
+
+ARTICLE 33.- (1) Tout type de traitement susceptible d'engendrer un risque élevé
+pour les droits et libertés des personnes physiques est subordonné à la
+réalisation préalable d'une évaluation d'impact des opérations de traitement
+envisagées sur la protection des données à caractère personnel.
+
+(2) Les conditions et les modalités de la réalisation de l'évaluation
+d'impact visées à l'alinéa 1 ci-dessus sont fixées par voie règlementaire.
+
+ARTICLE 34.- L'Autorité de protection des données à caractère pe met en
+place un mécanisme de certification du traitement des don : ctère
+
+personnel conforme aux principes et exigences énoncés par
+
+ARTICLE 35.- Les modalités du suivi et du contrôle de l’eXécutiofà dés obligations
+du responsable du traitement et du sous-traitant ées par voie
+règlementaire.
+
+CHAPITR
+DE L’INTERCONNEXI
+
+ARTICLE 36.- (1) L'interconnexion d
+nécessaire au respect d'une @bligatio
+traitement est soumis. 7
+
+raîner de discrimination ou de réduction des
+les personnes concernées et doit être assortie
+ropriées tenant compte du principe de minimisation,
+S faisant l’objet de l’interconnexion.
+
+rs n'est licite que lorsqu'elle est
+ale à laquelle le responsable du
+
+(2) Ellen
+droits, libertés et gara
+de mesures de :
+le cas échéant
+
+TITRE III
+DÉS DROITS DE LA PERSONNE CONCERNEE
+
+ARTICLE 37.- Toute personne concernée peut demander au responsable du
+traitement la cessation de la diffusion ou l'effacement de ses données à
+caractère personnel dans les conditions prévues dans les dispositions de la
+présente loi et des textes particuliers pris pour son application.
+
+ARTICLE 38.- (1) La personne concernée a le droit d'obtenir du responsable du.
+traitement là cessation de la diffusion de ses données et l'effacement de celles-
+
+ci pour l’un des motifs suivants : RESIDENCE DE LA
+PRESIDENC
+
+ARIAT GENER
+FICHIER LEGISLATIF ET RECL MENTAIRE
+GISLATIVE AKD STATUTORY AFFAIRS CARD INDEX SERVICE
+COPIE CERTIFIEE CONFORME
+CERTIFIED TRUE COPY
+
+14
+
+[[page 15]]
+- les données ne sont plus nécessaires au regard des finalités pour
+lesquelles elles ont été traitées ;
+
+- le consentement sur lequel est fondé le traitement est vicié, retiré ou a
+expiré ;
+
+- le traitement effectué ne dispose pas d'une base légale ;
+
+-_ tout autre motif prévu par la loi.
+
+(2) Le responsable du traitement procède à l'effacement sans délai
+des données à caractère personnel lorsqu'il est expressément requis _par la
+personne concernée suivant les conditions et les modalités fixées i
+dessus, sous-réserve des exigences de conservation des donn 5
+personnel, conformément aux dispositions de la présente loi,
+la législation et de la réglementation en vigueur.
+
+ARTICLE 39.- La personne concernée peut demandéf au fesbonsable du
+traitement :
+
+céhtester le traitement ;
+ersonnel la concernant
+
+- les informations permettant de connaitfe et
+
+- la confirmation que les données à
+
+- la communication des dong À ère personnel qui la concerne
+ble quant à l'origine de celle-ci ;
+
+données à cara aitées, aux destinataires ou aux
+catégories de i auxquels les données sont
+
+nées à caractère personnel sous une forme
+aiement d'une somme ne pouvant excéder le coût
+
+- toutes raisons tenant au traitement de catégories particulières de
+données à caractère personnel ;
+
+- tout traitement à des fins de prospection ;
+- tout autre motif prévu par la législation en vigueur.
+
+(2) Dans le cadre de l'utilisation des services de la société de
+l'information, la personne concernée peut ne
+de procédés automatisés utilisant des spécificati
+
+RLEGISLATIF ETR RESLEUENTAIRE
+
+LEE É TE
+
+L EANDS TUTO RY AFFAIRS CHR D INDEX SERVICE
+
+PIE CERTIFIEE CONFORME
+TOO ERTIFIEO TRUE COPY
+
+15
+
+[[page 16]]
+(3) Le parent ou le représentant légal d'un enfant mineur a le droit
+de s'opposer au traitement des données à caractère personnel relatif au mineur,
+collectées sans son consentement.
+
+(4) Lorsque la personne concernée s'oppose au traitement de ses
+données à des fins de prospection commerciale, ses données à caractère
+personnel ne peuvent plus être utilisées à ces fins.
+
+ARTICLE 41.- (1) La communication des données à caractère personnel à des
+tiers ou leur utilisation pour leur compte, à des fins de prospectionsgi
+subordonnée à l'obtention préalable du consentement d
+concernée,
+
+(2) Le consentement visé à l'alinéa 1 ci- rvient après
+information de la personne concernée conformément aux Sitions de la
+présente loi.
+
+ARTICLE 42. Toute personne physique justifianf de son iéentité peut exiger du
+responsable d'un traitement que soient, s S , rectifiées, complétées,
+mises à jour, verrouillées ou supprimées, l8ê$ don à caractère personnel de
+
+ARTICLE 43.- (1) La personne concer
+données à caractère personne
+du traitement, dans un f
+machine.
+
+données.
+
+des données tion de l'alinéa 1 ci-dessus, elle a le droit d'obtenir que
+leS donné ère personnel soient transmises directement d'un
+responsabl tement à un autre, si cela est techniquement possible.
+
+Le droit à la portabilité des données à caractère personnel ne
+s'applique pas aux données dont le traitement est nécessaire à l'exécution d'une
+mission d'intérêt public ou relevant de l'exercice de l'autorité publique dont est
+investi le responsable du traitement.
+
+ARTICLE 44.- (1) La personne concernée a le droit de s'opposer à toute décision
+basée exclusivement sur le traitement automatisé de ses données à caractère
+personnel, y compris le profilage.
+
+(2) Les dispositions de l'alinéa 1 ci-dessus ne s'appliquent pas si :
+
+ENCE 0 TÉPUBL ©
+prprgr OF THE REPHBLIC
+: RETARIAT GENE AL TIRE
+aViCE DU FICHIER LEGISLATIF ET REGLEMEN
+
+EGISLA TATUTO EX SERVICE
+TIVE AND STATUTORY AFFAIRS CARD ND
+OPIE CERTIFIEE CONFORME
+
+16
+
+[[page 17]]
+- la personne concernée est informée de l'utilisation du système
+automatisé de prise de décision et a donné son
+consentement préalable, explicite et éclairé ;
+
+- le traitement est autorisé par la loi, sous réserve qu'elle prévoit des
+mesures appropriées pour la sauvegarde des droits et libertés et des
+intérêts légitimes de la personne concernée.
+
+(3) La personne concernée a également le droit :
+
+- d'obtenir une intervention humaine de la part du re able du
+traitement ;
+
+- d'exprimer son point de vue ;
+- de contester la décision fondée sur le traiteme
+
+ARTICLE 45.- (1) Le traitement des données à cara rsonnel d'une
+personne physique cesse dès constatation de s cès.
+
+(2) Toutefois, les données à re personnel d'une personne
+peuvent être conservées après constatatiolide cès :
+
+- lorsqu'il s'agit d'une obli
+traitement est soumis :
+
+- en raison des bes
+responsable du trai t juSu'à puisement des procédures ;
+
+mée a fourni au responsable du traitement
+ales post-mortem pour le traitement de ses
+
+à laquelle le responsable du
+
+ARTICLE 46.- Toute personne concernée a le droit d'obtenir du responsable
+du traitement la limitation du traitement lorsque l'exactitude des données à
+caractère personnel ou la finalité du traitement est contestée.
+
+(2) Lorsque le traitement a été limité en vertu de l'alinéa 1 cidessus, les données à caractère personnel ne peuvent, à l'exception de la
+conservation, être traitées qu'avec le consentement de la personne concernée,
+ou pour la constatation, l'exercice ou la défense de droits en justice, ou pour la
+protection des droits d'une autre personne physique ou morale.
+
+SECRETARIAT GEI FsiapS
+aVICÉ DU FICHIER LEGISLATIF LTREGLEMENTAIRE
+ÉGISLATIVEANS SYAUTORY AFFAIRS PARD INDEX SERVICE
+COPIE CERTIFIEE CONFORME À}
+CERTIFIED TRUE COPY
+
+17
+
+[[page 18]]
+ARTICLE 47.- Les délais et les modalités d'examen des demandes des
+personnes concernées, relatives à l'exercice de leurs droits prévus dans la
+présente loi, sont fixés par voie règlementaire.
+
+TITRE IV
+DES INTERDICTIONS EN MATIERE DE TRAITEMENT DES DONNEES A
+CARACTERE PERSONNEL
+
+ARTICLE 48.- (1) Il est interdit de procéder à tout traitement des données relatives
+aux opinions et activités religieuses, philosophiques, politiques, syndicales, à
+l'origine raciale ou ethnique, linguistique ou régionale, à la vie lle à la
+génétique et à la biométrie en matière de santé.
+
+(2) Il est interdit de procéder au traitement dessin à Caractère
+personnel dans le cadre des transactions bancaires san$ auto n préalable
+des administrations et structures compétentes, dans les Cônditidhs et suivant les
+
+modalités prévues par les lois en vigueur.
+SPP TT
+ut menêdes données à caractère
+S IStrations et structures
+i les modalités prévues par la
+
+à caractère personnel sans le
+mée est interdit.
+
+ARTICLE 49.- || est interdit de procéder à to
+personnel sans autorisation préalable
+compétentes, dans les conditions et
+présente loi.
+
+ARTICLE 50.- Le traitement des don
+consentement préalable de la onng
+
+ARTICLE 51.- Tout traite nées à caractère personnel est interdit :
+
+ssion desdites données a été ordonnée par l'Autorité
+onnées à caractère personnel ;
+
+ntraire à l'ordre public, aux bonnes mœurs ou aux
+e la communauté nationale.
+
+- lorsque la
+de protecti
+
+ARTICLE traitement des données à caractère personnel ne doit porter
+atteinte ni à là dignité et l'identité humaines, ni aux libertés individuelles et
+collectives, ni aux droits humains en général reconnus par la législation en
+vigueur et les conventions internationales dûment ratifiées.
+
+PRESIDENCE DE LA REPUBLIQUE
+PRESIDENCY OF THE LEesw#piic |
+SECRETARLLEC PÂ L |
+SERVICE OÙ FICH SISLAT! GLEMENTAIRE
+
+TO STATUTORY AFFAIRS Ci
+IE CERTIFICE CONFORME |
+_ AMWGERTIFIED TRÜÉ COPY
+
+“ = ?
+
+LEGISLA
+
+18
+
+[[page 19]]
+TITRE V
+
+DE L’AUTORITE DE PROTECTION DES DONNEES A CARACTERE
+
+PERSONNEL
+
+ARTICLE 53.- (1) L'’Autorité de protection des données à caractère personnel est
+un organisme public indépendant chargé, notamment :
+
+l'Autorité d
+
+Présid
+
+de veiller à l'application de la présente loi, des textes pris pour son
+application ainsi que des conventions internationales en la matière ;
+
+de délivrer les autorisations prévues par la présente loi, orties des
+cahiers de charges conséquents ;
+
+d'élaborer, publier et mettre à jour le référenti mêsures
+techniques et organisationnelles des données à Ë
+
+d'approuver les mécanismes de certificati essus et
+techniques de traitement des données à caract
+
+de traiter les réclamations, pétitions aintes introduites par une
+personne concernée ou par un orgamfisme, néorganisation ou une
+association et, dans la mesure né
+l'objet desdites réclamations, pé
+
+reconnus comme offrant un niveau
+de protection des d@hnées à “@aractère personnel équivalent aux
+exigences prévue erounais ;
+
+de coopérer autorités en charge de la protection des
+données à rsonnel, en liaison avec les administrations et
+structures
+
+(2AL tion, ainsi que l'organisation et le fonctionnement de
+tion visée à l'alinéa 1 ci-dessus sont fixées par un décret du
+
+d ublique.
+
+TITRE VI
+DES SANCTIONS AL
+CRIER LEGISLATIF ETAEGLEME
+LIVE AND STATUTORY AFFAIRSÉARO INDEX SERVICE
+CHAPITRE | _- COPIE CERTIFIEE ONFORME
+
+EFIEU TRYE COPY
+
+DES SANCTIONS ADMINIS
+
+ARTICLE 54.- (1) Lorsque l'Autorité de protection des données à caractère
+
+personnel constate le non-respect des obligations mises à la charge du
+
+[[page 20]]
+responsable du traitement ou de son sous-traitant, celui-ci est mis en demeure
+de s'y conformer dans un délai maximum de dix (10) jours.
+
+(2) Passé le délai prévu à l'alinéa 1 ci-dessus, l'Autorité de
+protection des données à caractère personnel adresse une injonction de mise
+en conformité du traitement, sous astreinte dont le montant ne peut excéder cent
+mille (100 000) francs CFA par jour de retard.
+
+(3) Lorsque le responsable du traitement ou le sous-traitant ne se
+conforme pas à la mise en demeure prévue à l'alinéa 1 ci-dessus, l'Autorité de
+protection des données à caractère personnel peut pronon ‘une des
+sanctions ci-après :
+
+- la suspension de l'activité, objet de l'autorisation ;
+
+- le retrait de l'autorisation ;
+
+- l'interdiction d'exercer toute activité de trait nt des données à
+caractère personnel.
+
+es àäWarticle 54 ci-dessus, est
+(5 000 000) à cinquante
+rsonne qui exerce l'activité de
+ns autorisation préalable.
+
+ARTICLE 55.- Sans préjudice des sanctions
+passible d'une pénalité d'un montant de ai
+millions (50 000 000) de francs CFA
+
+ARTICLE 56. Est passible d'une amendeg#fn million (1 000 000) à dix millions
+(10 000 000) de francs CFA, to e de traitement ou sous-traitant qui
+refuse de mettre à la dispéSiti personne concernée, les informations
+
+sollicitées la concernan
+
+ARTICLE 57.- Est paBsiblé d'uné amende de cinq millions (5 000 000) à vingt
+millions (20 000 00 ancs CFA, tout responsable de traitement ou tout
+sous-traitant qûl pecte pas les dispositions du référentiel prévu dans la
+présente loi
+
+ssible d'une amende d'un million (1 000 000) à cinq millions
+(5 000 000) ancs CFA, tout responsable de traitement ou tout sous-traitant
+qui ne respecte pas les dispositions relatives à l'interconnexion des fichiers
+prévu dans la présente loi.
+
+ARTICLE 59.- Est passible d'une amende de cinq millions (5 000 000) à quinze
+millions (15 000 000) de francs CFA, tout responsable de traitement ou tout
+sous-traitant qui opère sans certification prévue dans la présente loi. ‘
+
+ARTICLE 60.- Est passible d'une amende de dix millions (10 000 000) à cinquante
+millions (50 000 000) de francs CFA, tout responsable de traiteme
+
+20 ENCYOF THE
+SECRETARIAT GENER
+ERVICE-OU-PICHIER LEGISLATIF ÉJREGLEMENTAIRE
+TE LEGISLATIVE AND STATUTORY AFFALRY CARO INDEX SERVICE
+AADBIE MECOTICICES CONENRME 1?
+
+[[page 21]]
+Sous-traitant qui procède au transfert des données à caractère personnel vers
+un pays tiers, Sans autorisation préalable de l'Autorité de protection des données
+à caractère personnel.
+
+ARTICLE 61.- Est passible d'une amende de dix millions (10 000 000) à cent
+millions (100 000 000) de francs CFA, tout responsable de traitement ou soustraitant qui ne respecte pas l’une des obligations de son cahier des charges.
+
+CHAPITRE II nus Over uote pPuBL
+DES SANCTIONS CIVILES ET P Li rhCT DUR
+
+SECTION | TRES a PE
+
+DES SANCTIONS CIVILE
+
+ARTICLE 62.- (1) En cas d'atteinte grave aux droits menti s la présente
+loi, la personne concernée peut demander à la juridiction comgéténte, statuant
+suivant la procédure d'urgence, d'ordonner, le cas échéa astreinte, toute
+mesure nécessaire à la sauvegarde de ses droit ‘
+
+idiction compétente aux
+
+(2) La personne concernée pe ir la]
+
+fins de réparation.
+
+ent de deux (02) à cinq (05) ans et
+cinq millions (5 000 000) de francs
+es Seulement, celui qui collecte les données
+
+ARTICLE 63.- (1) Est puni d'un €
+d'une amende de deux cent mi
+CFA, ou de l’une de ces deb
+à caractère personnel at
+
+peines prévues à l'alinéa 1 ci-dessus sont doublées
+lorsque la colle aCcès par un moyen frauduleux s'accompagne d'un
+
+amende de ciñquante mille (50 000) à un million (1 000 000) de francs CFA, ou
+de l'une de ces deux peines seulement, le responsable de traitement ou le soustraitant qui procède ou fait procéder à un traitement de données à caractère
+personnel, malgré l'opposition de la personne concernée, lorsque ce traitement
+répond à des fins de prospection directe ou lorsque cette opposition est fondée
+sur des motifs prévus par la loi.
+
+(2) Est puni des peines prévues à l'alinéa 1 ci-dessus, le
+responsable de traitement ou le sous-traitant qui ne procède pas ou ne fait pas
+procéder aux opérations demandées par une personne physique justifiant de
+
+21
+
+[[page 22]]
+son identité, et qui exige que soient rectifiées, complétées, mises à jour,
+verrouillées ou effacées les données à caractère personnel la concernant ou
+concernant la personne décédée dont elle est le représentant légal ou l’ayantdroit.
+
+ARTICLE 65.- Est puni d’un emprisonnement de trois (03) à dix (10) ans et d’une
+amende de un million (1 000 000) à vingt millions (20 000 000) de francs CFA,
+ou de l’une de ces deux peines seulement, le responsable de traitement ou le
+sous-traitant qui procède ou fait procéder à un traitement de données à caractère
+personnel à des fins de profilage.
+
+et d'une amende de cinq cent mille (500 000) à cinq million ) de
+francs CFA, ou de l’une de ces deux peines seulement, ble de
+traitement ou le sous-traitant, qui met ou conserve en mé ormatisée ou
+non, sans le consentement exprès de la personne ë es données
+
+sensibles au sens de présente la loi.
+
+1@i-dessus, celui-ci qui
+es données à caractère
+
+(2) Est puni des peines prévues à
+procède ou fait procéder à la récupération f
+personnel supprimées.
+
+ARTICLE 67.- Est puni d'un emprisonné
+d'une amende de cinq cent mille (500 Inq millions (5 000 000) de francs
+CFA, ou de l’une de ces deux pei
+
+- le responsable de nt ou le sous-traitant qui, à l'occasion de leur
+enregistreme ssement, de leur transmission ou de toute
+autre forme ent, détourne ces informations de leur finalité
+
+traitement ou le sous-traitant qui procède ou fait
+traitement ultérieur de données à caractère personnel
+jble à la finalité initiale.
+
+ARTICLE 68. Est puni d'un emprisonnement de six (06) mois à deux (02) ans
+et d'une amende de deux cent mille (200 000) à cinq millions (5 000000) de
+francs CFA, ou de l'une de ces deux peines seulement celui qui recueille, à
+l'occasion de leur enregistrement, de leur classement, de leur transmission ou
+d'une autre forme de traitement, des données à caractère personnel dont la
+divulgation aurait pour effet, soit de porter atteinte à la dignité ou à la vie privée
+de la personne concernée, soit de porter, sans autorisation de l'intéressé, ces
+données à la connaissance d’un tiers qui n’a pas qualité de les recevoir.
+
+PRESIDENCE DELARE
+
+FICHIER LECISLATIE ET RÉGLEMENTAIRE
+TIVE AND STATUTORY AFFAIRS CARO INDEX SERVICE
+COPIE CERTIFIEE CONFORME
+
+22 f rs
+ne CERTIFIED TRUE COPY
+
+[[page 23]]
+(2) Dans le cas prévu à l'alinéa 1 ci-dessus, les poursuites ne
+peuvent être exercées que sur plainte de la victime, de son représentant légal
+ou de ses ayant droits.
+
+ARTICLE 69.- Est puni d'un emprisonnement de trois (03) à dix (10) ans et d'une
+amende de deux millions (2 000 000) à vingt millions (20 000 000) de francs
+CFA, ou de l’une de ces deux peines seulement, celui qui procède ou fait
+procéder à un transfert de données à caractère personnel faisant l'objet ou
+destinées à faire l'objet d'un traitement vers un état étranger ou une organisation
+internationale, en méconnaissance des dispositions de la présente loi.
+
+ARTICLE 70.- (1) Est puni d'un emprisonnement de six (06) mois à 03) ans
+et d'une amende de cent mille (100 000) à cinq cent mille (50
+CFA, ou de l’une de ces deux peines seulement, le respon
+ou le sous-traitant qui entrave l’action de l'Autorité de pro
+Caractère personnel :
+
+- Soit en s'opposant à l'exercice des missions con à ses membres
+ou agents envoyés en mission ; +
+
+- soit en refusant de communiquer meribres ou aux agents de
+l'Autorité de protection des ddihée ractère personnel, en
+
+mission, les renseignements otles uments utiles à leur mission.
+
+(2) Les peines prévu Eau inéa 1 ci-dessus sont doublées
+lorsque lesdits documents ou renseigniëfMents sont dissimulés, falsifiés ou
+supprimés.
+
+ARTICLE 71.- Nonobsta
+personnes morales
+condamnées à un
+milliard (1 000
+présente loi on
+
+Sabilité pénale de leurs dirigeants, les
+tre déclarées pénalement responsables et
+d'amende de cinquante millions (50 000 000) à un
+francs CFA, lorsque les infractions prévues par la
+ises par les responsables desdites personnes morales.
+
+TITRE VII
+SITIONS DIVERSES, TRANSITOIRES ET FINALES
+
+ARTICLE 72.- Le traitement des données à caractère personnel relatif notamment
+à la sécurité, à la défense, à la santé, à la justice et à l’état civil est régi par des
+textes spécifiques, en tant que de besoin.
+
+ARTICLE 73.- Les personnes physiques ou morales en charge du traitement des
+données à caractère personnel disposent d'un délai de dix-huit (18) mois, à
+compter de la date de promulgation de la présente loi, pour se conformer a
+dispositions de celle-ci.
+
+23
+
+[[page 24]]
+ARTICLE 74.- Des textes particuliers précisent, en tant que de besoin, les modalités
+d'application de la présente loi.
+
+ARTICLE 75.- La présente loi, qui abroge toutes les dispositions antérieures
+contraires, sera enregistrée, publiée selon la procédure d'urgence, puis insérée au
+Journal Officiel en français et en anglais./-
+
+PRÉSIULNCE DE LA REPUBLIQUE Yaoundé, le ? 3 DEC 202%
+
+PRESIDENCY OF THE REPUN
+
+LE PRES DENT DE LA REPUBLIQUE,
+ADR Re EN
+
+/ eo
+) ©
+‘
+
+«CERTIFIED TRUE COPY
+rs
+
+24

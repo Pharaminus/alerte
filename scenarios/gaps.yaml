@@ -1,0 +1,83 @@
+# Step 2.1 - Catalogue of target gaps.
+# Each gap is stated for the domain of public flood warning, not for one country.
+# rule      = the deterministic test (Phase 4) applied to the mandate table and to the drill log.
+# actions   = the actions (knowledge/actions.yaml) whose legal basis the rule inspects.
+# precedents= foreign or international examples in knowledge/precedents.csv.
+# scope     = core (tested in every country) or extension (health act, optional).
+#
+# Outcome of a rule for a country:
+#   gap            no documented power or duty for the action, and the texts needed were read
+#   partial        only a prohibition, a non-binding text, a generic power or a secondary source
+#   covered        a documented power or duty answers the question
+#   not_assessable the texts needed are not accessible (never reported as a legal gap)
+
+G1:
+  title: Nobody can oblige operators to broadcast a public alert
+  question: Who can order mobile operators to send an alert, within what delay and at whose cost?
+  rule: No mandate row of kind power or duty with evidence documented for order_operator_broadcast or relay_alert.
+  actions: [order_operator_broadcast, relay_alert, requisition_networks]
+  precedents: [P-01, P-02, P-03, P-04]
+  scope: core
+G2:
+  title: Warning, alert and coordination roles are unclear or overlap
+  question: Who issues the official warning, who decides to alert the public, who coordinates?
+  rule: For issue_weather_warning, issue_public_alert or coordinate_response, no documented power, or two institutions hold the same power with no rule of precedence; or a REQUEST on the coordination board gets no answer.
+  actions: [issue_weather_warning, issue_public_alert, coordinate_response, public_communication, declare_emergency]
+  precedents: [P-05, P-06, P-07]
+  scope: core
+G3:
+  title: No human validation of a message drafted or triggered by an AI
+  question: Who must check an AI forecast or an AI-drafted message before it reaches the public?
+  rule: No documented power or duty for validate_ai_output; only non-binding principles.
+  actions: [validate_ai_output]
+  precedents: [P-08, P-09, P-10]
+  scope: core
+G4:
+  title: A required institution is missing or not operational
+  question: Is every body named in the alert chain created, staffed and reachable?
+  rule: A mandate row notes that the body is not operational, or an agent REQUEST to that body gets no answer in the drill.
+  actions: [issue_public_alert, coordinate_response]
+  precedents: []
+  scope: extension
+G5:
+  title: Two legal objectives conflict (health and privacy)
+  question: On what basis, and within what limits, can location or health data be used in a crisis?
+  rule: For use_crisis_personal_data, rows of kind power and prohibition coexist with no rule of precedence, or the law refers to specific texts that are not found.
+  actions: [use_crisis_personal_data]
+  precedents: [P-22, P-24]
+  scope: extension
+G6:
+  title: Nobody answers for the harm caused by a false or missed alert
+  question: Who is liable when an alert causes harm, or when none is sent?
+  rule: No documented row allocating liability for liability_for_harm in the alert context.
+  actions: [liability_for_harm, correct_false_alert]
+  precedents: [P-16, P-17]
+  scope: core
+G7:
+  title: No obligation on alert languages and coverage
+  question: In which languages, and over what part of the territory, must an alert reach people?
+  rule: No documented duty for alert_language_coverage; a technical or secondary text only gives partial.
+  actions: [alert_language_coverage]
+  precedents: [P-13, P-14, P-15]
+  scope: core
+G8:
+  title: The AI is used outside its conditions of validity
+  question: Who checks that the AI works within the conditions stated by its supplier?
+  rule: An event shows HydroSense validity_met = false, the output is used, and no documented duty for validate_ai_output exists.
+  actions: [validate_ai_output]
+  precedents: [P-19, P-20, P-21]
+  scope: core
+G9:
+  title: The alert channel is not protected against fake messages
+  question: Who can block a fake alert and correct it, and how fast?
+  rule: No documented power for block_spoofed_alert or correct_false_alert; a criminal prohibition alone gives partial.
+  actions: [block_spoofed_alert, correct_false_alert, investigate_cyber_incident]
+  precedents: [P-11, P-12, P-18]
+  scope: core
+G10:
+  title: Data leave the country with no emergency procedure
+  question: Can crisis data be processed abroad, with what authorisation, how fast in an emergency?
+  rule: For transfer_data_abroad, a prior authorisation or restriction exists and no emergency procedure is found.
+  actions: [transfer_data_abroad]
+  precedents: [P-23, P-25]
+  scope: extension

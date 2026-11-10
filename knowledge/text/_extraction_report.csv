@@ -1,0 +1,53 @@
+id,pages,chars_per_page,low_text_pages,status
+AE-01,29,1450,,ok
+AE-02,25,2631,1 24 25,partial_ocr
+AE-03,6,665,1 6,partial_ocr
+AE-05,34,1633,,ok
+AE-06,37,1713,,ok
+AE-09,5,1455,,ok
+AE-10,2,1516,,ok
+AE-12,15,1798,,ok
+CM-01,24,1889,,ok
+CM-02,42,2192,,ok
+CM-03,10,2002,,ok
+CM-04,31,2486,,ok
+CM-05,2,1974,,ok
+CM-07,4,1444,,ok
+CM-08,48,1625,,ok
+CM-09,4,5249,,ok
+CM-10,38,1543,38,partial_ocr
+CM-11,123,2157,123,partial_ocr
+CM-12,15,3796,,ok
+CM-13,66,2463,,ok
+CM-14,9,1704,4,partial_ocr
+CM-15,6,1279,,ok
+CM-16,3,3659,,ok
+CM-17,22,3001,,ok
+CM-18,202,1640,30 93 155 166 197 202,partial_ocr
+CM-21,4,2211,,ok
+CM-22,5,3909,5,partial_ocr
+CM-23,45,2356,2,partial_ocr
+GL-01,179,3724,,ok
+GL-02,144,4094,,ok
+GL-03,88,4026,,ok
+GL-04,1,6257,,ok
+GL-05,11,3863,,ok
+GL-06,28,3681,26 27 28,partial_ocr
+GL-08,4,2097,,ok
+GL-09,3,1116,,ok
+GL-10,56,1772,56,partial_ocr
+GL-11,104,2670,1 2 3 8 103,partial_ocr
+GL-12,42,1931,8 40 41,partial_ocr
+GL-13,37,3244,1 2 5 7 36 37,partial_ocr
+GL-14,37,2019,1,partial_ocr
+GL-15,66,2468,2,partial_ocr
+GL-16,165,2906,1,partial_ocr
+GL-17,53,3018,,ok
+GL-18,48,2184,1 48,partial_ocr
+GL-19,32,3230,,ok
+GL-20,15,1404,,ok
+ITU-01,34,2108,6 32 33,partial_ocr
+ITU-02,55,2216,3,partial_ocr
+ITU-04,1,4458,,ok
+CTX-01,1,6645,,ok
+CTX-02,6,2270,,ok

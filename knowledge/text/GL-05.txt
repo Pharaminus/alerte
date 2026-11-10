@@ -1,0 +1,1176 @@
+[[page 1]]
+952 
+Pt. 10 
+ineligible to participate or send a representative to serve on any advisory 
+committee established by the Commission. 
+PART 10—WIRELESS EMERGENCY 
+ALERTS 
+Subpart A—General Information 
+Sec. 
+10.1
+Basis. 
+10.2
+Purpose. 
+10.10
+Definitions. 
+10.11
+WEA implementation timeline. 
+Subpart B—Election to Participate in 
+Wireless Emergency Alerts System 
+10.210
+WEA participation election procedures. 
+10.220
+Withdrawal of election to participate 
+in WEA. 
+10.230
+New CMS providers participating in 
+WEA. 
+10.240
+Notification to new subscribers of 
+non-participation in WEA. 
+10.250
+Notification to existing subscribers of 
+non-participation in WEA. 
+10.260
+Timing of subscriber notification. 
+10.270
+Subscribers’ right to terminate subscription. 
+10.280
+Subscribers’ right to opt out of WEA 
+notifications. 
+Subpart C—System architecture 
+10.300
+Alert aggregator. [Reserved] 
+10.310
+Federal alert gateway. [Reserved] 
+10.320
+Provider gateway requirements. 
+10.330
+Provider infrastructure requirements. 
+10.340
+Digital television transmission towers retransmission capability. 
+10.350
+WEA testing and proficiency training 
+requirements. 
+Subpart D—Alert message requirements 
+10.400
+Classification. 
+10.410
+Prioritization. 
+10.420
+Message elements. 
+10.430
+Character limit. 
+10.441
+Embedded references. 
+10.450
+Geographic targeting. 
+10.460
+Retransmission frequency. [Reserved] 
+10.470
+Roaming. 
+10.480
+Language support. 
+Subpart E—Equipment requirements 
+10.500
+General requirements. 
+10.510
+Call preemption prohibition. 
+10.520
+Common audio attention signal. 
+10.530
+Common vibration cadence. 
+10.540
+Attestation requirement. [Reserved] 
+AUTHORITY: 47 U.S.C. 151, 154(i) and (o), 201, 
+303(r), 403, and 606, 1202(a), (b), (c), (f), 1203, 
+1204, and 1206. 
+SOURCE: 73 FR 43117, July 24, 2008, unless 
+otherwise noted. 
+Subpart A—General Information 
+§ 10.1
+Basis. 
+The rules in this part are issued pursuant to the authority contained in the 
+Warning, Alert, and Response Network 
+Act, Title VI of the Security and Accountability for Every Port Act of 2006, 
+Public Law 109–347, Titles I through III 
+of the Communications Act of 1934, as 
+amended, and Executive Order 13407 of 
+June 26, 2006, Public Alert and Warning 
+System, 71 FR 36975, June 26, 2006. 
+§ 10.2
+Purpose. 
+The rules in this part establish the 
+requirements for participation in the 
+voluntary Wireless Emergency Alerts 
+system. 
+[78 FR 16807, Mar. 19, 2013] 
+§ 10.10
+Definitions. 
+(a) Alert Message. An Alert Message is 
+a message that is intended to provide 
+the recipient information regarding an 
+emergency, and that meets the requirements for transmission by a Participating Commercial Mobile Service Provider under this part. 
+(b) Common Alerting Protocol. The 
+Common Alerting Protocol (CAP) refers to Organization for the Advancement of Structured Information Standards (OASIS) Standard CAP–V1.1, October 2005 (available at http://www.oasis- 
+open.org/specs/index.php#capv1.1), or any 
+subsequent version of CAP adopted by 
+OASIS and implemented by the WEA. 
+(c) Wireless Emergency Alerts. The 
+Wireless Emergency Alerts (WEA) system refers to the voluntary emergency 
+alerting system established by this 
+part, 
+whereby 
+Commercial 
+Mobile 
+Service Providers may elect to transmit Alert Messages to the public. 
+(d) Commercial Mobile Service Provider. 
+A Commercial Mobile Service Provider 
+(or CMS Provider) is an FCC licensee 
+providing commercial mobile service as 
+defined in section 332(d)(1) of the Communications Act of 1934 (47 U.S.C. 
+332(d)(1)). Section 332(d)(1) defines the 
+Frm 00962
+
+[[page 2]]
+953 
+Federal Communications Commission 
+§ 10.11 
+term commercial mobile service as any 
+mobile service (as defined in 47 U.S.C. 
+153) that is provided for profit and 
+makes interconnected service available 
+to the public or to such classes of eligible users as to be effectively available 
+to a substantial portion of the public, 
+as specified by regulation by the Commission. 
+(e) County and County Equivalent. The 
+terms County and County Equivalent 
+as used in this part are defined by Federal Information Processing Standards 
+(FIPS) 6–4, which provides the names 
+and codes that represent the counties 
+and other entities treated as equivalent legal and/or statistical subdivisions of the 50 States, the District of 
+Columbia, and the possessions and freely associated areas of the United 
+States. Counties are considered to be 
+the ‘‘first-order subdivisions’’ of each 
+State and statistically equivalent entity, regardless of their local designations (county, parish, borough, etc.). 
+Thus, the following entities are considered to be equivalent to counties for 
+legal and/or statistical purposes: The 
+parishes of Louisiana; the boroughs 
+and census areas of Alaska; the District of Columbia; the independent cities of Maryland, Missouri, Nevada, and 
+Virginia; that part of Yellowstone National Park in Montana; and various 
+entities in the possessions and associated areas. The FIPS codes and FIPS 
+code documentation are available online at http://www.itl.nist.gov/fipspubs/ 
+index.htm. 
+(f) Participating Commercial Mobile 
+Service Provider. A Participating Commercial Mobile Service Provider (or a 
+Participating CMS Provider) is a Commercial Mobile Service Provider that 
+has voluntarily elected to transmit 
+Alert Messages under subpart B of this 
+part. 
+(g) ‘‘C’’ Interface. The interface between the Alert Gateway and CMS provider Gateway. 
+(h) CMS provider Gateway. The mechanism(s) that supports the ‘‘C’’ interface and associated protocols between 
+the Alert Gateway and the CMS provider Gateway, and which performs the 
+various functions associated with the 
+authentication, management and dissemination of WEA Alert Messages received from the Alert Gateway. 
+(i) CMS provider infrastructure. The 
+mechanism(s) that distribute received 
+WEA Alert Messages throughout the 
+CMS provider’s network, including cell 
+site/paging transceivers and perform 
+functions associated with authentication of interactions with the Mobile 
+Device. 
+(j) Mobile Devices. The subscriber 
+equipment generally offered by CMS 
+providers that supports the distribution of WEA Alert Messages. 
+(k) CMS Provider participation ‘‘in 
+whole.’’ 
+CMS 
+Providers 
+that 
+have 
+agreed to transmit WEA Alert Messages in a manner consistent with the 
+technical standards, protocols, procedures, and other technical requirements implemented by the Commission 
+in the entirety of their geographic 
+service area, and when all mobile devices that the CMS Providers offer at 
+the point of sale are WEA-capable. 
+(l) CMS Provider participation ‘‘in 
+part.’’ CMS Providers that have agreed 
+to transmit WEA Alert Messages in a 
+manner consistent with the technical 
+standards, protocols, procedures, and 
+other technical requirements implemented by the Commission in some, 
+but not in all of their geographic service areas, or CMS Providers that offer 
+mobile devices at the point of sale that 
+are not WEA-capable. 
+[73 FR 43117, July 24, 2008, as amended at 73 
+FR 54525, Sept. 22, 2008; 78 FR 16807, Mar. 19, 
+2013; 83 FR 8623, Feb. 28, 2018] 
+§ 10.11
+WEA implementation timeline. 
+(a) Notwithstanding anything in this 
+part to the contrary, a participating 
+CMS provider shall begin an 18 month 
+period of development, testing and deployment of the WEA in a manner consistent with the rules in this part no 
+later than 10 months from the date 
+that the Federal Alert Aggregator and 
+Alert Gateway makes the Government 
+Interface Design specifications available. 
+(b) If a Participating CMS Provider’s 
+network infrastructure would generate 
+and display WEA headers with the text 
+‘‘Presidential Alert’’ to subscribers 
+upon receipt of a National Alert, or include the text ‘‘Presidential Alert’’ in a 
+mobile device’s settings menus, then 
+by July 31, 2022, that Participating 
+CMS Provider’s network infrastructure 
+Frm 00963
+
+[[page 3]]
+954 
+§ 10.210 
+shall either generate and display WEA 
+headers and menus with the text ‘‘National Alert,’’ or no longer display 
+those headers and menu text to the 
+subscriber. 
+Network 
+infrastructure 
+that is technically incapable of meeting this requirement, such as situations in which legacy devices or networks cannot be updated to support 
+header display changes, are exempt 
+from this requirement. 
+[78 FR 16807, Mar. 19, 2013, as amended at 86 
+FR 46790, Aug. 20, 2021; 87 FR 34213, June 6, 
+2022] 
+Subpart B—Election To Participate 
+in Wireless Emergency Alerts 
+System 
+SOURCE: 73 FR 54525, Sept. 22, 2008, unless 
+otherwise noted. 
+§ 10.210
+WEA 
+participation 
+election 
+procedures. 
+(a) A CMS provider that elects to 
+transmit WEA Alert Messages, in part 
+or in whole as defined by § 10.10(k) and 
+(l), shall electronically file with the 
+Commission a letter attesting that the 
+Provider: 
+(1) Agrees to transmit such alerts in 
+a manner consistent with the technical 
+standards, protocols, procedures, and 
+other technical requirements implemented by the Commission; and 
+(2) Commits to support the development and deployment of technology for 
+the ‘‘C’’ interface, the CMS provider 
+Gateway, the CMS provider infrastructure, and mobile devices with WEA 
+functionality and support of the CMS 
+provider selected technology. 
+(b) A CMS provider that elects not to 
+transmit WEA Alert Messages shall file 
+electronically with the Commission a 
+letter attesting to that fact. 
+(c) CMS providers shall file their 
+election electronically to the docket. 
+[73 FR 54525, Sept. 22, 2008, as amended at 78 
+FR 16807, Mar. 19, 2013; 83 FR 8623, Feb. 28, 
+2018] 
+§ 10.220
+Withdrawal of election to participate in WEA. 
+A CMS provider that elects to transmit WEA Alert Messages, in part or in 
+whole, may withdraw its election without regulatory penalty or forfeiture if 
+it notifies all affected subscribers as 
+well as the Federal Communications 
+Commission at least sixty (60) days 
+prior to the withdrawal of its election. 
+In the event that a carrier withdraws 
+from its election to transmit WEA 
+Alert Messages, the carrier must notify 
+each affected subscriber individually in 
+clear and conspicuous language citing 
+the statute. Such notice must promptly inform the customer that he or she 
+no longer could expect to receive alerts 
+and of his or her right to terminate 
+service as a result, without penalty or 
+early termination fee. Such notice 
+must facilitate the ability of a customer to automatically respond and 
+immediately discontinue service. 
+[78 FR 16807, Mar. 19, 2013] 
+§ 10.230
+New CMS providers participating in WEA. 
+CMS providers who initiate service at 
+a date after the election procedure provided for in § 10.210(d) and who elect to 
+provide WEA Alert Messages, in part or 
+in whole, shall file electronically their 
+election to transmit in the manner and 
+with the attestations described in 
+§ 10.210(a). 
+[78 FR 16807, Mar. 19, 2013] 
+§ 10.240
+Notification 
+to 
+new 
+subscribers 
+of 
+non-participation 
+in 
+WEA. 
+(a) A CMS provider that elects not to 
+transmit WEA Alert Messages, in part 
+or in whole, shall provide clear and 
+conspicuous notice, which takes into 
+account the needs of persons with disabilities, to new subscribers of its non- 
+election or partial election to provide 
+Alert messages at the point-of-sale. 
+(b) The point-of-sale includes stores, 
+kiosks, third party reseller locations, 
+web sites (proprietary or third party), 
+and any other venue through which the 
+CMS provider’s devices and services are 
+marketed or sold. 
+(c) CMS Providers electing to transmit alerts ‘‘in part’’ shall use the following notification: 
+NOTICE REGARDING TRANSMISSION OF 
+WIRELESS EMERGENCY ALERTS (Commercial Mobile Alert Service) 
+[[CMS provider]] has chosen to offer wireless emergency alerts, including enhanced 
+geo-targeting, within portions of its service 
+area, as defined by the terms and conditions 
+Frm 00964
+
+[[page 4]]
+955 
+Federal Communications Commission 
+§ 10.280 
+of its service agreement, on wireless emergency alert capable devices. There is no additional charge for these wireless emergency 
+alerts. 
+Wireless emergency alerts, including enhanced geo-targeting, may not be available 
+on all devices or in the entire service area, or 
+if a subscriber is outside of the [[CMS provider]] service area. For details on the availability of this service and wireless emergency alert capable devices, including the 
+availability and benefits of enhanced geo- 
+targeting, please ask a sales representative, 
+or go to [[CMS provider’s URL]]. 
+Notice required by FCC Rule 47 CFR 10.240 
+(Commercial Mobile Alert Service) 
+(d) CMS providers electing in whole 
+not to transmit alerts shall use the following notification language: 
+NOTICE TO NEW AND EXISTING SUBSCRIBERS REGARDING TRANSMISSION 
+OF 
+WIRELESS 
+EMERGENCY 
+ALERTS 
+(Commercial Mobile Alert Service) 
+[[CMS provider]] presently does not transmit wireless emergency alerts. Notice required by FCC Rule 47 CFR 10.240 (Commercial Mobile Alert Service). 
+[73 FR 54525, Sept. 22, 2008, as amended at 78 
+FR 16807, Mar. 19, 2013; 83 FR 8623, Feb. 28, 
+2018] 
+§ 10.250
+Notification to existing subscribers 
+of 
+non-participation 
+in 
+WEA. 
+(a) A CMS provider that elects not to 
+transmit WEA Alert Messages, in part 
+or in whole, shall provide clear and 
+conspicuous notice, which takes into 
+account the needs of persons with disabilities, to existing subscribers of its 
+non-election or partial election to provide Alert messages by means of an announcement amending the existing 
+subscriber’s service agreement. 
+(b) For purposes of this section, a 
+CMS provider that elects not to transmit WEA Alert Messages, in part or in 
+whole, shall use the notification language set forth in § 10.240 (c) or (d) respectively, except that the last line of 
+the notice shall reference FCC Rule 47 
+CFR 10.250, rather than FCC Rule 47 
+CFR 10.240. 
+(c) In the case of prepaid customers, 
+if a mailing address is available, the 
+CMS provider shall provide the required notification via U.S. mail. If no 
+mailing address is available, the CMS 
+provider 
+shall 
+use 
+any 
+reasonable 
+method at its disposal to alert the customer to a change in the terms and 
+conditions of service and directing the 
+subscriber to voice-based notification 
+or to a Web site providing the required 
+notification. 
+[73 FR 54525, Sept. 22, 2008, as amended at 78 
+FR 16807, Mar. 19, 2013] 
+§ 10.260
+Timing of subscriber notification. 
+A CMS provider that elects not to 
+transmit WEA Alert Messages, in part 
+or in whole, must comply with §§ 10.240 
+and 10.250 no later than 60 days following an announcement by the Commission that the Alert Aggregator/ 
+Gateway system is operational and capable of delivering emergency alerts to 
+participating CMS providers. 
+[78 FR 16807, Mar. 19, 2013] 
+§ 10.270
+Subscribers’ right to terminate subscription. 
+If a CMS provider that has elected to 
+provide WEA Alert Messages in whole 
+or in part thereafter chooses to cease 
+providing such alerts, either in whole 
+or in part, its subscribers may terminate their subscription without penalty or early termination fee. 
+[78 FR 16807, Mar. 19, 2013] 
+§ 10.280
+Subscribers’ right to opt out of 
+WEA notifications. 
+(a) CMS providers may provide their 
+subscribers with the option to opt out 
+of the ‘‘Child Abduction Emergency/ 
+AMBER 
+Alert,’’ 
+‘‘Imminent 
+Threat 
+Alert’’ and ‘‘Public Safety Message’’ 
+classes of Alert Messages. 
+(b) CMS providers shall provide their 
+subscribers with a clear indication of 
+what each option means, and provide 
+examples of the types of messages the 
+customer may not receive as a result of 
+opting out. 
+[73 FR 54525, Sept. 22, 2008, as amended at 78 
+FR 16808, Mar. 19, 2013; 81 FR 75725, Nov. 1, 
+2016] 
+Frm 00965
+
+[[page 5]]
+956 
+§ 10.300 
+Subpart C—System Architecture 
+§ 10.300
+Alert aggregator. [Reserved] 
+§ 10.310
+Federal alert gateway. [Reserved] 
+§ 10.320
+Provider 
+alert 
+gateway 
+requirements. 
+This section specifies the functions 
+that each Participating Commercial 
+Mobile Service provider is required to 
+support and perform at its CMS provider gateways. 
+(a) General. The CMS provider gateway must provide secure, redundant, 
+and reliable connections to receive 
+Alert Messages from the Federal alert 
+gateway. Each CMS provider gateway 
+must be identified by a unique IP address or domain name. 
+(b) Authentication and validation. The 
+CMS provider gateway must authenticate interactions with the Federal 
+alert gateway, and validate Alert Message integrity and parameters. The 
+CMS provider gateway must provide an 
+error message immediately to the Federal alert gateway if a validation fails. 
+(c) Security. The CMS provider gateway must support standardized IP- 
+based security mechanisms such as a 
+firewall, and support the defined WEA 
+‘‘C’’ interface and associated protocols 
+between the Federal alert gateway and 
+the CMS provider gateway. 
+(d) Geographic targeting. The CMS 
+provider 
+gateway 
+must 
+determine 
+whether the provider has elected to 
+transmit an Alert Message within a 
+specified alert area and, if so, map the 
+Alert Message to an associated set of 
+transmission sites. 
+(e) 
+Message 
+management—(1) 
+Formatting. The CMS provider gateway is 
+not required to perform any formatting, reformatting, or translation 
+of 
+an 
+Alert 
+Message, 
+except 
+for 
+transcoding a text, audio, video, or 
+multimedia file into the format supported by mobile devices. 
+(2) Reception. The CMS provider 
+gateway must support a mechanism to 
+stop and start Alert Message deliveries 
+from the Federal alert gateway to the 
+CMS provider gateway. 
+(3) Prioritization. The CMS provider 
+gateway must process an Alert Message on a first in-first out basis except 
+for National Alerts, which must be 
+processed 
+before 
+all 
+non-National 
+Alerts. 
+(4) Distribution. A Participating CMS 
+provider must deploy one or more CMS 
+provider gateways to support distribution of Alert Messages and to manage 
+Alert Message traffic. 
+(5) Retransmission. The CMS provider gateway must manage and execute Alert Message retransmission, and 
+support a mechanism to manage congestion within the CMS provider’s infrastructure. 
+(f) CMS provider profile. The CMS provider gateway will provide profile information on the CMS provider for the 
+Federal alert gateway to maintain at 
+the Federal alert gateway. This profile 
+information must be provided by an authorized CMS provider representative 
+to the Federal alert gateway administrator. The profile information must 
+include the data listed in Table 10.320(f) 
+and must comply with the following 
+procedures: 
+(1) The information must be provided 
+30 days in advance of the date when the 
+CMS provider begins to transmit WEA 
+alerts. 
+(2) Updates of any CMS provider profiles must be provided in writing at 
+least 30 days in advance of the effective 
+change date. 
+TABLE 10.320(f)—CMSP PROFILE ON FEDERAL ALERT GATEWAY 
+Profile parameter 
+Parameter election 
+Description 
+CMSP Name ............................
+..................................................
+Unique identification of CMSP. 
+CMSP gateway Address ..........
+IP address or Domain Name.
+Alternate IP address ...............
+Optional and subject to implementation. 
+Geo-Location Filtering ..............
+<yes/no> ..................................
+If ‘‘yes’’ the only CMAM issued in the listed states will be sent 
+to the CMSP gateway. 
+If ‘‘no’’, all CMAM will be sent to the CMSP gateway. 
+If yes, list of states ...................
+CMAC Geocode for state ........
+List can be state name or abbreviated state name. 
+Frm 00966
+
+[[page 6]]
+957 
+Federal Communications Commission 
+§ 10.350 
+(g) Alert logging. The CMS provider 
+gateway must perform the following 
+functions: 
+(1) Logging requirements. Log the 
+CMAC attributes of all Alert Messages 
+received at the CMS Provider Alert 
+Gateway, including time stamps that 
+verify when the message is received, 
+and when it is retransmitted or rejected by the Participating CMS Provider Alert Gateway. If an Alert Message is rejected, a Participating CMS 
+Provider is required to log the specific 
+error code generated by the rejection. 
+(2) Maintenance of logs. Participating 
+CMS Providers are required to maintain a log of all active and cancelled 
+Alert Messages for at least 12 months 
+after receipt of such alert or cancellation. 
+(3) Availability of logs. Participating 
+CMS Providers are required to make 
+their alert logs available to the Commission and FEMA upon request. Participating CMS Providers are also required to make alert logs available to 
+emergency management agencies that 
+offer confidentiality protection at least 
+equal to that provided by the federal 
+Freedom of Information Act (FOIA) 
+upon request, but only insofar as those 
+logs pertain to Alert Messages initiated by that emergency management 
+agency. 
+[73 FR 43117, July 24, 2008, as amended at 78 
+FR 16808, Mar. 19, 2013; 81 FR 75725, Nov. 1, 
+2016; 86 FR 46790, Aug. 20, 2021] 
+§ 10.330
+Provider 
+infrastructure 
+requirements. 
+This section specifies the general 
+functions that a Participating CMS 
+Provider is required to perform within 
+their 
+infrastructure. 
+Infrastructure 
+functions are dependent upon the capabilities of the delivery technologies implemented by a Participating CMS Provider. 
+(a) Distribution of Alert Messages to 
+mobile devices. 
+(b) Authentication of interactions 
+with mobile devices. 
+(c) Reference Points D & E. Reference 
+Point D is the interface between a CMS 
+Provider gateway and its infrastructure. Reference Point E is the interface 
+between a provider’s infrastructure and 
+mobile devices including air interfaces. 
+Reference Points D and E protocols are 
+defined and controlled by each Participating CMS Provider. 
+§ 10.340
+Digital television transmission 
+towers retransmission capability. 
+Licensees and permittees of noncommercial educational broadcast television stations (NCE) or public broadcast television stations (to the extent 
+such stations fall within the scope of 
+those terms as defined in section 397(6) 
+of the Communications Act of 1934 (47 
+U.S.C. 397(6))) are required to install 
+on, or as part of, any broadcast television 
+digital 
+signal 
+transmitter, 
+equipment to enable the distribution of 
+geographically targeted alerts by commercial mobile service providers that 
+have elected to transmit WEA alerts. 
+Such equipment and technologies must 
+have the capability of allowing licensees and permittees of NCE and public 
+broadcast television stations to receive 
+WEA alerts from the Alert Gateway 
+over an alternate, secure interface and 
+then to transmit such WEA alerts to 
+CMS Provider Gateways of participating CMS providers. This equipment 
+must be installed no later than eighteen months from the date of receipt of 
+funding permitted under section 606(b) 
+of the WARN Act or 18 months from 
+the effective date of these rules, whichever is later. 
+[78 FR 16808, Mar. 19, 2013] 
+§ 10.350
+WEA testing and proficiency 
+training requirements. 
+This section specifies the testing 
+that is required of Participating CMS 
+Providers. 
+(a) Required monthly tests. Testing of 
+the WEA from the Federal Alert Gateway to each Participating CMS Provider’s infrastructure shall be conducted monthly. 
+(1) A Participating CMS Provider’s 
+Gateway shall support the ability to 
+receive a required monthly test (RMT) 
+message initiated by the Federal Alert 
+Gateway Administrator. 
+(2) Participating CMS Providers shall 
+schedule the distribution of the RMT 
+to their WEA coverage area over a 24 
+hour period commencing upon receipt 
+of the RMT at the CMS Provider Gateway. 
+Participating 
+CMS 
+Providers 
+shall determine the method to distribute the RMTs, and may schedule 
+Frm 00967
+
+[[page 7]]
+958 
+§ 10.400 
+over the 24 hour period the delivery of 
+RMTs over geographic subsets of their 
+coverage area to manage traffic loads 
+and to accommodate maintenance windows. 
+(3) A Participating CMS Provider 
+may forego an RMT if the RMT is pre- 
+empted by actual alert traffic or if an 
+unforeseen condition in the CMS Provider infrastructure precludes distribution of the RMT. A Participating CMS 
+Provider Gateway shall indicate such 
+an unforeseen condition by a response 
+code to the Federal Alert Gateway. 
+(4) The RMT shall be initiated only 
+by the Federal Alert Gateway Administrator using a defined test message. 
+Real event codes or alert messages 
+shall not be used for the WEA RMT 
+message. 
+(5) A Participating CMS Provider 
+shall distribute an RMT within its 
+WEA coverage area within 24 hours of 
+receipt by the CMS Provider Gateway 
+unless pre-empted by actual alert traffic or unable due to an unforeseen condition. 
+(6) A Participating CMS Provider 
+may provide mobile devices with the 
+capability of receiving RMT messages. 
+(7) A Participating CMS Provider 
+must retain an automated log of RMT 
+messages received by the CMS Provider 
+Gateway from the Federal Alert Gateway. 
+(b) Periodic C interface testing. In addition to the required monthly tests, a 
+Participating CMS Provider must participate in periodic testing of the interfaces between the Federal Alert Gateway and its CMS Provider Gateway, including the public television broadcast- 
+based backup to the C-interface. This 
+periodic interface testing is not intended to test the CMS Provider’s infrastructure nor the mobile devices but 
+rather is required to ensure the availability/viability of both gateway functions. Each CMS Provider Gateway 
+shall send an acknowledgement to the 
+Federal Alert Gateway upon receipt of 
+such interface test messages. Real 
+event codes or Alert Messages shall not 
+be used for this periodic interface testing. 
+(c) State/Local WEA Testing. A Participating CMS Provider must support 
+State/Local WEA Tests in a manner 
+that complies with the Alert Message 
+Requirements specified in Subpart D. 
+(1) A Participating CMS Provider’s 
+Gateway shall support the ability to 
+receive a State/Local WEA Test message initiated by the Federal Alert 
+Gateway Administrator. 
+(2) A Participating CMS Provider 
+shall immediately transmit a State/ 
+Local WEA Test to the geographic area 
+specified by the alert originator. 
+(3) A Participating CMS Provider 
+may forego a State/Local WEA Test if 
+the State/Local WEA Test is pre- 
+empted by actual alert traffic or if an 
+unforeseen condition in the CMS Provider infrastructure precludes distribution of the State/Local WEA Test. If a 
+Participating CMS Provider Gateway 
+forgoes a State/Local WEA Test, it 
+shall send a response code to the Federal Alert Gateway indicating the reason. 
+(4) Participating CMS Providers shall 
+provide their subscribers with the option to opt in to receive State/Local 
+WEA Tests. 
+[73 FR 47558, Aug. 14, 2008, as amended at 78 
+FR 16808, Mar. 19, 2013; 81 FR 75726, Nov. 1, 
+2016] 
+Subpart D—Alert Message 
+Requirements 
+§ 10.400
+Classification. 
+A Participating CMS Provider is required to receive and transmit four 
+classes of Alert Messages: Presidential 
+Alert; Imminent Threat Alert; Child 
+Abduction Emergency/AMBER Alert; 
+and Public Safety Message. 
+(a) National Alert. A National Alert is 
+an alert issued by the President of the 
+United States or the President’s authorized designee, or by the Administrator of FEMA. National Alerts may 
+be either nationwide or regional in distribution. 
+(b) Imminent Threat Alert. An Imminent Threat Alert is an alert that 
+meets a minimum value for each of 
+three CAP elements: Urgency, Severity, and Certainty. 
+(1) Urgency. The CAP Urgency element must be either Immediate (i.e., 
+responsive action should be taken immediately) or Expected (i.e., responsive 
+action should be taken soon, within the 
+next hour). 
+Frm 00968
+
+[[page 8]]
+959 
+Federal Communications Commission 
+§ 10.441 
+(2) Severity. The CAP Severity element must be either Extreme (i.e., an 
+extraordinary threat to life or property) or Severe (i.e., a significant 
+threat to life or property). 
+(3) Certainty. The CAP Certainty element must be either Observed (i.e., determined to have occurred or to be ongoing) or Likely (i.e., has a probability 
+of greater than 50 percent). 
+(c) Child Abduction Emergency/AMBER 
+Alert. (1) An AMBER Alert is an alert 
+initiated by a local government official 
+based on the U.S. Department of Justice’s five criteria that should be met 
+before an alert is activated: 
+(i) Law enforcement confirms a child 
+has been abducted; 
+(ii) The child is 17 years or younger; 
+(iii) Law enforcement believes the 
+child is in imminent danger of serious 
+bodily harm or death; 
+(iv) There is enough descriptive information about the victim and the abduction to believe an immediate broadcast alert will help; and 
+(v) The child’s name and other data 
+have been entered into the National 
+Crime Information Center. 
+(2) There are four types of AMBER 
+Alerts: Family Abduction; Non-family 
+Abduction; Lost, Injured or Otherwise 
+Missing; and Endangered Runaway. 
+(i) Family Abduction. A Family Abduction (FA) alert involves an abductor 
+who is a family member of the abducted child such as a parent, aunt, 
+grandfather, or stepfather. 
+(ii) Nonfamily Abduction. A Nonfamily 
+Abduction (NFA) alert involves an abductor unrelated to the abducted child, 
+either someone unknown to the child 
+and/or the child’s family or an acquaintance/friend of the child and/or 
+the child’s family. 
+(iii) Lost, Injured, or Otherwise Missing. A Lost, Injured, or Otherwise Missing (LIM) alert involves a case where 
+the circumstances of the child’s disappearance are unknown. 
+(iv) Endangered Runaway. An Endangered Runaway (ERU) alert involves a 
+missing child who is believed to have 
+run away and in imminent danger. 
+(d) Public Safety Message. A Public 
+Safety Message is an essential public 
+safety advisory that prescribes one or 
+more actions likely to save lives and/or 
+safeguard property during an emergency. A Public Safety Message may 
+only be issued in connection with an 
+Alert Message classified in paragraphs 
+(a), (b) or (c) of this section. 
+[73 FR 43117, July 24, 2008, as amended at 81 
+FR 75726, Nov. 1, 2016; 86 FR 46790, Aug. 20, 
+2021] 
+§ 10.410
+Prioritization. 
+A Participating CMS Provider is required to transmit National Alerts 
+upon receipt. National Alerts preempt 
+all other Alert Messages. A Participating CMS Provider is required to 
+transmit 
+Imminent 
+Threat 
+Alerts, 
+AMBER Alerts and Public Safety Messages on a first in-first out (FIFO) 
+basis. 
+[86 FR 46790, Aug. 20, 2021] 
+§ 10.420
+Message elements. 
+A WEA Alert Message processed by a 
+Participating CMS Provider shall include five mandatory CAP elements— 
+Event 
+Type; 
+Area 
+Affected; 
+Recommended Action; Expiration Time 
+(with time zone); and Sending Agency. 
+This requirement does not apply to National Alerts. 
+[86 FR 46790, Aug. 20, 2021] 
+§ 10.430
+Character limit. 
+A Participating CMS Provider must 
+support transmission of an Alert Message that contains a maximum of 360 
+characters of alphanumeric text. If, 
+however, some or all of a Participating 
+CMS Provider’s network infrastructure 
+is technically incapable of supporting 
+the transmission of a 360-character 
+maximum Alert Message, then that 
+Participating CMS Provider must support transmission of an Alert Message 
+that contains a maximum of 90 characters of alphanumeric text on and 
+only on those elements of its network 
+incapable of supporting a 360 character 
+Alert Message. 
+[81 FR 75726, Nov. 1, 2016] 
+§ 10.441
+Embedded references. 
+Participating CMS Providers are required to support Alert Messages that 
+include an embedded Uniform Resource 
+Locator (URL), which is a reference (an 
+Frm 00969
+
+[[page 9]]
+960 
+§ 10.450 
+address) to a resource on the Internet, 
+or an embedded telephone number. 
+[81 FR 75726, Nov. 1, 2016] 
+§ 10.450
+Geographic targeting. 
+This section establishes minimum requirements for the geographic targeting of Alert Messages. 
+(a) This section establishes minimum 
+requirements for the geographic targeting of Alert Messages. A Participating CMS Provider will determine 
+which of its network facilities, elements, and locations will be used to 
+geographically target Alert Messages. 
+A Participating CMS Provider must deliver any Alert Message that is specified by a circle or polygon to an area 
+that matches the specified circle or 
+polygon. A Participating CMS Provider 
+is considered to have matched the target area when they deliver an Alert 
+Message to 100 percent of the target 
+area with no more than 0.1 of a mile 
+overshoot. If some or all of a Participating CMS Provider’s network infrastructure is technically incapable of 
+matching the specified target area, 
+then that Participating CMS Provider 
+must deliver the Alert Message to an 
+area that best approximates the specified target area on and only on those 
+aspects of its network infrastructure 
+that are incapable of matching the target area. A Participating CMS Provider’s network infrastructure may be 
+considered technically incapable of 
+matching the target area in limited 
+circumstances, including when the target area is outside of the Participating 
+CMS Provider’s network coverage area, 
+when mobile devices have location 
+services disabled, and when legacy networks or devices cannot be updated to 
+support this functionality. 
+(b) Upon request from an emergency 
+management agency, a Participating 
+CMS Provider will disclose information 
+regarding their capabilities for geo-targeting Alert Messages. A Participating 
+CMS Provider is only required to disclose this information to an emergency 
+management agency insofar as it would 
+pertain to Alert Messages initiated by 
+that emergency management agency, 
+and only so long as the emergency 
+management agency offers confidentiality protection at least equal to that 
+provided by the federal FOIA. 
+(c) In matching the target area, Participating CMS Providers may not 
+limit the availability of 360 characters 
+for the Alert Message text. 
+[81 FR 75726, Nov. 1, 2016, as amended at 83 
+FR 8623, Feb. 28, 2018] 
+§ 10.460
+Retransmission 
+frequency. 
+[Reserved] 
+§ 10.470
+Roaming. 
+When, pursuant to a roaming agreement (see § 20.12 of this chapter), a subscriber 
+receives 
+services 
+from 
+a 
+roamed-upon network of a Participating CMS Provider, the Participating 
+CMS 
+Provider 
+must 
+support 
+WEA 
+alerts to the roaming subscriber to the 
+extent the subscriber’s mobile device is 
+configured for and technically capable 
+of receiving WEA alerts. 
+[78 FR 16808, Mar. 19, 2013] 
+§ 10.480
+Language support. 
+Participating CMS Providers are required to transmit WEA Alert Messages that are issued in the Spanish 
+language or that contain Spanish-language characters. 
+[81 FR 75726, Nov. 1, 2016] 
+Subpart E—Equipment 
+Requirements 
+§ 10.500
+General requirements. 
+WEA mobile device functionality is 
+dependent on the capabilities of a Participating 
+CMS 
+Provider’s 
+delivery 
+technologies. Mobile devices are required to perform the following functions: 
+(a) Authentication of interactions 
+with CMS Provider infrastructure. 
+(b) Monitoring for Alert Messages. 
+(c) Maintaining subscriber alert opt- 
+out selections, if any. 
+(d) Maintaining subscriber alert language preferences, if any. 
+(e) Extraction of alert content in 
+English or the subscriber’s preferred 
+language, if applicable. 
+(f) Presentation of alert content to 
+the device, consistent with subscriber 
+opt-out 
+selections. 
+National 
+Alerts 
+must always be presented. 
+(g) Detection and suppression of presentation of duplicate alerts. 
+Frm 00970
+
+[[page 10]]
+961 
+Federal Communications Commission 
+§ 10.530 
+(h) Preservation of Alert Messages in 
+a consumer-accessible format and location for at least 24 hours or until deleted by the subscriber. 
+[73 FR 43117, July 24, 2008, as amended at 78 
+FR 16808, Mar. 19, 2013; 83 FR 8623, Feb. 28, 
+2018; 86 FR 46790, Aug. 20, 2021] 
+§ 10.510
+Call preemption prohibition. 
+Devices marketed for public use 
+under part 10 must present an Alert 
+Message as soon as they receive it, but 
+may not enable an Alert Message to 
+preempt an active voice or data session. If a mobile device receives a WEA 
+Alert Message during an active voice or 
+data session, the user may be given the 
+option to control how the Alert Message is presented on the mobile device 
+with respect to the use of the common 
+vibration cadence and audio attention 
+signal. 
+[81 FR 75726, Nov. 1, 2016] 
+§ 10.520
+Common audio attention signal. 
+A Participating CMS Provider and 
+equipment manufacturers may only 
+market devices for public use under 
+part 10 that include an audio attention 
+signal that meets the requirements of 
+this section. 
+(a) The audio attention signal must 
+have a temporal pattern of one long 
+tone of two (2) seconds, followed by two 
+short tones of one (1) second each, with 
+a half (0.5) second interval between 
+each tone. The entire sequence must be 
+repeated twice with a half (0.5) second 
+interval between each repetition. 
+(b) For devices that have polyphonic 
+capabilities, the audio attention signal 
+must consist of the fundamental frequencies of 853 Hz and 960 Hz transmitted simultaneously. 
+(c) 
+For 
+devices 
+with 
+only 
+a 
+monophonic capability, the audio attention signal must be 960 Hz. 
+(d)(1) No person may transmit or 
+cause to transmit the WEA common 
+audio attention signal, or a recording 
+or simulation thereof, in any circumstance other than in an actual National, State or Local Area emergency 
+or authorized test, except as designed 
+and used for Public Service Announcements (PSAs) by federal, state, local, 
+tribal and territorial entities, and non- 
+governmental organizations in coordination with those entities, to raise 
+public 
+awareness 
+about 
+emergency 
+alerting, provided that the entity presents the PSA in a non-misleading 
+manner, including by explicitly stating 
+that the emergency alerting attention 
+signal is being used in the context of a 
+PSA for the purpose of educating the 
+viewing or listening public about emergency alerting. 
+(2) If the Administrator of the Federal Emergency Management Agency 
+(FEMA) or a State, local, Tribal, or 
+territorial government entity becomes 
+aware of transmission of a WEA false 
+alert to the public, they are encouraged to send an email to the Commission 
+at 
+the 
+FCC 
+Ops 
+Center 
+at 
+FCCOPS@fcc.gov, informing the Commission of the event and of any details 
+that they may have concerning the 
+event. 
+(e) A device may include the capability to mute the audio attention signal. 
+[73 FR 43117, July 24, 2008, as amended at 81 
+FR 75727, Nov. 1, 2016; 86 FR 46790, Aug. 20, 
+2021; 87 FR 34213, June 6, 2022] 
+§ 10.530
+Common vibration cadence. 
+A Participating CMS Provider and 
+equipment manufacturers may only 
+market devices for public use under 
+part 10 that include a vibration cadence capability that meets the requirements of this section. 
+(a) The vibration cadence must have 
+a temporal pattern of one long vibration of two (2) seconds, followed by two 
+short vibrations of one (1) second each, 
+with a half (0.5) second interval between each vibration. The entire sequence must be repeated twice with a 
+half (0.5) second interval between each 
+repetition. 
+(b) The vibration cadence must be restricted to use for Alert Messages 
+under part 10. 
+(c) A device may include the capability to mute the vibration cadence. 
+Frm 00971
+
+[[page 11]]
+962 
+§ 10.540 
+§ 10.540
+Attestation requirement. [Reserved] 
+PART 11—EMERGENCY ALERT 
+SYSTEM (EAS) 
+Subpart A—General 
+Sec. 
+11.1
+Purpose. 
+11.2
+Definitions. 
+11.11
+The Emergency Alert System (EAS). 
+11.12–11.14
+[Reserved] 
+11.15
+EAS Operating Handbook. 
+11.16
+National Control Point Procedures. 
+11.18
+EAS Designations. 
+11.20
+[Reserved] 
+11.21
+State and Local Area plans and FCC 
+Mapbook. 
+Subpart B—Equipment Requirements 
+11.31
+EAS protocol. 
+11.32
+EAS Encoder. 
+11.33
+EAS Decoder. 
+11.34
+Acceptability of the equipment. 
+11.35
+Equipment operational readiness. 
+Subpart C—Organization 
+11.41
+Participation in EAS. 
+11.42
+[Reserved] 
+11.43
+National level participation. 
+11.44
+Alert repetition. 
+11.45
+Prohibition of false or deceptive EAS 
+transmissions. 
+11.46
+EAS public service announcements. 
+11.47
+Optional use of other communications 
+methods and systems. 
+Subpart D—Emergency Operations 
+11.51
+EAS code and Attention Signal Transmission requirements. 
+11.52
+EAS code and Attention Signal Monitoring requirements. 
+11.53
+[Reserved] 
+11.54
+EAS 
+operation 
+during 
+a 
+National 
+Level emergency. 
+11.55
+EAS operation during a State or Local 
+Area emergency. 
+11.56
+Obligation to process CAP-formatted 
+EAS messages. 
+Subpart E—Tests 
+11.61
+Tests of EAS procedures. 
+AUTHORITY: 47 U.S.C. 151, 154 (i) and (o), 
+303(r), 544(g), 606, 1201, 1206. 
+SOURCE: 59 FR 67092, Dec. 28, 1994, unless 
+otherwise noted. 
+Subpart A—General 
+§ 11.1
+Purpose. 
+This part contains rules and regulations providing for an Emergency Alert 
+System (EAS). The EAS provides the 
+President with the capability to provide immediate communications and 
+information to the general public at 
+the National, State and Local Area levels during periods of national emergency. The rules in this part describe 
+the required technical standards and 
+operational procedures of the EAS for 
+analog AM, FM, and TV broadcast stations, digital broadcast stations, analog cable systems, digital cable systems, wireline video systems, wireless 
+cable systems, Direct Broadcast Satellite (DBS) services, Satellite Digital 
+Audio Radio Service (SDARS), and 
+other participating entities. The EAS 
+may be used to provide the heads of 
+State and local government, or their 
+designated 
+representatives, 
+with 
+a 
+means of emergency communication 
+with the public in their State or Local 
+Area. 
+[72 FR 62132, Nov. 2, 2007] 
+§ 11.2
+Definitions. 
+The definitions of terms used in part 
+11 are: 
+(a) National Emergency Message (EAN). 
+The National Emergency Message (formerly called the Emergency Action 
+Notification or Presidential alert message) is the notice to all EAS Participants and to the general public that 
+the EAS has been activated for a national emergency. EAN messages that 
+are formatted in the EAS Protocol 
+(specified in § 11.31) are sent from a 
+government origination point to broadcast stations and other entities participating in the National Public Warning 
+System, and are subsequently disseminated via EAS Participants. Dissemination arrangements for EAN messages 
+that are formatted in the EAS Protocol 
+(specified in § 11.31) at the State and 
+local levels are specified in the State 
+and Local Area plans (defined at 
+§ 11.21). A national activation of the 
+EAS for a Presidential National Emergency Message with the Event code 
+EAN as specified in § 11.31 must take 
+Frm 00972

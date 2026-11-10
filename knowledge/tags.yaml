@@ -1,0 +1,164 @@
+# Step 1.11 - keyword dictionary used to tag each chunk with institutions and topics.
+# Keywords are matched case-insensitively. Review the tags of key texts by hand afterwards.
+
+institutions:
+  weather_service:
+    - météorolog
+    - meteorolog
+    - National Center of Meteorology
+    - NCM
+    - PAGASA
+    - weather service
+  civil_protection:
+    - protection civile
+    - civil protection
+    - civil defence
+    - civil defense
+    - NCEMA
+    - emergency management
+    - gestion des catastrophes
+    - disaster management
+    - NDRRMC
+    - plan d'urgence
+    - plans d'urgence
+  operator:
+    - opérateur
+    - operator
+    - service provider
+    - fournisseur
+    - mobile phone service
+    - commercial mobile service provider
+    - participating CMS provider
+  regulator:
+    - Agence de Régulation des Télécommunications
+    - ART
+    - TDRA
+    - Telecommunications and Digital Government Regulatory Authority
+    - regulatory authority
+    - national regulatory
+    - autorité de régulation
+    - BEREC
+    - Commission
+  cybersecurity:
+    - ANTIC
+    - cybersécurité
+    - cybersecurity
+    - cybercrim
+    - Cybersecurity Council
+    - sécurité des systèmes d'information
+  health:
+    - santé publique
+    - public health
+    - Ministry of Public Health
+    - MINSANTE
+  data_authority:
+    - données à caractère personnel
+    - personal data
+    - Data Office
+    - autorité de protection des données
+    - supervisory authority
+  local_authority:
+    - commune
+    - collectivité
+    - maire
+    - chef traditionnel
+    - municipality
+    - local government
+  parliament:
+    - Assemblée nationale
+    - Parlement
+    - Parliament
+    - Congress
+
+topics:
+  public_alerting:
+    - alerte
+    - alert
+    - warning
+    - avertissement
+    - public warning
+    - early warning
+    - cell broadcast
+    - diffusion
+  operator_obligations:
+    - obligation
+    - cahier des charges
+    - mandated
+    - shall transmit
+    - service universel
+    - universal service
+    - licence
+    - convention de concession
+  emergency_powers:
+    - état d'urgence
+    - state of emergency
+    - réquisition
+    - requisition
+    - catastrophe
+    - disaster
+    - calamit
+    - emergency
+  human_oversight:
+    - human oversight
+    - supervision humaine
+    - human review
+    - validation
+    - approval
+  ai_systems:
+    - artificial intelligence
+    - intelligence artificielle
+    - AI system
+    - algorithm
+    - machine learning
+  liability:
+    - responsabilité
+    - liability
+    - liable
+    - réparation
+    - damages
+    - dommages
+    - indemn
+  spoofing_fraud:
+    - usurpation
+    - spoofing
+    - falsif
+    - false data
+    - fausse
+    - rumour
+    - rumor
+    - phishing
+  language_coverage:
+    - langue
+    - language
+    - multilingual
+    - accessib
+    - coverage
+    - couverture
+    - disabilit
+  data_protection:
+    - données personnelles
+    - personal data
+    - consent
+    - consentement
+    - location data
+    - données de localisation
+  cross_border_data:
+    - transfert
+    - transfer
+    - outside the State
+    - hors du territoire
+    - third country
+  coordination:
+    - coordination
+    - coordonn
+    - comité
+    - committee
+    - council
+    - conseil
+  public_communication:
+    - presse
+    - press
+    - media
+    - médias
+    - information du public
+    - public information

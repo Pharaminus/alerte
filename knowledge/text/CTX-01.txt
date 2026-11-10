@@ -1,0 +1,65 @@
+[[page 1]]
+Behind the UAE alert: How warning goes from national emergency systems to your phone | Khaleej Times
+Home
+/
+UAE
+Behind the UAE alert: How warning goes from national emergency systems to your phone
+The 10.5-second warning residents get on their phones is simply the final stage of a system built to reach people quickly during danger
+PUBLISHED: Wed 19 Aug 2026, 8:30 AM UPDATED: Wed 19 Aug 2026, 10:44 AM
+By:
+Ahmed Waqqas Alawlaqi
+Add as a preferred
+source on Google
+Share:
+[Editor's Note: For the latest updates on  US-Iran hostilities  since a 14-point MoU expired on August 17, follow the Khaleej Times live blog.]
+After thirty-seven days since the last such incident, UAE residents heard the emergency alarm sound again on Tuesday.
+Recommended For You
+Trump says 'largely true' Iran war caused midterms loss, after Vance comments
+Iran's IRGC says two tankers and tugboat caught fire in Strait of Hormuz
+'I had no money': Sharjah Ruler says he had to sell shares to issue his newest book
+Fresh tests needed to renew UAE driving licence expired over 10 years ago
+Soon you will own a flying car that you can drive on the road
+The warning told residents to immediately seek shelter in the nearest secure building, remain away from windows, doors and open areas, and wait for official instructions as air defence systems responded to a missile threat.
+Ten minutes later, the alert was lifted and authorities confirmed that the situation was safe. It was the first such emergency warning since July 12.
+Stay up to date with the latest news. Follow KT on WhatsApp Channels.
+For someone holding a phone, the sequence can appear straightforward: an alarm, a message, instructions and eventually an all-clear. But the message on the screen is the last visible step of a wider national early-warning system built to move urgent information from authorities to people in the area where it is needed.
+Not a normal text
+The technology behind the mobile warning is known as Cell Broadcast.
+Unlike an SMS, which is delivered to individual telephone numbers, Cell Broadcast allows a warning to be transmitted simultaneously through selected mobile-network cells to compatible devices connected in that area.
+Under standards set by the Telecommunications and Digital Government Regulatory Authority, or TDRA, a UAE-Alert can target an area ranging from a single mobile-network cell to the entire network.
+This geographic approach is important during an emergency. Authorities do not need to identify every person in an affected location or send an individual message to every phone number. Instead, the network broadcasts the warning to compatible devices within the selected coverage area.
+Ncema began activating mobile warnings as part of the National Early Warning System in 2018, describing it as a way to send alerts according to users’ geographic location within seconds and without affecting normal network performance.
+Why the alarm sounds like that
+The distinctive alarm is not simply a feature designed by Apple, Samsung or another manufacturer.
+UAE technical standards determine how devices should react when different categories of public warning arrive.
+An Emergency Alert is enabled by default and cannot be disabled by the user. It appears on screen, triggers vibration and uses an emergency attention signal lasting 10.5 seconds. TDRA’s published UAE-Alert requirements state that the signal operates even when a phone is in mute mode.
+There are also separate categories for warnings, exercises and tests, which can behave differently. This allows the same infrastructure to distinguish between an immediate emergency and a lower-level public warning or drill.
+The specification is designed to work across successive generations of mobile networks, including GSM, UMTS, LTE and 5G, rather than being tied to a single technology.
+What happens before the phone sounds?
+This is the part of the chain that is less visible publicly.
+The Ministry of Defence has said the UAE operates integrated, multi-layer air-defence systems alongside early-warning and monitoring capabilities, with national systems continuously tracking developments and maintaining high levels of readiness.
+Ncema, meanwhile, operates the national framework through which public warnings and emergency instructions are coordinated with relevant authorities.
+Following the July 12 incident , authorities said national monitoring systems operate around the clock and that precautionary alerts may be issued proactively even when the likelihood of a threat affecting the country is limited.
+That helps explain an important distinction: receiving an alert does not necessarily mean an incoming threat is certain to strike the area where the phone is located.
+The warning system is designed to act before that certainty exists, giving people instructions while authorities continue monitoring and assessing the situation.
+The exact operational handoff between military detection, threat assessment, the decision to issue a civilian warning, and its transmission through telecommunications networks has, however, not been revealed to the public.
+Also, the available information does not support the idea of a radar automatically sending an alert directly to phones.
+What can be seen instead is a chain with distinct layers: national monitoring and detection, assessment and emergency coordination, an authorised public warning, and finally the telecommunications system that distributes that warning geographically.
+For residents, the national warning system may only become visible when a phone suddenly vibrates and rings.
+But by the time the 10.5-second-long alarm begins, the warning has already travelled through a much larger system. The phone is simply the last mile.
+ALSO READ
+Watch: UAE ministry releases footage showing air defence systems in action
+UAE detects first Iranian missile threats since July 12, issues brief emergency alert
+Written by Ahmed Waqqas Alawlaqi Staff Writer
+Ahmed Waqqas Alawlaqi began his journalism career at 17 and now reports from Abu Dhabi on artificial intelligence, critical technologies and major national developments. His work examines the people, institutions and ideas shaping the UAE’s technological and economic future.
+MOST POPULAR
+1
+Trump says Iran 'not doing anything' on nuclear programme without US approval
+2
+Fresh tests needed to renew UAE driving licence expired over 10 years ago
+3
+Houthis say they targeted King Fahd Airport in Dammam; no Saudi confirmation
+4
+UAE arrests 20 international drug network members, foils attempt to smuggle 30kg drugs
+5
+Sharjah's Al Taawun interchange partially reopens: Which roads remain closed?

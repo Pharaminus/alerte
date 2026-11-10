@@ -1,0 +1,76 @@
+[[page 1]]
+Product Compliance Specialists Ltd Tel: +44 1844 273 277 
+The Malthouse, Malthouse Square, 
+ Fax: +44 1844 273 278 
+Princes Risborough 
+www.productcompliancespecialists.com 
+Bucks, HP27 9AZ info@productcompliancespecialists.com 
+United Kingdom 
+ 
+ 
+Kiwa House, Malvern View Business Park, Stella Way, Bishops Cleeve, Cheltenham, GL52 7DQ, UK Company Reg. 5101011 
+Registered in England and Wales 
+ 
+Doc ref: RU1509004 
+Regulatory Update 
+ 
+New cell handset Requirements in UAE 
+ 
+UAE Telecommunications Regulatory Authority (TRA) has confirmed new 
+mandatory cellular handset requirements in recently published Technical 
+Specification TS040. 
+ 
+These requirements are being developed in order to establish a “Public 
+Warning System” which will use several channels to broadcast public 
+warnings in emergency cases or disaster situations. 
+ 
+Technical requirements are as per below: 
+ 
+1. The Handset should be configured by default to receive all Warning 
+Notifications. 
+2. Messages should support both English and Arabic languages. 
+3. Message should be limited to 1 page maximum. 
+4. An emergency alert message should be immediately recognizable. 
+(Emergency messages shall be specifically recognizable as being an 
+emergency message that cannot be mistaken for an ordinary message) 
+5. The emergency warning message should stay on the display regardless of 
+the user setting, until the message indication is cancelled by the user. It 
+should be possible for the user to review the message at a later time. 
+6. Handset should only be required to receive and present Warning 
+Notifications in languages as presented by the Warning Notification 
+Provider. 
+7. It should be possible for the Warning Notification to be displayed on the 
+handset upon reception and without any user interaction. 
+8. The alerting indication for a specific Warning Notification should continue 
+until suppressed by users’ manual operation (e.g. by pushing keys). The 
+frequency and duration of the continued alerting indication is mobile 
+device implementation specific. This should not suppress the alerting 
+indication for subsequent Warning Notifications.
+
+[[page 2]]
+Date of Issue: 21 Sep 2015 
+ 
+Page 2 of 2 
+ 
+Doc ref: RU1509004 
+ 
+9. The handset should not support any capabilities to forward received 
+Warning Notifications, to reply to received Warning Notifications, or to 
+copy and paste the content of Warning Notifications. 
+10. The handset should have the ability to present previously displayed 
+Warning Notifications if requested by the user. 
+11. The handset should be able to support concurrent reception of multiple 
+Warning Notification. 
+ 
+The above requirements will be applicable to all cellular handsets entering UAE 
+from 1 January 2016. 
+ 
+PCS are investigating which frequency bands the warning notifications will be sent 
+on, and will issue a further update once confirmed. 
+ 
+ 
+For additional information on this article please contact: 
+ 
+ Mrs Zhenya Price 
+Product Compliance Specialists 
+Email: zhenya@productcompliancespecialists.com

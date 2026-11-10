@@ -1,0 +1,236 @@
+[[page 1]]
+CAT Resource Center Post Event Report 
+Gulf Floods – April 2024 
+Report Date: April 25, 2024 
+ 
+Overview 
+• Rainstorms and extreme flash flooding affecting most of the UAE, Oman, 
+Bahrain and Iran were caused by a series of thunderstorms, not cloud 
+seeding, according to experts. 
+• Heavy rain damage severely affected populations in the region, especially in 
+Oman, where at least 20 people have died. 
+• Up to 259 mm (10.2 inches) of rain fell on the UAE between April 14 and 17, 
+2024, the most since records began 75 years ago, causing widespread 
+flooding. In Oman, between April 14 and 16, some states received 
+approximately 180 mm of rainfall, also causing significant flooding. 
+• Dubai’s airport, one of the busiest for international travel, saw more than 
+1,500 flights delayed or cancelled over 3 days. 
+• Insurance penetration in the Middle East remains relatively low, with rates of 
+approximately 1.5% in Saudi Arabia, 1% in Qatar, and 2.75% in the UAE, 
+indicating a significant portion of the population lacks adequate insurance 
+coverage. 
+• Most of the properties insured have all-risk policies, which cover most 
+natural perils. 
+• Motor insurance is mandatory in the UAE and most regions affected. 
+However, according to publicly available statistics, it is estimated that 
+approximately 60-65% of all vehicles have full comprehensive coverage in 
+the UAE, which would include natural catastrophes cover. TPL policies 
+typically do not over natural catastrophe perils.
+
+[[page 2]]
+Meteorological Discussion 
+Starting April 14, 2024, severe weather hit the Arabian Gulf, most severely affecting 
+Oman and the UAE. Extreme amounts of rain were brought by the storms. The scale of 
+this event is exceptional, with the National Center of Meteorology announcing the UAE 
+experienced the largest amount of rainfall since 1949, with more than 250 mm in a 
+single day.1 This is more than the country’s yearly average rainfall. In Oman, between 
+April 14 and 16, 2024, up to approximately 180 mm of rainfall fell in some of the states 
+of the Sultanate of Oman, according to the National Committee for Emergency 
+Management.2 A similar event took place on March 8, 2016, when more than 240 mm of 
+rainfall fell in Dubai in a few hours.3 
+ 
+Figure 1: Daily mean rainfall over the UAE and Oman onApril 16, 2024. Source: GSMaP by JAXA Global Rainfall Watch was 
+produced and distributed by the Earth Observation Research Center, Japan Aerospace Exploration Agency.4 
+ 
+ 
+1 https://twitter.com/UAEmediaoffice/status/1780326720588906951 
+2 https://twitter.com/NCEM_OM/status/1780267137816224116 
+3 https://watchers.news/2016/03/09/severe-weather-hits-uae-and-oman-thunderstorms-large-hail-and-severeflooding/ 
+4 https://earth.jaxa.jp/en/earthview/2024/04/19/8032/index.html
+
+[[page 3]]
+The extreme precipitation in the region was caused by a mesoscale convection system 
+(MCS). An MCS occurs when multiple thunderstorms merge to form a larger system, 
+spanning hundreds, if not thousands, of square kilometers. These systems can 
+generate hazardous weather conditions, including hail and tornadoes. The geographical 
+location of the region provides the necessary conditions of high moisture, instability and 
+lift for the formation of MCSs. The intensity of precipitation during this event was so high 
+that it overwhelmed the modern drainage infrastructure. 
+Although rainfall is infrequent on a yearly scale, it can be of very high magnitude when it 
+does occur. The region experiences high variability and rapid changes in weather 
+between April and May, as seasons transition from winter (December to March) to 
+summer (June to September). Between 1991 and 2020, the UAE experienced an 
+average of approximately 24 mm of rainfall between March and May. On an annual 
+basis, the country receives between 140 mm and 200 mm of rainfall. In Oman, the 
+average rainfall ranges from 150 mm to 300 mm in the north and 50 mm to 150 mm in 
+the south. A study conducted in 2021 found that MCSs are not rare in this region, with 
+many occurrences observed in March and April between 2000 and 2020. Furthermore, 
+the same study suggests that MCSs in this area are increasing in duration. Bahrain, 
+Qatar, and Saudi Arabia also experienced rainfall, although not of the same intensity as 
+in the UAE and Oman. 
+Forecasters, such as the Global Flood Awareness System (GloFAS)5 and ECMWF,6 
+managed to predict the extreme flooding and precipitation in advance. 
+In the future, climate change is likely to increase extreme precipitation, as a warmer 
+world further enhances the ability of the atmosphere to hold more moisture.7 Climate 
+change may also increase the likelihood of intense thunderstorms, with associated 
+extreme rainfall, due to increasing atmospheric instability. 
+Weather impacts 
+The UAE and Oman experienced extraordinary torrential 
+rains that flooded the desert. It affected highways, 
+inundated houses, gridlocked traffic and trapped people in 
+their homes. In the UAE, floods resulted in heavy 
+disruption, severely affecting areas of Dubai, Sharjah and 
+Abu Dhabi. In Dubai, the city’s infrastructure, including 
+roads and buildings, suffered damage due to the excessive 
+rainfall. Transportation systems were severely affected, 
+with roads becoming impassable and flights being delayed 
+or cancelled. This disruption had a significant impact on the 
+ 
+5 https://global-flood.emergency.copernicus.eu/ 
+6 https://www.ecmwf.int/ 
+7 Gründemann, G.J., van de Giesen, N., Brunner, L. et al. Rarest rainfall events will see the greatest relative increase 
+in magnitude under future climate change. Commun Earth Environ 3, 235 (2022). https://doi.org/10.1038/s43247022-00558-8
+
+[[page 4]]
+daily lives of residents and visitors, as well as on businesses and tourism in the city. At 
+least one person was killed in the flooding—a 70-year-old man who was swept away in 
+his car in Ras al-Khaimah, one of the country’s 7 emirates, according to police. The 
+UAE government announced remote working for most federal government employees, 
+with schools staying closed in Dubai, which underscores the difficulty of the cleanup. 
+Neighboring countries were also hit by heavy rains, including Oman, where at least 20 
+people have died, including 10 schoolchildren and 1 adult swept away in a vehicle. 
+Areas affected included Al Mudhaibi in the North Al Sharqiyah Governorate, Marmul 
+Airport and Qalhat in the South Ash Sharqiyah Governorate. Teams from Royal Oman 
+Police (ROP) and Oman’s Civil Defence and Ambulance Department Authority were 
+called on to carry out multiple high-water rescues. Many of those rescued were trapped 
+in vehicles or swept away by fast-flowing wadi waters. The ROP rescued around 35 
+people stranded in the Wilayat of Ibra. Around 21 people were rescued after a school 
+bus was trapped in flood waters in the Wilayat of Nizwa. 
+In conclusion, the recent floods have had a significant loss impact, including damage to 
+infrastructure, disruption of transportation systems, and economic losses. Growing 
+infrastructure and likelihood of the region getting affected by such natural perils highlight 
+the urgent need for further action to address and mitigate the effects in the region. 
+Insurance loss 
+The damage was significant to infrastructure, including roads, vehicles, buildings and 
+public facilities, and will require significant resources for repair and restoration. Multiple 
+residential units, commercial shops, malls, warehouses and industrial units were 
+affected. Additionally, businesses that were affected by the floods may experience 
+financial losses due to interrupted operations and damage to their properties. 
+Insurance penetration in the Middle East remains relatively low compared to global 
+standards. The insurance penetration rate (including all lines of business) in Saudi 
+Arabia stands at around 1.5%, approximately 1% in Qatar, and 2.75% in the UAE. 
+These figures indicate that a significant portion of the population in these countries does 
+not have adequate insurance coverage. 
+The low insurance penetration rate in the Middle East can be attributed to several 
+factors. One of the main reasons is the lack of awareness and understanding of 
+insurance products and their benefits among the general population. Many people in the 
+region are not familiar with the various types of insurance available or how they can 
+protect their assets and mitigate risks. Additionally, the insurance industry in the Middle 
+East faces challenges in terms of market development and growth. While the region has 
+witnessed significant economic growth and development, the insurance sector has 
+struggled to keep pace.
+
+[[page 5]]
+While preliminary estimated insured property losses arising from the floods are likely to 
+exceed USD 650 million it could reach as high as USD 850 million for the UAE, with the 
+most affected emirate being Dubai. Large policies affected would have several primary 
+policy conditions, and losses to insurance companies can vary significantly. 
+The estimated number of motor vehicles affected by floods is between 30,000 and 
+50,000 in the UAE, mostly concentrated in Dubai. Only the vehicles with comprehensive 
+policies will be covered by insurance companies (TPL policies typically do not cover Nat 
+Cat perils). Accordingly, the estimated preliminary insured loss for motor is likely to 
+exceed USD 150 million but could reach as high as USD 250 million for the UAE. 
+Claims are still developing, and this estimated number is subject to further change. 
+To evaluate the exposure at risk, Guy Carpenter has provided a map for potential flood- 
+affected areas across the region, which is integrated into GC AdvantagePoint®, Guy 
+Carpenter’s market-leading proprietary tool. Clients can overlay their current exposure 
+and apply this layer to assess the current exposure at risk. 
+Impact on the insurance industry 
+After such an event, we may see some impact on the original insurance policies and 
+reinsurance arrangements to cater for such an event. Below are some considerations: 
+• 
+Insurance awareness: We expect this to increase among personal lines as well as 
+the commercial and industrial sector. 
+• 
+Insurance claims: Insurance companies may experience a surge in claims related to 
+vehicle repairs, property damage, business interruption, liability and other types of 
+coverage. 
+• 
+Losses and financial impact: Depending on the size of loss, insurers may need to 
+tap into their reserves or seek additional reinsurance support to manage the financial 
+impact. 
+• 
+Market dynamics: Insurers and reinsurers may review their risk appetite, revise their 
+underwriting guidelines, and reassess their exposure and accumulation control, 
+which in turn can impact pricing and competition.
+
+[[page 6]]
+Contacts 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+About Guy Carpenter 
+Guy Carpenter & Company, LLC is a leading global risk and reinsurance specialist with 3,500 professionals in over 60 offices around the world. Guy 
+Carpenter delivers a powerful combination of broking expertise, trusted strategic advisory services and industry-leading analytics to help clients adapt 
+to emerging opportunities and achieve profitable growth. Guy Carpenter is a business of Marsh McLennan (NYSE: MMC), the world’s leading 
+professional services firm in the areas of risk, strategy and people. The company’s more than 85,000 colleagues advise clients in over 130 countries. 
+With annual revenue of $23 billion, Marsh McLennan helps clients navigate an increasingly dynamic and complex environment through four marketleading businesses including Marsh, Mercer and Oliver Wyman. For more information, visit www.guycarp.com and follow us on LinkedIn and X. 
+ 
+Guy Carpenter & Company, LLC provides this report for general information only. The information contained herein is based on sources we believe 
+reliable, but we do not guarantee its accuracy, and it should be understood to be general insurance/reinsurance information only. Guy Carpenter & 
+Company, LLC makes no representations or warranties, express or implied. The information is not intended to be taken as advice with respect to any 
+individual situation and cannot be relied upon as such. Statements concerning tax, accounting, legal or regulatory matters should be understood to be 
+general observations based solely on our experience as reinsurance brokers and risk consultants, and may not be relied upon as tax, accounting, 
+legal or regulatory advice, which we are not authorized to provide. All such matters should be reviewed with your own qualified advisors in these 
+areas. Readers are cautioned not to place undue reliance on any historical, current or forward-looking statements. Guy Carpenter & Company, LLC 
+undertakes no obligation to update or revise publicly any historical, current or forward-looking statements, whether as a result of new information, 
+research, future events or otherwise. The trademarks and service marks contained herein are the property of their respective owners. 
+©2024 Guy Carpenter & Company, LLC. All rights reserved 
+Lucie Marfoq 
+Head of Analytics – IMEA 
+lucie.marfoq@guycarp.com 
++971 (0) 56 525 4370 
+Tariq Terhi 
+Managing Director – IMEA 
+tariq.terhi@guycarp.com 
++971 (0) 50 454 6452 
+Atish Suri 
+CEO – India, Middle East and Africa 
+atish.suri@guycarp.com 
++971 (0) 56 686 0933 
+Amit Shah 
+Head of Catastrophe Risk Management – IMEA 
+amit.a.shah@guycarp.com 
++91 (0) 8097 426 868 
+Matthew Day 
+Strategic Advisory Leader – IMEA 
+matthew.day@guycarp.com 
++44 (0) 7584 491 692 
+Matthew Eagle 
+Head of Global Model Solutions and Advisory 
+matthew.eagle@guycarp.com 
++44 (0) 7976 163 336

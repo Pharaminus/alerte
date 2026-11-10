@@ -1,0 +1,1254 @@
+[[page 1]]
+Report and Recommendations
+Hawaii Emergency Management Agency 
+January 13, 2018 False Alert 
+A Report of the Public Safety and Homeland Security Bureau
+April 2018
+
+[[page 2]]
+2
+Table of Contents
+Heading
+ Page #
+I.
+EXECUTIVE SUMMARY.....................................................................................................................3
+II. BACKGROUND.....................................................................................................................................6
+A. The Emergency Alert System ...........................................................................................................6
+B. Wireless Emergency Alerts...............................................................................................................7
+C. Testing of the National Emergency Alert and Warning Systems.....................................................8
+III. FACTUAL FINDINGS...........................................................................................................................9
+A. Issuance of the False Ballistic Missile Alert.....................................................................................9
+1.
+Hawaii Emergency Management Agency’s Alerting Role. .......................................................9
+2.
+HI-EMA Ballistic Missile Drills and Defense Training Protocol. ...........................................10
+3.
+False Ballistic Missile Alert Timeline......................................................................................11
+B. Causes Leading to the False Alert and Corresponding Delay in Corrective Action.......................14
+C. Performance of the Nationwide Alert Systems...............................................................................18
+1.
+EAS ..........................................................................................................................................18
+2.
+WEA.........................................................................................................................................19
+D. Impact on Public Safety Communications Networks and Services................................................21
+1.
+Police and 911 Response..........................................................................................................21
+2.
+Priority Telecommunications Services.....................................................................................22
+IV. NEXT STEPS........................................................................................................................................23
+A. Hawaii’s Actions to Prevent Recurrence ........................................................................................23
+B. Bureau Recommendations ..............................................................................................................24
+APPENDIX A: Illustration of False Alert and Correction on EAS and WEA
+APPENDIX B: Illustration of HI-EMA’s Alert Origination Software Drop-Down Template Menu
+APPENDIX C: Illustration of Corrections on Social Media
+
+[[page 3]]
+3
+I.
+EXECUTIVE SUMMARY
+1.
+“This is not a drill.” This phrase has regrettable resonance in Hawaii. Its history dates to 
+another weekend morning, Sunday, December 7, 1941, when a U.S. naval officer sent out the following 
+message warning of a Japanese attack: “AIR RAID ON PEARL HARBOR X THIS IS NOT DRILL.”1
+2.
+This phrase was again used in Hawaii on January 13, 2018. At 8:07 a.m. Hawaii 
+Standard Time (HST), on-duty warning officers of the State of Hawaii Emergency Management Agency 
+(HI-EMA) sought to conduct an internal exercise of their ballistic missile defense drill using the 
+Emergency Alert System (EAS) and Wireless Emergency Alerts (WEA).2 The exercise went awry, 
+resulting in HI-EMA sending the following message throughout Hawaii:
+BALLISTIC MISSILE THREAT INBOUND TO HAWAII. SEEK IMMEDIATE SHELTER. 
+THIS IS NOT A DRILL.3
+3.
+This false emergency alert resulted in 38 minutes of confusion, fear and uncertainty for 
+the residents of Hawaii.4 Although some suspected that the alert was a mistake, in part due to the absence 
+of air-raid sirens, and made calls or checked social media to confirm the alert’s authenticity,5 for many 
+Hawaiians, the false alert created the expectation that a missile strike could be only minutes away. 
+According to the Bureau’s investigation, it took HI-EMA until 8:20 a.m. (HST), 13 minutes after the 
+1 See Library of Congress, This Day in History – December 7, Air Raid on Pearl Harbor, 
+https://www.loc.gov/item/today-in-history/december-07/ (last visited Mar. 28, 2018). 
+2 HI-EMA is the emergency management agency for the State of Hawaii. HI-EMA serves as the coordinating 
+agency between county emergency management agencies in Hawaii and as State Warning Point. The Public Safety 
+and Homeland Security Bureau (Bureau) notes that in some instances, the factual representations arising from the 
+Bureau’s investigation appear to differ from HI-EMA’s report on this matter. For example, the Bureau’s 
+investigators found that at 8:07 a.m. the HI-EMA employee completed the process for initiating the false alert, 
+versus the 8:06 a.m. time indicated in HI-EMA’s report, which describes the point in time when the employee who 
+triggered the false alert first logged into the alert origination software. See Brigadier General (Ret.) Bruce E. 
+Olivera, Investigating Officer, False Ballistic Missile Alert Investigation for January 13, 2018, (Jan. 29, 2018), at 13 (HI-EMA Report), https://dod.hawaii.gov/wp-content/uploads/2018/01/report2018-01-29-181149.pdf. In such 
+instances, the Bureau notes the discrepancy but relies on the Bureau’s in-person and telephone interviews with HIEMA employees, as well as Bureau review of HI-EMA documents. The Bureau takes a similar approach regarding 
+discrepancies between its reporting and Hawaii’s “All-Hazards Preparedness Improvement Action Plan and Report.” 
+See Brigadier General Kenneth S. Hara, Deputy Adjutant General, State of Hawaii Department of Defense, AllHazards Preparedness Improvement Action Plan and Report, (Feb. 18, 2018) (Hawaii Preparedness Report) 
+(concurring with the findings of the HI-EMA Report, and providing observations and recommendations to address 
+emergency management preparedness in general and ballistic missile preparedness in specific), 
+https://dod.hawaii.gov/wp-content/uploads/2018/02/Preparedness-Report-18FEB2018.pdf. 
+3 See Appendix B (illustrating the appearance of both the WEA and EAS version of this false alert and HI-EMA’s 
+subsequent corrections). 
+4 See Alia Wong, Pandemonium and Rage in Hawaii, The Atlantic (Jan. 14, 2018), 
+https://www.theatlantic.com/international/archive/2018/01/pandemonium-and-rage-in-hawaii/550529/. Hawaii has 
+over 1.4 million residents and on the average day, Hawaii also has about 200,000 visitors. See Hawaii Preparedness 
+Report at 6.
+5 See Sara Mattison, “They Said That It Was a Mistake.” Teen was First on Social Media to Debunk Missile Alert, 
+KHON (Jan. 17, 2018), http://khon2.com/2018/01/17/they-said-that-it-was-a-mistake-teen-was-first-on-socialmedia-to-debunk-missile-alert/; Daniel Politi, After Incoming Missile Warning, People in Hawaii Wondered What to 
+do With the Last Moments of Their Lives, Slate (Jan. 13, 2018), https://slate.com/news-and-politics/2018/01/afterincoming-missile-warning-people-in-hawaii-wonder-what-to-do-with-last-moments-of-life.html; Daniel Drezner, 
+The Good News About Hawaii’s False Alarm, The Washington Post (Jan. 16, 2018), 
+https://www.washingtonpost.com/news/posteverything/wp/2018/01/16/the-good-news-about-hawaiis-falsealarm/?utm_term=.0e965577cb2b.
+
+[[page 4]]
+4
+initial alert, to provide the public with the first authoritative announcement over social media that this was 
+a false alarm, and 38 minutes to issue a correction using EAS and WEA. As terrifying as this period of 
+uncertainty was for so many Hawaiians, for people with disabilities, the situation was particularly 
+stressful. In one instance, reported by Howard A. Rosenblum, Chief Executive Officer of the National 
+Association of the Deaf (NAD), he and other members of the NAD’s Board of Directors were in 
+Honolulu on January 13, 2018, for an NAD Board meeting when the false alert was initiated.6 According 
+to Mr. Rosenblum, the NAD Board members responded to the directive to “seek immediate shelter” by 
+moving into a windowless storage room of a school library for the next twenty minutes until there was a 
+Twitter message that the alert was false.7 Because the NAD members were deaf and had taken cover in a 
+storage area, they were unable to get any radio or television news broadcasts that the alert was false, and 
+lived in terrifying uncertainty for twenty long minutes.8 
+4.
+On January 13, 2018, at approximately 1:15 p.m. (EST) (8:15 a.m. HST) – a senior 
+Bureau leader with family on the islands notified the FCC Operations Center that Hawaii had received a 
+false emergency alert. Consistent with its protocol, the FCC Operations Center contacted the U.S. 
+Department of Homeland Security (DHS) National Operations Center, which confirmed the alert was 
+false. The FCC Operations Center contacted Bureau leadership at 1:42 p.m. (EST) to ensure they were 
+aware of the incident and the DHS confirmation of the alert as false. During this time, Bureau leadership 
+was also in touch with the Federal Emergency Management Agency (FEMA) concerning the false alert. 
+Federal Communications Commission (Commission) Chairman Ajit Pai immediately directed the Bureau 
+to investigate the facts and circumstances around the transmission of the January 13th false alert. 
+Specifically, Chairman Pai instructed the Bureau to start a full investigation into this event, focusing on 
+two key questions: “What went wrong? And what needs to be done to stop a similar mistake from 
+happening in the future?”9
+5.
+On January 18, 2018, the Bureau dispatched two investigators to Hawaii. On January 18 
+and 19, 2018, the Bureau investigators met with HI-EMA staff, United States Pacific Command 
+(PACOM), the Hawaii State Emergency Communications Committee (Hawaii SECC), and Hawaii 
+legislators.10 Between January 18, 2018 and January 26, 2018, Bureau staff also interviewed alert 
+6 In a memo to the Bureau staff, the National Association of the Deaf detailed the experiences of its Board of 
+Directors on the morning of January 13, 2018, in Hawaii immediately before and after the false ballistic missile alert 
+at 8:07 a.m. Memorandum from Howard A. Rosenblum, Chief Executive Officer, National Association of the Deaf 
+(NAD) to Linda Pintro, Attorney-Advisor, FCC Public Safety and Homeland Security Bureau at 2 (Feb. 8, 2018) (on 
+file with Linda Pintro). The NAD Board of Directors and staff, all deaf, decided to move into a windowless storage 
+room of a school library for the duration of the perceived attack. Id. 
+7 NAD noted that after about 20 minutes there was a tweet from government officials that Hawaii was not under 
+attack, but it wasn’t until 8:45 a.m. that the Board of Directors received the correction alert advising that Hawaii was 
+not in danger from a missile attack. Id. 
+8 Id.
+9 Statement of Chairman Pai re January 30, 2018 Preliminary Report on the Investigation into the False Emergency 
+Alert in Hawaii (Jan. 30, 2018). 
+10 Bureau staff arranged with HI-EMA for the Bureau investigators to interview the warning officer who initiated 
+the alert. When the Bureau investigators arrived at HI-EMA, however, they were informed that the warning officer 
+who initiated the alert was not cooperating in the investigation and would not agree to be interviewed by the 
+Bureau. Bureau investigators did interview HI-EMA supervisory staff and other HI-EMA employees who were on 
+duty when the false alert was issued. In addition, HI-EMA subsequently relayed to the Bureau information from a 
+written statement provided to HI-EMA from the employee who triggered the false alert. Although the Bureau 
+investigators did not interview that employee directly, the Bureau believes that the information that HI-EMA relayed 
+to the Bureau staff from the employee’s statement, in combination with that received from other HI-EMA staff, is 
+sufficiently specific that an interview with the employee who triggered the false alert would not materially change 
+the content of this report or the Bureau’s recommendations.
+
+[[page 5]]
+5
+stakeholders, including emergency managers, wireless providers, the Hawaii Association of Broadcasters 
+(HAB), alert origination software providers—including the vendor that supplied HI-EMA’s alerting 
+software—and emergency management agencies in other parts of the United States to gather information 
+on what safeguards exist to minimize the risk of false alerts and guide Bureau analysis of HI-EMA’s 
+practices and technology.11 Based on the Bureau’s initial investigation, the Bureau presented its 
+preliminary findings on January 30, 2018. Following the Bureau’s preliminary presentation, the Bureau 
+staff continued to investigate the impact of the false alert and correction on the delivery of EAS and 
+WEA, Hawaii’s 911 system, and priority telecommunications service. Today’s report advances the 
+Bureau’s goal to facilitate a conversation with alerting stakeholders on how to ensure the integrity of the 
+EAS and WEA. 
+6.
+This report presents the Bureau’s findings and recommendations, based on the Bureau’s 
+investigation, the HI-EMA Report,12 HI-EMA’s January 30, 2018, press conference regarding the HI-EMA 
+Report’s findings,13 the Hawaii Preparedness Report,14 HI-EMA’s publicly released audio recording of 
+the internal drill initiation message,15 and the testimony submitted in connection with the April 5, 2018 
+Senate field hearing in Hawaii.16 As set forth in greater detail below, the Bureau finds that a combination 
+of human error and inadequate safeguards contributed to the transmission of the January 13 false alert. 
+Neither the false alert nor the 38-minute delay to correct the false alert would have occurred had Hawaii 
+implemented reasonable safeguards and protocols before January 13, 2018, to minimize the risk that HIEMA would issue a false alert, and to ensure that HI-EMA would be able to issue a rapid correction of 
+any false alert that was delivered to the public. This report also notes the measures that the State of 
+Hawaii has taken to ensure that an event like this does not happen again, such as its recent review of the 
+state’s overall preparedness posture in the Hawaii Preparedness Report.17 
+11 In the course of its investigation, PSHSB had discussions with alert origination software providers (AlertSense, 
+Comlabs, GSS Alert Studios; Interop Technologies, NC4, OnSolve, and Everbridge); emergency management 
+agencies (Big City Emergency Managers, Harris County, Texas, Office of Homeland Security and Emergency 
+Management, New York City, New York, Office of Emergency Management, Seattle Office of Emergency 
+Management, and the San Diego Office of Emergency Management); wireless providers (AT&T, Verizon, Sprint, 
+T-Mobile, and the Competitive Carriers Association); federal partners and civil right organizations, (FEMA, the 
+National Weather Service, PACOM, and NAD); and other stakeholders (HAB, the Hawaii SECC, Sandwich Isles 
+Wireless, Hawaiian Telecom Inc., and Hawaii state representatives).
+12 See generally, HI-EMA Report, supra note 2. 
+13 See Press Conference, Missile Alarm Live Stream, http://dod.hawaii.gov/hiema/false-alarm-incidents-internalinvestigation-complete-release-of-results-and-actions/ (last visited Mar. 28, 2018).
+14 See Hawaii Preparedness Report, supra note 2. See also Hawaii Emergency Management Agency, FAQs Related 
+to Ballistic Missile False Alert (Jan. 13, 2018 revised Jan. 31, 2018), http://dod.hawaii.gov/hiema/faqs-related-tothe-ballistic-missile-false-alert/; Hawaii Emergency Management Agency, Statement on Missile Launch False 
+Alarm (Jan. 13, 2018), https://dod.hawaii.gov/hiema/files/2018/01/20180113-NR-HI-EMA-statement-on-missilelaunch-false-alarm.pdf. As discussed above, this report will use the facts as determined in the FCC investigation but 
+note in footnotes any discrepancies with the HI-EMA Report and the Hawaii Preparedness Report.
+15 See State releases heavily redacted recording of HI-EMA’s missile mistake test, Hawaii News Now, (Mar. 14, 
+2018), http://www.hawaiinewsnow.com/story/37727761/state-releases-heavily-redacted-recording-of-hi-emasmissile-mistake-test (HI-EMA Audio File). 
+16 Hawaii False Missile Alert: What Happened and What Should We Do Next? Before the Subcomm. on 
+Communications, Technology, Innovation, and the Internet of the S. Comm. on Commerce, Science & 
+Transportation, (Apr. 5, 2018).
+17 Specifically, the Bureau observes that Hawaii Governor David Ige signed an Executive Order to conduct a 
+comprehensive review of the state’s emergency response system, including notifications and warnings, and make 
+recommendations for improvement. See Executive Order No. 18-01 (Jan. 15, 2018), 
+https://governor.hawaii.gov/wp-content/uploads/2018/01/Executive-Order18-01-EM.pdf.
+
+[[page 6]]
+6
+7.
+With respect to lessons learned, the facts and circumstances surrounding the Hawaii false 
+missile alert provide valuable insights into measures that stakeholders can take to minimize and mitigate 
+the risk of false alerts. The report identifies best practices, first and foremost, to guard against the 
+issuance of false alerts, and second, if a false alert is nonetheless issued, to swiftly correct the 
+misinformation and mitigate the consequences. The Bureau will continue to work with Hawaii, as well as 
+with other federal, state, local, Tribal and territorial officials, to promote awareness of these best practices 
+and to help ensure our nation’s alerting systems are reliable and effective. 
+II.
+BACKGROUND
+8.
+Under the Communications Act of 1934, as amended, the Commission is tasked with 
+promoting the safety of life and property through communications.18 The Commission supports 
+emergency preparedness and response activities in coordination with Federal agencies, including DHS. 
+The Commission also serves as a resource and information clearinghouse on public safety and homeland 
+security issues for communications licensees and other service providers as well as other stakeholders. 
+Among its responsibilities, the Commission works with FEMA and other Federal government partners, 
+state, local, Tribal, and territorial entities, and the communications industry to provide an effective and 
+reliable national emergency alert and warning system. Along with FEMA, which administers the 
+Integrated Public Alert and Warning System (IPAWS), the FCC oversees the operation of the two 
+IPAWS nationwide emergency alert systems, EAS and WEA, by adopting rules that address the 
+transmission of alerts disseminated through those systems by communications service providers, such as 
+broadcasters and wireless providers. The Commission has authority over the communications providers 
+that facilitate transmission of EAS and WEA alerts to the public, including their participation in 
+transmitting actual alerts as well as in testing of the alerting systems.19 FEMA authorizes alert originators 
+to transmit alerts using the IPAWS.20 
+A.
+The Emergency Alert System 
+9.
+The EAS is a national public warning system through which EAS Participants deliver 
+alerts to the public to warn them of impending emergencies.21 EAS Participants include radio and 
+television broadcast stations, cable systems, wireline video systems, wireless cable systems, direct 
+broadcast satellite service providers, and digital audio radio service providers.22 The primary purpose of 
+the EAS is to provide the President of the United States with “the capability to provide immediate 
+communications and information to the general public at the National, State and Local Area levels during 
+periods of national emergency.”23 State and local authorities also use the common distribution 
+18 47 U.S.C. § 151. 
+19 The integrity of the EAS is maintained through the Commission’s EAS rules for testing the system, see 47 CFR 
+§ 11.61, the prohibition against the unauthorized use of the EAS Attention Signal and codes, see 47 CFR §§ 11.45, 
+11.46, and requiring that EAS participants keep their EAS equipment in good working order. See 47 CFR § 11.35. 
+The Commission’s WEA rules also specify testing and proficiency training requirements for Participating CMS 
+Providers. See 47 CFR § 10.350. 
+20 FEMA developed IPAWS to ensure that under all conditions (1) the President of the United States can alert and 
+warn the American people and that (2) Federal, state, local, Tribal, and territorial authorities also have the 
+opportunity to use IPAWS to send alerts and warnings within their jurisdictions. FEMA’s IPAWS allows alerting 
+authorities to deliver alerts simultaneously through multiple communications devices (e.g., mobile phones, 
+television, and radio), reaching as many people as possible to save lives and protect property. 
+21 See 47 CFR § 11.1, et seq.; Review of the Emergency Alert System, EB Docket No. 04-296, Sixth Report and 
+Order, 30 FCC Rcd 6520 (2015). 
+22 See 47 CFR § 11.11(a).
+23 47 CFR § 11.1. See Review of the Emergency Alert System, EB Docket No. 04-296, First Report and Order and 
+Further Notice of Proposed Rulemaking, 20 FCC Rcd 18625, 18628, para. 8 (2005) (First Report and Order). The 
+FCC, FEMA, and the National Weather Service implement the EAS at the federal level. See Presidential
+
+[[page 7]]
+7
+architecture of the EAS to distribute voluntary weather-related and other emergency alerts.24 
+10.
+The EAS is maintained and administered in each state by State Emergency 
+Communication Committees (SECCs), non-governmental voluntary groups usually comprised of 
+representatives of broadcasters and other EAS Participants (such as cable television service providers), 
+and occasionally, representatives of state and local government. SECCs are chaired by an EAS 
+Participant, usually a representative of the state broadcast association. SECCs draft EAS Plans that 
+govern how EAS alerts are propagated within their respective states.25 State EAS Plans not only set forth 
+the distribution plans for the daisy-chain of broadcast stations that would distribute the Presidential alert 
+and other EAS alerts, but also schedule and coordinate the monthly EAS tests that EAS Participants are 
+required to conduct. In most states, the SECC coordinates with the state emergency management 
+agencies that initiate alerts for the state and its communities, regardless of whether that agency is a formal 
+member of the SECC. The State EAS Plans are reviewed by the Bureau to ensure that they are consistent 
+with the Commission’s rules and must be approved by the Chief of the Bureau.26 
+B.
+Wireless Emergency Alerts
+11.
+WEA allows authorized government agencies to send geographically targeted emergency 
+alerts to the wireless devices of those consumers whose wireless providers have elected to participate in 
+WEA. Wireless providers that elect to participate in WEA (referred to as Participating Commercial 
+Mobile Service (CMS) Providers) transmit these alerts over their cell towers to mobile devices within the 
+service area. Under federal statute, participation in WEA is voluntary;27 to the extent a wireless provider 
+chooses to participate in WEA, however, it must do so in compliance with the Commission’s rules.28 
+Communications with the General Public During Periods of National Emergency, The White House (September 15, 
+1995). 
+24 While EAS Participants are required to broadcast Presidential Alerts, they participate in broadcasting state and 
+local EAS alerts on a voluntary basis; “[t]he EAS may be activated at the State and Local Area levels by EAS 
+Participants at their discretion for day-to-day emergency situations posing a threat to life and property.” See 47 CFR 
+§ 11.55(a); First Report and Order, 20 FCC Rcd at 18628, para. 8. There are two distribution methods for EAS 
+alerts. The traditional method uses a hierarchical, broadcast-based distribution system, whereby an alert originator 
+formats an alert using the EAS Protocol and relays it from one designated station to another until it is fully 
+distributed, like a “daisy chain.” See 47 CFR § 11.31. Under the second method, EAS Participants monitor IPAWS 
+for EAS messages that are written in the Common Alerting Protocol (CAP). See FEMA, Integrated Public Alert & 
+Warning System, https://www.fema.gov/integrated-public-alert-warning-system (last visited Mar. 28, 2018). While 
+IPAWS relies upon the centralized distribution of alerts using an alert aggregator and an Internet-based interface, the 
+EAS’s “daisy chain” leverages the broadcast-based EAS distribution architectures in each of the states. See 47 CFR 
+§§ 11.18, 11.20, 11.52, 11.54-55. The term “state” includes the District of Columbia and the United States’ 
+territories and other possessions. 47 U.S.C. § 153. 
+25 47 CFR § 11.21. 
+26 Id. 
+27 On October 13, 2006, the President signed the Security and Accountability for Every Port (SAFE Port) Act into 
+law. Title VI of the SAFE Port Act, also known as the WARN Act, establishes a process for the creation of a 
+national mobile alerting system, now known as WEA, whereby Participating CMS Providers transmit emergency 
+alerts to their subscribers. See Warning, Alert and Response Network (WARN) Act, Title VI of the Security and 
+Accountability For Every Port Act of 2006, 120 Stat. 1884, codified at 47 U.S.C. § 1200, et seq. (2006). 
+28 See 47 CFR § 10.210(a)(1) (A CMS provider that elects to transmit WEA Alert Messages, in part or in whole, 
+“[a]grees to transmit such alerts in a manner consistent with the technical standards, protocols, procedures, and other 
+technical requirements implemented by the Commission”). For a record of wireless providers’ elections to 
+participate in WEA, see Federal Communications Commission, Master CMAS Registry, 
+https://www.fcc.gov/pshs/docs/services/cmas/MasterCMASRegistry.xls (last visited Mar. 28, 2018); PS Docket No. 
+08-146. Wireless providers serving a majority of the United States populace participate in WEA.
+
+[[page 8]]
+8
+Further, these wireless providers may elect to participate in WEA “in whole” or “in part.”29 Wireless 
+providers that elect to transmit alerts “in part” must notify their subscribers at the point of sale that they 
+offer WEA in some, but not all, of their geographic service area and that many, but not all, the mobile 
+devices they offer are WEA capable.30 The customers of wireless providers that participate in WEA have 
+the right to opt out of receiving all WEA messages other than Presidential Alerts.31 
+C.
+Testing of the National Emergency Alert and Warning Systems
+12.
+The Commission requires EAS Participants and wireless providers that elect to provide 
+WEA to test their alerting capabilities. Pursuant to its rules, the Commission authorizes communications 
+service providers to conduct tests of the EAS and WEA systems. The rules are intended to enhance the 
+overall effectiveness of the systems’ operations in either a test environment or a bona fide emergency. 
+Specifically, the Commission requires EAS Participants to support national tests as scheduled by the 
+Commission in consultation with FEMA, as well as monthly and weekly tests as set forth in their 
+respective State EAS Plans.32 For WEA, the Commission requires wireless providers that elect to provide 
+WEA to participate in monthly tests of their alert transmission capability and periodic tests of their 
+connection to FEMA’s IPAWS.33 In addition, effective May 2019, the Commission will require these 
+wireless providers to support end-to-end WEA tests initiated by federal, state, and local emergency 
+managers and capable of being received by members of the public.34 End-to-end WEA testing will help 
+to ensure that emergency managers have the opportunity to test in an environment that mirrors actual alert 
+conditions and evaluate, for example, the accuracy with which wireless providers can target WEA 
+messages to the areas in their communities actually affected by an emergency.35 To safeguard against 
+confusing the public, the Commission also requires both EAS and WEA test messages that are distributed 
+to the public to include conspicuous language sufficient to make clear to the public that the message is, in 
+fact, only a test.36 
+29 See 47 CFR §§ 10.10(f), 10.240 (notification to new subscribers of non-participation in WEA). 
+30 See 47 CFR § 10.240(c) (Participating CMS providers electing to transmit alerts “in part” shall disclose this to 
+new subscribers). In an effort to promote consumer awareness about WEA capability, the Commission recently 
+adopted new consumer disclosure requirements to ensure that members of the public are aware of the availability 
+and benefits of enhanced geo-targeting (the ability to target WEA messages to more granular geographic areas 
+specified by the alert originator) at the point of sale. See Wireless Emergency Alerts; Amendments to Part 11 of the 
+Commission’s Rules Regarding the Emergency Alert System, Second Report and Order and Order on 
+Reconsideration, FCC 18-4, para. 15 (rel. Jan. 31, 2018) (WEA Second Report and Order). 
+31 See 47 CFR § 10.280(a).
+32 See 47 CFR § 11.61(a). IPAWS is the nation’s federal alert and warning system, and is administered by FEMA. 
+It consists primarily of the EAS and the IPAWS Open Platform for Emergency Networks (IPAWS-OPEN), an IPbased system that allows for efficient integration of CAP-based alerting platforms such as WEA with the IPAWS 
+infrastructure.
+33 See 47 CFR § 10.350.
+34 See Wireless Emergency Alerts; Amendments to Part 11 of the Commission’s Rules Regarding the Emergency 
+Alert System, Report and Order and Further Notice of Proposed Rulemaking, 31 FCC Rcd 11112, 11165, para. 86 
+(2016) (WEA First Report and Order) (adopting state/local WEA test requirements under 47 CFR § 10.350(c)). 
+Effective May 1, 2019, Participating CMS Providers must support state/local WEA tests, as established by 47 CFR 
+§ 10.350(c). See 81 FR 75710 (2016). Participating CMS Providers may provide their subscribers with the option 
+to opt-in to receive State/Local WEA Tests. See WEA First Report and Order, 31 FCC Rcd at 11155, para. 65.
+35 WEA First Report and Order, 31 FCC Rcd at 11154-55, para. 65.
+36 See 47 CFR § 11.31(e) (lists specific test codes that are to be used for national periodic, required monthly test, 
+required weekly test, as well as for practice/demonstration warnings);47 CFR § 11.45 (prohibits the transmission of 
+false or deceptive EAS messages other than in an actual National, State or Local Area emergency or authorized test 
+of the EAS); 47 CFR § 10.350(a)(4) (end-to-end testing, i.e., testing of the WEA from the Federal Alert Gateway to
+
+[[page 9]]
+9
+13.
+In addition to full end-to-end testing of the WEA alert system, the Commission has 
+encouraged proficiency training for state and local emergency managers and other entities that are 
+authorized by FEMA to be alert originators in IPAWS.37 The Commission has found that proficiency 
+training is essential for such alert initiators to gain the competency to issue effective WEA alerts.38 For 
+internal tests where the alert is not designed to reach the public, the Commission has observed that “alert 
+origination software can be used to support internal proficiency training exercises where emergency 
+managers wish to iterate alert origination best practices in a closed environment.”39 Similarly for EAS, 
+the Bureau grants waivers that allow EAS alert initiators and EAS Participants to conduct tests that use 
+the same codes as those used in an actual alert (e.g., the “TOR” code for a tornado). Alert initiators and 
+other test organizers must conduct significant public outreach and close coordination with EAS 
+Participants in order to be allowed to conduct these “live code” tests,40 with the result that the public has a 
+better idea how to behave during an emergency, and alert initiators become more proficient in their use of 
+alerting tools. 
+III.
+FACTUAL FINDINGS 
+A.
+Issuance of the False Ballistic Missile Alert
+1.
+Hawaii Emergency Management Agency’s Alerting Role. 
+14.
+In Hawaii, HI-EMA (1) oversees and coordinates the statewide outdoor siren warning 
+system; (2) monitors and issues alerts and warnings; and (3) coordinates emergency and disaster response 
+and recovery activities.41 According to FEMA, as of February 2, 2018, HI-EMA represents the only 
+organization in Hawaii that has completed the certification process to allow it to initiate alerts over 
+IPAWS.42 HI-EMA also operates a state-based communications warning center known as the State 
+each Participating CMS Provider's infrastructure, shall be (1) conducted monthly, (2) shall include a defined test 
+message, and (3) real event codes or alert messages shall not be used for the required monthly test message.); WEA 
+First Report and Order, 31 FCC Rcd at 11155, para. 65. 
+37 See Improving Wireless Emergency Alerts and Community-Initiated Alerting, Notice of Proposed Rulemaking, 30 
+FCC Rcd 13781, 13808, para. 54 (“We envision that proficiency training exercises would help develop the 
+preparedness of state and local emergency response, ensuring that emergency managers are able to respond swiftly 
+and efficiently to emergencies through the use of WEA.”). 
+38 WEA First Report and Order, 31 FCC Rcd at 11156, para. 67. 
+39 Id. Such best practices would cover both the crafting of the alert and the procedures for testing, transmitting, and 
+correcting any alerts. We note that the IPAWS Program Management Office (PMO) provides public safety officials 
+with a controlled IPAWS testing environment where alert and warning technologies can be exercised to assess 
+capabilities and effectiveness with IPAWS. The primary purpose of the IPAWS Lab, according to FEMA, “is for 
+public safety officials to gain confidence using IPAWS in a safe and closed environment.” See Testing with the 
+IPAWS Lab, https://www.fema.gov/testing-ipaws-lab-jitc (last visited Mar. 28, 2018).
+40 See, e.g., Public Safety and Homeland Security Bureau Provides Guidance Regarding “Live Code” Testing of the 
+Emergency Alert System, Public Notice, 24 FCC Rcd 3701 (2009) (providing waiver guidance to EAS Participants). 
+The Commission continues to consider amending the rules to allow EAS Participants to conduct periodic EAS 
+exercises using live event header codes without need for a waiver. Amendment of Part 11 of the Commission’s 
+Rules Regarding the Emergency Alert System, Wireless Emergency Alerts, Notice of Proposed Rulemaking, 31 FCC 
+Rcd 594, 623-26, paras. 59-64 (2016). 
+41 Haw. Rev. Stat. § 127A-3(e) (2017). HI-EMA is a division of the Hawaii Department of Defense (HI-DOD).
+42 See Federal Emergency Management Agency, Organizations with Alerting Authority Completed, 
+https://www.fema.gov/media-library/assets/documents/117152 (last visited Mar. 28, 2018). FEMA notes that 
+“[t[here are more tha[n] 1,000 federal, state, local, Tribal, and territorial authorities that can use IPAWS to issue 
+critical public alerts and warnings, and many more authorities that are in the process of obtaining the ability to issue 
+alerts and warnings using IPAWS.” See Federal Emergency Management Agency, Alerting Authorities, 
+https://www.fema.gov/alerting-authorities (last visited Mar. 28, 2018). FEMA’s records indicate that as of March
+
+[[page 10]]
+10
+Warning Point.43 The State Warning Point uses the Hawaii Warning System to transmit and receive 
+emergency messages to and from the Emergency Operations Center and warning point for each county.44
+15.
+HI-EMA operates the State Warning Point on a 24-hour, 7 day-a-week basis to monitor 
+for and respond to actual or impending emergencies. The State Warning Point is continually staffed by 
+the HI-EMA personnel to monitor warning systems and devices and has the capability to provide timely 
+warnings and notifications to government officials, county warning points and emergency operations 
+centers and, when directed, to the general public.45 HI-EMA employs approximately 11 warning officers 
+and four supervisors, working in shifts (i.e., day, night and midnight shifts). Four to five warning officers 
+are regularly scheduled for duty on each shift, and there are never fewer than two warning officers on 
+duty at a time. A 45-minute overlap between shifts provides time for the incoming warning officers to 
+acknowledge receipt of the watch from the outgoing shift officers and to debrief on the previous shift’s 
+events using an online status board. 
+2.
+HI-EMA Ballistic Missile Drills and Defense Training Protocol. 
+16.
+Hawaii has been actively testing its alert and warning capabilities over the past year.46 
+On May 5, 2017, HI-EMA began converting its training protocol for falling debris (e.g., from a disabled 
+satellite) into a ballistic missile preparedness drill because of the nuclear threat from North Korea. The 
+ballistic missile defense training protocol simulates an initial notification from PACOM to HI-EMA that 
+Hawaii is under a ballistic missile threat. It begins with a mock call from a warning officer or shift 
+supervisor simulating the role of PACOM, and it ends with the transmission of an internal (i.e., nonpublic) test message to FEMA IPAWS. The test is not sent to consumer phones, radios or televisions.47 
+By November 27, 2017, HI-EMA was regularly running these internal tests on a “no-notice” basis to 
+staff.48 The protocols and procedures for this type of drill were memorialized in a 20-step ballistic missile 
+alert checklist, which had been refined over months of testing through iterative practice and feedback on 
+lessons learned.49 In mid-December 2017, HI-EMA replaced its older alert origination software with new 
+15, 2018, the U.S. Army Garrison in Hawaii remains in the process for obtaining alerting authority. See Federal 
+Emergency Management Agency, Organizations with Alerting Authority In Process, https://www.fema.gov/medialibrary/assets/documents/117152 (last visited Mar. 26, 2018). On February 6, 2018, U.S. Senator Brian Schatz (HI) 
+introduced legislation that would limit authority to originate an alert regarding a missile launch directed against a 
+State using the public alert and warning system solely to the Federal Government. See Authenticating Local 
+Emergencies and Real Threats of 2018, S.2385, 115th Congress (2018). 
+43 See Haw. Rev. Stat. § 127A-7(a) (2017).
+44 See Hawaii Emergency Management Agency, About Us, http://dod.hawaii.gov/hiema/contact-us/about-us/ (last 
+visited Mar. 28, 2018).
+45 See Haw. Rev. Stat. § 127A-7(a) (2017).
+46 In response to the ballistic missile threat stemming from geopolitical tensions with North Korea, Hawaii 
+implemented alert systems and procedures to increase preparedness and keep its citizens informed of potential 
+threats from ballistic missiles. See Hawaii Preparedness Report at 1 and Appendix B (outlining HI-EMA’s ballistic 
+missile preparedness public awareness campaign between March 2017 and January 2018). 
+47 The drill ends with a simulation of sending an alert to warn the public. The ballistic missile alert checklist 
+specifies, however, that the transmission is a test message. Under the drill procedures, the test message should be 
+sent only to FEMA IPAWS—it should never be transmitted to consumer phones, radios, or televisions.
+48 A no-notice drill is a preparedness exercise that begins without prior warning to the warning officer initiating the 
+alert. This better simulates actual emergency conditions for the benefit of the warning officers.
+49 The HI-EMA Report notes that on January 13, 2018, the State Warning Point used the ballistic missile alert 
+checklist. HI-EMA Report at 6. According to the Bureau investigation, the version of the checklist that guided HIEMA through its ballistic missile defense drill on January 13, 2018 was last revised on January 5, 2018. Between 
+November 28, 2017 and January 13, 2018, HI-EMA ran 18 tests using the ballistic missile alert checklist.
+
+[[page 11]]
+11
+alert origination software.50 During any practice drills using HI-EMA’s new alert origination software, 
+the simulated PACOM initial notification message would be preceded and followed with the phrase 
+“Exercise, Exercise, Exercise.”51 
+3.
+False Ballistic Missile Alert Timeline. 
+17.
+On January 13, 2018, during HI-EMA’s internal drill using the ballistic missile 
+preparedness checklist, HI-EMA transmitted a false alert over EAS and WEA. The following table 
+presents a timeline of the events immediately leading to the false alert, delays in correcting the false alert, 
+and HI-EMA, the Hawaii Department of Defense (HI-DOD), and the Hawaii Governor’s efforts to 
+communicate with and reassure the public by reaching out through social media, broadcast and other 
+sources.
+Time (HST)
+Event
+8:00 a.m. – 
+8:05 a.m.
+HI-EMA’s midnight shift transfers watch responsibility to the day shift.52
+The midnight shift supervisor orally apprises the day shift supervisor that the midnight 
+shift supervisor wants to run a drill, but the midnight shift supervisor does not make 
+explicitly clear to the day shift supervisor that the midnight shift supervisor intends to 
+run the drill with the day shift warning officers during the shift change.
+There are two people on the midnight shift and four people on the day shift. Only 
+three day-shift warning officers are in the warning point at the time of the drill. The 
+day shift supervisor does not understand that the drill is about to occur during the shift 
+change and therefore is not in the warning point.
+As a result, the day shift supervisor is not in the proper location to supervise the day 
+shift warning officers when the ballistic missile preparedness drill begins.53 
+8:05 a.m.
+HI-EMA’s midnight shift supervisor begins a no-notice ballistic missile preparedness 
+drill with day shift officers by placing a call from a secure phone elsewhere in HIEMA to the State Warning Point. The recording that the midnight shift supervisor 
+plays over the phone contains the text of an EAS message for a live ballistic missile 
+alert, including the language, “this is not a drill,” instead of the language used in HIEMA’s standard operating procedure for this drill. Although the midnight shift 
+officer’s recorded voice reads, “Exercise, Exercise, Exercise” at the beginning and end 
+of the drill, using the phrase “this is not a drill” was a deviation from the drill 
+procedure. In the midnight shift supervisor’s analysis, the deviation is not material 
+50 Id. at 9. The Bureau notes that the HI-EMA Report refers to its alert initiation software as its alert origination 
+“program.” Id. In this report, the Bureau refers to HI-EMA’s alert initiation software as “software.”
+51 Id. at 6.
+52 The midnight shift supervisor had prepared a recording that combined the simulated PACOM ballistic missile 
+alert notification with elements of the EAS message that would be used for an actual ballistic missile threat. The 
+warning officers and shift supervisor on duty for the midnight shift ran this iteration of HI-EMA’s ballistic missile 
+preparedness drill internally without incident just hours prior to transmission of the false alert. 
+53 The HI-EMA Report found that at 8:00 a.m., “In preparation for the [ballistic missile alert] response drill, 
+Employee 4 and Employee 2 discussed their plan their plan to conduct a [ballistic missile alert] drill at the end of 
+their shift. Employee 4 prepared a recording of PACOM [ballistic missile alert] notification from the [ballistic 
+missile alert] checklist manual. Employee 4 discussed leaving the [State Warning Point] area while Employee 2 told 
+the dayshift about the previous shift change drill.” HI-EMA Report at 3. The HI-EMA Report stated that at 8:03 
+a.m., “The incoming day shift entered the [State Warning Point]. Employee 4 met with Employee 5 and discussed 
+the [ballistic missile alert] drill.” Id.
+
+[[page 12]]
+12
+Time (HST)
+Event
+because the phrase “Exercise, Exercise, Exercise” indicates that the event is only a 
+drill. 
+While the other warning officers understand that this is a drill, the warning officer at 
+the alert origination terminal believes that this is a real emergency, not a drill.54 
+8:07 a.m. 
+The HI-EMA day shift warning officer at the alert origination terminal responds to this 
+call by transmitting a live incoming ballistic missile alert to the State of Hawaii.55 In 
+doing so, the day shift warning officer selects the template for a live alert from the 
+drop-down menu. When the alert origination software prompts the warning officer to 
+confirm whether the officer wants to send the message, the prompt reads, “Are you 
+sure that you want to send this Alert?” The prompt contains the same message, 
+irrespective of whether the message is a test or an alert, and it does not offer the officer 
+an opportunity to review the message text that would be sent.
+Members of the public begin to receive the false alert over EAS and WEA.
+8:08 a.m. 
+The mobile device of the State Warning Point officer who triggered the false alert 
+receives the WEA alert.56 
+8:09 a.m.
+State Adjutant Major General Logan notifies Hawaii Governor David Ige that HI-EMA 
+has transmitted a false alert.57 
+8:10 a.m.
+State Adjutant Major General Logan communicates to PACOM that there was no 
+missile launch, confirming what PACOM already knew. 
+54 The HI-EMA Report found that at 8:06 a.m., “Employee 4 initiated the [ballistic missile alert] drill using a phone 
+outside the [State Warning Point] area calling into the [State Warning Point secure telephone equipment]. Employee 
+2 activated the [secure telephone equipment] speaker. At this time, it was announced loud and clear, ‘EXERCISE, 
+EXERCISE, EXERCISE,’ and then concluded with, ‘EXERCISE, EXERCISE, EXERCISE,’ which is a normal 
+procedure for all drills including this [ballistic missile alert] drill. Both day and night shift began executing the 
+[ballistic missile alert] checklist. Employee 2 recorded the time of the simulated ballistic missile impact. Employee 
+3 started the Countdown timer. Employee 2 simulated activating the [ballistic missile alert] wail tone siren and 
+verbally indicated completion of that action.” Id. at 3.
+55 The incoming warning officers who received this message and who are cooperating with the FCC investigation 
+state that they knew that this erroneous incoming message was supposed to indicate the beginning of an exercise. 
+The HI-EMA Report notes that the warning officer who triggered the false alert logged into the alert origination 
+software and erroneously activated the “real-world Alert Code” at 8:06 a.m. Id. The EAS event code used to 
+indicate a real-world alert code was a Civil Defense Warning or CDW. According to the Bureau’s investigation, the 
+employee who triggered the false alert sent out the false alert at 8:07 a.m. on the alert origination software. The HIEMA Report, however, describes the point in time when the employee who triggered the false alert logged into the 
+alert origination software to begin the process for initiating the alert. In other words, the HI-EMA Report does not 
+define the point in time in which the employee completed the process of triggering the false alert on the alert 
+origination software. 
+56 At 8:07 a.m., according to the HI-EMA Report, “the [State Warning Point] began receiving WEA/EAS messages 
+on their personal devices.” Id. at 3. According to the Bureau’s investigation, the employee who triggered the false 
+alert received the alert on that employee’s mobile device at 8:08 a.m. The Bureau report does not preclude the 
+possibility that other State Warning Point employees received the false alert at 8:07 a.m. along with members of the 
+general population.
+57 State Adjutant Major General Joe Logan also learned of the false alert when he received it on his mobile device. 
+According to the HI-EMA Report, at 8:09 a.m., HI-EMA used the Hawaii Warning System to inform all the counties 
+that the alarm was false and conducted a roll call of all four counties in Hawaii to confirm each counties’ 
+acknowledgement of the false alert. See id. at 4.
+
+[[page 13]]
+13
+Time (HST)
+Event
+HI-EMA notifies the Honolulu police department that there was no missile launch.
+8:12 a.m.58
+HI-EMA cancels further transmission of the false alert, but does not issue an “all clear” 
+message.59 
+8:13 a.m. – 
+8:26 a.m.
+HI-EMA’s phone lines become congested with incoming calls from the public asking 
+about the nature of the alert that they just received.60 
+HI-EMA notifies its staff that the alarm was false so that they can help to respond to 
+community inquiries. HI-EMA notifies Hawaii’s county emergency management 
+agencies and radio and TV stations to inform them that the alarm is false.61 
+8:20 a.m.
+HI-EMA posts on its Twitter account, “NO missile threat to Hawaii.”62 
+8:23 a.m.
+HI-EMA posts on its Facebook account “No missile threat to Hawaii. False Alert. We 
+are currently investigating.”
+8:24 a.m.
+Hawaii Gov. Ige retweets HI-EMA’s notice that there is no missile threat.63
+8:27 a.m.
+HI-EMA staff meets to discuss options for a second, corrective EAS and WEA 
+message. HI-EMA determines that a Civil Emergency Message (CEM) is the alert 
+event code that best meets the criteria.64 
+8:30 a.m.
+HI-EMA calls a representative of the FEMA IPAWS Program Management Office for 
+guidance that CEM is the appropriate event code, but the call is not answered.65
+58 According to the HI-EMA Report, a State Warning Point employee sent a cancellation message at 8:12 a.m., and 
+the State Warning Point issued a cancellation of the CDW message at 8:13 a.m. Id.
+59 The cancellation is an instruction to downstream EAS and WEA equipment to cease retransmission. It does not 
+generate a new alert transmission (e.g., an “all clear” message). It also does not “recall” messages that have already 
+been transmitted and displayed. 
+60 In the Bureau staff interview with HI-EMA, HI-EMA identified the fact that it had very few warning officers on 
+duty relative to the inundation of public inquiries that it received as a contributing factor to the delay in issuing a 
+correction.
+61 At 8:15 a.m., the HI-EMA Report notes that a HI-EMA employee notified a local FM radio station engineer of the 
+false alert. Id. At 8:18 a.m., the HI-EMA Report observes that the HI-DOD notified a news media outlet in order to 
+alert the public that the ballistic missile alert message was false. Id. 
+62 See infra Appendix C. At 8:20 a.m. and 8:22 a.m., the HI-EMA Report notes that HI-DOD notified broadcast 
+stations KHON and KITV, respectively, to notify the public of the false alert. HI-EMA Report at 5.
+63 See Travis Andrews, Hawaii Governor Didn’t Correct False Missile Alert Sooner Because He Didn’t Know his 
+Twitter Password, Washington Post (Jan. 23, 2018), https://www.washingtonpost.com/news/morningmix/wp/2018/01/23/hawaii-governor-didnt-correct-false-missile-alert-sooner-because-he-didnt-know-his-twitterpassword/?utm_term=.6068396c37e8 (attributing the delay between when the Governor learned that the alert was 
+false and his issuance of public notice to the fact that the Governor did not know his Twitter password).
+64 In initiating an EAS message, the alert originator encodes a message using EAS Protocol. EAS Protocol utilizes a 
+three-character “event code” to describe the nature of the alert. A Civil Emergency Message (CEM) is an event 
+code that EAS Participants may support under the Commission’s EAS rules. See 47 CFR § 11.31(e). Civil 
+Emergency Messages are transmitted over WEA as Imminent Threat Alerts. See 47 CFR § 10.400.
+65 FEMA did not need to authorize HI-EMA to send the correction as a CEM, and HI-EMA knew that at the time 
+that they called. The reason for the call was to confirm HI-EMA’s assessment that CEM was the appropriate code 
+and to receive any additional guidance that FEMA may provide.
+
+[[page 14]]
+14
+Time (HST)
+Event
+HI-EMA calls another representative of the FEMA IPAWS Program Management 
+Office and reaches the employee on the employee’s mobile device. After 45 seconds, 
+they agree that the correction meets the criteria for a CEM.
+Hawaii Gov. Ige posts the alert cancellation notification on his Facebook page.
+8:31 a.m. - 
+8:44 a.m.
+The Deputy Chief of the HI-EMA Telecommunication Branch logs into HI-EMA’s 
+alert origination software and creates false alert correction messages for EAS and 
+WEA.66
+8:45 a.m.
+HI-EMA issues a CEM to correct the false alert 38 minutes after initial transmission.67
+B.
+Causes Leading to the False Alert and Corresponding Delay in Corrective Action
+18.
+Based on its analysis of the events, the Bureau finds that a combination of human error 
+and inadequate safeguards contributed to the false alert.
+19.
+The primary human error was a failure to hear and/or properly understand the 
+instructions indicating that the exercise was a test.—According to the Bureau’s investigation and the HIEMA Report, the employee who triggered the false alert claims not to have heard “Exercise, Exercise, 
+Exercise” preceding and following the simulated PACOM message, but does claim to have heard “This is 
+not a drill.”68 As relayed to the Bureau by HI-EMA, the employee who triggered the false alert believed 
+that the missile threat was real. In an interview with NBC News, the employee who triggered the false 
+alert stated: “I was 100 percent sure that it was the right decision, that it was real.”69 In other words, the 
+employee intended to initiate a real-world emergency alert based on that employee’s mistaken belief that 
+Hawaii had come under a ballistic missile attack. This fundamental misunderstanding played a critical 
+role in the initiation of the false alert. 
+20.
+A misunderstanding between the midnight shift supervisor and day shift supervisor also 
+led to the drill being run without sufficient supervision.—The Bureau’s investigators found that the 
+midnight shift supervisor did not provide the day shift supervisor with clear notice. While the midnight 
+shift supervisor mentioned to the day shift supervisor that the midnight shift supervisor planned to run a 
+drill with just a few minutes’ notice, the day shift supervisor did not understand that the midnight shift 
+supervisor intended to conduct a drill with the day shift officers during the shift change. Rather, the day 
+shift supervisor assumed that the midnight shift supervisor would run a drill with the midnight shift 
+warning officers. As a result, the day shift supervisor was not in the watch center to supervise the drill.70 
+Other emergency management agencies the Bureau interviewed stressed the importance of proper drill 
+66 The EAS correction message, unlike the initial false alert, did not contain audio. This is because, in the rush to 
+create the alert, the Deputy Chief of the Telecommunications Branch did not click to preview and save the text-tospeech audio accompaniment the alert origination software automatically created for their message.
+67 HI-EMA Report at 6.
+68 Id. at 6, 10. The HI-EMA Report observed that State Warning Point staff held concerns about this employee’s 
+performance for over ten years. The lead investigator noted that this employee had previously confused real-life 
+events and drills “on at least two separate occasions.” Id. at 10.
+69 See NBC News, Man Who Sent Hawaii False Alert Speaks Out, (Feb. 2, 2018), 
+https://www.nbcnews.com/nightly-news/video/man-who-sent-hawaii-false-missile-alert-speaks-out1152660547656.
+70 The midnight shift supervisor specifically decided to drill at shift change, reasoning that it would be most difficult 
+for warning officers to properly respond to a call from PACOM announcing an incoming ballistic missile during a 
+shift change. Drilling at shift change is not standard procedure for HI-EMA.
+
+[[page 15]]
+15
+supervision, and stated that conducting a drill without proper supervision would not be tolerated.71 
+Further, HI-EMA practiced this drill without notice to the warning officer receiving the simulated call 
+from PACOM. The Bureau’s investigation reveals that while other emergency management agencies use 
+no-notice drills under special circumstances, the common practice is to schedule drills for a set date and 
+time in advance.72 
+21.
+HI-EMA lacked adequate safeguards to mitigate the impact of any communications 
+breakdowns between supervisors and warning officers authorized to initiate alerts.—Specifically, HIEMA lacked procedures to prevent a single person from mistakenly sending a missile alert to Hawaiian 
+public. Prior to the morning of January 13, 2018, HI-EMA did not require confirmation from a second 
+warning officer before sending a ballistic missile alert.73 
+22.
+HI-EMA’s procedures for conducting a ballistic missile drill lacked adequate safeguards 
+that might have helped to avoid the communication errors that led to the false alert.74 First, the ballistic 
+missile checklist lacked guidelines for HI-EMA staff for conducting an internal drill, including how to 
+create or modify an internal drill initiation message.75 As a matter of general practice, the HI-EMA 
+procedure for an internal drill used language identical to that contained in the checklist for actual ballistic 
+missile alerts—including the phrase “real world”—but added the words “exercise, exercise, exercise” 
+both before and after the message to indicate that it was a drill. Use of the same language for both test 
+and live alert initiation procedures could cause confusion among warning officers who received the 
+message without prior notice, notwithstanding the statements at the beginning and end of the message that 
+it was an exercise. Furthermore, in this case, the midnight shift supervisor deviated from the abovereferenced procedure by creating a new script that blended elements from 1) the standard drill initiation 
+message script (i.e., the ballistic missile checklist language that used the phrase “real world,” and 
+preceded and followed the message with “exercise, exercise, exercise”) and 2) the EAS message for 
+alerting the public to an actual missile attack (a message that used the phrase “This is not a drill.”).76
+71 One emergency management agency the Bureau interviewed acknowledged that if a warning officer conducted a 
+test independently, it would be considered a violation of operating procedures and would result in the termination of 
+that officer’s employment.
+72 One emergency management agency the Bureau interviewed has established a particular day each week for any 
+emergency alert system drills or tests.
+73 The Hawaii Preparedness Report noted that HI-EMA’s alert origination software did not require two credentialed 
+individuals to separately log in and approve transmission of a ballistic missile alert. See Hawaii Preparedness 
+Report at 2. Further, the Hawaii Preparedness Report observed that not all shifts within the State Warning Point 
+mandated a two-person requirement to send ballistic missile alert messages. See id. A January 2018 press report 
+indicates that other states, such as California, Oklahoma, Oregon, and Washington, have procedures in place to 
+prevent sending false alarms statewide that could “strike mortal fear into the communities they serve,” ranging from 
+having a two-person verification protocol for issuing a state or multi-county alert to having multiple people craft 
+alert messages. See Mark Berman, Washington Post, Hawaii sent out a false missile alert. Here’s how other states 
+avoid the same mistake. (Jan. 31, 2018), https://www.washingtonpost.com/?utm_term=.64243c730821. In 
+Washington, for example, “any alert about a possible missile attack would ‘undergo layers of scrutiny before it was 
+sent.’” Id. In California, three officials would be involved in crafting a statewide alert, and even then, a “higher-up 
+has to approve an alert before it is dispatched from the California State Warning Center.” Id.
+74 HI-EMA Report at 8. According to the Hawaii Preparedness Report, “A complete comprehensive annex or plan 
+to address the Ballistic Missile Preparedness (BMP) threat had not been fully developed prior to commencement of 
+missile alert siren testing and internal missile alert drills[,]” and that this approach contradicted HI-EMA’s all 
+hazards protocols. Hawaii Preparedness Report at 1.
+75 The ballistic missile checklist was intended for use in connection with a real ballistic missile attack.
+76 The HI-EMA Report states, “Notification for Step 1 of the [ballistic missile alert] checklist is used for actual 
+ballistic missile attack using phrases ‘Real world’ and ‘This is not drill.’” HI-EMA Report at 8. In a press 
+conference addressing the HI-EMA Report’s findings, however, the investigator noted that the midnight shift
+
+[[page 16]]
+16
+23.
+Equally significant, the ballistic missile alert checklist used on January 13, 2018, lacked 
+any protocol for responding to and correcting a false alert. Although HI-EMA issued a cancellation at 
+8:12 a.m. (HST), the absence of a false alert correction protocol in the ballistic missile alert checklist 
+contributed to HI-EMA’s delay in sending out a correction through WEA/EAS.77 The HI-EMA Report 
+also found that the ballistic missile alert checklist lacked detail, which allowed shifts to interpret and 
+differ significantly in how they executed a particular drill.78 Furthermore, regarding the January 13, 2018, 
+false alert, the HI-EMA Report noted that the drill was conducted during a change in shift, which added 
+confusion regarding who was in charge and which shift was to execute the checklist actions.79 
+24.
+Additionally, Bureau interviews with emergency management agencies indicate that the 
+frequency with which HI-EMA conducted drills in the months leading up to the false alert far exceeds the 
+norm among emergency management agencies. For example, in the eight days immediately preceding 
+January 13, HI-EMA reports that it conducted this ballistic missile defense drill 6 times. Other 
+emergency management agencies the Bureau interviewed reported that they conduct drills weekly, at 
+most. While frequent preparedness exercises may facilitate proficiency, the frequency with which HIEMA was sending test messages during this period, together with the shortcomings otherwise identified 
+in this report, made it more likely that a false alert could occur. 
+25.
+HI-EMA’s alert proficiency training also appears to have been deficient.—The HI-EMA 
+Report observed that all State Warning Point employees with access to the alert origination software— 
+including the employee who initiated the alert—are required to take, and did complete, required FEMA 
+supervisor deviated from the script for initiating an internal drill. See Press Conference, Missile Alarm Live Stream, 
+at 53:42, http://dod.hawaii.gov/hiema/false-alarm-incidents-internal-investigation-complete-release-of-results-andactions/ (last visited Mar. 28, 2018). The investigator also noted that the midnight shift supervisor “combined” 
+elements from two messages to initiate the internal drill (1) one message includes the phrase “real world” and (2) a 
+second message includes “This is not a drill.” Id. at 27:16. The investigator noted that supervisors had the 
+flexibility to create drill initiation messages. Id. at 53:42. The investigator observed that the phrase “exercise, 
+exercise, exercise” preceded and followed the drill initiation message transmitted to the State Warning Point. Id. In 
+HI-EMA’s audio recording of the drill initiation message preceding the false alert, the phrase “exercise, exercise, 
+exercise” can be heard at the beginning of the recording, followed by a high-pitch sound, then the phrase “This is 
+not a drill,” then a second high-pitch sound, and concluding with the phrase “exercise, exercise, exercise.” See HIEMA Audio File, supra note 15. 
+77 HI-EMA Report at 8. The HI-EMA Report finds that the ballistic missile alert checklist did not include a response 
+protocol in the event of a false-ballistic missile message, although there was a cancel message, which stopped 
+further ballistic missile messages. Id. The HI-EMA Report further finds that the HI-EMA Preparedness Branch 
+previously identified the need to revise the [ballistic missile alert] checklist to include a “Deactivation” section or 
+“‘All Clear EAS message.’” Id. The HI-EMA Report states: “Had the protocol [for sending an all clear message] 
+been developed within the last 2 months [between November 29, 2017 and January 29, 2018, the HI-EMA Report’s 
+publication date], the delay in sending out an official notification over WEA/EAS that the alert was false would not 
+have happened on January 13, 2018.” On this latter point, the Bureau infers that the HI-EMA Report reiterates that 
+the establishment of a false alert response protocol in the ballistic missile alert checklist would have reduced any 
+delay in issuing a CEM. An “all clear” message, however, could also be used to notify the public of a ballistic 
+missile interception without effect to Hawaii. See Hawaii Preparedness Report at 1.
+78 HI-EMA Report at 9. 
+79 Id. According to the HI-EMA Report, HI-EMA operations provided guidance to the State Warning Point in 
+December that, among other things provided: (1) each shift will discuss the ballistic missile alert checklist at the 
+beginning of each shift and (2) each shift “will at a minimum of twice a week take time to run the checklist with 
+different [State Warning Point] staff members.” Id.
+
+[[page 17]]
+17
+training80 prior to accessing the alert origination software.81 However, the HI-EMA Report also found that 
+no technical training beyond “basic application” was provided to the State Warning Point on the software 
+itself, which many personnel found to be inadequate.82 The HI-EMA Report does not define “basic 
+application,” but according to the Bureau investigation, State Warning Point staff receive training on how 
+to use templates to initiate alerts, but not on how to create alert messages using the alert origination 
+software. The HI-EMA Report further found that “[t]here are no personnel training records which make it 
+difficult to determine what training each State Warning Point member has taken.”83 
+26.
+HI-EMA’s alert origination software lacked certain safeguards.—The Bureau’s 
+investigation indicates that, from a technical perspective, the safeguards offered by HI-EMA’s alert 
+origination software were in line with safeguards offered by other alert origination software vendors for 
+preventing a single employee from triggering a false alert, with two notable exceptions—the extent to 
+which HI-EMA’s alert origination software allowed users to create their own template alert messages and 
+the extent of integration between the software’s live production and testing environments. Rather than 
+offering prefabricated templates, some alert origination software providers the Bureau interviewed prefer 
+that their clients manually type each alert into their interface prior to transmission to ensure the accuracy 
+of the alert.84 This approach sacrifices convenience, but it could force the alert originator to focus on the 
+text of the message they are about to transmit. 
+27.
+Further, HI-EMA’s alert origination software allows users to send both live alerts and 
+internal test alerts using the same interface, and the same log-in credentials, after clicking a button that 
+says, “Send Public Message.” Of particular relevance here, the drop-down menu listed the options for an 
+internal “Test missile alert” together with the “Missile alert” message on the same screen.85 In contrast, 
+the Bureau’s investigation reveals that common industry practice is to host the live production 
+environment on a separate, user-selectable domain at the log-in screen, or through a separate 
+application.86 Similarly, other alert origination software providers have clear visual cues that distinguish 
+the test environment from the live production environment, including watermarks, color coding, unique 
+80 To become a Public Alerting Authority, FEMA mandates completion of IS-247a. See FEMA, IS-247.A: 
+Integrated Public Alert and Warning System (IPAWS), https://training.fema.gov/is/courseoverview.aspx?code=IS247.a (last visited on Mar. 28, 2018). 
+81 HI-EMA Report at 9. “This course provides basic information on the IPAWS. The goal of this course is to 
+provide authorized public safety officials with: increased awareness of the benefits of using IPAWS for effective 
+public warnings; skills to draft more appropriate, effective, and accessible warning messages; and best practices in 
+the effective use of common alerting protocol to reach all members of their communities.” See FEMA, IS-247.A, 
+Integrated Public Alert and Warning System (IPAWS), https://training.fema.gov/is/courseoverview.aspx?code=IS247.a (last visited Mar. 28, 2018).
+82 HI-EMA Report at 9. 
+83 Id.
+84 But see Kathy Goldgeier, Why A False Emergency Alert Is Less Likely in Washington Than in Hawaii, WAMU 
+88.5 American University Radio (Jan. 17, 2018), https://wamu.org/story/18/01/17/false-emergency-alert-harderwashington-hawaii/ (Washington D.C.’s Homeland Security and Emergency Management Agency makes use of 
+prefabricated message templates for twenty unique emergency scenarios); Thomas Novelly, Could Hawaii’s 
+Emergency Missile Message Mistake Happen in Kentucky? Maybe, Louisville Courier Journal (Jan. 16, 2018), 
+https://www.courier-journal.com/story/news/local/2018/01/16/could-hawaii-emergency-missile-message-mistakehappen-kentucky/1035958001/ (Kentucky Emergency Management makes use of prefabricated message templates 
+for seven categories of emergencies). 
+85 Appendix B reflects an illustration of the drop down menu that HI-EMA updated after the false missile alert. 
+86 This separation is most often achieved by having a client to choose which environment from their login terminal. 
+One Alert Origination Software Provider enables test functionality by way of a dedicated geographic location 
+identification code or by adding certain language to the alert message text.
+
+[[page 18]]
+18
+numbering, and unique geographic identification codes for internal tests. These safeguards make it more 
+difficult for users to send live alerts when they intend to test. In other respects, the functionality and 
+safeguards offered by HI-EMA’s alert origination software were in line with safeguards offered by other 
+alert origination software.87 
+28.
+After HI-EMA transmitted the false alert, HI-EMA compounded the error by delaying to 
+publicly and authoritatively correct the misinformation.—HI-EMA had not anticipated the possibility of 
+issuing a false alert and, thus had failed to develop standard procedures for how to respond and to 
+communicate the error with the public.88 In hindsight, the most effective method for HI-EMA to follow 
+would have been to notify the public using the same alerting systems (EAS and WEA) that it had used to 
+transmit the false alert. Had the agency prepared a coordinated plan to communicate with the public and 
+key stakeholders, such as the HAB or the Hawaii SECC, HI-EMA could have mitigated the panic that the 
+false alert created in the 38-minute interval between the false alert and correction. 
+C.
+Performance of the Nationwide Alert Systems 
+1.
+EAS
+29.
+According to the HAB and the Hawaii SECC, the majority of Hawaiian EAS 
+Participants received the false alert (an EAS Civil Defense Warning or CDW), within seconds of its 
+initiation, and delivered the message to the public a few seconds later. These EAS Participants received 
+and delivered the subsequent correction (an EAS Civil Emergency Message or CEM), in the same 
+manner. The Hawaii State EAS Plan provides that all EAS Participants should “auto-forward” alert 
+messages that use the CDW and CEM event codes upon receipt (rather than wait for human 
+intervention).89 According to HAB and the Hawaii SECC, most EAS Participants auto-forwarded both 
+codes on January 13, 2018.90 Cable provider Hawaiian Telecom, for example, confirmed that it received 
+87 All alert origination software vendors the Bureau interviewed offered their clients a pause, or “speedbump,” at the 
+end of the alert origination process to confirm whether they were sure that they wanted to send the message. Some 
+alert origination software displays message text to the user at time they confirm transmission, others, like HI-EMA’s 
+software, do not. All alert origination software vendors the Bureau interviewed conducted systems training with a 
+designated client representative who was then responsible for training other client employees. Likewise, all alert 
+origination software vendors the Bureau interviewed provided clients the ability to assign individualized login 
+credentials. Two alert origination software vendors pointed out, however, that they make this functionality optional, 
+and their clients can choose not to utilize it. Similarly, all alert origination software vendors that the Bureau 
+interviewed, including HI-EMA’s vendor, offer the ability to cancel an erroneously sent alert with a single click of a 
+button that is clearly presented upon alert transmission. 
+88 The Hawaii Preparedness Report noted that the State Warning Point’s “established [b]allistic [m]issile [a]lert 
+[c]hecklist did not have a step to notify the HI-EMA Public Information Officer (PIO). The missing key step to 
+notify the PIO contributed to the delay in rapidly informing the media and public.” Hawaii Preparedness Report at 
+2. 
+89 Hawaii State Emergency Alert System Plan Attachment E (Jun. 12, 2003) (amended Mar. 31, 2004 and Oct. 26, 
+2006), https://dod.hawaii.gov/hiema/files/2016/03/2003-EAS-plan-with-Change-2.pdf. Hawaii’s State EAS Plan 
+provides for manual forwarding of alerts associated with certain other EAS codes not used here.
+90 The Hawaii SECC continues to survey the extent EAS Participants (e.g., radio, TV, cable providers) received and 
+delivered the CDW and CEM on January 13, 2018. In a summary of the Hawaii SECC’s initial findings, as relayed 
+to the Bureau, the Hawaii SECC noted that 31 out of 61 survey respondents relayed the CDW and/or CEM. See 
+Email from Courtney Harrington, Chair, Hawaii SECC, to John A. Evanoff, Attorney-Advisor, Policy and Licensing 
+Division, Public Safety and Homeland Security Bureau (Mar. 14, 2018). The Hawaii SECC noted that 30 
+respondents did not relay the CDW and CEM because they did not set their equipment to auto-forward CDWs and 
+CEMs, and thus delivered neither message to the public. Id. The Hawaii SECC found that EAS encoder and 
+decoder configurations were set to “Log Only” for these events. Id. Further, the Hawaii SECC observed that the 
+stations that did not forward the CDW and CEM automatically did not manually forward the CDW and CEM
+
+[[page 19]]
+19
+and delivered the EAS messages on January 13, 2018.91 Similarly, Direct Broadcast Satellite (DBS) 
+providers Direct TV and Dish Networks indicated that on January 13, 2018, they delivered the EAS 
+messages aired on local television broadcast stations carried under the Commission’s broadcast signal 
+carriage rules.92 Sirius/XM does not provide service to Hawaii. 
+2.
+WEA
+30.
+The four nationwide wireless providers both participate in WEA and offer service to 
+Hawaii (AT&T, Verizon, Sprint, and T-Mobile). Each reported to FCC investigators that their provision 
+of WEA is co-extensive with their service areas in Hawaii, and that they received and retransmitted both 
+the false alert and the alert correction over WEA within seconds of the delivery of the alert to the 
+providers by IPAWS. No wireless provider experienced any delay from IPAWS because, as AT&T 
+notes, the gateway from IPAWS to each wireless provider is a dedicated channel that is not subject to 
+Internet congestion. Similarly, WEA messages are broadcast within each provider’s network over cell 
+broadcast, a process separate from the wireless provider networks, and thus not subject to wireless 
+provider network congestion. The four providers note that while there was a high volume of calls on 
+January 13, 2018, the impact of that volume on the wireless networks was not significant. The four 
+providers observe that they did not experience any latencies with respect to the delivery of WEA alerts on 
+January 13, 2018.93
+31.
+Although the four major wireless providers reported that they experienced no difficulties 
+in their provision of the false alert or its correction over WEA, the Hawaii Preparedness Report,94 as well 
+as other news media, reports that some subscriber mobile devices did not receive the false or corrected 
+alert messages.95 It also has been reported that consumers who did not receive the false alert, the 
+correction, or both, were concerned about their ability to receive similarly urgent alerts in the future.96 
+The Hawaii Preparedness Report further observed that “[c]itizens in certain locations did not have access 
+because they were unmanned at the time. Id. The Hawaii SECC noted that survey respondents confirmed that the 
+CDW and CEM event codes have now been added to auto-forward. Id. 
+91 Spectrum Cable, however, did not forward the CDW (false alert) because the encoder/decoders in its headends 
+were not programmed to auto-forward a CDW. Spectrum did auto-forward the CEM (the all clear) to its entire 
+service area except for Kauai. The reason that Spectrum did not auto-forward the CEM to Kauai is because its 
+service on that island is analog. Thus, in the case of Kauai, Spectrum did not deliver the CDW or CEM.
+92 47 CFR § 11.55(a)(1).
+93 This is consistent with FCC databases, the Disaster Information Report System (DIRS) and Network Outage 
+Reporting System (NORS), which indicate that no provider reported a network outage in Hawaii on January 13, 
+2018. 
+94 According to the Hawaii Preparedness Report “[m]any cellular/wireless phones did not receive a wireless 
+emergency alert (WEA) on January 13, 2018.” Hawaii Preparedness Report at 16. The Hawaii Preparedness 
+Report recommends coordinating with the wireless providers to determine what actions can be taken to eliminate or 
+minimize non-receipt of WEAs. Id.
+95 See, e.g., HNN Staff, If You Didn’t Get the False Alert about an Inbound Missile, This Might be Why, Hawaii 
+News Now (Jan. 15, 2018), http://www.hawaiinewsnow.com/story/37269695/if-you-didnt-get-the-false-missilealert-this-might-be-why.
+96 Chas Danner, The Frightening Lessons From Hawaii’s False Missile Alert, N.Y. Mag. (Jan. 15, 2018), 
+http://nymag.com/daily/intelligencer/2018/01/the-frightening-lessons-from-hawaiis-false-missile-alert.html 
+(suggesting that many consumers did not receive the notification and “officials aren’t sure why . . . [and] “it seems 
+likely that if the threat had been real, the system still wouldn’t have worked as intended”); Jennifer Sinco Kelleher & 
+Brian Melley, Missile-alert mistake feeds doubts about a real emergency, Haw. Trib. (Jan. 15, 2018), 
+http://www.hawaiitribune-herald.com/2018/01/15/hawaii-news/missile-alert-mistake-feeds-doubts-about-a-realemergency/ (explaining that consumers have become skeptic in “the government’s ability to keep them informed in 
+a real emergency” and will likely think twice before taking action on future advisories).
+
+[[page 20]]
+20
+to WEA or other alert notification services and were unaware of the missile alert.”97 The Bureau 
+identifies several potential reasons why some wireless subscribers may not have received the alert or 
+correction below, but continues to study the issue. 
+32.
+First, as noted earlier, wireless providers that participate in WEA may choose to do so 
+only “in part.”98 AT&T, Verizon, Sprint, and T-Mobile participate in WEA “in part.” Accordingly, WEA 
+need not be offered across the entirety of these providers’ geographic coverage areas or be available on all 
+of their mobile devices.99 While the four nationwide wireless providers state that their provision of WEA 
+is coextensive with their coverage area in Hawaii, they acknowledge that there may be areas, such as state 
+parks or other coverage dead zones, where they either do not provide service, or where service is 
+intermittent.100 Finally, the Bureau does not have information regarding how many members of the public 
+do not have WEA-capable mobile devices. 
+33.
+Second, HI-EMA cancelled the false ballistic missile alert at 8:12 a.m. The cancellation 
+would have prevented the false alert from being broadcast to those mobile devices not connected to the 
+network at the time the false alert was issued—such as phones turned off at 8:07 a.m., or phones out of 
+cell coverage or on airplane mode—and which remained unconnected through the time the cancellation 
+was transmitted.101 Alert re-transmission times differ among wireless providers; some Participating CMS 
+Providers transmit WEA alerts at regular intervals throughout the valid period of the alert, but applicable 
+standards do not define the frequency of alert retransmission and allow Participating CMS Providers to 
+cease retransmission prior to the alert’s expiration.102 The cancellation, however, would not have 
+prevented wireless customers from receiving the correction alert at 8:45 a.m. (HST), assuming that 
+customers’ mobile devices were turned on and connected to the network during the times the correction 
+alert was issued. Finally, consumers have the option to opt out of receiving all WEA alerts except those 
+97 Hawaii Preparedness Report at 16. In discussing recommendations external to HI-EMA, the Hawaii 
+Preparedness Report recommends that the Hawaii SECC help in (1) identifying the primary means of electronic 
+communications and/or being used in remote areas of the state to determine the fastest and most effective methods 
+to expand alerts in these areas and (2) working with the wireless providers to expand coverage in these areas. Id. 
+98 See supra note 28.
+99 Under the Commission’s rules, Participating CMS Providers in part are required to inform their subscribers that 
+they may not offer WEA service in the entirety of their geographic service area, or on all mobile devices that they 
+offer at the point of sale. 47 CFR § 10.240. The four nationwide providers provide a list of WEA-enabled devices 
+on their websites. See T-Mobile, WEA Device Lists, https://www.t-mobile.com/devices/wea-devices (last visited 
+Mar. 28, 2018); AT&T, Wireless Emergency Alerts, 
+https://www.att.com/esupport/article.html#!/wireless/KM1009041(last visited Mar. 28, 2018); Verizon, Wireless 
+Emergency Alert Compatible Devices, https://www.verizonwireless.com/support/wireless-emergency-alertscompatible-devices/ (last visited Mar. 28, 2018); Sprint, Learn More about Wireless Emergency Alerts and How 
+They Work, https://www.sprint.com/en/support/solutions/device/learn-more-about-wireless-emergency-alerts-andhow-they-work.html (last visited Mar. 28, 2018).
+100 Additionally, FCC staff reviewed internal Commission coverage maps for the four major wireless providers in 
+the Hawaii archipelago. In reviewing these coverage maps, AT&T, Sprint, T-Mobile, and Verizon appear to provide 
+coverage throughout Hawaii but offer weak to no signal coverage in interior parts of the archipelago, including some 
+State Parks and remote mountainous areas. 
+101 HI-EMA Report at 4 and 8.
+102 See Alliance for Telecommunications Industry Solutions, Cell Broadcast Entity (CBE) to Cell Broadcast Center 
+(CBC) Interface Specification, Revision 2, at 4 (ATIS-0700008.v002); Federal Communications Commission 
+Commercial Mobile Service Alert Advisory Committee (CMSAAC), PMG-0035 Commercial Mobile Alert Service 
+Architecture and Requirements at 57 (2007) (stating that the interval and frequency of transmission of WEA alerts is 
+based upon balancing the capabilities of the wireless providers’ specified delivery technology and various factors).
+
+[[page 21]]
+21
+issued by the President or President’s designee.103 Consumers who opted out of receiving imminent threat 
+alerts would not have received either the false alert or the correction.104 
+D.
+Impact on Public Safety Communications Networks and Services
+1.
+Police and 911 Response
+34.
+The Bureau’s investigation shows that 911 operators and police both stayed on duty 
+during the period that the alert appeared to be real to the public, and once it became apparent to police 
+that the alert was false, took extraordinary steps to inform the public that the alert was false during the 38minute interval between the false alert and the corrected alert message. The Bureau’s investigation and 
+the HI-EMA Report indicate that HI-EMA notified the counties and the Honolulu Police Department that 
+HI-EMA had erroneously sent a ballistic missile alert. According to 911 audio recordings, within 
+approximately five minutes of the false alert 911 dispatchers informed police officers that HI-EMA was 
+working on a correction.105 Police officers used their vehicle public address system to announce the all 
+clear to the public.106 Although 911 dispatchers and police officers worked to relay to the public that 
+Hawaii was not under attack, many calls from the public to 911 for information did not get through.107 
+The State of Hawaii Enhanced 911 Board’s Executive Director indicated that on January 13, 2018, 
+between 8 a.m. (HST) and 9 a.m. (HST), local Public Safety Answering Points (PSAP) across the entire 
+state received approximately 7,755 wireline and wireless 911 calls, compared to more typical Saturday 
+morning call volume ranging between 250-350 911 calls.108 Given the surge in 911 call volume, 2,660 of 
+these calls were not answered by call takers.109 The Enhanced E-911 Board’s Executive Director added 
+103 Consumers have the right to opt out of receiving Imminent Threat Alerts and AMBER Alerts, but they are 
+required to receive alerts from the President. See 47 CFR § 10.280.
+104 In a letter provided to Bureau staff by the Hawaii SECC, AT&T noted that the ability of a mobile device to 
+receive a particular WEA message depends on many factors outside AT&T’s control. See Letter from Peter White, 
+Assistant Vice President, Global Public Policy to Richard Rapoza, Public Information Officer, HI-EMA and 
+Courtney Harrington, Chair, Hawaii SECC (Jan. 29, 2018) (summarizing meeting between AT&T, HI-EMA and 
+Hawaii SECC) attached to Email from Courtney Harrington, Chair, Hawaii SECC to Peter White, Assistant Vice 
+President, Global Public Policy, AT&T (Mar. 16, 2018) (on file with John A. Evanoff, Attorney-Advisor, Policy and 
+Licensing Division, Public Safety and Homeland Security Bureau). Such factors include (1) whether a mobile 
+device can receive WEA messages; (2) whether the mobile device falls within the radio coverage of a cell site 
+transmitting a WEA message; (3) whether a handset is being served by a 3G cell site during a voice call or data 
+session (in which case a WEA message would not be received until the voice or data session is ended); and 
+(4) whether the device remains connected to AT&T’s network (for example, mobile devices connected to WiFi only 
+with no connection to the AT&T network, would not receive a WEA message until that device re-establishes a 
+network connection to AT&T’s network). Id. at 2-3. 
+105 Matthias Gafni and Rick Hurd, Hawaii missile scare 911 audio: Police struggled to inform public alarm was 
+false, East Bay Times (Jan. 14, 2018 updated Jan. 15, 2018), https://www.eastbaytimes.com/2018/01/14/as-missilewarning-brought-chaos-police-dispatch-tried-to-relay-that-its-only-a-drill/.
+106 Id.
+107 Id. Chas Danner, The Frightening Lessons From Hawaii’s False Missile Alert, N.Y. Mag. (Jan. 15, 2018), 
+http://nymag.com/daily/intelligencer/2018/01/the-frightening-lessons-from-hawaiis-false-missile-alert.html 
+(reporting that Honolulu’s 911 system was quickly overwhelmed with 5,000 calls, only half went through). 
+108 Email from Courtney Taguba, Executive Director, Enhanced-911 Board, State of Hawaii Department of 
+Accounting and General Services, to John A. Evanoff, Attorney-Advisor, Policy and Licensing Division, Public 
+Safety & Homeland Security Bureau (Feb. 26, 2018) (referencing 911 call volume on January 13, 2018, between the 
+Hawaii false alert and alert correction). In comparison, on the mornings of Saturday, January 20 and Saturday, 
+January 27, 2018, between 8 a.m. (HST) and 10 a.m. (HST), local PSAPs received 345 and 261 911 calls, 
+respectively. Id. 
+109 Id.
+
+[[page 22]]
+22
+that while 762 wireless 911 calls were routed to a back-up PSAP system, some of those calls went 
+unanswered.110 
+2.
+Priority Telecommunications Services
+35.
+State and local officials, as well as HI-EMA, also struggled to notify the public that the 
+ballistic missile alert was erroneous. The Hawaii Preparedness Report observed that “[k]ey government 
+personnel were unable to communicate with each other on January 13, 2018[,] because wireless networks 
+were saturated.”111 Regarding HI-EMA, the Bureau’s investigation found that the surge in phone calls 
+from the public into HI-EMA’s phone lines overwhelmed the agency’s limited staff and contributed to 
+delays in answering phone calls.112 While network congestion may have precluded government officials 
+from contacting each other and the public from reaching HI-EMA through the ordinary phone lines, 
+priority communications services would have enabled government officials and HI-EMA staff to place 
+and receive calls during this event. 
+36.
+The Government Emergency Telecommunications Service (GETS)113 and the Wireless 
+Priority Service (WPS)114 programs are companion services for priority calling offered by DHS’ Office of 
+Emergency Communications (OEC). The GETS program provides authorized users priority access over 
+landline networks and the WPS program provides authorized users priority access over cellular networks, 
+thus increasing the likelihood that a call will be completed during an emergency. DHS determines 
+eligibility to use GETS/WPS. Federal, state, local, and Tribal agencies may enroll in GETS/WPS (e.g., 
+police departments, fire departments, public safety answering points or 911 call centers, emergency 
+medical service entity, essential healthcare providers or any other organization that uses 
+telecommunication services necessary for the public health, safety, and maintenance of law and order).115 
+37.
+HI-EMA stated that its employees have access to GETS/WPS. It noted, however, that no 
+HI-EMA staff member reported use of GETS/WPS during the 38-minute interval between the false alert 
+and the corrected message. The Bureau’s investigation concluded that any inability of HI-EMA staff to 
+reach headquarters was caused by the inability of HI-EMA staff to handle the surge of calls and not the 
+result of GETS/WPS non-functionality. The Bureau’s investigators did not find any evidence that 
+GETS/WPS did not work as intended for HI-EMA employees or any other emergency responder; rather it 
+seems that GETS/WPS were not used by HI-EMA. DHS, however, informed the Bureau that GETS/WPS 
+110 Id.
+111 Hawaii Preparedness Report at 17. See, e.g., Marcel Honroe, Schatz: Missile-Alert System Is Still Hawaii’s 
+Kuleana, Honolulu Civ. Beat (Jan. 17, 2018), http://www.civilbeat.org/2018/01/schatz-missile-alert-system-is-stillhawaiis-kuleana (explaining that “Mayors and governors and members of Congress were having trouble getting 
+through to each other”). 
+112 See U.S. Senate Committee on Commerce, Science & Transportation, This is Not a Drill: An Examination of 
+Emergency Alert Systems at 1:13:55 (Jan. 25, 2018), 
+https://www.commerce.senate.gov/public/index.cfm/2018/1/this-is-not-a-drill-an-examination-of-emergency-alertsystems (Senator Schatz observing that the phone lines became congested during this incident and the calls could not 
+go through to HI-EMA).
+113 The GETS program prioritizes calls over wireline networks when congested. Users receive an access card (called 
+a GETS card), which has both the universal GETS access number and a Personal Identification Number (PIN).
+114 The WPS program authorizes cellular communications service providers to prioritize calls over wireless networks 
+when congested. 
+115 See Federal Communications Commission, Government Emergency Telecommunications Service, 
+https://www.fcc.gov/general/government-emergency-telecommunications-service (last visited Mar. 28, 2018); 
+Federal Communications Commission, Wireless Priority Service, https://www.fcc.gov/general/wireless-priorityservice-wps#block-menu-block-4 (last visited Mar. 28, 2018).
+
+[[page 23]]
+23
+successfully facilitated 19 calls on January 13, 2018, though DHS did not identify the callers.116 The 
+Bureau also did not find that network congestion prevented HI-EMA staff from communicating with state 
+and local authorities to correct the false alert, or with FEMA to confirm the use of a CEM code to correct 
+the false alert. The HI-EMA Report indicates that HI-EMA staff communicated directly with the counties 
+using the Hawaii Warning System.117 
+IV.
+NEXT STEPS
+38.
+The facts and circumstances surrounding this false alert, both leading up to the alert as 
+well as after-action efforts to address confusion and misinformation, provide insights into how the alert 
+origination process may be improved going forward. Below, the Bureau highlights HI-EMA’s lessons 
+learned and corrective measures, as well as the Bureau’s recommendations to safeguard against the 
+issuance of false alerts and to mitigate their harmful effects if they do occur.
+A.
+Hawaii’s Actions to Prevent Recurrence
+39.
+HI-EMA has taken several major steps to prevent the recurrence of a similar false alert, 
+and to improve its preparedness for responding to any false alert that may occur: 
+
+First, HI-EMA policy requires that all future drills must be overseen by at least one 
+supervisor. If either the daytime shift supervisor or midnight shift supervisor had been 
+required to oversee the January 13, 2018, drill from the State Warning Point, such closer 
+oversight over the drill’s procedures could potentially have prevented miscommunications 
+and ensured superior quality control over the drill. 
+
+Second, HI-EMA instituted a two-person activation/verification rule for tests as well as for 
+actual missile launch notifications. This will provide an additional quality control to help 
+prevent mistakes. On January 13, 2018, HI-EMA only required one credentialed warning 
+officer to initiate the alert.118 
+
+Third, HI-EMA has created templates for EAS and WEA messages that officers may use to 
+correct a false alarm. This will ensure that, were such an event to occur again, the public 
+could receive notice of the correction more quickly. Prior to the January 13, 2018, false alert, 
+HI-EMA did not have protocols or training in place with respect to how to issue a correction 
+to an alert, or what to do in the event a false alert was initiated.119 
+
+Fourth, HI-EMA has requested that its alert origination software vendor integrate 
+improvements into the next iteration of its software to help safeguard against false alerts. The 
+January 13, 2018, iteration of HI-EMA’s alert origination software did not clearly 
+differentiate the test environment from the live alert environment or the test templates from 
+116 Email from Debra Jordan, Deputy Chief, Public Safety & Homeland Security Bureau, to Gregory Cooke, Deputy 
+Chief, Policy and Licensing Division, Public Safety & Homeland Security Bureau (Feb. 20, 2018) (on file with 
+Gregory Cooke) (referencing confirmation to Operations and Emergency Management Division (OEM) from 
+Department of Homeland Security (DHS) Office of Emergency Communications (OEC) Priority Services Program 
+Manager that GETS/WPS had facilitated 19 calls on January 13, 2018).
+117 The State Warning Point uses the HAWAS “to transmit and receive emergency message to and from the 
+Emergency Operations Center (EOC) and warning point for each county.” Hawaii Emergency Management 
+Agency, About Us, http://dod.hawaii.gov/hiema/contact-us/about-us/ (last visited Mar. 28, 2018). 
+118 The HI-EMA Report recommends revising the ballistic missile alert checklist to require (1) repeating all 
+directives and actions aloud and (2) using a two-person rule to verify directives and actions. HI-EMA Report at 11.
+119 The HI-EMA Report recommends (1) installing a computer process to rapidly issue alert cancellations on the 
+WEA/EAS system and (2) adding an “All Clear” selection to the alert origination software drop down menu as part 
+of the ballistic missile alert checklist. Id.
+
+[[page 24]]
+24
+the live alert templates.120 Further, while HI-EMA’s alert origination software did display a 
+message to confirm the alert originator’s intent to transmit alerts and tests (a “speedbump”), it 
+did not display that message in a way that enables the alert originator to review their message 
+while they confirm their intent to transmit it, nor did the speedbump clearly specify whether 
+the alert originator is about to send a test or a live alert. HI-EMA’s alert origination software 
+vendor intends to clearly differentiate its test environment from its live alert environment 
+(e.g., color coding and alphabetizing their templates, and adding information to its final 
+confirmation prompt (speedbump) that makes clear whether the alert about to be sent is a live 
+alert). This will make it more difficult for a warning officer to accidentally choose the wrong 
+alert message template, or to transmit a false alert.121 
+
+Fifth, HI-EMA suspended State Warning Point ballistic missile drills.122 
+
+Finally, on March 16, 2018, Hawaii appointed a new HI-EMA administrator to guide the 
+agency and enhance “public trust.”123
+B.
+Bureau Recommendations 
+40.
+After reviewing the facts that form the basis of this report, the Bureau offers 
+several recommendations below to provide guidance to state, local, Tribal and territorial emergency 
+alert originators and managers about “lessons learned” from the Bureau’s investigation. The Bureau 
+recommends that state, local, Tribal and territorial emergency management agencies and other 
+authorized state entities take the following actions: 
+
+Conduct regular internal tests in a controlled and closed environment, such as through the 
+FEMA IPAWS Test Lab, to maintain proficiency with alerting tools, to exercise plans and 
+procedures, and to identify opportunities for improvement in a manner that does not affect 
+the public.124
+
+Require more than one credentialed person to validate the message content prior to 
+transmission of a ballistic missile alert or other high-impact alerts that affect a significant 
+percentage of the population, as well as all tests. 
+
+Direct alert origination software providers to (1) separate live alerts from test environments 
+and (2) include a prompt that uses specific language to confirm whether to issue a ballistic 
+missile alert or similar alert or test message.
+
+To minimize the potential for confusion, limit employee permissions to create or modify any 
+internal drill message. In addition, refrain from using phrases such as “This is Not a Drill” 
+or “Real World” in test messages. Instead, test messages should be clearly identified as tests 
+120 See infra Appendix B.
+121 The HI-EMA Report recommends revising the confirmation message prompt to specify the action that requires 
+confirmation (i.e., “Are you sure you want to send a ‘Real World Ballistic Missile Alert’”). HI-EMA Report at 11.
+122 Id. at 9. The Hawaii Preparedness Report observed that “HI-EMA began their Ballistic Missile Preparedness 
+testing and internal drills prior to publishing an annex to the 2017 State of Hawaiʻi, Emergency Operations Base 
+Plan to addresses Chemical, Biological, Radiological, and Nuclear (CBRN) threats.” See Hawaii Preparedness 
+Report at 13. Accordingly, the Hawaii Preparedness Report recommended that HI-EMA “[s]uspend all activities 
+related to the Ballistic Missile Preparedness Campaign, with the exception of the monthly ballistic missile alert tone 
+siren testing, until the [Chemical, Biological, Radiological and Nuclear threats] Annex is published and the majority 
+of Hawaiʻi’s public know ‘what to do, where to go, and when to do it.’” Id.
+123 See Press Release, Hawaii Emergency Management Agency Announces New Administrator, (Mar. 16, 2018), 
+http://dod.hawaii.gov/hiema/hawaii-emergency-management-announces-new-administrator/.
+124 See supra note 39.
+
+[[page 25]]
+25
+and use language such as “This is a test.” The script and content for actual emergency alerts 
+versus test alerts should be clearly distinguishable. 
+
+Develop, in a manner consistent with the Commission’s rules, protocols governing tests, 
+uses, and corrections to alerts that are sent to the public over the EAS and WEA.
+
+Require supervisor approval and supervision of internal tests and proficiency training 
+exercises.
+
+Develop and memorialize standard operating procedures for responding to false alerts within 
+their jurisdictions. These standard operating procedures should specify that corrections to 
+false alerts must be issued over the same systems used to issue the false alert, including the 
+EAS and WEA, as well as other available means. They should also include procedures for 
+notifying the media about false alerts. 
+
+For public-facing alerts and tests, have a plan in advance on how to use social media as a 
+complementary means of communications, and integrate any plans to use social media into 
+standard operating procedures, so that emergency managers know in advance how to use all 
+available communications tools in a coordinated manner to improve public situational 
+awareness and understanding. 
+
+Carefully consider the use and frequency of no-notice drills and ensure appropriate 
+supervision of no-notice drills and consistency with internal test protocols. 
+
+Consult with SECCs on a regular basis—at least annually—to ensure that EAS procedures, 
+including initiation and cancellation of actual alerts and tests, are mutually understood, 
+agreed upon, and documented in the State EAS Plan. 
+
+Establish redundant and effective lines of communication with key stakeholders during 
+emergencies, including by utilizing GETS cards and WPS, so that they can rely on planned 
+workarounds in the event their phone lines become congested during emergencies. 
+41.
+The Bureau will follow up on these recommendations by engaging in additional 
+outreach and education to help state emergency management agencies, EAS Participants, wireless 
+providers, SECCs, consumers and other stakeholders better understand the current and expected 
+capabilities of EAS and WEA. In this regard, the Bureau plans to partner with FEMA in conducting a 
+joint webinar to help ensure stakeholders have the information they need to take full advantage of these 
+valuable public safety tools. The Bureau will also convene a roundtable with state emergency managers, 
+consumer groups, communications service providers, and other stakeholders to discuss the lessons that 
+should be learned from this incident.
+
+[[page 26]]
+26
+APPENDIX A
+ILLUSTRATION OF FALSE ALERT AND CORRECTION ON EAS AND WEA
+
+[[page 27]]
+27
+APPENDIX B
+ILLUSTATION OF HI-EMA’S UPDATED ALERT ORIGINATION SOFTWARE
+DROP-DOWN TEMPLATE MENU
+
+[[page 28]]
+28
+APPENDIX C
+ILLUSTRATION OF CORRECTIONS ON SOCIAL MEDIA

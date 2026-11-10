@@ -1,0 +1,68 @@
+# Step 1.13 - Shared vocabulary of actions.
+# The same list is used by the mandate table, the scenarios (tests_action) and the gap rules.
+# Each action names the gap(s) that its absence or ambiguity reveals.
+
+issue_weather_warning:
+  fr: émettre un avertissement météorologique ou hydrologique
+  question: Qui émet l'avertissement officiel ?
+  gaps: [G2]
+issue_public_alert:
+  fr: décider d'alerter la population
+  question: Qui décide d'alerter le public, sur quelle base ?
+  gaps: [G2]
+order_operator_broadcast:
+  fr: ordonner aux opérateurs de diffuser une alerte
+  question: Qui peut obliger les opérateurs à diffuser ?
+  gaps: [G1]
+relay_alert:
+  fr: obligation de l'opérateur de relayer l'alerte (délai, gratuité)
+  question: L'opérateur doit-il relayer, dans quel délai, à quel coût ?
+  gaps: [G1]
+validate_ai_output:
+  fr: valider une sortie d'IA (prévision, message) avant diffusion
+  question: Qui vérifie un message produit par une IA avant envoi ?
+  gaps: [G3, G8]
+correct_false_alert:
+  fr: rectifier une fausse alerte
+  question: Qui rectifie, en combien de temps ?
+  gaps: [G9, G6]
+block_spoofed_alert:
+  fr: bloquer un faux message d'alerte
+  question: Qui peut bloquer un faux message sur les réseaux ?
+  gaps: [G9]
+investigate_cyber_incident:
+  fr: enquêter sur une fraude ou une usurpation
+  question: Qui enquête et sanctionne ?
+  gaps: [G9]
+public_communication:
+  fr: informer la presse et le public
+  question: Qui parle au public pendant et après la crise ?
+  gaps: [G2, G6]
+alert_language_coverage:
+  fr: langues et couverture de l'alerte
+  question: Dans quelles langues, sur quelle couverture ?
+  gaps: [G7]
+coordinate_response:
+  fr: coordonner les institutions
+  question: Qui coordonne la réponse ?
+  gaps: [G2]
+liability_for_harm:
+  fr: responsabilité en cas de dommage (fausse alerte, alerte manquée)
+  question: Qui répond des dommages ?
+  gaps: [G6]
+declare_emergency:
+  fr: déclarer l'état d'urgence / de catastrophe
+  question: Qui déclare l'urgence et quels pouvoirs cela donne ?
+  gaps: [G2]
+requisition_networks:
+  fr: réquisitionner les réseaux ou moyens de télécommunication
+  question: L'État peut-il réquisitionner les réseaux en crise ?
+  gaps: [G1]
+use_crisis_personal_data:
+  fr: utiliser des données de localisation ou de santé en crise (extension, acte 3)
+  question: Sur quelle base légale, avec quelles limites ?
+  gaps: [G5]
+transfer_data_abroad:
+  fr: transférer des données à l'étranger (extension, acte 3)
+  question: Quelle autorisation, en combien de temps en urgence ?
+  gaps: [G4, G10]

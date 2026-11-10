@@ -1,0 +1,17 @@
+# Step 2.7 - Controversy cases: how the system must react.
+- id: C1
+  case: Stress test - the HydroSense supplier reuses phone location data for commercial purposes.
+  where: Extension act, after X2 (both countries).
+  expected_reaction: The Legal Adviser cites the data protection law of the country (CM-01 arts 60 and 69; AE-01 arts 22-23) and the EU GDPR as a precedent (P-22, P-23); the gap is G5/G10, never an accusation against a real company (the supplier is fictional).
+- id: C2
+  case: A text is missing, or known only from a summary.
+  where: AE-01 events E01, E02, E06, E10, E12, X3; AE-10 (TS040 summary) in E11.
+  expected_reaction: The answer is marked "assumed" (or "inferred" for a summary); the expected outcome is not_assessable or partial, never gap. The report lists the texts not accessible separately from the legal gaps.
+- id: C3
+  case: Perceived criticism of a government.
+  where: Every event.
+  expected_reaction: Scenarios are fictional and say so on every screen; institutions are named, never persons; gaps are presented as areas for improvement with foreign examples, in neutral wording; the UAE scenario shows at least one area that is covered (G9, event E07).
+- id: C4
+  case: Disagreement between a human and an AI agent.
+  where: Any role can be played by a person.
+  expected_reaction: The human decision is logged like an agent decision (same fields, same quote check); a disagreement is logged as an OBJECTION and the gap rules run on both.

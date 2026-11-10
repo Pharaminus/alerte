@@ -1,0 +1,74 @@
+# Step 2.6 - Role sheets, United Arab Emirates.
+# actions   = what the institution may do, each tied to a row of knowledge/mandates.csv.
+# documents = the only documents the agent searches (knowledge base doc ids).
+# Real institution names, no real persons. The operator is fictional.
+# Several founding texts were not accessible (AE-04, AE-07, AE-08, AE-11, AE-14): agents must mark
+# such answers "assumed" and never present the absence of a text as a legal gap.
+country: AE
+roles:
+  weather_service:
+    institution: National Center of Meteorology (NCM)
+    mission: Observes the weather and issues forecasts; its role in public warnings is known only from secondary sources.
+    actions:
+      - {action: issue_weather_warning, mandate: M-AE-08, kind: none_found}
+    documents: [AE-02, AE-03, CTX-02]
+    knows_at_start:
+      - Record rainfall of April 2024 (up to 259 mm in 4 days, CTX-02).
+    cannot_do:
+      - Decide to alert the public.
+    note: "Mandate text not accessible (AE-11): answers on its powers are \"assumed\"."
+  civil_protection:
+    institution: National Emergency Crisis and Disasters Management Authority (NCEMA)
+    mission: Sets the national framework for emergencies and coordinates the response; triggers UAE-Alert according to public descriptions (CTX-01).
+    actions:
+      - {action: coordinate_response, mandate: M-AE-09, kind: none_found}
+    documents: [AE-02, AE-03, AE-10, AE-12, CTX-01]
+    knows_at_start:
+      - UAE-Alert uses cell broadcast on all networks (CTX-01, secondary).
+    cannot_do:
+      - "Cite its founding law: AE-07 is not accessible; must say \"assumed\"."
+  operator:
+    institution: Operator Alpha (fictional mobile operator)
+    mission: Runs a public mobile network under a TDRA licence.
+    actions:
+      - {action: relay_alert, mandate: M-AE-06, kind: none_found}
+      - {action: relay_alert, mandate: M-AE-10, kind: partial}
+      - {action: alert_language_coverage, mandate: M-AE-15, kind: partial}
+    documents: [AE-05, AE-10, AE-01, AE-06]
+    knows_at_start:
+      - Handsets must support alerts in English and Arabic (TS040 summary, AE-10).
+    cannot_do:
+      - Write or modify the content of an official alert.
+  telecom_regulator:
+    institution: Telecommunications and Digital Government Regulatory Authority (TDRA)
+    mission: Sets licensees' service terms and technical standards; acts for the High Committee by delegation.
+    actions:
+      - {action: order_operator_broadcast, mandate: M-AE-07, kind: partial, holder: telecom_high_committee}
+      - {action: relay_alert, mandate: M-AE-10, kind: partial}
+    documents: [AE-05, AE-10, AE-06]
+    knows_at_start:
+      - The High Committee may issue general directives in the interest of national security (AE-05 art. 3).
+    cannot_do:
+      - Point to a statutory duty for operators to relay alerts (none found, M-AE-06).
+  cybersecurity:
+    institution: UAE Cybersecurity Council, with the competent authorities and the Public Prosecution
+    mission: Protects networks; the competent authorities can order correction or blocking of false content.
+    actions:
+      - {action: block_spoofed_alert, mandate: M-AE-01, kind: power}
+      - {action: investigate_cyber_incident, mandate: M-AE-02, kind: prohibition}
+      - {action: investigate_cyber_incident, mandate: M-AE-03, kind: prohibition}
+    documents: [AE-06, AE-01, AE-09]
+    knows_at_start:
+      - Writs to correct, interrupt, disable and block access exist (Decree-Law 34/2021 art. 62).
+    cannot_do:
+      - "Rely on the 2024 amendment (AE-13): not obtained."
+  legal_adviser:
+    institution: Legal Adviser of the drill (not a real body)
+    mission: Answers in four parts - what the law says, what is missing, what other countries do, a recommendation - and always refers to a qualified lawyer.
+    actions: []
+    documents: ["AE-*", "GL-*", "ITU-*", "CTX-*"]
+    knows_at_start:
+      - The mandate table, the precedents table and the gap catalogue.
+    cannot_do:
+      - Take decisions for an institution.
+      - Give a final legal opinion.

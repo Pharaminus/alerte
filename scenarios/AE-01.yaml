@@ -1,0 +1,206 @@
+# Step 2.3 - Scenario AE-01, United Arab Emirates. FICTIONAL EXERCISE.
+# Same structure as CM-01: only places, institutions and laws change, so the two countries can be compared.
+# Where a founding text is not accessible, the expected outcome is not_assessable (never a legal gap).
+id: AE-01
+country: AE
+title: False alert in Dubai, missed flash flood in the Hatta mountain wadis
+fictional: true
+banner: FICTIONAL EXERCISE - none of these events happened; real institutions, no real persons.
+reviewed_by: pending   # step 2.8 - a team member who did not write it must review it
+acts:
+  1: False alert in a large city (Dubai)
+  2: Missed flood in a remote area (Hatta mountain wadis)
+  3: Health extension (optional)
+
+events:
+  - id: E01
+    act: 1
+    t: "D1 06:00"
+    source: weather_stations
+    to: [weather_service]
+    content: Heavy, continuous rain over Dubai for 3 hours; radar shows a stationary convective system over the coast.
+    tests_action: issue_weather_warning
+    expected:
+      - {gap: G2, outcome: not_assessable, law_refs: [M-AE-08], precedents: [P-05, P-06]}
+    good_behaviour: Shares the data with NCEMA and says that its warning mandate could not be checked (text not accessible), marking the answer "assumed".
+    inspired_by: CTX-02
+
+  - id: E02
+    act: 1
+    t: "D1 06:30"
+    source: hydrosense
+    to: [weather_service, civil_protection]
+    content: HydroSense forecasts flooding in low-lying districts of Dubai within 6 hours, probability 70 %.
+    hydrosense: {probability: 0.70, horizon_h: 6, area: Dubai low-lying districts, sensors_active: 7, data_age_min: 10, validity_met: true}
+    tests_action: issue_public_alert
+    expected:
+      - {gap: G2, outcome: not_assessable, law_refs: [M-AE-09], precedents: [P-05, P-07]}
+      - {gap: G3, action: validate_ai_output, outcome: gap, law_refs: [M-AE-04], precedents: [P-08, P-10]}
+    good_behaviour: Asks who validates a probabilistic forecast before an alert; notes that the AI Charter (human oversight) is not binding.
+    inspired_by: AE-03
+
+  - id: E03
+    act: 1
+    t: "D1 07:00"
+    source: emirate_crisis_team
+    to: [civil_protection, operator, telecom_regulator, legal_adviser]
+    content: The emirate's crisis team asks for an alert to every phone in Dubai within the hour; TDRA is copied.
+    tests_action: order_operator_broadcast
+    expected:
+      - {gap: G1, outcome: gap, confidence: low, law_refs: [M-AE-06, M-AE-07, M-AE-10], precedents: [P-01, P-02, P-04], note: NCEMA founding law not accessible; it may hold the power.}
+    good_behaviour: The operator asks for the legal basis; TDRA points to general directives on national-security grounds (art. 3(3)) and to licence terms (art. 14(3)), not to a statutory duty.
+    inspired_by: CTX-01
+
+  - id: E04
+    act: 1
+    t: "D1 07:30"
+    source: hydrosense
+    to: [operator, civil_protection]
+    content: "Alert text drafted automatically by HydroSense in English and Arabic, unsigned: 'Imminent flooding, leave low-lying areas.'"
+    tests_action: validate_ai_output
+    expected:
+      - {gap: G3, outcome: gap, law_refs: [M-AE-04], precedents: [P-08, P-09, P-10]}
+    good_behaviour: Refuses to send a text that no authority has validated, or sends it while flagging that no validation rule exists.
+    inspired_by: GL-06
+
+  - id: E05
+    act: 1
+    t: "D1 13:30"
+    source: field_teams
+    to: [civil_protection]
+    content: No flood. During spontaneous evacuation, a crush at a metro station injured several people.
+    tests_action: liability_for_harm
+    expected:
+      - {gap: G6, outcome: gap, law_refs: [M-AE-05], precedents: [P-16, P-17]}
+    good_behaviour: Organises assistance, then flags that no text found says who answers for harm caused by a false alert.
+    inspired_by: fictional
+
+  - id: E06
+    act: 1
+    t: "D1 14:30"
+    source: press
+    to: [civil_protection, weather_service]
+    content: Journalists ask who decided the alert, whether an AI was used and who is responsible for the injuries.
+    tests_action: public_communication
+    expected:
+      - {gap: G2, outcome: not_assessable, law_refs: [M-AE-09], precedents: [P-07]}
+      - {gap: G6, action: liability_for_harm, outcome: gap, law_refs: [M-AE-05], precedents: [P-16]}
+    good_behaviour: Stays factual on the use of AI; says which texts it could not check.
+    inspired_by: fictional
+
+  - id: E07
+    act: 1
+    t: "D1 16:00"
+    source: social_media
+    to: [operator, cybersecurity, telecom_regulator, legal_adviser]
+    content: "A fake SMS with a spoofed sender 'NCEMA-ALERT' is circulating: 'Dam broken, evacuate immediately.'"
+    tests_action: block_spoofed_alert
+    expected:
+      - {gap: G9, outcome: covered, law_refs: [M-AE-01, M-AE-02, M-AE-03], precedents: [P-11, P-12]}
+    good_behaviour: The competent authorities can order the content blocked and corrected (Decree-Law 34/2021 art. 62); impersonation and false news are offences (art. 11, 52).
+    inspired_by: fictional
+
+  - id: E08
+    act: 1
+    t: "D1 17:00"
+    source: emirate_crisis_team
+    to: [civil_protection, operator]
+    content: The morning alert and the fake SMS must both be corrected. Who sends the correction, through which channel, how fast?
+    tests_action: correct_false_alert
+    expected:
+      - {gap: G9, outcome: partial, law_refs: [M-AE-01, M-AE-11], precedents: [P-11, P-12]}
+      - {gap: G6, outcome: gap, law_refs: [M-AE-05], precedents: [P-16]}
+    good_behaviour: Distinguishes correcting the fake SMS (art. 62 writs) from correcting an official alert that proved wrong, for which no rule or delay was found.
+    inspired_by: GL-06
+
+  - id: E09
+    act: 2
+    t: "D4 02:00"
+    source: hydrosense
+    to: [weather_service, civil_protection]
+    content: HydroSense forecasts a low flood risk in the Hatta wadis, probability 15 %. Only 3 of 7 sensors are active; last data are 4 hours old.
+    hydrosense: {probability: 0.15, horizon_h: 12, area: Hatta wadis, sensors_active: 3, data_age_min: 240, validity_met: false}
+    tests_action: validate_ai_output
+    expected:
+      - {gap: G8, outcome: gap, law_refs: [M-AE-04], precedents: [P-19, P-20, P-21]}
+    good_behaviour: Notices that the validity condition (5 of 7 sensors, data under 30 minutes) is not met and does not rely on the "low risk" output.
+    inspired_by: CTX-02
+
+  - id: E10
+    act: 2
+    t: "D4 03:30"
+    source: local_official
+    to: [civil_protection]
+    contradicts: E09
+    content: A municipal inspector in Hatta reports that a wadi is flowing fast towards a residential area and a road is already cut.
+    tests_action: issue_public_alert
+    expected:
+      - {gap: G2, outcome: not_assessable, law_refs: [M-AE-09], precedents: [P-05, P-06]}
+    good_behaviour: Treats the field report as contradicting HydroSense and escalates it.
+    inspired_by: CTX-02
+
+  - id: E11
+    act: 2
+    t: "D4 07:00"
+    source: emirate_crisis_team
+    to: [operator, telecom_regulator, civil_protection]
+    content: The alert finally goes out at 07:00, in Arabic and English. A workers' accommodation in the valley mostly speaks Urdu, Hindi and Bengali; part of the valley has no coverage.
+    tests_action: alert_language_coverage
+    expected:
+      - {gap: G7, outcome: partial, law_refs: [M-AE-15], precedents: [P-13, P-14, P-15]}
+      - {gap: G1, action: relay_alert, outcome: gap, confidence: low, law_refs: [M-AE-06], precedents: [P-01, P-04]}
+    good_behaviour: Notes that English and Arabic are required by a technical specification (summary only), that no rule covers other languages or coverage, and that no delivery deadline was found.
+    inspired_by: AE-10
+
+  - id: E12
+    act: 2
+    t: "D6 10:00"
+    source: parliament
+    to: [weather_service, civil_protection, operator, telecom_regulator, cybersecurity, legal_adviser]
+    content: Families are displaced. A committee of the Federal National Council asks who was responsible for each failure in both acts.
+    tests_action: liability_for_harm
+    expected:
+      - {gap: G6, outcome: gap, law_refs: [M-AE-05], precedents: [P-16, P-17]}
+      - {gap: G2, action: coordinate_response, outcome: not_assessable, law_refs: [M-AE-09], precedents: [P-06, P-07]}
+    good_behaviour: Each institution answers within its mandate; the Legal Adviser separates real gaps from texts that were not accessible.
+    inspired_by: fictional
+
+  # --- Health extension (optional): G4, G5, G10 ---
+  - id: X1
+    act: 3
+    optional: true
+    t: "D7 09:00"
+    source: health_ministry
+    to: [operator, civil_protection, legal_adviser]
+    content: The health authority asks for phone location data in shelters to prevent water-borne disease.
+    tests_action: use_crisis_personal_data
+    expected:
+      - {gap: G5, outcome: partial, law_refs: [M-AE-12, M-AE-13], precedents: [P-22, P-24]}
+    good_behaviour: Notes that the PDPL does not apply to government entities (art. 2(2)) and that no specific crisis framework was found.
+    inspired_by: fictional
+
+  - id: X2
+    act: 3
+    optional: true
+    t: "D7 11:00"
+    source: hydrosense_supplier
+    to: [operator, legal_adviser]
+    content: The HydroSense supplier offers to process these data on its servers abroad to go faster.
+    tests_action: transfer_data_abroad
+    expected:
+      - {gap: G10, outcome: gap, law_refs: [M-AE-14], precedents: [P-23, P-25]}
+    good_behaviour: Lists the cases in which transfer is allowed (PDPL art. 23) and flags that no emergency procedure exists.
+    inspired_by: fictional
+
+  - id: X3
+    act: 3
+    optional: true
+    t: "D7 15:00"
+    source: civil_protection
+    to: [civil_protection]
+    content: NCEMA asks for the official hazard map of the Hatta area; the responsible body cannot be identified from accessible texts.
+    tests_action: issue_public_alert
+    expected:
+      - {gap: G4, outcome: not_assessable, law_refs: [M-AE-09], precedents: []}
+    good_behaviour: Says the question cannot be answered from accessible texts and marks it "assumed".
+    inspired_by: fictional

@@ -1,0 +1,153 @@
+[[page 1]]
+Our Mission
+A Global Opportunity
+The International Telecommunication
+Union (ITU) equips countries with the
+skills, technologies and systems
+needed to ensure that early warnings
+reach everyone — instantly, reliably,
+and accessibly — through cell
+broadcast, multi-channel systems, 
+Al-powered tools and more.
+95% of the global population 
+is covered by mobile 
+networks.
+4 in 5 people own a mobile 
+phone.
+... yet, around 140 countries 
+have no inclusive mobile 
+early warning system.
+Our Expected Outcomes
+Alerts reach people at risk, in time for
+them to take life-saving action.
+Inclusive early warning systems that
+leave no one behind.
+Legal and technical readiness for
+nationwide, multi-channel alerting.
+Q3 2025
+Early Warnings for All
+Pillar 3: Warning Dissemination and Communication
+
+[[page 2]]
+Cell Broadcast (CB)
+No app. No subscription. Just
+a life-saving message on every
+screen. Only 45 countries
+currently deploy CB. ITU is
+helping others be CB-ready.
+Common Alerting 
+Protocol (CAP)
+A standardized, XML-based
+format for emergency alerts,
+CAP ensures consistent alerting
+across all channels — radio, TV,
+mobile, social media and more.
+Community Ownership
+Empowering communities is key to eﬀective early warning systems. With
+IFRC, ITU advances inclusive, people-centred alerts that are clear, trusted
+and actionable, prioritizing those most at risk.
+Satellite Communication
+ITU works with partners to 
+scale up direct‑to‑device 
+satellite technologies to 
+countries, enabling mobile 
+alerts to reach people in 
+remote and underserved 
+areas.
+AI-Powered Tools
+The Early Warning Connectivity
+Map — a collaboration between
+ITU, Microsoft, Planet Labs and
+IHME — uses AI and satellite
+imagery to identify 
+unconnected populations.
+Countries
+supported
+under
+EW4All
+CB feasibility
+assessments
+conducted
+Countries
+provided
+with CAP
+support
+National EWS
+Roadmaps
+covering
+communication
+& dissemination
+ITU is turning 
+mobile networks into lifelines
+Our Tools
+30
+17
+11
+...and
+counting
+...and
+counting
+10
+Our Work in Progress
+
+[[page 3]]
+You can help governments 
+develop emergency telecom 
+plans, deploy CB systems, and 
+strengthen institutional capacity 
+by:
+Fuel transformative impact by
+funding ITU’s work to build 
+inclusive, technology-driven 
+public warning systems.
+In Haiti, ITU led a simulation
+of location-based short
+messaging service (SMS)
+with the Government and
+mobile network operators.
+Haitian authorities have
+since sent over 100,000
+preventive flood alerts via
+SMS, showcasing the
+system’s life-saving potential
+in a fragile context. Scan the
+QR code to read the full
+impact story.
+ITU is supporting Mauritius to 
+become the first country in 
+Africa to implement CB 
+technology, setting a regional 
+benchmark for advanced early 
+warning systems.
+Through EW4All, ITU is
+helping Somalia build its
+alerting system with the
+National Communications
+Authority and other 
+partners. Key reforms, CAP 
+setup, and a national plan 
+are underway, laying the 
+foundations for 
+mobile-based early 
+warnings.
+Our Impact
+Haiti
+Mauritius
+Somalia
+Partner with us to 
+make early warnings
+accessible to all
+Financing the 
+mission
+Scale up cutting-edge solutions 
+by partnering with ITU and 
+joining our Technical Expert 
+Group on Mobile Early Warning 
+Systems.
+Reach us at:
+ew4all@itu.int
+Visit our website:
+www.itu.int/go/EW4All-Pillar3
+Sharing your
+technology and
+expertise
